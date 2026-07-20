@@ -1,0 +1,374 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Grant Timeline — Full Schedule</title>
+<style>
+  body {
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+    background: #111;
+    color: #e0e0e0;
+    max-width: 1100px;
+    margin: 40px auto;
+    padding: 0 20px;
+  }
+  h1 { font-size: 24px; font-weight: 600; margin-bottom: 4px; }
+  .subtitle { color: #888; font-size: 14px; margin-bottom: 32px; }
+  table { width: 100%; border-collapse: collapse; font-size: 13px; }
+  th {
+    text-align: left;
+    padding: 10px 8px;
+    font-weight: 600;
+    color: #999;
+    font-size: 11px;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+    border-bottom: 1px solid #2a2a2a;
+  }
+  td { padding: 10px 8px; border-bottom: 1px solid #1e1e1e; vertical-align: top; }
+  .when-col { width: 110px; font-weight: 600; font-size: 12px; }
+  .name { font-weight: 500; }
+  .amount { font-variant-numeric: tabular-nums; white-space: nowrap; }
+  .match { font-weight: 600; white-space: nowrap; }
+  .match-0 { color: #4ade80; }
+  .match-10 { color: #a3e635; }
+  .match-30 { color: #facc15; }
+  .match-50 { color: #fb923c; }
+  .match-na { color: #888; }
+  .window { font-size: 12px; color: #aaa; }
+  .tag {
+    display: inline-block;
+    font-size: 10px;
+    padding: 2px 7px;
+    border-radius: 4px;
+    font-weight: 500;
+  }
+  .tag-prep { background: #2a2a2a; color: #ccc; }
+  .tag-reg { background: #166534; color: #86efac; }
+  .tag-after { background: #1e3a5f; color: #93c5fd; }
+  .tag-annual { background: #5b1e3a; color: #f9a8d4; }
+  .tag-dd { background: #3a2a0a; color: #fde68a; }
+  .tag-g2g { background: #0a3a3a; color: #67e8f9; }
+  .section-divider { background: #1a1a1a; }
+  .section-divider td { padding: 14px 8px 6px; border-bottom: none; font-weight: 600; font-size: 12px; color: #888; }
+  .note {
+    font-size: 13px;
+    color: #888;
+    margin-top: 24px;
+    line-height: 1.6;
+  }
+  .interest { font-size: 12px; color: #aaa; }
+  .cost-box {
+    background: #1a1a1a;
+    border: 1px solid #2a2a2a;
+    border-radius: 8px;
+    padding: 16px 20px;
+    margin-bottom: 24px;
+    font-size: 14px;
+  }
+  .cost-box h2 {
+    font-size: 14px;
+    font-weight: 600;
+    margin: 0 0 8px 0;
+    color: #ccc;
+  }
+  .cost-grid {
+    display: flex;
+    gap: 32px;
+    flex-wrap: wrap;
+  }
+  .cost-col {
+    flex: 1;
+    min-width: 200px;
+  }
+  .cost-col h3 {
+    font-size: 12px;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+    color: #666;
+    margin: 0 0 8px 0;
+  }
+  .cost-row {
+    display: flex;
+    justify-content: space-between;
+    padding: 4px 0;
+    font-size: 13px;
+    border-bottom: 1px solid #1e1e1e;
+  }
+  .cost-row:last-child { border-bottom: none; }
+  .cost-total {
+    display: flex;
+    justify-content: space-between;
+    padding: 6px 0;
+    font-weight: 600;
+    color: #4ade80;
+    border-top: 1px solid #333;
+    margin-top: 4px;
+  }
+</style>
+</head>
+<body>
+
+<h1>Grant Timeline</h1>
+<p class="subtitle">Ordered by when you act. Match% = how much you pay, gov reimburses the rest. Loan = you repay with interest.</p>
+
+<div class="cost-box">
+  <h2>Company Registration Costs — Limited Company (有限公司)</h2>
+  <div class="cost-grid">
+    <div class="cost-col">
+      <h3>One-Time</h3>
+      <div class="cost-row"><span>Name reservation</span><span>NT$300</span></div>
+      <div class="cost-row"><span>Registration fee (capital under NT$1M)</span><span>NT$1,000</span></div>
+      <div class="cost-row"><span>Certificate copy</span><span>NT$200-500</span></div>
+      <div class="cost-row"><span>CPA capital verification</span><span>NT$2,000-4,000</span></div>
+      <div class="cost-row"><span>Company seals (2-3 stamps)</span><span>NT$500-1,500</span></div>
+      <div class="cost-row"><span>Registered capital deposit</span><span>NT$300,000-500,000*</span></div>
+      <div class="cost-total"><span>Setup total (excl. capital)</span><span>~NT$4,000-7,300</span></div>
+    </div>
+    <div class="cost-col">
+      <h3>Monthly</h3>
+      <div class="cost-row"><span>Virtual business address</span><span>NT$1,000-2,000</span></div>
+      <div class="cost-row"><span>Bookkeeping</span><span>NT$0 (self-manage)</span></div>
+      <div class="cost-row"><span>Other misc</span><span>~NT$1,000</span></div>
+      <div class="cost-total"><span>Monthly total</span><span>~NT$2,000-3,000</span></div>
+    </div>
+  </div>
+  <p style="font-size: 12px; color: #666; margin: 8px 0 0 0;">* Capital is deposited into your business account — it's your money, not a fee. You can use it for business operations.</p>
+</div>
+
+<table>
+  <tr>
+    <th>When</th>
+    <th>Program</th>
+    <th>Amount</th>
+    <th>Match/ Cost</th>
+    <th>Application Window</th>
+    <th>Strategy / Angle</th>
+    <th>Business</th>
+    <th>Notes</th>
+  </tr>
+
+  <!-- BEFORE REGISTRATION -->
+  <tr class="section-divider"><td colspan="8">⬤ BEFORE REGISTRATION (Now → Dec 2026)</td></tr>
+  <tr>
+    <td class="when-col"><span class="tag tag-prep">Now → Dec 2026</span></td>
+    <td class="name"><strong>20-Hour Entrepreneurship Training</strong></td>
+    <td class="amount">—</td>
+    <td class="match match-0">Free</td>
+    <td class="window">Complete before applying</td>
+    <td>Certificate</td>
+    <td>All</td>
+    <td>Online at smelearning.org.tw. Required for Youth Loan + KHH Competitive. Valid 3 years. KHH General only needs ~10hrs.</td>
+  </tr>
+  <tr>
+    <td class="when-col"><span class="tag tag-reg">Dec 2026</span></td>
+    <td class="name"><strong>Register Limited Company</strong></td>
+    <td class="amount">NT$300-500K</td>
+    <td class="match match-0">Your capital</td>
+    <td class="window">Before end of Dec 2026</td>
+    <td>Capital deposit</td>
+    <td>All</td>
+    <td>Deposit into CTBC business account. Unlocks all entity-required programs. Can self-register or use agent (~NT$4-7K).</td>
+  </tr>
+
+  <!-- ROLLING -->
+  <tr class="section-divider"><td colspan="8">⬤ AT REGISTRATION — Rolling (apply anytime)</td></tr>
+  <tr>
+    <td class="when-col"><span class="tag tag-reg">At registration</span></td>
+    <td class="name"><strong>Youth Entrepreneurship Loan</strong></td>
+    <td class="amount">NT$1.5M</td>
+    <td class="match match-na">Repay + interest</td>
+    <td class="window"><strong>Rolling</strong> — no deadline</td>
+    <td>Any business expense</td>
+    <td>All</td>
+    <td class="interest">Loan. Interest: ~2.5-3%. Under NT$1.5M = no guarantor. Working capital to fund grant match. <a href="https://www.sme.gov.tw/article-en-2614-10804" target="_blank">sme.gov.tw</a></td>
+  </tr>
+  <tr>
+    <td class="when-col"><span class="tag tag-reg">At registration</span></td>
+    <td class="name"><strong>雄挺利 — Loan Interest Subsidy</strong></td>
+    <td class="amount">Up to NT$200K</td>
+    <td class="match match-0">Covers interest</td>
+    <td class="window"><strong>After loan approval</strong></td>
+    <td>Interest only</td>
+    <td>All</td>
+    <td>Kaohsiung-specific. Apply through 兆豐銀行 or 高雄銀行 after Youth Loan. First-come, 2 rounds/yr. <a href="https://www.bo6s.com.tw/news_detail.php?NewsID=113210" target="_blank">Info</a></td>
+  </tr>
+  <tr>
+    <td class="when-col"><span class="tag tag-reg">At registration</span></td>
+    <td class="name"><strong>MOEA SBIR Phase 1</strong></td>
+    <td class="amount">NT$1.5M</td>
+    <td class="match match-50">50% match</td>
+    <td class="window"><strong>Rolling</strong> — no deadline</td>
+    <td>R&D costs: personnel, equipment, materials, outsourcing, travel</td>
+    <td>annnä</td>
+    <td>~43% approval. R&D plan. You spend NT$1.5M, gov reimburses NT$750K after 6mo. <a href="https://sbir.org.tw/" target="_blank">sbir.org.tw</a> | Tel: 0800-888-968</td>
+  </tr>
+  <tr>
+    <td class="when-col"><span class="tag tag-apply">Upon SBIR approval</span></td>
+    <td class="name"><strong>Purchase Mac Studio — 96+ GB RAM</strong></td>
+    <td class="amount">NT$292,500 (~$9K USD)</td>
+    <td class="match match-50">50% reimbursable</td>
+    <td class="window">After SBIR Phase 1 signed</td>
+    <td>Blocked on SBIR — equipment</td>
+    <td>annnä</td>
+    <td>Include in SBIR project budget. 50% reimbursed (~NT$146K back).</td>
+  </tr>
+
+  <!-- ANNUAL WINDOWS -->
+  <tr class="section-divider"><td colspan="8">⬤ ANNUAL WINDOWS — Apply on schedule</td></tr>
+  <tr>
+    <td class="when-col"><span class="tag tag-annual">~Mar 2027</span></td>
+    <td class="name"><strong>Kaohsiung Youth General</strong></td>
+    <td class="amount">NT$80K</td>
+    <td class="match match-0">0% — upfront</td>
+    <td class="window"><strong>~Mar 18-31</strong> (annually)</td>
+    <td>Any business expense: rent, equipment, marketing, travel</td>
+    <td>All</td>
+    <td>Online. Company &lt;3yr. ~10hr training. Upfront cash, no repayment. <a href="https://youth.kcg.gov.tw/Resource_Content.aspx?n=38&s=12555&sms=10161" target="_blank">youth.kcg.gov.tw</a> | Tel: 07-799-5678</td>
+  </tr>
+  <tr>
+    <td class="when-col"><span class="tag tag-annual">~Mid 2027</span></td>
+    <td class="name"><strong>AI Innovation Service</strong></td>
+    <td class="amount">NT$5-20M</td>
+    <td class="match match-50">50% match</td>
+    <td class="window">~Jun-Jul (short 3wk window)</td>
+    <td>AI R&D costs</td>
+    <td>annnä</td>
+    <td>MODA/DIGITAL+. annnä fits AI/SaaS. Needs 工商憑證. <a href="https://digiplus.adi.gov.tw/" target="_blank">digiplus.adi.gov.tw</a></td>
+  </tr>
+  <tr>
+    <td class="when-col"><span class="tag tag-annual">~Mid 2027</span></td>
+    <td class="name"><strong>DIGITAL+ Innovation</strong></td>
+    <td class="amount">Varies by call</td>
+    <td class="match match-50">50% match</td>
+    <td class="window">Multiple calls/yr, monitor</td>
+    <td>Digital transformation costs</td>
+    <td>annnä</td>
+    <td>Themed calls. AI/SaaS/digital transformation topics. <a href="https://digiplus.adi.gov.tw/" target="_blank">digiplus.adi.gov.tw</a></td>
+  </tr>
+  <tr>
+    <td class="when-col"><span class="tag tag-annual">~Oct-Dec 2027</span></td>
+    <td class="name"><strong>Cross-Domain R&D</strong></td>
+    <td class="amount">NT$7M</td>
+    <td class="match match-50">50% match</td>
+    <td class="window">Announced ~Oct, deadline ~Dec 9</td>
+    <td>R&D costs (consortium)</td>
+    <td>annnä</td>
+    <td>Needs consortium partner (2+ SMEs). <a href="https://sbir.org.tw/cross/notice" target="_blank">sbir.org.tw/cross</a></td>
+  </tr>
+  <tr>
+    <td class="when-col"><span class="tag tag-annual">~Feb 2028</span></td>
+    <td class="name"><strong>CITD</strong></td>
+    <td class="amount">NT$2M</td>
+    <td class="match match-50">50% match</td>
+    <td class="window">Opens ~Nov, closes ~Feb</td>
+    <td>Digital transformation / traditional industry tech</td>
+    <td>annnä</td>
+    <td>Digital transformation for traditional industries. <a href="https://keid.nat.gov.tw/citdweb/Web/CITD_index.aspx" target="_blank">CITD portal</a></td>
+  </tr>
+  <tr>
+    <td class="when-col"><span class="tag tag-annual">~Apr 2028</span></td>
+    <td class="name"><strong>Kaohsiung Youth Competitive</strong></td>
+    <td class="amount">NT$500K</td>
+    <td class="match match-30">30% match</td>
+    <td class="window"><strong>~Apr 1-30</strong> (annually)</td>
+    <td>70% subsidy: equipment, marketing, operations</td>
+    <td>All</td>
+    <td>Needs 1yr company age. Capital NT$1-10M. In-person. Tel: 07-799-5678 ext 2361</td>
+  </tr>
+
+  <!-- DIVE DISPATCH -->
+  <tr class="section-divider"><td colspan="8">⬤ BLOCKED — WAITING FOR DIVE DISPATCH</td></tr>
+  <tr>
+    <td class="when-col"><span class="tag tag-dd">When DD ships</span></td>
+    <td class="name"><strong>Tourism Admin Digital</strong></td>
+    <td class="amount">NT$100K</td>
+    <td class="match match-10">10% match</td>
+    <td class="window">Through Dec 2027 (annual)</td>
+    <td>E-commerce systems (90% coverage)</td>
+    <td>DiveDispatch</td>
+    <td>+ travel agency license. First-come. <a href="https://admin.taiwan.net.tw/" target="_blank">taiwan.net.tw</a></td>
+  </tr>
+  <tr>
+    <td class="when-col"><span class="tag tag-dd">When DD ships</span></td>
+    <td class="name"><strong>Singapore Tourism Accelerator</strong></td>
+    <td class="amount">SGD 25K pilot</td>
+    <td class="match match-30">~30% match</td>
+    <td class="window">Monitor for 2027 cohort</td>
+    <td>Pilot costs (70%) + relocation — SE Asia dive trips = DD business dev</td>
+    <td>DiveDispatch</td>
+    <td>Equity-free. Monitor STB/Ravel Innovation. <a href="https://www.ravelinnovation.com/" target="_blank">ravelinnovation.com</a></td>
+  </tr>
+  <tr>
+    <td class="when-col"><span class="tag tag-dd">When DD ships</span></td>
+    <td class="name"><strong>Taitung County SBIR</strong></td>
+    <td class="amount">NT$1M</td>
+    <td class="match match-50">50% match</td>
+    <td class="window">Annual (~Apr)</td>
+    <td>R&D costs</td>
+    <td>DiveDispatch</td>
+    <td>+ Taitung entity. Dive tourism. <a href="https://taitungsbir.taitung.gov.tw/" target="_blank">taitungsbir.taitung.gov.tw</a></td>
+  </tr>
+  <tr>
+    <td class="when-col"><span class="tag tag-dd">When DD ships</span></td>
+    <td class="name"><strong>Taitung Bravo!</strong></td>
+    <td class="amount">NT$300-550K</td>
+    <td class="match match-50">Varies</td>
+    <td class="window">Expected early 2028</td>
+    <td>Local impact / tourism — dive trips = Green Island field research</td>
+    <td>DiveDispatch</td>
+    <td>+ Taitung entity. Green Island. <a href="https://www.taitung.gov.tw/" target="_blank">taitung.gov.tw</a></td>
+  </tr>
+
+  <!-- GRIB2GO -->
+  <tr class="section-divider"><td colspan="8">⬤ BLOCKED — WAITING FOR GRIB2GO</td></tr>
+  <tr>
+    <td class="when-col"><span class="tag tag-g2g">When G2G ships</span></td>
+    <td class="name"><strong>UNDP Ocean Challenge</strong></td>
+    <td class="amount">$50-250K</td>
+    <td class="match match-0">0% — grant</td>
+    <td class="window">Between cycles, monitor</td>
+    <td>SDG 14 — diving = data collection, travel = program delivery</td>
+    <td>GRIB2GO</td>
+    <td>Global. Marine pollution, fisheries, blue economy.</td>
+  </tr>
+  <tr>
+    <td class="when-col"><span class="tag tag-g2g">When G2G ships</span></td>
+    <td class="name"><strong>Schmidt Marine</strong></td>
+    <td class="amount">Competitive</td>
+    <td class="match match-0">0% — grant</td>
+    <td class="window">Portal reopening — monitor</td>
+    <td>Ocean tech R&D (TRL 2-6)</td>
+    <td>GRIB2GO</td>
+    <td>$42M+ awarded. Ocean data.</td>
+  </tr>
+  <tr>
+    <td class="when-col"><span class="tag tag-g2g">When G2G ships</span></td>
+    <td class="name"><strong>Ocean Startup Challenge</strong></td>
+    <td class="amount">Varies</td>
+    <td class="match match-0">0%</td>
+    <td class="window">Annual, monitor</td>
+    <td>Early-stage ocean tech</td>
+    <td>GRIB2GO</td>
+    <td>Canadian. Early-stage focus.</td>
+  </tr>
+  <tr>
+    <td class="when-col"><span class="tag tag-g2g">When G2G ships</span></td>
+    <td class="name"><strong>OAC Marine Technology</strong></td>
+    <td class="amount">NT$5M</td>
+    <td class="match match-50">Varies</td>
+    <td class="window">Annual (~Jan)</td>
+    <td>Marine R&D costs</td>
+    <td>GRIB2GO</td>
+    <td>Ocean Affairs Council.</td>
+  </tr>
+</table>
+
+<div class="note">
+  <strong>Clarification on the Youth Loan:</strong> It's a low-interest loan (~2.5-3%), not 0%. But the 雄挺利 subsidy (up to NT$200K) covers those interest payments for up to 5 years — making it effectively free if you qualify. Apply through 兆豐銀行 or 高雄銀行 after Youth Loan approval.<br><br>
+  <strong>Cash flow path:</strong> Dec 2026 → Register company → ~Mar 2027 KHH General NT$80K (free, upfront) → Youth Loan NT$1.5M (working capital) → 雄挺利 (covers loan interest) → use loan cash to fund 50% match on SBIR/CITD → reimbursements replenish → ~Apr 2028 KHH Competitive NT$500K (30% match).
+</div>
+
+</body>
+</html>
