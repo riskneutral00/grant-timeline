@@ -106,13 +106,69 @@
     border-top: 1px solid #333;
     margin-top: 4px;
   }
+
+  /* Bank Strategy Box */
+  .strategy-box {
+    background: #0d2818;
+    border: 1px solid #1a6e3a;
+    border-radius: 8px;
+    padding: 16px 20px;
+    margin-bottom: 24px;
+  }
+  .strategy-box h2 { font-size: 14px; font-weight: 600; margin: 0 0 8px 0; color: #4ade80; }
+  .strategy-box p { font-size: 13px; color: #b0d0b0; margin: 4px 0; line-height: 1.5; }
+  .strategy-box a { color: #67e8f9; }
+  .strategy-box .highlight { color: #facc15; font-weight: 600; }
+
+  /* Priority highlighting */
+  .tier1 { border-left: 3px solid #4ade80; }
+  .tier1 td { background: #0a1f0a; }
+  .tier1 .name { color: #86efac; }
+
+  .tier2 { border-left: 3px solid #facc15; }
+  .tier2 td { background: #1a1a0a; }
+
+  .tier3 { opacity: 0.55; }
+  .tier3:hover { opacity: 1; }
+
+  .prob-high { color: #4ade80; font-weight: 600; }
+  .prob-med { color: #facc15; font-weight: 600; }
+  .prob-low { color: #fb923c; }
+  .prob-verylow { color: #888; }
+
+  .free-consult {
+    background: #1a2a3a;
+    border: 1px solid #3a5a7a;
+    border-radius: 8px;
+    padding: 12px 16px;
+    margin: 16px 0;
+    font-size: 13px;
+    color: #93c5fd;
+  }
+  .free-consult a { color: #67e8f9; }
+
+  .prob-col { width: 50px; text-align: center; }
 </style>
 </head>
 <body>
 
 <h1>Grant Timeline</h1>
-<p class="subtitle">Ordered by when you act. Match% = how much you pay, gov reimburses the rest. Loan = you repay with interest.</p>
+<p class="subtitle">Ordered by when you act. Match% = how much you pay, gov reimburses the rest. Loan = you repay with interest. <strong style="color:#facc15">Rows highlighted green = apply first.</strong> Dimmed rows = later priorities.</p>
 
+<!-- BANK STRATEGY BOX -->
+<div class="strategy-box">
+  <h2>🏦 Recommended Bank Strategy</h2>
+  <p><span class="highlight">兆豐銀行 (Mega Bank)</span> — a government-owned (公股) bank — is your single banking hub. 公股 banks have a policy mandate to support startups and government programs. Private banks (CTBC, 永豐) often impose a 6-month waiting period on new companies. 兆豐 does not.</p>
+  <p>Open <strong>personal account → 籌備戶 → formal business account</strong> all at the same 兆豐 branch. Real customer report: preparatory to business account in <strong>1 week</strong>.</p>
+  <p>兆豐 is also the designated bank for <strong>雄挺利</strong> (loan interest subsidy) and processes the <strong>Youth Entrepreneurship Loan</strong>. One bank, one relationship, everything flows.</p>
+  <p>📌 <strong>Zuoying branch:</strong> 左營區博愛三路12號 (07)348-8813 — bilingual, English-friendly.</p>
+</div>
+
+<div class="free-consult">
+  📞 <strong>Free SBIR/Grant Writing Consultation:</strong> 萬寶華企業管理顧問 — 高雄市苓雅區四維三路六號三樓B室 · Tel: 07-3310572 #25 (Ms. Chen). Free one-on-one help writing your SBIR proposal and loan applications. Book an appointment.
+</div>
+
+<!-- COST BOX -->
 <div class="cost-box">
   <h2>Company Registration Costs — Limited Company (有限公司)</h2>
   <div class="cost-grid">
@@ -139,6 +195,7 @@
 
 <table>
   <tr>
+    <th>Priority</th>
     <th>When</th>
     <th>Program</th>
     <th>Amount</th>
@@ -150,8 +207,10 @@
   </tr>
 
   <!-- BEFORE REGISTRATION -->
-  <tr class="section-divider"><td colspan="8">⬤ BEFORE REGISTRATION (Now → Dec 2026)</td></tr>
-  <tr>
+  <tr class="section-divider"><td colspan="9">⬤ BEFORE REGISTRATION (Now → Dec 2026)</td></tr>
+
+  <tr class="tier1">
+    <td class="prob-col"><span class="prob-high">★ P1</span></td>
     <td class="when-col"><span class="tag tag-prep">Now → Dec 2026</span></td>
     <td class="name"><strong>20-Hour Entrepreneurship Training</strong></td>
     <td class="amount">—</td>
@@ -159,9 +218,11 @@
     <td class="window">Complete before applying</td>
     <td>Certificate</td>
     <td>All</td>
-    <td>Online at smelearning.org.tw. Required for Youth Loan + KHH Competitive. Valid 3 years. KHH General only needs ~10hrs.</td>
+    <td>Online at smelearning.org.tw. Required for Youth Loan + KHH Competitive. Valid 3 years. KHH General only needs ~10hrs. <span class="prob-high">Probability: 100%</span></td>
   </tr>
+
   <tr>
+    <td class="prob-col">—</td>
     <td class="when-col"><span class="tag tag-reg">Dec 2026</span></td>
     <td class="name"><strong>Register Limited Company</strong></td>
     <td class="amount">NT$300-500K</td>
@@ -169,12 +230,14 @@
     <td class="window">Before end of Dec 2026</td>
     <td>Capital deposit</td>
     <td>All</td>
-    <td>Deposit into CTBC business account. Unlocks all entity-required programs. Can self-register or use agent (~NT$4-7K).</td>
+    <td>Deposit into <strong>兆豐銀行</strong> business account. Unlocks all entity-required programs. Can self-register or use agent (~NT$4-7K).</td>
   </tr>
 
   <!-- ROLLING -->
-  <tr class="section-divider"><td colspan="8">⬤ AT REGISTRATION — Rolling (apply anytime)</td></tr>
-  <tr>
+  <tr class="section-divider"><td colspan="9">⬤ AT REGISTRATION — Rolling (apply anytime) — <span style="color:#4ade80">★ START HERE</span></td></tr>
+
+  <tr class="tier1">
+    <td class="prob-col"><span class="prob-high">★ P1</span></td>
     <td class="when-col"><span class="tag tag-reg">At registration</span></td>
     <td class="name"><strong>Youth Entrepreneurship Loan</strong></td>
     <td class="amount">NT$1.5M</td>
@@ -182,9 +245,11 @@
     <td class="window"><strong>Rolling</strong> — no deadline</td>
     <td>Any business expense</td>
     <td>All</td>
-    <td class="interest">Loan. Interest: ~2.5-3%. Under NT$1.5M = no guarantor. Working capital to fund grant match. <a href="https://www.sme.gov.tw/article-en-2614-10804" target="_blank">sme.gov.tw</a></td>
+    <td class="interest"><strong>Apply through 兆豐銀行.</strong> Loan. Interest: ~2.5-3%. Under NT$1.5M = no guarantor. Government guaranteed 80-95%. Working capital to fund all other program matches. <a href="https://www.sme.gov.tw/article-en-2614-10804" target="_blank">sme.gov.tw</a> <span class="prob-high">Probability: 80-95%</span></td>
   </tr>
-  <tr>
+
+  <tr class="tier1">
+    <td class="prob-col"><span class="prob-high">★ P1</span></td>
     <td class="when-col"><span class="tag tag-reg">At registration</span></td>
     <td class="name"><strong>雄挺利 — Loan Interest Subsidy</strong></td>
     <td class="amount">Up to NT$200K</td>
@@ -192,9 +257,11 @@
     <td class="window"><strong>After loan approval</strong></td>
     <td>Interest only</td>
     <td>All</td>
-    <td>Kaohsiung-specific. Apply through 兆豐銀行 or 高雄銀行 after Youth Loan. First-come, 2 rounds/yr. <a href="https://www.bo6s.com.tw/news_detail.php?NewsID=113210" target="_blank">Info</a></td>
+    <td><strong>Same bank as Youth Loan (兆豐).</strong> Kaohsiung-specific. First-come, 2 rounds/yr. Covers 5 years of interest payments. <span class="prob-high">Probability: ~90%</span> <a href="https://www.bo6s.com.tw/news_detail.php?NewsID=113210" target="_blank">Info</a></td>
   </tr>
-  <tr>
+
+  <tr class="tier2">
+    <td class="prob-col"><span class="prob-med">★ P2</span></td>
     <td class="when-col"><span class="tag tag-reg">At registration</span></td>
     <td class="name"><strong>MOEA SBIR Phase 1</strong></td>
     <td class="amount">NT$1.5M</td>
@@ -202,10 +269,12 @@
     <td class="window"><strong>Rolling</strong> — no deadline</td>
     <td>R&D costs: personnel, equipment, materials, outsourcing, travel</td>
     <td>annnä</td>
-    <td>~43% approval. R&D plan. You spend NT$1.5M, gov reimburses NT$750K after 6mo. <a href="https://sbir.org.tw/" target="_blank">sbir.org.tw</a> | Tel: 0800-888-968</td>
+    <td>~43% approval. 2026 reform: now <strong>presentation-based</strong>, no written proposal needed. Use Youth Loan for 50% match. Free writing help: 萬寶華 07-3310572 #25. <a href="https://sbir.org.tw/" target="_blank">sbir.org.tw</a> | Tel: 0800-888-968 <span class="prob-med">Probability: 40-50%</span></td>
   </tr>
-  <tr>
-    <td class="when-col"><span class="tag tag-apply">Upon SBIR approval</span></td>
+
+  <tr class="tier3">
+    <td class="prob-col"><span class="prob-low">P3</span></td>
+    <td class="when-col"><span class="tag tag-after">Upon SBIR approval</span></td>
     <td class="name"><strong>Purchase Mac Studio — 96+ GB RAM</strong></td>
     <td class="amount">NT$292,500 (~$9K USD)</td>
     <td class="match match-50">50% reimbursable</td>
@@ -216,8 +285,10 @@
   </tr>
 
   <!-- ANNUAL WINDOWS -->
-  <tr class="section-divider"><td colspan="8">⬤ ANNUAL WINDOWS — Apply on schedule</td></tr>
-  <tr>
+  <tr class="section-divider"><td colspan="9">⬤ ANNUAL WINDOWS — Apply on schedule</td></tr>
+
+  <tr class="tier1">
+    <td class="prob-col"><span class="prob-high">★ P1</span></td>
     <td class="when-col"><span class="tag tag-annual">~Mar 2027</span></td>
     <td class="name"><strong>Kaohsiung Youth General</strong></td>
     <td class="amount">NT$80K</td>
@@ -225,9 +296,11 @@
     <td class="window"><strong>~Mar 18-31</strong> (annually)</td>
     <td>Any business expense: rent, equipment, marketing, travel</td>
     <td>All</td>
-    <td>Online. Company &lt;3yr. ~10hr training. Upfront cash, no repayment. <a href="https://youth.kcg.gov.tw/Resource_Content.aspx?n=38&s=12555&sms=10161" target="_blank">youth.kcg.gov.tw</a> | Tel: 07-799-5678</td>
+    <td><strong>Free money, no repayment.</strong> Online. Company &lt;3yr. Only ~10hr training. If oversubscribed, random lottery. <a href="https://youth.kcg.gov.tw/Resource_Content.aspx?n=38&s=12555&sms=10161" target="_blank">youth.kcg.gov.tw</a> | Tel: 07-799-5678 <span class="prob-high">Probability: 60-70%</span></td>
   </tr>
-  <tr>
+
+  <tr class="tier3">
+    <td class="prob-col"><span class="prob-verylow">P4</span></td>
     <td class="when-col"><span class="tag tag-annual">~Mid 2027</span></td>
     <td class="name"><strong>AI Innovation Service</strong></td>
     <td class="amount">NT$5-20M</td>
@@ -235,9 +308,11 @@
     <td class="window">~Jun-Jul (short 3wk window)</td>
     <td>AI R&D costs</td>
     <td>annnä</td>
-    <td>MODA/DIGITAL+. annnä fits AI/SaaS. Needs 工商憑證. <a href="https://digiplus.adi.gov.tw/" target="_blank">digiplus.adi.gov.tw</a></td>
+    <td>MODA/DIGITAL+. annnä fits AI/SaaS. Needs 工商憑證. Needs revenue/traction to be competitive. <a href="https://digiplus.adi.gov.tw/" target="_blank">digiplus.adi.gov.tw</a></td>
   </tr>
-  <tr>
+
+  <tr class="tier3">
+    <td class="prob-col"><span class="prob-verylow">P4</span></td>
     <td class="when-col"><span class="tag tag-annual">~Mid 2027</span></td>
     <td class="name"><strong>DIGITAL+ Innovation</strong></td>
     <td class="amount">Varies by call</td>
@@ -247,7 +322,9 @@
     <td>annnä</td>
     <td>Themed calls. AI/SaaS/digital transformation topics. <a href="https://digiplus.adi.gov.tw/" target="_blank">digiplus.adi.gov.tw</a></td>
   </tr>
-  <tr>
+
+  <tr class="tier3">
+    <td class="prob-col"><span class="prob-verylow">P4</span></td>
     <td class="when-col"><span class="tag tag-annual">~Oct-Dec 2027</span></td>
     <td class="name"><strong>Cross-Domain R&D</strong></td>
     <td class="amount">NT$7M</td>
@@ -257,7 +334,9 @@
     <td>annnä</td>
     <td>Needs consortium partner (2+ SMEs). <a href="https://sbir.org.tw/cross/notice" target="_blank">sbir.org.tw/cross</a></td>
   </tr>
-  <tr>
+
+  <tr class="tier3">
+    <td class="prob-col"><span class="prob-verylow">P4</span></td>
     <td class="when-col"><span class="tag tag-annual">~Feb 2028</span></td>
     <td class="name"><strong>CITD</strong></td>
     <td class="amount">NT$2M</td>
@@ -267,7 +346,9 @@
     <td>annnä</td>
     <td>Digital transformation for traditional industries. <a href="https://keid.nat.gov.tw/citdweb/Web/CITD_index.aspx" target="_blank">CITD portal</a></td>
   </tr>
-  <tr>
+
+  <tr class="tier2">
+    <td class="prob-col"><span class="prob-med">★ P2</span></td>
     <td class="when-col"><span class="tag tag-annual">~Apr 2028</span></td>
     <td class="name"><strong>Kaohsiung Youth Competitive</strong></td>
     <td class="amount">NT$500K</td>
@@ -279,8 +360,10 @@
   </tr>
 
   <!-- DIVE DISPATCH -->
-  <tr class="section-divider"><td colspan="8">⬤ BLOCKED — WAITING FOR DIVE DISPATCH</td></tr>
-  <tr>
+  <tr class="section-divider"><td colspan="9">⬤ BLOCKED — WAITING FOR DIVE DISPATCH</td></tr>
+
+  <tr class="tier2">
+    <td class="prob-col"><span class="prob-med">★ P2</span></td>
     <td class="when-col"><span class="tag tag-dd">When DD ships</span></td>
     <td class="name"><strong>Tourism Admin Digital</strong></td>
     <td class="amount">NT$100K</td>
@@ -288,9 +371,11 @@
     <td class="window">Through Dec 2027 (annual)</td>
     <td>E-commerce systems (90% coverage)</td>
     <td>DiveDispatch</td>
-    <td>+ travel agency license. First-come. <a href="https://admin.taiwan.net.tw/" target="_blank">taiwan.net.tw</a></td>
+    <td>+ travel agency license. First-come first-served. Only 10% match. <span class="prob-med">High chance if you apply early.</span> <a href="https://admin.taiwan.net.tw/" target="_blank">taiwan.net.tw</a></td>
   </tr>
-  <tr>
+
+  <tr class="tier3">
+    <td class="prob-col"><span class="prob-low">P3</span></td>
     <td class="when-col"><span class="tag tag-dd">When DD ships</span></td>
     <td class="name"><strong>Singapore Tourism Accelerator</strong></td>
     <td class="amount">SGD 25K pilot</td>
@@ -300,7 +385,9 @@
     <td>DiveDispatch</td>
     <td>Equity-free. Monitor STB/Ravel Innovation. <a href="https://www.ravelinnovation.com/" target="_blank">ravelinnovation.com</a></td>
   </tr>
-  <tr>
+
+  <tr class="tier3">
+    <td class="prob-col"><span class="prob-verylow">P4</span></td>
     <td class="when-col"><span class="tag tag-dd">When DD ships</span></td>
     <td class="name"><strong>Taitung County SBIR</strong></td>
     <td class="amount">NT$1M</td>
@@ -310,7 +397,9 @@
     <td>DiveDispatch</td>
     <td>+ Taitung entity. Dive tourism. <a href="https://taitungsbir.taitung.gov.tw/" target="_blank">taitungsbir.taitung.gov.tw</a></td>
   </tr>
-  <tr>
+
+  <tr class="tier3">
+    <td class="prob-col"><span class="prob-verylow">P4</span></td>
     <td class="when-col"><span class="tag tag-dd">When DD ships</span></td>
     <td class="name"><strong>Taitung Bravo!</strong></td>
     <td class="amount">NT$300-550K</td>
@@ -322,8 +411,10 @@
   </tr>
 
   <!-- GRIB2GO -->
-  <tr class="section-divider"><td colspan="8">⬤ BLOCKED — WAITING FOR GRIB2GO</td></tr>
-  <tr>
+  <tr class="section-divider"><td colspan="9">⬤ BLOCKED — WAITING FOR GRIB2GO</td></tr>
+
+  <tr class="tier3">
+    <td class="prob-col"><span class="prob-low">P3</span></td>
     <td class="when-col"><span class="tag tag-g2g">When G2G ships</span></td>
     <td class="name"><strong>UNDP Ocean Challenge</strong></td>
     <td class="amount">$50-250K</td>
@@ -331,9 +422,11 @@
     <td class="window">Between cycles, monitor</td>
     <td>SDG 14 — diving = data collection, travel = program delivery</td>
     <td>GRIB2GO</td>
-    <td>Global. Marine pollution, fisheries, blue economy.</td>
+    <td>Global. Marine pollution, fisheries, blue economy. 0% match = free to apply.</td>
   </tr>
-  <tr>
+
+  <tr class="tier3">
+    <td class="prob-col"><span class="prob-verylow">P4</span></td>
     <td class="when-col"><span class="tag tag-g2g">When G2G ships</span></td>
     <td class="name"><strong>Schmidt Marine</strong></td>
     <td class="amount">Competitive</td>
@@ -343,7 +436,9 @@
     <td>GRIB2GO</td>
     <td>$42M+ awarded. Ocean data.</td>
   </tr>
-  <tr>
+
+  <tr class="tier3">
+    <td class="prob-col"><span class="prob-verylow">P4</span></td>
     <td class="when-col"><span class="tag tag-g2g">When G2G ships</span></td>
     <td class="name"><strong>Ocean Startup Challenge</strong></td>
     <td class="amount">Varies</td>
@@ -353,7 +448,9 @@
     <td>GRIB2GO</td>
     <td>Canadian. Early-stage focus.</td>
   </tr>
-  <tr>
+
+  <tr class="tier3">
+    <td class="prob-col"><span class="prob-verylow">P4</span></td>
     <td class="when-col"><span class="tag tag-g2g">When G2G ships</span></td>
     <td class="name"><strong>OAC Marine Technology</strong></td>
     <td class="amount">NT$5M</td>
@@ -366,8 +463,15 @@
 </table>
 
 <div class="note">
-  <strong>Clarification on the Youth Loan:</strong> It's a low-interest loan (~2.5-3%), not 0%. But the 雄挺利 subsidy (up to NT$200K) covers those interest payments for up to 5 years — making it effectively free if you qualify. Apply through 兆豐銀行 or 高雄銀行 after Youth Loan approval.<br><br>
-  <strong>Cash flow path:</strong> Dec 2026 → Register company → ~Mar 2027 KHH General NT$80K (free, upfront) → Youth Loan NT$1.5M (working capital) → 雄挺利 (covers loan interest) → use loan cash to fund 50% match on SBIR/CITD → reimbursements replenish → ~Apr 2028 KHH Competitive NT$500K (30% match).
+  <strong>Priority Key:</strong><br>
+  <span style="color:#4ade80">★ P1 — High Priority (Apply First)</span> — Highest probability, easiest path. Do these before anything else.<br>
+  <span style="color:#facc15">★ P2 — Medium Priority</span> — Realistic targets, worth preparing for.<br>
+  <span style="color:#fb923c">P3 — Lower Priority</span> — Apply if ready, but not blocking.<br>
+  <span style="color:#888">P4 — Future / Competitive</span> — Monitor for later. Low probability at current stage.<br><br>
+  <strong>Bank Strategy Applied:</strong> 兆豐銀行 (Mega Bank) is your single banking partner. Government-owned, no 6-month rule, handles Youth Loan + 雄挺利 + business account. Open personal account → 籌備戶 → formal business account all at the same branch. Zuoying location: 博愛三路12號 (07)348-8813 — bilingual.<br><br>
+  <strong>Lessons Learned — Banks to Avoid:</strong> CTBC requires 6-month personal relationship + 1-year history. 永豐 DA BOSS has the same 6-month rule despite their startup branding. <strong>Stick to 公股銀行 (government-owned banks).</strong><br><br>
+  <strong>Cash flow path:</strong> Dec 2026 → Register company at 兆豐 → ~Mar 2027 KHH General NT$80K (free, upfront) → Youth Loan NT$1.5M (working capital) → 雄挺利 (covers loan interest) → use loan cash to fund 50% match on SBIR → SBIR reimbursements replenish → ~Apr 2028 KHH Competitive NT$500K (30% match).<br><br>
+  <strong>Free resources:</strong> 萬寶華企業管理顧問 (07-3310572 #25) provides free one-on-one SBIR and grant writing assistance. Located at 高雄市苓雅區四維三路六號三樓B室. Book an appointment.
 </div>
 
 </body>
