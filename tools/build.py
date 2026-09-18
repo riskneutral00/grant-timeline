@@ -8,7 +8,7 @@ from pathlib import Path
 from urllib.parse import urlsplit
 
 ROOT = Path(__file__).resolve().parents[1]
-FIELDS = set('id name type country organizer url deadline status summary first_seen last_checked source_url'.split())
+FIELDS = set('id name type country organizer url deadline status summary first_seen last_checked source_url fit fit_reason'.split())
 
 
 def validate(rows):
@@ -18,7 +18,7 @@ def validate(rows):
     for row in rows:
         if set(row) != FIELDS:
             raise ValueError('Missing or unexpected fields')
-        for key in FIELDS - {'deadline'}:
+        for key in FIELDS - {'deadline', 'fit_reason'}:
             if not isinstance(row[key], str) or not row[key].strip():
                 raise ValueError(f'Invalid {key}')
         if row['id'] in seen:
@@ -28,6 +28,10 @@ def validate(rows):
             raise ValueError('Invalid type')
         if row['country'] not in {'TW', 'TH', 'HK', 'regional'}:
             raise ValueError('Invalid country')
+        if row['fit'] not in {'want', 'skip'}:
+            raise ValueError('Invalid fit (want or skip)')
+        if not isinstance(row['fit_reason'], str) or (row['fit'] == 'skip' and not row['fit_reason'].strip()):
+            raise ValueError('A skipped entry needs fit_reason')
         if row['status'] not in {'open', 'upcoming', 'rolling', 'closed'}:
             raise ValueError('Invalid status')
         for key in ('deadline', 'first_seen', 'last_checked'):
@@ -51,15 +55,23 @@ def sort_key(row):
     return ({'open': 0, 'upcoming': 0, 'rolling': 1, 'closed': 2}[row['status']], row['deadline'] or '9999-12-31', row['name'], row['id'])
 
 
-def render(rows, template):
-    if template.count('{{TABLE}}') != 1:
-        raise ValueError('Template must have exactly one table marker')
+def table(rows, reason=False):
     esc = html.escape
     lines = ['<table><thead><tr><th>Deadline</th><th>Status</th><th>Program</th><th>Country / Type</th><th>Organizer / Summary</th></tr></thead><tbody>']
     for r in sorted(rows, key=sort_key):
-        lines.append(f'<tr data-id="{esc(r["id"], quote=True)}"><td>{esc(r["deadline"] or "Not announced")}</td><td>{esc(r["status"])}</td><td><a href="{esc(r["url"], quote=True)}">{esc(r["name"])}</a></td><td>{esc(r["country"])} / {esc(r["type"])}</td><td>{esc(r["organizer"])}<br>{esc(r["summary"])}<br><a href="{esc(r["source_url"], quote=True)}">Source</a> · Last checked {esc(r["last_checked"])}</td></tr>')
+        why = f'<br><b>Why skipped:</b> {esc(r["fit_reason"])}' if reason else ''
+        lines.append(f'<tr data-id="{esc(r["id"], quote=True)}"><td>{esc(r["deadline"] or "Not announced")}</td><td>{esc(r["status"])}</td><td><a href="{esc(r["url"], quote=True)}">{esc(r["name"])}</a></td><td>{esc(r["country"])} / {esc(r["type"])}</td><td>{esc(r["organizer"])}<br>{esc(r["summary"])}{why}<br><a href="{esc(r["source_url"], quote=True)}">Source</a> · Last checked {esc(r["last_checked"])}</td></tr>')
     lines.append('</tbody></table>')
-    return template.replace('{{TABLE}}', '\n'.join(lines))
+    return '\n'.join(lines)
+
+
+def render(rows, template):
+    if template.count('{{TABLE}}') != 1:
+        raise ValueError('Template must have exactly one table marker')
+    skip = [r for r in rows if r['fit'] == 'skip']
+    body = table([r for r in rows if r['fit'] == 'want'])
+    body += f'\n<details><summary>Not eligible ({len(skip)}), kept so they are not researched again</summary>\n{table(skip, reason=True)}\n</details>'
+    return template.replace('{{TABLE}}', body)
 
 
 def main():

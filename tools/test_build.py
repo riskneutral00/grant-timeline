@@ -4,7 +4,7 @@ from build import validate, normalized, sort_key, render
 
 class BuildTests(unittest.TestCase):
     def setUp(self):
-        self.r = dict(id='x', name='<unsafe>', type='grant', country='TW', organizer='Org', url='https://example.org/', deadline=None, status='rolling', summary='A & B', first_seen='2026-09-18', last_checked='2026-09-18', source_url='https://example.org/')
+        self.r = dict(id='x', name='<unsafe>', type='grant', country='TW', organizer='Org', url='https://example.org/', deadline=None, status='rolling', summary='A & B', first_seen='2026-09-18', last_checked='2026-09-18', source_url='https://example.org/', fit='want', fit_reason='')
     def test_valid(self):
         self.assertEqual(len(validate([self.r])), 1)
     def test_duplicate(self):
@@ -26,6 +26,15 @@ class BuildTests(unittest.TestCase):
         self.assertIn('A &amp; B',page)
         self.assertTrue(page.startswith('<h1>Keep this</h1>'))
         self.assertTrue(page.endswith('<p>Plan</p>'))
+    def test_fit(self):
+        for r in [dict(self.r, fit='maybe'), dict(self.r, fit='skip', fit_reason='')]:
+            with self.assertRaises(ValueError): validate([r])
+        self.assertEqual(len(validate([dict(self.r, fit='skip', fit_reason='HK university teams only')])), 1)
+    def test_skip_section(self):
+        page=render([self.r, dict(self.r, id='s', name='Skipped one', fit='skip', fit_reason='Needs HKID')],'{{TABLE}}')
+        want, skip = page.split('<details')
+        self.assertIn('data-id="x"', want); self.assertNotIn('Skipped one', want)
+        self.assertIn('Skipped one', skip); self.assertIn('Needs HKID', skip)
     def test_template_invalid(self):
         with self.assertRaises(ValueError): render([self.r],'No marker')
 

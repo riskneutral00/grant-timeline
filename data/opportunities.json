@@ -11,7 +11,9 @@
     "summary": "Software R&D feasibility support for Taiwan SMEs. Seeded from existing index and research matrix; current terms need official revalidation.",
     "first_seen": "2026-09-18",
     "last_checked": "2026-09-18",
-    "source_url": "https://sbir.org.tw/"
+    "source_url": "https://sbir.org.tw/",
+    "fit": "want",
+    "fit_reason": ""
   },
   {
     "id": "tw-sbir-2",
@@ -25,7 +27,9 @@
     "summary": "Software R&D development support for Taiwan SMEs. Seeded from research matrix; current terms need official revalidation.",
     "first_seen": "2026-09-18",
     "last_checked": "2026-09-18",
-    "source_url": "https://sbir.org.tw/"
+    "source_url": "https://sbir.org.tw/",
+    "fit": "want",
+    "fit_reason": ""
   },
   {
     "id": "tw-khh-general-2026",
@@ -39,7 +43,9 @@
     "summary": "General entrepreneurship support, including software businesses. Historical deadline from research matrix; next cycle unannounced.",
     "first_seen": "2026-09-18",
     "last_checked": "2026-09-18",
-    "source_url": "https://youth.kcg.gov.tw/Resource_Content.aspx?n=38&s=12555&sms=10161"
+    "source_url": "https://youth.kcg.gov.tw/Resource_Content.aspx?n=38&s=12555&sms=10161",
+    "fit": "want",
+    "fit_reason": ""
   },
   {
     "id": "tw-khh-competitive-2026",
@@ -53,7 +59,9 @@
     "summary": "Competitive entrepreneurship support, including digital content. Historical deadline from research matrix; local company and household eligibility apply.",
     "first_seen": "2026-09-18",
     "last_checked": "2026-09-18",
-    "source_url": "https://youth.kcg.gov.tw/"
+    "source_url": "https://youth.kcg.gov.tw/",
+    "fit": "want",
+    "fit_reason": ""
   },
   {
     "id": "tw-ai-service-2026",
@@ -67,7 +75,9 @@
     "summary": "AI application and AI Agent integration R&D. Historical deadline from July research; cited MODA link conflicted with another program, so recheck official portal before relying on terms.",
     "first_seen": "2026-09-18",
     "last_checked": "2026-09-18",
-    "source_url": "https://digiplus.adi.gov.tw/"
+    "source_url": "https://digiplus.adi.gov.tw/",
+    "fit": "want",
+    "fit_reason": ""
   },
   {
     "id": "tw-digital-plus",
@@ -81,7 +91,9 @@
     "summary": "Software and digital-service calls. Retained watchlist umbrella; no current open intake verified. Closed means not confirmed available, not discontinued.",
     "first_seen": "2026-09-18",
     "last_checked": "2026-09-18",
-    "source_url": "https://digiplus.adi.gov.tw/"
+    "source_url": "https://digiplus.adi.gov.tw/",
+    "fit": "want",
+    "fit_reason": ""
   },
   {
     "id": "tw-cross-domain",
@@ -95,7 +107,9 @@
     "summary": "Cross-industry SME consortium R&D; track civilian software-only projects. No current intake verified; retained for monitoring.",
     "first_seen": "2026-09-18",
     "last_checked": "2026-09-18",
-    "source_url": "https://sbir.org.tw/cross/notice"
+    "source_url": "https://sbir.org.tw/cross/notice",
+    "fit": "want",
+    "fit_reason": ""
   },
   {
     "id": "tw-citd",
@@ -109,7 +123,9 @@
     "summary": "Track software-based digital transformation only, not hardware development. Imported from index; no current intake verified.",
     "first_seen": "2026-09-18",
     "last_checked": "2026-09-18",
-    "source_url": "https://keid.nat.gov.tw/citdweb/Web/CITD_index.aspx"
+    "source_url": "https://keid.nat.gov.tw/citdweb/Web/CITD_index.aspx",
+    "fit": "want",
+    "fit_reason": ""
   },
   {
     "id": "tw-tourism-digital",
@@ -123,7 +139,9 @@
     "summary": "Digital/e-commerce systems for licensed tourism businesses. Index and matrix disagree on cycle year; no deadline asserted until verified.",
     "first_seen": "2026-09-18",
     "last_checked": "2026-09-18",
-    "source_url": "https://admin.taiwan.net.tw/"
+    "source_url": "https://admin.taiwan.net.tw/",
+    "fit": "skip",
+    "fit_reason": "Only for licensed tourism businesses."
   },
   {
     "id": "tw-taitung-sbir-2026",
@@ -137,7 +155,9 @@
     "summary": "Local SME R&D including software. Historical matrix deadline; local entity requirements apply.",
     "first_seen": "2026-09-18",
     "last_checked": "2026-09-18",
-    "source_url": "https://taitungsbir.taitung.gov.tw/"
+    "source_url": "https://taitungsbir.taitung.gov.tw/",
+    "fit": "skip",
+    "fit_reason": "Needs a company registered and operating in Taitung County."
   },
   {
     "id": "tw-taitung-bravo",
@@ -151,7 +171,9 @@
     "summary": "Local creation support; monitor software/service proposals. Forecast years in legacy sources conflict; no announced intake verified.",
     "first_seen": "2026-09-18",
     "last_checked": "2026-09-18",
-    "source_url": "https://www.taitung.gov.tw/"
+    "source_url": "https://www.taitung.gov.tw/",
+    "fit": "skip",
+    "fit_reason": "Local Taitung program; needs Taitung residence or registration."
   },
   {
     "id": "tw-oac-2026",
@@ -165,7 +187,9 @@
     "summary": "Historical civilian ocean data and AI research scope only; excludes defense, military and hardware projects. Deadline from July research.",
     "first_seen": "2026-09-18",
     "last_checked": "2026-09-18",
-    "source_url": "https://www.oac.gov.tw/"
+    "source_url": "https://www.oac.gov.tw/",
+    "fit": "want",
+    "fit_reason": ""
   },
   {
     "id": "tw-siir-2026",
@@ -179,7 +203,9 @@
     "summary": "Service innovation R&D, including software. July research records exhausted budget and no second 2026 tranche.",
     "first_seen": "2026-09-18",
     "last_checked": "2026-09-18",
-    "source_url": "https://gcis.nat.gov.tw/neo-s/Web/News.aspx"
+    "source_url": "https://gcis.nat.gov.tw/neo-s/Web/News.aspx",
+    "fit": "want",
+    "fit_reason": ""
   },
   {
     "id": "tw-pingtung-sbir-2026",
@@ -193,7 +219,9 @@
     "summary": "Local software R&D support; Pingtung registration and execution site required. Historical July research deadline.",
     "first_seen": "2026-09-18",
     "last_checked": "2026-09-18",
-    "source_url": "https://startup.sme.gov.tw/home/modules/funding/detail/?sId=112"
+    "source_url": "https://startup.sme.gov.tw/home/modules/funding/detail/?sId=112",
+    "fit": "skip",
+    "fit_reason": "Needs a company registered and operating in Pingtung County."
   },
   {
     "id": "tw-siti-rd",
@@ -207,7 +235,9 @@
     "summary": "Taipei R&D support including software. Prior September-October forecast was unverified; no current intake asserted.",
     "first_seen": "2026-09-18",
     "last_checked": "2026-09-18",
-    "source_url": "https://doed.gov.taipei/News.aspx?n=D10E196BF7146493&sms=6CFF5C8DD91F51D0"
+    "source_url": "https://doed.gov.taipei/News.aspx?n=D10E196BF7146493&sms=6CFF5C8DD91F51D0",
+    "fit": "skip",
+    "fit_reason": "Needs a company registered in Taipei City."
   },
   {
     "id": "tw-aspn-3",
@@ -221,7 +251,9 @@
     "summary": "Historical sports technology accelerator; software applications only. Deadline imported from research matrix; URL and next cycle require revalidation.",
     "first_seen": "2026-09-18",
     "last_checked": "2026-09-18",
-    "source_url": "https://aspn-sports.com/"
+    "source_url": "https://aspn-sports.com/",
+    "fit": "want",
+    "fit_reason": ""
   },
   {
     "id": "tw-sparklabs",
@@ -235,7 +267,9 @@
     "summary": "Software startup acceleration; imported from research matrix. No current cohort deadline verified; monitor, do not assume rolling admission.",
     "first_seen": "2026-09-18",
     "last_checked": "2026-09-18",
-    "source_url": "https://www.sparklabstaiwan.com/"
+    "source_url": "https://www.sparklabstaiwan.com/",
+    "fit": "want",
+    "fit_reason": ""
   },
   {
     "id": "tw-cht-2026",
@@ -249,7 +283,9 @@
     "summary": "Software/AI applications; teams 1–6 with at least one Taiwan national. Closed at 12:00 Asia/Taipei on September 18. Final October 31.",
     "first_seen": "2026-09-18",
     "last_checked": "2026-09-18",
-    "source_url": "https://cht5g.com.tw/index-smart.html"
+    "source_url": "https://cht5g.com.tw/index-smart.html",
+    "fit": "want",
+    "fit_reason": ""
   },
   {
     "id": "hk-gft-2026",
@@ -263,7 +299,9 @@
     "summary": "Software/AI startup pitching and Asia market access. Final November 2–3. Deadline from September research; live competition page verifies program, but does not repeat deadline. Paid exhibition route differs from regular eligibility.",
     "first_seen": "2026-09-18",
     "last_checked": "2026-09-18",
-    "source_url": "https://www.globalfasttrack.hk/pitching-competition-2026"
+    "source_url": "https://www.globalfasttrack.hk/pitching-competition-2026",
+    "fit": "want",
+    "fit_reason": ""
   },
   {
     "id": "th-ai-for-all-2026",
@@ -277,7 +315,9 @@
     "summary": "Official call: Thai citizens age 18+, teams up to five, AI prototypes addressing civilian challenges. THB 500,000 combined prizes; final December 12.",
     "first_seen": "2026-09-18",
     "last_checked": "2026-09-18",
-    "source_url": "https://www.true.th/blog/en/ai-for-all-3/"
+    "source_url": "https://www.true.th/blog/en/ai-for-all-3/",
+    "fit": "skip",
+    "fit_reason": "Open to Thai citizens only."
   },
   {
     "id": "regional-ai-builders-s1",
@@ -291,7 +331,9 @@
     "summary": "AI-native pre-seed/seed startups worldwide. Launch pitch October 15, 2026; Season 1 applications open January 2027. USD 50,000–250,000 is discretionary investment, NOT a cash grant.",
     "first_seen": "2026-09-18",
     "last_checked": "2026-09-18",
-    "source_url": "https://aibuilderscup.com/"
+    "source_url": "https://aibuilderscup.com/",
+    "fit": "want",
+    "fit_reason": ""
   },
   {
     "id": "th-ai-builders-bangkok-s1-27",
@@ -305,7 +347,9 @@
     "summary": "Official city page: applications January 2027, recruiting a host, zero published rounds. No confirmed local event or deadline; investment pathway is conditional, not a guaranteed prize.",
     "first_seen": "2026-09-18",
     "last_checked": "2026-09-18",
-    "source_url": "https://aibuilderscup.com/thailand/bangkok/seasons/s1-27"
+    "source_url": "https://aibuilderscup.com/thailand/bangkok/seasons/s1-27",
+    "fit": "want",
+    "fit_reason": ""
   },
   {
     "id": "tw-appworks-33",
@@ -319,7 +363,9 @@
     "summary": "First-scan discovery. Official FAQ confirms applications closed; software startup acceleration. Next batch #34 has a waitlist, not a confirmed application deadline.",
     "first_seen": "2026-09-18",
     "last_checked": "2026-09-18",
-    "source_url": "https://appworks.tw/accelerator-faq/"
+    "source_url": "https://appworks.tw/accelerator-faq/",
+    "fit": "want",
+    "fit_reason": ""
   },
   {
     "id": "hk-ccmf-oct-2026",
@@ -333,7 +379,9 @@
     "summary": "First-scan discovery. Up to HK$100,000 for early-stage digital tech projects. Individual applicants need HKID; companies must be Hong Kong incorporated on admission.",
     "first_seen": "2026-09-18",
     "last_checked": "2026-09-18",
-    "source_url": "https://www.cyberport.hk/en/entrepreneurship/hong_kong_programme/"
+    "source_url": "https://www.cyberport.hk/en/entrepreneurship/hong_kong_programme/",
+    "fit": "skip",
+    "fit_reason": "Needs a Hong Kong ID or a Hong Kong-incorporated company."
   },
   {
     "id": "hk-ccmf-feb-2027",
@@ -347,7 +395,9 @@
     "summary": "First-scan discovery. Official timeline announces December 1 deadline; current acceptance opening date not confirmed. Up to HK$100,000 digital tech grant; HK eligibility applies.",
     "first_seen": "2026-09-18",
     "last_checked": "2026-09-18",
-    "source_url": "https://www.cyberport.hk/en/entrepreneurship/hong_kong_programme/"
+    "source_url": "https://www.cyberport.hk/en/entrepreneurship/hong_kong_programme/",
+    "fit": "skip",
+    "fit_reason": "Needs a Hong Kong ID or a Hong Kong-incorporated company."
   },
   {
     "id": "th-venturespark-2-2026",
@@ -361,7 +411,9 @@
     "summary": "First-scan discovery. Official cohort timeline: applications March 9–April 25. Thai startup acceleration; software ventures only in this directory.",
     "first_seen": "2026-09-18",
     "last_checked": "2026-09-18",
-    "source_url": "https://www.venturespark.asia/"
+    "source_url": "https://www.venturespark.asia/",
+    "fit": "want",
+    "fit_reason": ""
   },
   {
     "id": "hk-hktech300-s21",
@@ -375,7 +427,9 @@
     "summary": "HK$100,000 seed fund for CityU-affiliated teams to develop innovative ideas into startups; applications open 23 Sep 2026.",
     "source_url": "https://www.cityu.edu.hk/hktech300/about-hk-tech-300/hk-tech-300-seed-fund",
     "first_seen": "2026-09-18",
-    "last_checked": "2026-09-18"
+    "last_checked": "2026-09-18",
+    "fit": "skip",
+    "fit_reason": "Only for teams affiliated with City University of Hong Kong."
   },
   {
     "id": "tw-eureka-globalstars-2026",
@@ -389,7 +443,9 @@
     "summary": "International joint R&D grant for Taiwan companies collaborating with Austria, Finland, Sweden, or Netherlands partners; civilian AI, semiconductors, quantum, sustainability.",
     "source_url": "https://www.eurekanetwork.org/programmes-and-calls/globalstars/globalstars-call-with-taiwan-2026/",
     "first_seen": "2026-09-18",
-    "last_checked": "2026-09-18"
+    "last_checked": "2026-09-18",
+    "fit": "want",
+    "fit_reason": ""
   },
   {
     "id": "tw-presidential-hackathon-2026-intl",
@@ -403,7 +459,9 @@
     "summary": "USD $30,000 cash prize; global teams invited to harness AI for inclusive digital solutions.",
     "source_url": "https://presidential-hackathon.taiwan.gov.tw/en/international-track/",
     "first_seen": "2026-09-18",
-    "last_checked": "2026-09-18"
+    "last_checked": "2026-09-18",
+    "fit": "want",
+    "fit_reason": ""
   },
   {
     "id": "hk-fi-hk-fall-2026",
@@ -417,6 +475,8 @@
     "summary": "Pre-seed accelerator for Hong Kong founders; structured curriculum, mentor network, and investor access. Applications now open.",
     "source_url": "https://fi.co/insight/build-a-great-startup-in-2026-with-the-fi-hong-kong-startup-accelerator",
     "first_seen": "2026-09-18",
-    "last_checked": "2026-09-18"
+    "last_checked": "2026-09-18",
+    "fit": "want",
+    "fit_reason": ""
   }
 ]
