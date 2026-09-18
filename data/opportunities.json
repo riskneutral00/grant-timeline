@@ -246,7 +246,7 @@
     "url": "https://cht5g.com.tw/index-smart.html",
     "deadline": "2026-09-18",
     "status": "closed",
-    "summary": "Software/AI applications; teams 1–6 with at least one Taiwan national. Closed at 12:00 Asia/Taipei on September 18. Official schedule verified; final October 31.",
+    "summary": "Software/AI applications; teams 1–6 with at least one Taiwan national. Closed at 12:00 Asia/Taipei on September 18. Final October 31.",
     "first_seen": "2026-09-18",
     "last_checked": "2026-09-18",
     "source_url": "https://cht5g.com.tw/index-smart.html"
@@ -288,7 +288,7 @@
     "url": "https://aibuilderscup.com/",
     "deadline": null,
     "status": "upcoming",
-    "summary": "AI-native pre-seed/seed startups worldwide. Launch pitch October 15, 2026; Season 1 applications January 2027. USD 50,000–250,000 is discretionary investment subject to diligence and negotiated terms, NOT a cash grant. No deadline published.",
+    "summary": "AI-native pre-seed/seed startups worldwide. Launch pitch October 15, 2026; Season 1 applications open January 2027. USD 50,000–250,000 is discretionary investment, NOT a cash grant.",
     "first_seen": "2026-09-18",
     "last_checked": "2026-09-18",
     "source_url": "https://aibuilderscup.com/"
@@ -362,5 +362,61 @@
     "first_seen": "2026-09-18",
     "last_checked": "2026-09-18",
     "source_url": "https://www.venturespark.asia/"
+  },
+  {
+    "id": "hk-hktech300-s21",
+    "name": "HK Tech 300 Seed Fund (21st Cohort)",
+    "type": "grant",
+    "country": "HK",
+    "organizer": "City University of Hong Kong",
+    "url": "https://www.cityu.edu.hk/hktech300/about-hk-tech-300/hk-tech-300-seed-fund",
+    "deadline": "2026-10-07",
+    "status": "upcoming",
+    "summary": "HK$100,000 seed fund for CityU-affiliated teams to develop innovative ideas into startups; applications open 23 Sep 2026.",
+    "source_url": "https://www.cityu.edu.hk/hktech300/about-hk-tech-300/hk-tech-300-seed-fund",
+    "first_seen": "2026-09-18",
+    "last_checked": "2026-09-18"
+  },
+  {
+    "id": "tw-eureka-globalstars-2026",
+    "name": "Eureka Globalstars Taiwan 2026",
+    "type": "grant",
+    "country": "TW",
+    "organizer": "Eureka Network / MOEA DoIT",
+    "url": "https://www.eurekanetwork.org/programmes-and-calls/globalstars/globalstars-call-with-taiwan-2026/",
+    "deadline": "2026-09-15",
+    "status": "closed",
+    "summary": "International joint R&D grant for Taiwan companies collaborating with Austria, Finland, Sweden, or Netherlands partners; civilian AI, semiconductors, quantum, sustainability.",
+    "source_url": "https://www.eurekanetwork.org/programmes-and-calls/globalstars/globalstars-call-with-taiwan-2026/",
+    "first_seen": "2026-09-18",
+    "last_checked": "2026-09-18"
+  },
+  {
+    "id": "tw-presidential-hackathon-2026-intl",
+    "name": "Presidential Hackathon International Track 2026",
+    "type": "hackathon",
+    "country": "TW",
+    "organizer": "Ministry of Digital Affairs (MODA)",
+    "url": "https://presidential-hackathon.taiwan.gov.tw/en/international-track/",
+    "deadline": "2026-07-31",
+    "status": "closed",
+    "summary": "USD $30,000 cash prize; global teams invited to harness AI for inclusive digital solutions.",
+    "source_url": "https://presidential-hackathon.taiwan.gov.tw/en/international-track/",
+    "first_seen": "2026-09-18",
+    "last_checked": "2026-09-18"
+  },
+  {
+    "id": "hk-fi-hk-fall-2026",
+    "name": "Founder Institute Hong Kong Fall 2026",
+    "type": "accelerator",
+    "country": "HK",
+    "organizer": "Founder Institute",
+    "url": "https://fi.co/insight/build-a-great-startup-in-2026-with-the-fi-hong-kong-startup-accelerator",
+    "deadline": "2026-10-21",
+    "status": "open",
+    "summary": "Pre-seed accelerator for Hong Kong founders; structured curriculum, mentor network, and investor access. Applications now open.",
+    "source_url": "https://fi.co/insight/build-a-great-startup-in-2026-with-the-fi-hong-kong-startup-accelerator",
+    "first_seen": "2026-09-18",
+    "last_checked": "2026-09-18"
   }
 ]
