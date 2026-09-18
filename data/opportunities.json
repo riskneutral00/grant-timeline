@@ -8,15 +8,15 @@
     "url": "https://sbir.org.tw/",
     "deadline": null,
     "status": "rolling",
-    "summary": "Software R&D feasibility support for Taiwan SMEs. Seeded from existing index and research matrix; current terms need official revalidation.",
+    "summary": "6-month feasibility study grant for a registered Taiwan SME applying alone; one-person companies qualify. Applications accepted year-round.",
     "first_seen": "2026-09-18",
     "last_checked": "2026-09-18",
-    "source_url": "https://sbir.org.tw/",
+    "source_url": "https://sbir.org.tw/sbir/info",
     "fit": "want",
     "fit_reason": "",
-    "team_min": null,
-    "team_max": null,
-    "prize": "Up to NT$1.5 million (6-month feasibility study)"
+    "team_min": 1,
+    "team_max": 1,
+    "prize": "Up to NT$1.5 million"
   },
   {
     "id": "tw-sbir-2",
@@ -27,13 +27,13 @@
     "url": "https://sbir.org.tw/",
     "deadline": null,
     "status": "rolling",
-    "summary": "Software R&D development support for Taiwan SMEs. Seeded from research matrix; current terms need official revalidation.",
+    "summary": "R&D development grant for a registered Taiwan SME; one-person companies qualify. Applications accepted year-round.",
     "first_seen": "2026-09-18",
     "last_checked": "2026-09-18",
-    "source_url": "https://sbir.org.tw/",
+    "source_url": "https://sbir.org.tw/sbir/info",
     "fit": "want",
     "fit_reason": "",
-    "team_min": null,
+    "team_min": 1,
     "team_max": null,
     "prize": "Up to NT$6 million (1 year) or NT$12 million (2 years)"
   },
@@ -44,17 +44,17 @@
     "country": "TW",
     "organizer": "Kaohsiung City Youth Bureau",
     "url": "https://youth.kcg.gov.tw/Resource_Content.aspx?n=38&s=12555&sms=10161",
-    "deadline": "2026-03-31",
+    "deadline": "2026-04-15",
     "status": "closed",
-    "summary": "General entrepreneurship support, including software businesses. Historical deadline from research matrix; next cycle unannounced.",
+    "summary": "For a business registered in Kaohsiung in the last 3 years, owner aged 18–45, after 10 hours of startup training; one-person businesses qualify. 2027 cycle not announced.",
     "first_seen": "2026-09-18",
     "last_checked": "2026-09-18",
     "source_url": "https://youth.kcg.gov.tw/Resource_Content.aspx?n=38&s=12555&sms=10161",
     "fit": "want",
     "fit_reason": "",
-    "team_min": null,
+    "team_min": 1,
     "team_max": null,
-    "prize": "NA"
+    "prize": "Up to NT$80,000 (70% of rent, equipment and marketing costs)"
   },
   {
     "id": "tw-khh-competitive-2026",
@@ -63,17 +63,17 @@
     "country": "TW",
     "organizer": "Kaohsiung City Youth Bureau",
     "url": "https://youth.kcg.gov.tw/",
-    "deadline": "2026-04-30",
+    "deadline": "2026-04-12",
     "status": "closed",
-    "summary": "Competitive entrepreneurship support, including digital content. Historical deadline from research matrix; local company and household eligibility apply.",
+    "summary": "Kaohsiung youth startup competition. Company track needs a registered company (leader aged 18–45); team track needs at least 2 people. 2027 cycle not announced.",
     "first_seen": "2026-09-18",
     "last_checked": "2026-09-18",
-    "source_url": "https://youth.kcg.gov.tw/",
+    "source_url": "https://youth.kcg.gov.tw/News_Content.aspx?n=9&sms=10146&s=12705",
     "fit": "want",
     "fit_reason": "",
-    "team_min": null,
+    "team_min": 1,
     "team_max": null,
-    "prize": "NA"
+    "prize": "NT$2.23 million total (company track 1st place NT$1 million)"
   },
   {
     "id": "tw-ai-service-2026",
@@ -84,15 +84,15 @@
     "url": "https://digiplus.adi.gov.tw/",
     "deadline": "2026-07-24",
     "status": "closed",
-    "summary": "AI application and AI Agent integration R&D. Historical deadline from July research; cited MODA link conflicted with another program, so recheck official portal before relying on terms.",
+    "summary": "AI application and AI agent R&D grant; a single registered software/IT company may apply alone.",
     "first_seen": "2026-09-18",
     "last_checked": "2026-09-18",
-    "source_url": "https://digiplus.adi.gov.tw/",
+    "source_url": "https://moda.gov.tw/ADI/news/events/20044",
     "fit": "want",
     "fit_reason": "",
-    "team_min": null,
+    "team_min": 1,
     "team_max": null,
-    "prize": "NA"
+    "prize": "Up to NT$5 million (AI apps) or NT$20 million (AI agents), max 50% of cost"
   },
   {
     "id": "tw-digital-plus",
@@ -103,10 +103,10 @@
     "url": "https://digiplus.adi.gov.tw/",
     "deadline": null,
     "status": "closed",
-    "summary": "Software and digital-service calls. Retained watchlist umbrella; no current open intake verified. Closed means not confirmed available, not discontinued.",
+    "summary": "Umbrella site for about 11 digital-industry grant programs, each with its own call; none confirmed open now.",
     "first_seen": "2026-09-18",
     "last_checked": "2026-09-18",
-    "source_url": "https://digiplus.adi.gov.tw/",
+    "source_url": "https://digiplus.adi.gov.tw/plan_table.html",
     "fit": "want",
     "fit_reason": "",
     "team_min": null,
@@ -120,9 +120,9 @@
     "country": "TW",
     "organizer": "MOEA SMESA",
     "url": "https://sbir.org.tw/cross/notice",
-    "deadline": null,
+    "deadline": "2025-12-09",
     "status": "closed",
-    "summary": "Cross-industry SME consortium R&D; track civilian software-only projects. No current intake verified; retained for monitoring.",
+    "summary": "Needs an alliance of 2+ registered companies (at least one a startup); no solo applications. 2027 call not announced yet; past notices came out in October.",
     "first_seen": "2026-09-18",
     "last_checked": "2026-09-18",
     "source_url": "https://sbir.org.tw/cross/notice",
@@ -130,7 +130,7 @@
     "fit_reason": "",
     "team_min": null,
     "team_max": null,
-    "prize": "NA"
+    "prize": "Up to NT$7 million (max 50% of project cost)"
   },
   {
     "id": "tw-citd",
@@ -139,17 +139,17 @@
     "country": "TW",
     "organizer": "Industrial Development Administration",
     "url": "https://keid.nat.gov.tw/citdweb/Web/CITD_index.aspx",
-    "deadline": null,
+    "deadline": "2026-02-09",
     "status": "closed",
-    "summary": "Track software-based digital transformation only, not hardware development. Imported from index; no current intake verified.",
+    "summary": "Product development grant for registered companies, which self-fund about half. No second 2026 batch found.",
     "first_seen": "2026-09-18",
     "last_checked": "2026-09-18",
-    "source_url": "https://keid.nat.gov.tw/citdweb/Web/CITD_index.aspx",
+    "source_url": "https://startup.sme.gov.tw/home/modules/news/detial.php?sId=2142",
     "fit": "want",
     "fit_reason": "",
-    "team_min": null,
+    "team_min": 1,
     "team_max": null,
-    "prize": "NA"
+    "prize": "Up to NT$2 million (single company); NT$10 million for 3+ company alliances"
   },
   {
     "id": "tw-tourism-digital",
@@ -159,16 +159,16 @@
     "organizer": "Tourism Administration",
     "url": "https://admin.taiwan.net.tw/",
     "deadline": null,
-    "status": "closed",
+    "status": "rolling",
     "summary": "Digital/e-commerce systems for licensed tourism businesses. Index and matrix disagree on cycle year; no deadline asserted until verified.",
     "first_seen": "2026-09-18",
     "last_checked": "2026-09-18",
-    "source_url": "https://admin.taiwan.net.tw/",
+    "source_url": "https://admin.taiwan.net.tw/BusinessInfo/Articles?a=24342",
     "fit": "skip",
     "fit_reason": "Only for licensed tourism businesses.",
     "team_min": null,
     "team_max": null,
-    "prize": "NA"
+    "prize": "Up to 90% of first e-commerce system cost (cap NT$50,000–100,000)"
   },
   {
     "id": "tw-taitung-sbir-2026",
@@ -177,17 +177,17 @@
     "country": "TW",
     "organizer": "Taitung County Government",
     "url": "https://taitungsbir.taitung.gov.tw/",
-    "deadline": "2026-04-29",
+    "deadline": "2026-03-31",
     "status": "closed",
     "summary": "Local SME R&D including software. Historical matrix deadline; local entity requirements apply.",
     "first_seen": "2026-09-18",
     "last_checked": "2026-09-18",
-    "source_url": "https://taitungsbir.taitung.gov.tw/",
+    "source_url": "https://startup.sme.gov.tw/home/modules/funding/detail/?sId=106",
     "fit": "skip",
     "fit_reason": "Needs a company registered and operating in Taitung County.",
-    "team_min": null,
+    "team_min": 1,
     "team_max": null,
-    "prize": "NA"
+    "prize": "Up to NT$1 million (max 50% of project cost)"
   },
   {
     "id": "tw-taitung-bravo",
@@ -198,10 +198,10 @@
     "url": "https://www.taitung.gov.tw/",
     "deadline": null,
     "status": "closed",
-    "summary": "Local creation support; monitor software/service proposals. Forecast years in legacy sources conflict; no announced intake verified.",
+    "summary": "Local Taitung brand mentoring program; last confirmed edition was 2021.",
     "first_seen": "2026-09-18",
     "last_checked": "2026-09-18",
-    "source_url": "https://www.taitung.gov.tw/",
+    "source_url": "https://bdsone.taitung.gov.tw/article.php?id=176",
     "fit": "skip",
     "fit_reason": "Local Taitung program; needs Taitung residence or registration.",
     "team_min": null,
@@ -217,10 +217,10 @@
     "url": "https://www.oac.gov.tw/",
     "deadline": "2026-01-20",
     "status": "closed",
-    "summary": "Historical civilian ocean data and AI research scope only; excludes defense, military and hardware projects. Deadline from July research.",
+    "summary": "Ocean Affairs Council runs several marine subsidy calls; no software/AI civilian call confirmed open for 2026.",
     "first_seen": "2026-09-18",
     "last_checked": "2026-09-18",
-    "source_url": "https://www.oac.gov.tw/",
+    "source_url": "https://www.oac.gov.tw/ch/home.jsp?id=67&parentpath=0,6",
     "fit": "want",
     "fit_reason": "",
     "team_min": null,
@@ -236,15 +236,15 @@
     "url": "https://gcis.nat.gov.tw/neo-s/Web/News.aspx",
     "deadline": "2026-01-30",
     "status": "closed",
-    "summary": "Service innovation R&D, including software. July research records exhausted budget and no second 2026 tranche.",
+    "summary": "Service innovation R&D grant. 2026 budget is used up; next call expected around Dec 2026 to Jan 2027.",
     "first_seen": "2026-09-18",
     "last_checked": "2026-09-18",
-    "source_url": "https://gcis.nat.gov.tw/neo-s/Web/News.aspx",
+    "source_url": "https://www.sme.gov.tw/caas/article-caas-3059-19648",
     "fit": "want",
     "fit_reason": "",
-    "team_min": null,
-    "team_max": null,
-    "prize": "NA"
+    "team_min": 1,
+    "team_max": 1,
+    "prize": "Up to NT$1.5 million (single-company track)"
   },
   {
     "id": "tw-pingtung-sbir-2026",
@@ -261,9 +261,9 @@
     "source_url": "https://startup.sme.gov.tw/home/modules/funding/detail/?sId=112",
     "fit": "skip",
     "fit_reason": "Needs a company registered and operating in Pingtung County.",
-    "team_min": null,
+    "team_min": 1,
     "team_max": null,
-    "prize": "NA"
+    "prize": "Up to NT$1 million (single company); NT$2 million joint"
   },
   {
     "id": "tw-siti-rd",
@@ -273,16 +273,16 @@
     "organizer": "Taipei Department of Economic Development",
     "url": "https://doed.gov.taipei/News.aspx?n=D10E196BF7146493&sms=6CFF5C8DD91F51D0",
     "deadline": null,
-    "status": "closed",
+    "status": "rolling",
     "summary": "Taipei R&D support including software. Prior September-October forecast was unverified; no current intake asserted.",
     "first_seen": "2026-09-18",
     "last_checked": "2026-09-18",
-    "source_url": "https://doed.gov.taipei/News.aspx?n=D10E196BF7146493&sms=6CFF5C8DD91F51D0",
+    "source_url": "https://www.industry-incentive.taipei/about/4",
     "fit": "skip",
     "fit_reason": "Needs a company registered in Taipei City.",
     "team_min": null,
     "team_max": null,
-    "prize": "NA"
+    "prize": "Up to NT$5 million (max 50% of project cost)"
   },
   {
     "id": "tw-aspn-3",
@@ -293,15 +293,15 @@
     "url": "https://aspn-sports.com/",
     "deadline": "2026-04-18",
     "status": "closed",
-    "summary": "Historical sports technology accelerator; software applications only. Deadline imported from research matrix; URL and next cycle require revalidation.",
+    "summary": "Sports tech accelerator; Batch 3 demo day was Sep 8, 2026. Batch 4 not announced.",
     "first_seen": "2026-09-18",
     "last_checked": "2026-09-18",
-    "source_url": "https://aspn-sports.com/",
+    "source_url": "https://aspn-sportstech.iaps.ord.nycu.edu.tw/archives/9306",
     "fit": "want",
     "fit_reason": "",
     "team_min": null,
     "team_max": null,
-    "prize": "NA"
+    "prize": "None (free, no-equity mentoring program)"
   },
   {
     "id": "tw-sparklabs",
@@ -311,16 +311,16 @@
     "organizer": "SparkLabs Taiwan",
     "url": "https://www.sparklabstaiwan.com/",
     "deadline": null,
-    "status": "closed",
-    "summary": "Software startup acceleration; imported from research matrix. No current cohort deadline verified; monitor, do not assume rolling admission.",
+    "status": "rolling",
+    "summary": "Startup accelerator taking applications on a rolling basis (Batch 11). No team rule stated.",
     "first_seen": "2026-09-18",
     "last_checked": "2026-09-18",
-    "source_url": "https://www.sparklabstaiwan.com/",
+    "source_url": "https://www.sparklabstaiwan.com/accelerator/program",
     "fit": "want",
     "fit_reason": "",
     "team_min": null,
     "team_max": null,
-    "prize": "NA"
+    "prize": "USD 100,000 for up to 7% equity"
   },
   {
     "id": "tw-cht-2026",
@@ -339,7 +339,7 @@
     "fit_reason": "",
     "team_min": 1,
     "team_max": 6,
-    "prize": "NA"
+    "prize": "1st place NT$250,000 (NT$2.26 million+ across the series)"
   },
   {
     "id": "hk-gft-2026",
@@ -350,15 +350,15 @@
     "url": "https://www.globalfasttrack.hk/pitching-competition-2026",
     "deadline": "2026-09-25",
     "status": "open",
-    "summary": "Software/AI startup pitching and Asia market access. Final November 2–3. Deadline from September research; live competition page verifies program, but does not repeat deadline. Paid exhibition route differs from regular eligibility.",
+    "summary": "Startup pitching competition for Asia expansion; final Nov 2–3 at HK FinTech Week. Eligibility is about company stage and a 24-month Asia plan; no team rule.",
     "first_seen": "2026-09-18",
     "last_checked": "2026-09-18",
-    "source_url": "https://www.globalfasttrack.hk/pitching-competition-2026",
+    "source_url": "https://www.globalfasttrack.hk/",
     "fit": "want",
     "fit_reason": "",
     "team_min": null,
     "team_max": null,
-    "prize": "Up to HK$100,000 in subsidies"
+    "prize": "No cash prize (investor meetings, pitch at HK FinTech Week, flight reimbursement)"
   },
   {
     "id": "th-ai-for-all-2026",
@@ -388,15 +388,15 @@
     "url": "https://aibuilderscup.com/",
     "deadline": null,
     "status": "upcoming",
-    "summary": "AI-native pre-seed/seed startups worldwide. Launch pitch October 15, 2026; Season 1 applications open January 2027. USD 50,000–250,000 is discretionary investment, NOT a cash grant.",
+    "summary": "AI-native pre-seed and seed startups worldwide. Launch pitch Oct 15, 2026; Season 1 applications open January 2027. No team rule stated.",
     "first_seen": "2026-09-18",
     "last_checked": "2026-09-18",
-    "source_url": "https://aibuilderscup.com/",
+    "source_url": "https://aibuilderscup.com/apply",
     "fit": "want",
     "fit_reason": "",
     "team_min": null,
     "team_max": null,
-    "prize": "USD 50,000–250,000 investment (not a grant)"
+    "prize": "USD 50,000–250,000 investment (not a grant); free to enter"
   },
   {
     "id": "th-ai-builders-bangkok-s1-27",
@@ -415,7 +415,7 @@
     "fit_reason": "",
     "team_min": null,
     "team_max": null,
-    "prize": "Investment possible (not guaranteed)"
+    "prize": "USD 50,000–250,000 investment possible (not guaranteed)"
   },
   {
     "id": "tw-appworks-33",
@@ -426,7 +426,7 @@
     "url": "https://appworks.tw/accelerator-faq/",
     "deadline": "2026-07-30",
     "status": "closed",
-    "summary": "First-scan discovery. Official FAQ confirms applications closed; software startup acceleration. Next batch #34 has a waitlist, not a confirmed application deadline.",
+    "summary": "Batch 33 closed; Batch 34 has a waitlist only. Solo founders reportedly accepted (not confirmed officially).",
     "first_seen": "2026-09-18",
     "last_checked": "2026-09-18",
     "source_url": "https://appworks.tw/accelerator-faq/",
@@ -434,7 +434,7 @@
     "fit_reason": "",
     "team_min": null,
     "team_max": null,
-    "prize": "No grant; possible investment"
+    "prize": "None directly (free, no equity; access to investors)"
   },
   {
     "id": "hk-ccmf-oct-2026",
@@ -451,7 +451,7 @@
     "source_url": "https://www.cyberport.hk/en/entrepreneurship/hong_kong_programme/",
     "fit": "skip",
     "fit_reason": "Needs a Hong Kong ID or a Hong Kong-incorporated company.",
-    "team_min": null,
+    "team_min": 1,
     "team_max": null,
     "prize": "Up to HK$100,000"
   },
@@ -464,13 +464,13 @@
     "url": "https://www.cyberport.hk/en/entrepreneurship/hong_kong_programme/",
     "deadline": "2026-12-01",
     "status": "upcoming",
-    "summary": "First-scan discovery. Official timeline announces December 1 deadline; current acceptance opening date not confirmed. Up to HK$100,000 digital tech grant; HK eligibility applies.",
+    "summary": "Seed grant for early digital tech projects. Individuals need a Hong Kong ID; companies must be Hong Kong incorporated.",
     "first_seen": "2026-09-18",
     "last_checked": "2026-09-18",
-    "source_url": "https://www.cyberport.hk/en/entrepreneurship/hong_kong_programme/",
+    "source_url": "https://www.fundfluent.io/funding-programs/hk-cyberport-creative-micro-fund",
     "fit": "skip",
     "fit_reason": "Needs a Hong Kong ID or a Hong Kong-incorporated company.",
-    "team_min": null,
+    "team_min": 1,
     "team_max": null,
     "prize": "Up to HK$100,000"
   },
@@ -483,15 +483,15 @@
     "url": "https://www.venturespark.asia/",
     "deadline": "2026-04-25",
     "status": "closed",
-    "summary": "First-scan discovery. Official cohort timeline: applications March 9–April 25. Thai startup acceleration; software ventures only in this directory.",
+    "summary": "Thai startup accelerator; solo founders allowed and no company needed. Cohort 3 not announced yet.",
     "first_seen": "2026-09-18",
     "last_checked": "2026-09-18",
     "source_url": "https://www.venturespark.asia/",
     "fit": "want",
     "fit_reason": "",
-    "team_min": null,
+    "team_min": 1,
     "team_max": null,
-    "prize": "NA"
+    "prize": "NA (equity accelerator)"
   },
   {
     "id": "hk-hktech300-s21",
@@ -508,9 +508,9 @@
     "last_checked": "2026-09-18",
     "fit": "skip",
     "fit_reason": "Only for teams affiliated with City University of Hong Kong.",
-    "team_min": null,
+    "team_min": 2,
     "team_max": null,
-    "prize": "HK$100,000"
+    "prize": "HK$100,000 per team"
   },
   {
     "id": "tw-eureka-globalstars-2026",
@@ -521,7 +521,7 @@
     "url": "https://www.eurekanetwork.org/programmes-and-calls/globalstars/globalstars-call-with-taiwan-2026/",
     "deadline": "2026-09-15",
     "status": "closed",
-    "summary": "Joint R&D grant for a registered Taiwan company working with a company in Austria, Finland, Sweden or the Netherlands; civilian AI, quantum, digital health, sustainability. Runs most years with changing partner countries.",
+    "summary": "Joint R&D grant: needs a registered Taiwan company plus a partner company in Austria, Finland, Sweden or the Netherlands; no solo applications. Runs most years with changing partner countries.",
     "source_url": "https://www.eurekanetwork.org/programmes-and-calls/globalstars/globalstars-call-with-taiwan-2026/",
     "first_seen": "2026-09-18",
     "last_checked": "2026-09-18",
@@ -529,7 +529,7 @@
     "fit_reason": "",
     "team_min": null,
     "team_max": null,
-    "prize": "Up to 50% of project costs, up to 3 years"
+    "prize": "Up to 50% of project costs for the Taiwan company"
   },
   {
     "id": "tw-presidential-hackathon-2026-intl",
@@ -557,17 +557,17 @@
     "country": "HK",
     "organizer": "Founder Institute",
     "url": "https://fi.co/insight/build-a-great-startup-in-2026-with-the-fi-hong-kong-startup-accelerator",
-    "deadline": "2026-10-21",
-    "status": "open",
-    "summary": "Pre-seed accelerator for Hong Kong founders; structured curriculum, mentor network, and investor access. Applications now open.",
-    "source_url": "https://fi.co/insight/build-a-great-startup-in-2026-with-the-fi-hong-kong-startup-accelerator",
+    "deadline": "2026-07-28",
+    "status": "closed",
+    "summary": "Fall 2026 cohort already started Sep 7. Next cohort (Nov 10, 2026 to Jan 13, 2027) has an early deadline around Sep 29, 2026. Solo founders allowed.",
+    "source_url": "https://fi.co/apply/hong_kong",
     "first_seen": "2026-09-18",
     "last_checked": "2026-09-18",
     "fit": "want",
     "fit_reason": "",
     "team_min": null,
     "team_max": null,
-    "prize": "None (training program)"
+    "prize": "None (training program; about USD 1,049 entry fee)"
   },
   {
     "id": "tw-codefest-fall-2026",
@@ -579,7 +579,7 @@
     "deadline": "2026-10-05",
     "status": "open",
     "summary": "32-hour hackathon on Nov 7–8 building microservices for the Taipei CityPass app with open data. No age or nationality limits. Winning code must be released under the AGPL license.",
-    "source_url": "https://codefest.taipei/2026-fall/rules",
+    "source_url": "https://codefest.taipei/2026-fall/rules/faq",
     "first_seen": "2026-09-18",
     "last_checked": "2026-09-18",
     "fit": "skip",
@@ -596,9 +596,9 @@
     "country": "TW",
     "organizer": "Ministry of Digital Affairs (MODA) / Executive Yuan",
     "url": "https://presidential-hackathon.taiwan.gov.tw/",
-    "deadline": "2026-08-19",
+    "deadline": "2026-08-31",
     "status": "closed",
-    "summary": "2026 theme: Smart Agriculture, Safety and Sustainability. Open to individuals, students, and organizations — no company registration required. Teams up to 10. Top 5 teams receive NT$200,000 each; government agencies follow up on winning proposals. Annual competition.",
+    "summary": "Open to individuals, students and organizations; no company needed; teams up to 10 (minimum not stated). Government agencies follow up on winning ideas. Runs every year; 2026 theme was smart agriculture, safety and sustainability.",
     "source_url": "https://presidential-hackathon.taiwan.gov.tw/",
     "fit": "want",
     "first_seen": "2026-09-18",
