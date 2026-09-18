@@ -35,10 +35,10 @@ class BuildTests(unittest.TestCase):
         want, skip = page.split('<details')
         self.assertIn('data-id="x"', want); self.assertNotIn('Skipped one', want)
         self.assertIn('Skipped one', skip); self.assertIn('Needs HKID', skip)
-    def test_english_only(self):
-        for k in ('name', 'summary', 'organizer', 'prize', 'fit_reason'):
-            with self.assertRaises(ValueError): validate([dict(self.r, **{k: '臺北秋季程式設計節'})])
-        self.assertEqual(len(validate([dict(self.r, prize='NT$700,000 total')])), 1)
+    def test_render_refuses_chinese(self):
+        with self.assertRaises(ValueError): render([dict(self.r, name='臺北')], '{{TABLE}}')
+    def test_validate_allows_source_language(self):
+        self.assertEqual(len(validate([dict(self.r, summary='隊伍 4-5 人')])), 1)
     def test_team_rule(self):
         with self.assertRaises(ValueError): validate([dict(self.r, team_min=3, team_max=10)])
         with self.assertRaises(ValueError): validate([dict(self.r, team_min=2, team_max=1)])

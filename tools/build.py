@@ -4,14 +4,14 @@ import argparse
 import datetime as dt
 import html
 import json
-import re
 from pathlib import Path
 from urllib.parse import urlsplit
 
+from translate import FIELDS as SHOWN, FOREIGN, english, gemini, load_cache, save_cache
+
 ROOT = Path(__file__).resolve().parents[1]
 FIELDS = set('id name type country organizer url deadline status summary first_seen last_checked source_url fit fit_reason team_min team_max prize'.split())
-ENGLISH = ('name', 'organizer', 'summary', 'prize', 'fit_reason')
-CJK = re.compile(r'[\u3000-\u9fff\uac00-\ud7af\uff00-\uffef]')
+
 
 
 def validate(rows):
@@ -35,9 +35,6 @@ def validate(rows):
             raise ValueError('Invalid fit (want or skip)')
         if not isinstance(row['fit_reason'], str) or (row['fit'] == 'skip' and not row['fit_reason'].strip()):
             raise ValueError('A skipped entry needs fit_reason')
-        for key in ENGLISH:
-            if CJK.search(row[key]):
-                raise ValueError(f'{key} must be in English: ' + row['id'])
         lo, hi = row['team_min'], row['team_max']
         for v in (lo, hi):
             if v is not None and (type(v) is not int or v < 1):
@@ -93,6 +90,9 @@ def table(rows, reason=False):
 def render(rows, template):
     if template.count('{{TABLE}}') != 1:
         raise ValueError('Template must have exactly one table marker')
+    bad = [r['id'] for r in rows for k in SHOWN if FOREIGN.search(r[k])]
+    if bad:
+        raise ValueError('Not in English, refusing to publish: ' + ', '.join(sorted(set(bad))))
     skip = [r for r in rows if r['fit'] == 'skip']
     body = table([r for r in rows if r['fit'] == 'want'])
     body += f'\n<details><summary>Not eligible ({len(skip)}), kept so they are not researched again</summary>\n{table(skip, reason=True)}\n</details>'
@@ -109,7 +109,12 @@ def main():
     old = path.read_text(encoding='utf-8')
     rows = normalized(validate(json.loads(old)), args.as_of)
     data = json.dumps(rows, ensure_ascii=False, indent=2) + '\n'
-    page = render(rows, (ROOT / 'tools/template.html').read_text(encoding='utf-8'))
+    cache = load_cache()
+    before = dict(cache)
+    shown = english(rows, cache, None if args.check else gemini)
+    if cache != before:
+        save_cache(cache)
+    page = render(shown, (ROOT / 'tools/template.html').read_text(encoding='utf-8'))
     if args.check:
         if old != data or (ROOT / 'index.html').read_text(encoding='utf-8') != page:
             raise SystemExit('Generated files are stale; run tools/build.py')
