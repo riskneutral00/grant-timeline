@@ -510,5 +510,21 @@
     "fit": "want",
     "first_seen": "2026-09-18",
     "last_checked": "2026-09-18"
+  },
+  {
+    "fit_reason": "Requires a team of 4-5 people; Matt can only do 1-2 person teams.",
+    "id": "codefest-taipei-2026-fall",
+    "name": "2026 臺北秋季程式設計節",
+    "type": "hackathon",
+    "country": "TW",
+    "organizer": "臺北市政府資訊局",
+    "url": "https://codefest.taipei/",
+    "deadline": "2026-10-05",
+    "status": "open",
+    "summary": "32-hour hackathon building microservices compatible with 台北通 (CityPass). NT$300K/150K/100K + 3x merit. Team size 4-5.",
+    "source_url": "https://codefest.taipei/2026-fall/rules/",
+    "fit": "skip",
+    "first_seen": "2026-09-18",
+    "last_checked": "2026-09-18"
   }
 ]
