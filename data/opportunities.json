@@ -478,5 +478,37 @@
     "last_checked": "2026-09-18",
     "fit": "want",
     "fit_reason": ""
+  },
+  {
+    "id": "tw-codefest-fall-2026",
+    "name": "2026 臺北秋季程式設計節 城市通微服務大黑客松",
+    "type": "hackathon",
+    "country": "TW",
+    "organizer": "臺北市政府資訊局",
+    "url": "https://codefest.taipei/2026-fall/rules/faq",
+    "deadline": "2026-10-05",
+    "status": "open",
+    "summary": "4-5人組隊,不限年齡身份國籍。總獎金NT$700,000(首獎30萬)。賽程11/7-8於臺北市立大學天母校區。以台北通為基礎開發城市微服務,可結合AI/開放資料。得獎作品須以AGPL授權並協助官方整併。",
+    "source_url": "https://codefest.taipei/2026-fall/rules",
+    "first_seen": "2026-09-18",
+    "last_checked": "2026-09-18",
+    "fit": "want",
+    "fit_reason": "Taiwan event; no age, student, or nationality limits; 4-5 person teams; no company registration required."
+  },
+  {
+    "fit_reason": "",
+    "id": "tw-presidential-hackathon-2026-domestic",
+    "name": "Presidential Hackathon Domestic Track 2026",
+    "type": "hackathon",
+    "country": "TW",
+    "organizer": "Ministry of Digital Affairs (MODA) / Executive Yuan",
+    "url": "https://presidential-hackathon.taiwan.gov.tw/",
+    "deadline": "2026-08-19",
+    "status": "closed",
+    "summary": "2026 theme: Smart Agriculture, Safety and Sustainability. Open to individuals, students, and organizations — no company registration required. Teams up to 10. Top 5 teams receive NT$200,000 each; government agencies follow up on winning proposals. Annual competition.",
+    "source_url": "https://presidential-hackathon.taiwan.gov.tw/",
+    "fit": "want",
+    "first_seen": "2026-09-18",
+    "last_checked": "2026-09-18"
   }
 ]
