@@ -1,7 +1,7 @@
 import unittest
 from upsert import upsert
 E = dict(id='x', name='X', type='grant', country='TW', organizer='O', url='https://a.b', deadline=None,
-         status='rolling', summary='s', first_seen='2026-01-01', last_checked='2026-01-01', source_url='https://a.b', fit='want', fit_reason='')
+         status='rolling', summary='s', first_seen='2026-01-01', last_checked='2026-01-01', source_url='https://a.b', fit='want', fit_reason='', team_min=None, team_max=None, prize='NA')
 class T(unittest.TestCase):
     def test_add_and_update_keeps_first_seen(self):
         rows, a, u = upsert([dict(E)], [dict(E, id='y', name='Y')], '2026-10-01')
@@ -14,4 +14,8 @@ class T(unittest.TestCase):
         new = {k: v for k, v in E.items() if k != 'fit_reason'}
         rows, a, _ = upsert([dict(E)], [dict(new, id='w')], '2026-10-01')
         self.assertEqual(rows[1]['fit_reason'], '')
+    def test_team_prize_default_to_na(self):
+        new = {k: v for k, v in E.items() if k not in ('team_min', 'team_max', 'prize')}
+        rows, _, _ = upsert([dict(E)], [dict(new, id='n')], '2026-10-01')
+        self.assertEqual((rows[1]['team_min'], rows[1]['team_max'], rows[1]['prize']), (None, None, 'NA'))
 if __name__ == '__main__': unittest.main()
