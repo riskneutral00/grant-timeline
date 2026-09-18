@@ -1,0 +1,164 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Grant Timeline — Full Schedule</title>
+<style>
+  body {
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+    background: #111;
+    color: #e0e0e0;
+    max-width: 1100px;
+    margin: 40px auto;
+    padding: 0 20px;
+  }
+  h1 { font-size: 24px; font-weight: 600; margin-bottom: 4px; }
+  .subtitle { color: #888; font-size: 14px; margin-bottom: 32px; }
+  table { width: 100%; border-collapse: collapse; font-size: 13px; }
+  th {
+    text-align: left;
+    padding: 10px 8px;
+    font-weight: 600;
+    color: #999;
+    font-size: 11px;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+    border-bottom: 1px solid #2a2a2a;
+  }
+  td { padding: 10px 8px; border-bottom: 1px solid #1e1e1e; vertical-align: top; }
+  .when-col { width: 110px; font-weight: 600; font-size: 12px; }
+  .name { font-weight: 500; }
+  .amount { font-variant-numeric: tabular-nums; white-space: nowrap; }
+  .match { font-weight: 600; white-space: nowrap; }
+  .match-0 { color: #4ade80; }
+  .match-10 { color: #a3e635; }
+  .match-30 { color: #facc15; }
+  .match-50 { color: #fb923c; }
+  .match-na { color: #888; }
+  .window { font-size: 12px; color: #aaa; }
+  .tag {
+    display: inline-block;
+    font-size: 10px;
+    padding: 2px 7px;
+    border-radius: 4px;
+    font-weight: 500;
+  }
+  .tag-prep { background: #2a2a2a; color: #ccc; }
+  .tag-reg { background: #166534; color: #86efac; }
+  .tag-after { background: #1e3a5f; color: #93c5fd; }
+  .tag-annual { background: #5b1e3a; color: #f9a8d4; }
+  .tag-dd { background: #3a2a0a; color: #fde68a; }
+  .tag-g2g { background: #0a3a3a; color: #67e8f9; }
+  .section-divider { background: #1a1a1a; }
+  .section-divider td { padding: 14px 8px 6px; border-bottom: none; font-weight: 600; font-size: 12px; color: #888; }
+  .note {
+    font-size: 13px;
+    color: #888;
+    margin-top: 24px;
+    line-height: 1.6;
+  }
+  .interest { font-size: 12px; color: #aaa; }
+  .cost-box {
+    background: #1a1a1a;
+    border: 1px solid #2a2a2a;
+    border-radius: 8px;
+    padding: 16px 20px;
+    margin-bottom: 24px;
+    font-size: 14px;
+  }
+  .cost-box h2 {
+    font-size: 14px;
+    font-weight: 600;
+    margin: 0 0 8px 0;
+    color: #ccc;
+  }
+  .cost-grid {
+    display: flex;
+    gap: 32px;
+    flex-wrap: wrap;
+  }
+  .cost-col {
+    flex: 1;
+    min-width: 200px;
+  }
+  .cost-col h3 {
+    font-size: 12px;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+    color: #666;
+    margin: 0 0 8px 0;
+  }
+  .cost-row {
+    display: flex;
+    justify-content: space-between;
+    padding: 4px 0;
+    font-size: 13px;
+    border-bottom: 1px solid #1e1e1e;
+  }
+  .cost-row:last-child { border-bottom: none; }
+  .cost-total {
+    display: flex;
+    justify-content: space-between;
+    padding: 6px 0;
+    font-weight: 600;
+    color: #4ade80;
+    border-top: 1px solid #333;
+    margin-top: 4px;
+  }
+
+  /* Bank Strategy Box */
+  .strategy-box {
+    background: #0d2818;
+    border: 1px solid #1a6e3a;
+    border-radius: 8px;
+    padding: 16px 20px;
+    margin-bottom: 24px;
+  }
+  .strategy-box h2 { font-size: 14px; font-weight: 600; margin: 0 0 8px 0; color: #4ade80; }
+  .strategy-box p { font-size: 13px; color: #b0d0b0; margin: 4px 0; line-height: 1.5; }
+  .strategy-box a { color: #67e8f9; }
+  .strategy-box .highlight { color: #facc15; font-weight: 600; }
+
+  /* Priority highlighting */
+  .tier1 { border-left: 3px solid #4ade80; }
+  .tier1 td { background: #0a1f0a; }
+  .tier1 .name { color: #86efac; }
+
+  .tier2 { border-left: 3px solid #facc15; }
+  .tier2 td { background: #1a1a0a; }
+
+  .tier3 { opacity: 0.55; }
+  .tier3:hover { opacity: 1; }
+
+  .prob-high { color: #4ade80; font-weight: 600; }
+  .prob-med { color: #facc15; font-weight: 600; }
+  .prob-low { color: #fb923c; }
+  .prob-verylow { color: #888; }
+
+  .free-consult {
+    background: #1a2a3a;
+    border: 1px solid #3a5a7a;
+    border-radius: 8px;
+    padding: 12px 16px;
+    margin: 16px 0;
+    font-size: 13px;
+    color: #93c5fd;
+  }
+  .free-consult a { color: #67e8f9; }
+
+  .prob-col { width: 50px; text-align: center; }
+</style>
+</head>
+<body>
+<h1>Grant Timeline</h1>
+<p class="subtitle">Public software funding opportunities in Taiwan, Thailand and Hong Kong. Open/upcoming first, then rolling, then closed.</p>
+<section class="strategy-box"><h2>Recommended Bank Strategy</h2><p>Legacy personal banking strategy is not published in this public directory.</p></section>
+<section class="cost-box"><h2>Company Registration Costs — Limited Company (有限公司)</h2><p>Confirm current registration requirements with official authorities. Personal budgets are not published here.</p></section>
+{{TABLE}}
+<div class="note"><strong>Plan:</strong> Check official eligibility and current deadlines before preparing an application. Registration, local ownership and residency requirements vary. No applications are submitted by this directory.<br>
+<strong>Status key:</strong> Closed entries are retained. Closed with no deadline means no verified active intake; see the summary. Upcoming with no deadline means an announced future program. Legacy seed facts are explicitly labelled and are not a fresh official verification.<br>
+<strong>Scope:</strong> Civilian software only. No defense, military or hardware programs. Loans, purchases, training and out-of-region programs are excluded at import.</div>
+<footer>Generated from data/opportunities.json by tools/build.py. Do not edit by hand.</footer>
+</body>
+</html>
