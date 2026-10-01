@@ -78,7 +78,7 @@ def validate_details(details,rows):
 
 
 def company_age_summary(company):
-    if company['required'] is False:return 'Not applicable to the individual path.'
+    if company['required'] is False:return ''
     notes=company['notes']
     if company['max_age_months'] is not None:
         months=company['max_age_months']
@@ -93,8 +93,9 @@ def render_research(detail):
     if not detail:return ''
     esc=html.escape
     company=detail['company']
-    requirement='Required' if company['required'] is True else 'Not required for the individual path' if company['required'] is False else 'Not yet verified'
+    requirement='Required' if company['required'] is True else '' if company['required'] is False else 'Not yet verified'
     parts=[f'<section class="company-rules"><h2>Company formation and age</h2><dl><div><dt>Company required</dt><dd>{requirement}</dd></div><div><dt>Jurisdiction</dt><dd>{esc(company["jurisdiction"])}</dd></div><div><dt>Entity types</dt><dd>{esc(company["entity_types"])}</dd></div><div><dt>When you must be incorporated</dt><dd>{esc(company["formation_stage"])}</dd></div><div><dt>When company age is measured</dt><dd>{esc(company["age_reference"])}</dd></div></dl><p>{esc(company["notes"])}</p><a href="{esc(company["source_url"],quote=True)}" target="_blank" rel="noopener noreferrer">Company eligibility source ↗</a></section>']
+    if company['required'] is False:parts=[]
     for key,title in [('purpose','What this event is for'),('theme','Theme and focus'),('activities','What you would do')]:
         parts.append(f'<section><h2>{title}</h2><p>{esc(detail[key])}</p></section>')
     parts.append(f'<section class="research-status"><h2>Research coverage</h2><p>{esc(detail["cycle"])} · Checked {esc(detail["checked_at"])} · {detail["coverage"].capitalize()}</p>')
@@ -102,9 +103,10 @@ def render_research(detail):
     parts.append('</section>')
     for category,title in [('eligibility','Eligibility requirements'),('material','Materials to prepare'),('field','Application fields'),('step','Application steps')]:
         tag='ol' if category=='step' else 'ul'
-        items=[r for r in detail['requirements'] if r['category']==category]
+        items=[r for r in detail['requirements'] if r['category']==category and r['required'] is not False]
         parts.append(f'<section><h2>{title}</h2>')
-        if not items:parts.append('<p class="muted">Not yet verified. Check the official application instructions.</p>')
+        if not items and any(r['category']==category for r in detail['requirements']):parts.append('<p></p>')
+        elif not items:parts.append('<p class="muted">Not yet verified. Check the official application instructions.</p>')
         else:
             parts.append(f'<{tag} class="requirements">')
             for req in items:

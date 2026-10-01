@@ -123,9 +123,10 @@ def directory(rows, details=None):
             description = research['purpose'] if research else r['summary']
             theme = f'<p class="event-theme">Theme: {esc(research["theme"])}</p>' if research else ''
             company = research['company'] if research else None
-            formation = ('Required' if company['required'] is True else 'Not required' if company['required'] is False else 'Not verified') if company else 'Not researched'
+            formation = ('Required' if company['required'] is True else '' if company['required'] is False else 'Not verified') if company else 'Not researched'
             company_cells = f'<div class="company-formation"><span class="mobile-label">Company formation: </span><strong>{formation}</strong><p>{esc(company["jurisdiction"]) if company else ""}</p></div><div class="company-age"><span class="mobile-label">Company age: </span><p title="{esc(company["notes"],quote=True) if company else ""}">{esc(company_age_summary(company)) if company else ""}</p></div>'
             if not company:company_cells = ''
+            elif company['required'] is False:company_cells='<div class="company-formation"></div><div class="company-age"></div>'
             search = (' '.join(research[k] for k in ('purpose', 'theme', 'activities')) + ' ' if research else '') + ' '.join(str(r[k]) for k in ('name', 'organizer', 'summary', 'prize', 'fit_reason')) + ' ' + COUNTRIES[r['country']]
             why = f'<p class="exclusion">{esc(r["fit_reason"])}</p>' if r['fit'] == 'skip' else ''
             solo = r['team_min'] is not None and r['team_min'] <= 1
@@ -162,9 +163,10 @@ def render_detail(row, research=None):
     company_glance = ''
     if research:
         company = research['company']
-        formed = 'Required' if company['required'] is True else 'Not required' if company['required'] is False else 'Needs verification'
+        formed = 'Required' if company['required'] is True else '' if company['required'] is False else 'Needs verification'
         age = company_age_summary(company)
         company_glance = f'<div><dt>Company formation</dt><dd>{formed}<br>{esc(company["jurisdiction"])}</dd></div><div><dt>Company age</dt><dd>{esc(age)}</dd></div>'
+        if company['required'] is False:company_glance=''
     fit = esc(row['fit_reason']) if row['fit'] == 'skip' else 'Potential fit. Check the official requirements before preparing an application.'
     status_note = {
         'closed': 'This round is closed or has no verified active intake. Keep it for reference; a future round is not yet confirmed.',

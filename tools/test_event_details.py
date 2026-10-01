@@ -1,7 +1,7 @@
 import copy
 import datetime as dt
 import unittest
-from event_details import validate_details, render_research
+from event_details import validate_details, render_research, company_age_summary
 
 
 def fixture():
@@ -29,7 +29,9 @@ class EventDetailTests(unittest.TestCase):
         self.details['sample']['requirements'][0]['required']=False
         page=render_research(self.details['sample'])
         self.assertIn('&lt;unsafe&gt;',page);self.assertNotIn('<unsafe>',page)
-        for text in ['Optional','Working demo','Full form requires login.','Example team','Previous winners','Application steps']:
+        self.assertNotIn('Working demo',page)
+        self.assertNotIn('Optional',page)
+        for text in ['Full form requires login.','Example team','Previous winners','Application steps']:
             self.assertIn(text,page)
     def test_company_rules_are_required_and_visible(self):
         page=render_research(self.details['sample'])
@@ -40,6 +42,14 @@ class EventDetailTests(unittest.TestCase):
     def test_untranslated_enrichment_is_held_before_publication(self):
         self.details['sample']['theme']='臺灣'
         with self.assertRaises(ValueError):validate_details(self.details,self.rows)
+
+    def test_non_required_company_is_blank_but_unknown_stays_visible(self):
+        company=dict(self.details['sample']['company'],required=False)
+        self.assertEqual(company_age_summary(company),'')
+        self.details['sample']['company']=company
+        self.assertNotIn('Company formation and age',render_research(self.details['sample']))
+        self.details['sample']['company']['required']=None
+        self.assertIn('Not yet verified',render_research(self.details['sample']))
 
     def test_empty_details_do_not_invent_requirements(self):
         self.assertEqual(render_research(None),'')
