@@ -1,6 +1,10 @@
 # Public software funding directory
 
-Edit `data/opportunities.json`, then run:
+This repository is a generated public projection of the private consolidated Grants workspace. Do not edit its data as a separate source. The Grant cron job discovers and rechecks programs, updates the private records, and refreshes this site, Obsidian views and the private Grants notebook. The upsert entry point delegates to that workspace.
+
+Canonical records: `/opt/data/vaults/vaults/Grants and Accelerators/data/opportunities.json`. Refresh entry point: `/opt/data/profiles/grant/scripts/grant-publish.sh`; pass `--force` to refresh every output without forcing Git history. No private decisions or application files are exported here.
+
+To verify the generated public build, run:
 
     python3 tools/build.py
     python3 -m unittest discover -s tools -v

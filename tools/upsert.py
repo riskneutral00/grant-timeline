@@ -21,9 +21,8 @@ def upsert(rows, items, today):
     return validate(rows), added, updated
 
 if __name__ == '__main__':
-    items = json.load(sys.stdin)
-    items = items if isinstance(items, list) else [items]
-    path = ROOT / 'data/opportunities.json'
-    rows, added, updated = upsert(json.loads(path.read_text(encoding='utf-8')), items, dt.date.today().isoformat())
-    path.write_text(json.dumps(rows, ensure_ascii=False, indent=2) + '\n', encoding='utf-8')
-    print(f'added {added or "none"}; updated {updated or "none"}; total {len(rows)}')
+    import os, subprocess
+    private = Path(os.environ.get('GRANT_WORKSPACE', '/opt/data/vaults/vaults/Grants and Accelerators')) / 'Automation/grant_sync.py'
+    if not private.exists():
+        raise SystemExit('The public repository is generated. Update the private Grants workspace and refresh it.')
+    raise SystemExit(subprocess.run([sys.executable, str(private), 'upsert'], stdin=sys.stdin).returncode)
