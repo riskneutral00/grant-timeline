@@ -7,6 +7,7 @@ import hashlib
 import json
 from pathlib import Path
 from urllib.parse import urlsplit, quote
+from programme_cycle import roll_programmes, effective_date
 from event_details import validate_details, render_research, company_age_summary
 
 from translate import FIELDS as SHOWN, FOREIGN, english, gemini, load_cache, save_cache
@@ -29,7 +30,7 @@ def validate(rows):
         if row['id'] in seen:
             raise ValueError('Duplicate id: ' + row['id'])
         seen.add(row['id'])
-        if row['type'] not in {'grant', 'accelerator', 'hackathon', 'competition'}:
+        if row['type'] not in {'grant', 'investment', 'accelerator', 'hackathon', 'competition'}:
             raise ValueError('Invalid type')
         if row['country'] not in {'TW', 'TH', 'HK', 'regional'}:
             raise ValueError('Invalid country')
@@ -45,7 +46,7 @@ def validate(rows):
             raise ValueError('team_min is larger than team_max')
         if lo is not None and lo >= 3 and row['fit'] == 'want':
             raise ValueError('Needs 3+ people, so it must be skip: ' + row['id'])
-        if row['status'] not in {'open', 'upcoming', 'rolling', 'closed'}:
+        if row['status'] not in {'open', 'upcoming', 'rolling', 'closed', 'planning'}:
             raise ValueError('Invalid status')
         for key in ('deadline', 'first_seen', 'last_checked'):
             value = row[key]
@@ -65,7 +66,7 @@ def normalized(rows, today):
 
 
 def sort_key(row):
-    return ({'open': 0, 'upcoming': 0, 'rolling': 1, 'closed': 2}[row['status']], row['deadline'] or '9999-12-31', row['name'], row['id'])
+    return ({'open': 0, 'upcoming': 0, 'rolling': 1, 'closed': 2, 'planning': 0}[row['status']], row['deadline'] or '9999-12-31', row['name'], row['id'])
 
 
 def team(r):
@@ -101,8 +102,8 @@ def directory(rows, details=None):
     details = details or {}
     esc = html.escape
     groups = {}
-    for row in sorted(rows, key=lambda r: (r['deadline'] or '9999', r['status'] != 'rolling', r['name'], r['id'])):
-        groups.setdefault(group_key(row), []).append(row)
+    for row in sorted(rows, key=lambda r: (effective_date(r,details.get(r['id'])) or '9999', r['status'] != 'rolling', r['name'], r['id'])):
+        groups.setdefault(group_key(dict(row,deadline=effective_date(row,details.get(row['id'])))), []).append(row)
     parts = []
     for group, items in groups.items():
         label = {'rolling': 'Rolling applications', 'unknown': 'Deadline not announced'}.get(group)
@@ -110,9 +111,14 @@ def directory(rows, details=None):
             label = dt.date.fromisoformat(group + '-01').strftime('%B %Y')
         parts.append(f'<section class="deadline-group"><h2>{label}<span class="group-count"></span></h2><div class="program-list">')
         for r in items:
-            status = r['status'].capitalize()
-            deadline = r['deadline'] or ''
-            if deadline:
+            research = details.get(r['id']) if r['fit'] == 'want' else None
+            planning = (research or {}).get('planning')
+            status = f'Planning for {planning["year"]}' if planning else r['status'].capitalize()
+            deadline = effective_date(r,research) or ''
+            if planning:
+                month = __import__('datetime').date.fromisoformat(deadline).strftime('%b %Y') if deadline else 'Timing unannounced'
+                when = f'<strong class="undated">{planning["year"]}</strong><span>{month} (estimate)</span>'
+            elif deadline:
                 date = dt.date.fromisoformat(deadline)
                 when = f'<time datetime="{deadline}"><strong>{date.day:02d}</strong><span>{date.strftime("%b %Y")}</span></time>'
             else:
@@ -169,6 +175,7 @@ def render_detail(row, research=None):
         if company['required'] is False:company_glance=''
     fit = esc(row['fit_reason']) if row['fit'] == 'skip' else 'Potential fit. Check the official requirements before preparing an application.'
     status_note = {
+        'planning': 'Track the next intake. Planning timing is provisional, and a new deadline has not been announced.',
         'closed': 'This round is closed or has no verified active intake. Keep it for reference; a future round is not yet confirmed.',
         'rolling': 'No fixed closing date is recorded. Check that applications are still being accepted.',
         'upcoming': 'A future intake is recorded. Check the official page for opening dates and application instructions.',
@@ -180,7 +187,7 @@ def render_detail(row, research=None):
 <main id="main" class="shell detail-page"><nav class="breadcrumb" aria-label="Breadcrumb"><a href="../index.html">All programs</a><span aria-hidden="true">/</span><span>{COUNTRIES[row['country']]}</span></nav>
 <div class="detail-heading"><p class="eyebrow">{COUNTRIES[row['country']]} · {row['type'].capitalize()}</p><h1>{esc(row['name'])}</h1><p class="organizer">{esc(row['organizer'])}</p></div>
 <div class="detail-layout"><div class="detail-copy"><section><h2>What to know</h2><p class="full-summary">{esc(row['summary'])}</p></section><section><h2>Eligibility</h2><p>{fit}</p><p class="muted">Team size refers to the recorded application requirement. It can mean people or companies; the program description gives the context.</p></section><section><h2>Application window</h2><p>{status_note}</p></section>{researched}{readiness_link}<section class="sources"><h2>Go to the source</h2><a class="button primary" href="{esc(row['url'], quote=True)}" target="_blank" rel="noopener noreferrer">Official program <span aria-hidden="true">↗</span><span class="sr-only"> (opens in a new tab)</span></a><a class="source-link" href="{esc(row['source_url'], quote=True)}" target="_blank" rel="noopener noreferrer">Research source ↗<span class="sr-only"> (opens in a new tab)</span></a><p class="muted">Record reviewed {date_label(row['last_checked'])}. A review date does not guarantee that every official detail was reconfirmed. Any limits on verification appear in the description.</p></section></div>
-<aside class="fact-sheet" aria-label="Program key facts"><h2>At a glance</h2><dl><div><dt>Deadline</dt><dd>{date_label(row['deadline'])}</dd></div><div><dt>Status</dt><dd><span class="status status-{row['status']}">{row['status'].capitalize()}</span></dd></div><div><dt>Funding / benefit</dt><dd>{esc(prize)}</dd></div><div><dt>Team size</dt><dd>{esc(team_text)}</dd></div>{company_glance}<div><dt>Review</dt><dd>{'Excluded' if row['fit'] == 'skip' else 'Potential fit'}</dd></div><div><dt>First listed</dt><dd>{date_label(row['first_seen'])}</dd></div></dl></aside></div>
+<aside class="fact-sheet" aria-label="Program key facts"><h2>At a glance</h2><dl><div><dt>Deadline</dt><dd>{date_label(row['deadline'])}</dd></div><div><dt>Status</dt><dd><span class="status status-{row['status']}">{('Planning for '+str(research['planning']['year'])) if research and research.get('planning') else row['status'].capitalize()}</span></dd></div><div><dt>Funding / benefit</dt><dd>{esc(prize)}</dd></div><div><dt>Team size</dt><dd>{esc(team_text)}</dd></div>{company_glance}<div><dt>Review</dt><dd>{'Excluded' if row['fit'] == 'skip' else 'Potential fit'}</dd></div><div><dt>First listed</dt><dd>{date_label(row['first_seen'])}</dd></div></dl></aside></div>
 </main><footer class="shell site-footer">Generated from public program records. Updated by the Grant cron pipeline. Do not edit this page by hand.</footer></body></html>'''
 
 
@@ -193,22 +200,27 @@ def main():
     path = ROOT / 'data/opportunities.json'
     old = path.read_text(encoding='utf-8')
     rows = normalized(validate(json.loads(old)), args.as_of)
+    research_path = ROOT / 'data/event_details.json'
+    raw_research = json.loads(research_path.read_text()) if research_path.exists() else {}
+    rows, research = roll_programmes(rows, raw_research, args.as_of)
+    research = validate_details(research, rows)
+    research_data = json.dumps(research, ensure_ascii=False, indent=2) + '\n'
     data = json.dumps(rows, ensure_ascii=False, indent=2) + '\n'
     cache = load_cache()
     before = dict(cache)
     shown = english(rows, cache, None if args.check else gemini)
     if cache != before:
         save_cache(cache)
-    research_path = ROOT / 'data/event_details.json'
-    research = validate_details(json.loads(research_path.read_text()) if research_path.exists() else {}, rows)
     page = render(shown, (ROOT / 'tools/template.html').read_text(encoding='utf-8'), research)
     details = {program_path(r): render_detail(r, research.get(r['id'])) for r in shown}
     if args.check:
+        if not research_path.exists() or research_path.read_text()!=research_data:raise SystemExit('Programme planning metadata is stale; run tools/build.py')
         if any(not (ROOT / name).exists() or (ROOT / name).read_text(encoding='utf-8') != content for name, content in details.items()):
             raise SystemExit('Generated program pages are stale; run tools/build.py')
         if old != data or (ROOT / 'index.html').read_text(encoding='utf-8') != page:
             raise SystemExit('Generated files are stale; run tools/build.py')
     else:
+        research_path.write_text(research_data, encoding='utf-8')
         if old != data:
             path.write_text(data, encoding='utf-8')
         (ROOT / 'programs').mkdir(exist_ok=True)

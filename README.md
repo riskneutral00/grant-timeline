@@ -14,7 +14,7 @@ Python standard library only. `tools/template.html` owns the directory shell; `a
 
 ## Editorial rules
 
-Public facts only. Software opportunities in TW, TH, HK and relevant regional competitions. Exclude defense, military, hardware, loans, personal purchases, training-only and residency-only offers. Broad programs appear only for their civilian software scope. No personal biographies, budgets, application plans or IDs. Never commit raw private research or chat output. Never delete existing JSON entries: close old rounds and create distinct IDs for new ones.
+Public facts only. Software opportunities in TW, TH, HK and relevant regional competitions. Exclude defense, military, hardware, loans, personal purchases, training-only and residency-only offers. Broad programs appear only for their civilian software scope. No personal biographies, budgets, application plans or IDs. Never commit raw private research or chat output. Never delete programme families because a round expired. Reuse the stable family id, preserve prior dates/names in planning metadata, and replace estimates only with officially verified new intake details. Distinct simultaneous tracks keep distinct ids.
 
 All required fields: id, name, type, country, organizer, url, deadline, status, summary, first_seen, last_checked, source_url. Dates are ISO dates; deadline may be null. `last_checked` means the record was reviewed, not necessarily that its official page was successfully reverified; summaries explicitly identify legacy research. `closed` with null deadline is a conservative inactive/watchlist classification, not proof a program ended. Do not infer annual dates. `upcoming` requires a published future program/intake; no opening date is invented.
 
@@ -39,3 +39,10 @@ The directory links to https://grants.srv1989548.hstgr.cloud/ for open preparati
 
 
 Matt approved open viewing and editing of the hosted event checklists on2026-10-01. No account, password or sign-in is required. Source storage and synchronization remain in the same grants workspace.
+
+
+## Unlimited catalogue and next-cycle planning
+
+The default view shows every potential-fit programme, without a date/year cutoff; active-intake filtering is optional. Expired wanted rounds move to `planning`, with confirmed `deadline` null. `event_details.json` keeps planning year, an explicitly estimated timeline, previous-round deadline/name and the estimate basis. Programme families remain tracked into2027,2028 and beyond. `tools/programme_cycle.py` owns this rollover and forecast sorting.
+
+Types include `investment` for equity co-investment, distinguished from cash grants. `assets/catalogue.js` shares default/active/planning view rules between both sites. Run `node --test tools/js-tests/catalogue.test.cjs` for catalogue horizon regressions, alongside the Python tests.

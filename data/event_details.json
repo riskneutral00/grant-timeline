@@ -684,6 +684,13 @@
       "formation_stage": "application",
       "notes": "2026 fixed eligible formation window is 2023-02-23 through 2026-02-22. This is a fixed historical date range, not a rolling company-age maximum. City registration, owner household registration, age 18–45, capital and prior-year sales tests also apply. Formation must be completed before application. Do not project these dates onto future calls.",
       "source_url": "https://youth.kcg.gov.tw/Resource_Content.aspx?n=38&s=12555&sms=10161"
+    },
+    "planning": {
+      "year": 2027,
+      "estimated_deadline": "2027-04-15",
+      "last_round_deadline": "2026-04-15",
+      "last_round_name": "Kaohsiung Youth General 2026",
+      "basis": "Planning estimate from the previous round. A new call, recurrence and deadline are not officially confirmed."
     }
   },
   "tw-khh-competitive-2026": {
@@ -753,6 +760,13 @@
       "formation_stage": "application",
       "notes": "Linked 2026 competition company track requires formation on or after 2017-01-01 (inclusive), capital<=NT$10 m, owner 18–45. It is a fixed formation cutoff, not a rolling age limit. Team track needs at least two members; a two-person entry still needs the remaining eligibility checks. The original record’s subsidy name conflicts with this competition source.",
       "source_url": "https://youth.kcg.gov.tw/News_Content.aspx?n=9&sms=10146&s=12705"
+    },
+    "planning": {
+      "year": 2027,
+      "estimated_deadline": "2027-04-12",
+      "last_round_deadline": "2026-04-12",
+      "last_round_name": "Sustainability Kaohsiung Youth Startup Challenge 2026 (company track)",
+      "basis": "Planning estimate from the previous round. A new call, recurrence and deadline are not officially confirmed."
     }
   },
   "tw-ai-service-2026": {
@@ -839,37 +853,13 @@
       "formation_stage": "application",
       "notes": "Already legally registered at application. Industry classification must be J 582, J 62 or J 63 andBusiness Digital Certificate business-certificate authentication is required. No numeric company-age limit published in the inspected announcement.",
       "source_url": "https://moda.gov.tw/ADI/news/events/20044"
-    }
-  },
-  "tw-digital-plus": {
-    "purpose": "An umbrella portal listing Administration for Digital Industries funding calls.",
-    "theme": "Digital-industry innovation, with themes defined separately for each call.",
-    "activities": "Select a specific eligible call, then follow that call’s requirements.",
-    "cycle": "2026 closed intake; historical preparation reference",
-    "checked_at": "2026-10-01",
-    "coverage": "partial",
-    "limitations": [
-      "The complete application portal and conditional form fields have not been verified.",
-      "This is not a separate application event. No universal application checklist or winners can be assigned to the umbrella portal."
-    ],
-    "sources": [
-      {
-        "url": "https://digiplus.adi.gov.tw/plan_table.html",
-        "title": "DIGITAL+ Innovation official information"
-      }
-    ],
-    "requirements": [],
-    "winners": [],
-    "company": {
-      "required": null,
-      "jurisdiction": "Call-specific",
-      "entity_types": "Call-specific",
-      "min_age_months": null,
-      "max_age_months": null,
-      "age_reference": "unknown",
-      "formation_stage": "unknown",
-      "notes": "Umbrella portal, not an application event. Registration and age requirements belong to each specific call and must not be inferred across programs.",
-      "source_url": "https://digiplus.adi.gov.tw/plan_table.html"
+    },
+    "planning": {
+      "year": 2027,
+      "estimated_deadline": "2027-07-24",
+      "last_round_deadline": "2026-07-24",
+      "last_round_name": "AI Innovation Service R&D Subsidy 2026",
+      "basis": "Planning estimate from the previous round. A new call, recurrence and deadline are not officially confirmed."
     }
   },
   "tw-cross-domain": {
@@ -911,6 +901,13 @@
       "formation_stage": "application",
       "notes": "Each alliance member must already be domestically registered. At least one member is a startup and the others SMEs. The inspected overview does not define an exact startup-age threshold; no numeric value asserted. Excluded from solo-company scope.",
       "source_url": "https://sbir.org.tw/cross/info"
+    },
+    "planning": {
+      "year": 2027,
+      "estimated_deadline": "2026-12-09",
+      "last_round_deadline": "2025-12-09",
+      "last_round_name": "Cross-Domain R&D",
+      "basis": "Planning estimate from the previous round. A new call, recurrence and deadline are not officially confirmed."
     }
   },
   "tw-citd": {
@@ -984,6 +981,13 @@
       "formation_stage": "unknown",
       "notes": "Website describes a one-business product-development track, but traditional-industry classification and exact registration rules need the current application guide. No confirmed company-age threshold or incorporation timing asserted.",
       "source_url": "https://keid.nat.gov.tw/citdweb/Web/CITD_Download1.aspx"
+    },
+    "planning": {
+      "year": 2027,
+      "estimated_deadline": "2027-02-09",
+      "last_round_deadline": "2026-02-09",
+      "last_round_name": "CITD digital transformation",
+      "basis": "Planning estimate from the previous round. A new call, recurrence and deadline are not officially confirmed."
     }
   },
   "tw-oac-2026": {
@@ -1015,6 +1019,13 @@
       "formation_stage": "unknown",
       "notes": "The record monitors marine funding rather than a specific verified intake. Do not reuse registration rules from unrelated institutional, education or hardware calls.",
       "source_url": "https://www.oac.gov.tw/ch/home.jsp?id=67&parentpath=0,6"
+    },
+    "planning": {
+      "year": 2027,
+      "estimated_deadline": "2027-01-20",
+      "last_round_deadline": "2026-01-20",
+      "last_round_name": "OAC Marine Technology — civilian software",
+      "basis": "Planning estimate from the previous round. A new call, recurrence and deadline are not officially confirmed."
     }
   },
   "tw-siir-2026": {
@@ -1070,6 +1081,13 @@
       "formation_stage": "unknown",
       "notes": "2026 intake is closed with funds exhausted. Application downloads are identified, but the full guide and its entity/formation rules have not been verified. Do not invent an age limit.",
       "source_url": "https://gcis.nat.gov.tw/neo-s/Web/Download_Files01.aspx"
+    },
+    "planning": {
+      "year": 2027,
+      "estimated_deadline": "2027-01-30",
+      "last_round_deadline": "2026-01-30",
+      "last_round_name": "SIIR 2026",
+      "basis": "Planning estimate from the previous round. A new call, recurrence and deadline are not officially confirmed."
     }
   },
   "tw-aspn-3": {
@@ -1369,6 +1387,13 @@
       "formation_stage": "unknown",
       "notes": "The public form offers a no formal company structure option in the C-level question, but this does not conclusively establish legal-incorporation eligibility. Founding year is requested. No confirmed numeric company-age maximum or minimum; exact incorporation rules need organizer confirmation.",
       "source_url": "https://aspn-sportstech.iaps.ord.nycu.edu.tw/aspn-sports-tech-accelerator-application-form"
+    },
+    "planning": {
+      "year": 2027,
+      "estimated_deadline": "2027-04-18",
+      "last_round_deadline": "2026-04-18",
+      "last_round_name": "ASPN Sports Tech Accelerator Batch 3",
+      "basis": "Planning estimate from the previous round. A new call, recurrence and deadline are not officially confirmed."
     }
   },
   "tw-sparklabs": {
@@ -1701,6 +1726,13 @@
       "formation_stage": "not required",
       "notes": "A single individual may enter the social group. Company formation and company age are not eligibility requirements on the inspected rules page. Identity and nationality, original work, team-size and collaboration exclusions still apply.",
       "source_url": "https://cht5g.com.tw/index-smart.html"
+    },
+    "planning": {
+      "year": 2027,
+      "estimated_deadline": "2027-09-18",
+      "last_round_deadline": "2026-09-18",
+      "last_round_name": "Chunghwa Telecom Smart Innovation Applications Competition 2026",
+      "basis": "Planning estimate from the previous round. A new call, recurrence and deadline are not officially confirmed."
     }
   },
   "tw-appworks-33": {
@@ -1732,6 +1764,13 @@
       "formation_stage": "unknown",
       "notes": "Current cohort company-registration and age rules could not be read. Historical draft assumptions are not used.",
       "source_url": "https://appworks.tw/accelerator-faq/"
+    },
+    "planning": {
+      "year": 2027,
+      "estimated_deadline": "2027-07-30",
+      "last_round_deadline": "2026-07-30",
+      "last_round_name": "AppWorks Accelerator #33",
+      "basis": "Planning estimate from the previous round. A new call, recurrence and deadline are not officially confirmed."
     }
   },
   "tw-eureka-globalstars-2026": {
@@ -1773,6 +1812,13 @@
       "formation_stage": "application",
       "notes": "Taiwan funding application must be submitted by a Taiwan company with sound finances. Universities/research organizations can be subcontractors or self-funded collaborators, not Taiwan grant applicants. No numeric company-age limit stated in inspected Taiwan criteria. International consortium requirement excludes solo application.",
       "source_url": "https://www.eurekanetwork.org/programmes-and-calls/globalstars/globalstars-call-with-taiwan-2026/"
+    },
+    "planning": {
+      "year": 2027,
+      "estimated_deadline": "2027-09-15",
+      "last_round_deadline": "2026-09-15",
+      "last_round_name": "Eureka Globalstars Taiwan 2026",
+      "basis": "Planning estimate from the previous round. A new call, recurrence and deadline are not officially confirmed."
     }
   },
   "tw-presidential-hackathon-2026-domestic": {
@@ -1922,6 +1968,13 @@
       "formation_stage": "not required",
       "notes": "Guide permits government agency or individual proposals and non-government teams with clear topic-relevant proposals. Company incorporation/age is not required. Non-government entrants must form a team; guide states max 10 but no minimum, so solo private-person eligibility remains unconfirmed.",
       "source_url": "https://presidential-hackathon.taiwan.gov.tw/outlink/pdf/2026%E7%B8%BD%E7%B5%B1%E7%9B%83%E9%BB%91%E5%AE%A2%E6%9D%BE_%E6%B4%BB%E5%8B%95%E9%A0%88%E7%9F%A5_f.pdf"
+    },
+    "planning": {
+      "year": 2027,
+      "estimated_deadline": "2027-08-31",
+      "last_round_deadline": "2026-08-31",
+      "last_round_name": "Presidential Hackathon Domestic Track 2026",
+      "basis": "Planning estimate from the previous round. A new call, recurrence and deadline are not officially confirmed."
     }
   },
   "tw-aplus-early-stage-2026": {
@@ -4839,6 +4892,13 @@
       "formation_stage": "Not required at application or participation.",
       "notes": "Official FAQ explicitly says incorporation is not required to participate, and Thailand incorporation is not required. Both Thai and non-Thai nationals can enter. Thailand-based operations, a ready-to-test MVP and at least two founding-team members including the founder are required. No company-age cutoff is stated.",
       "source_url": "https://www.venturespark.asia/"
+    },
+    "planning": {
+      "year": 2027,
+      "estimated_deadline": "2027-04-25",
+      "last_round_deadline": "2026-04-25",
+      "last_round_name": "VentureSpark Cohort 2 2026",
+      "basis": "Planning estimate from the previous round. A new call, recurrence and deadline are not officially confirmed."
     }
   },
   "hk-gft-2026": {
@@ -4957,6 +5017,885 @@
       "formation_stage": "Operating company and existing product at application; formal registration rule unverified.",
       "notes": "Official FAQ welcomes companies with existing products. Normal pitch route requires US$250,000 annual revenue or investment received and Asia expansion plans within 24 months. The 24 months is an expansion roadmap, not company age. No formal incorporation requirement or company-age rule is stated in inspected criteria.",
       "source_url": "https://www.globalfasttrack.hk/faq"
+    },
+    "planning": {
+      "year": 2027,
+      "estimated_deadline": "2027-09-25",
+      "last_round_deadline": "2026-09-25",
+      "last_round_name": "Global Fast Track Pitching Competition 2026",
+      "basis": "Planning estimate from the previous round. A new call, recurrence and deadline are not officially confirmed."
+    }
+  },
+  "tw-khh-local-sbir": {
+    "purpose": "Help Kaohsiung SMEs develop new products and services and build local R&D capability.",
+    "theme": "Digital innovation, net zero and circular economy receive extra emphasis.",
+    "activities": "Prepare an unfinished R&D proposal, submit the project concept and eligibility documents, and take part in review.",
+    "cycle": "Last published round. A later application period has not been verified.",
+    "checked_at": "2026-10-01",
+    "coverage": "partial",
+    "company": {
+      "required": true,
+      "jurisdiction": "Kaohsiung, Taiwan",
+      "entity_types": "Registered sole proprietorship, partnership, limited partnership or company; no branch applications",
+      "min_age_months": null,
+      "max_age_months": null,
+      "age_reference": "Application date; exact age calculation must be confirmed in the applicable call.",
+      "formation_stage": "Before application",
+      "notes": "Local registration and execution are required. No exact company-age limit is stated on the recovered eligibility page.",
+      "source_url": "https://kh-sbir.kcg.gov.tw/cp.aspx?n=DF2B296EB9CD492A&s=0572FE48F74FFD8A"
+    },
+    "limitations": [
+      "General eligibility page still contains an older fiscal-year exclusion example; recheck the new cycle guide.",
+      "Complete attachment inventory is an image and has not been extracted. Detailed portal fields, later-stage review and past recipients remain unverified."
+    ],
+    "sources": [
+      {
+        "url": "https://kh-sbir.kcg.gov.tw/News_Content.aspx?n=8DFC8FD7B318AA1C&sms=F8E11BD7DAC9CDDB&s=F9F039541F9EBFCC",
+        "title": "2026 application announcement"
+      },
+      {
+        "url": "https://kh-sbir.kcg.gov.tw/cp.aspx?n=DF2B296EB9CD492A&s=0572FE48F74FFD8A",
+        "title": "Company and project eligibility"
+      },
+      {
+        "url": "https://kh-sbir.kcg.gov.tw/cp.aspx?n=DF2B296EB9CD492A&s=A79D7BE6F96044FF",
+        "title": "Five application steps"
+      }
+    ],
+    "requirements": [
+      {
+        "id": "kaohsiung-company",
+        "label": "Register the applying business in Kaohsiung",
+        "category": "eligibility",
+        "required": true,
+        "stage": "application",
+        "details": "The applying company or business must hold Kaohsiung registration. Branches cannot apply.",
+        "source_url": "https://kh-sbir.kcg.gov.tw/cp.aspx?n=DF2B296EB9CD492A&s=0572FE48F74FFD8A",
+        "match_key": "company.tw_registered"
+      },
+      {
+        "id": "local-execution",
+        "label": "Execute the R&D project in Kaohsiung",
+        "category": "eligibility",
+        "required": true,
+        "stage": "application",
+        "details": "The project execution location must be within Kaohsiung.",
+        "source_url": "https://kh-sbir.kcg.gov.tw/cp.aspx?n=DF2B296EB9CD492A&s=0572FE48F74FFD8A"
+      },
+      {
+        "id": "sme",
+        "label": "Meet the SME definition",
+        "category": "eligibility",
+        "required": true,
+        "stage": "application",
+        "details": "Paid-in capital no more than NT$100 million, or fewer than 200 regularly employed people.",
+        "source_url": "https://kh-sbir.kcg.gov.tw/cp.aspx?n=DF2B296EB9CD492A&s=0572FE48F74FFD8A"
+      },
+      {
+        "id": "new-rd",
+        "label": "Propose unfinished R&D",
+        "category": "eligibility",
+        "required": true,
+        "stage": "application",
+        "details": "Completed products and duplicated government-funded projects are not eligible.",
+        "source_url": "https://kh-sbir.kcg.gov.tw/cp.aspx?n=DF2B296EB9CD492A&s=0572FE48F74FFD8A"
+      },
+      {
+        "id": "concept-form",
+        "label": "Prepare the project concept form",
+        "category": "material",
+        "required": true,
+        "stage": "application",
+        "details": "Download and complete Appendix B.",
+        "source_url": "https://kh-sbir.kcg.gov.tw/cp.aspx?n=DF2B296EB9CD492A&s=A79D7BE6F96044FF"
+      },
+      {
+        "id": "eligibility-documents",
+        "label": "Prepare stamped eligibility documents",
+        "category": "material",
+        "required": true,
+        "stage": "application",
+        "details": "Prepare documents required by the current guide; copies need company and responsible-person seals.",
+        "source_url": "https://kh-sbir.kcg.gov.tw/cp.aspx?n=DF2B296EB9CD492A&s=A79D7BE6F96044FF"
+      },
+      {
+        "id": "read-guide",
+        "label": "Download the current application guide and check eligibility",
+        "category": "step",
+        "required": true,
+        "stage": "application",
+        "details": "The organizer lists this as the first step.",
+        "source_url": "https://kh-sbir.kcg.gov.tw/cp.aspx?n=DF2B296EB9CD492A&s=A79D7BE6F96044FF"
+      },
+      {
+        "id": "prepare-documents",
+        "label": "Prepare eligibility documents",
+        "category": "step",
+        "required": true,
+        "stage": "application",
+        "details": "Use the applicable cycle guide and seal required copies.",
+        "source_url": "https://kh-sbir.kcg.gov.tw/cp.aspx?n=DF2B296EB9CD492A&s=A79D7BE6F96044FF"
+      },
+      {
+        "id": "write-concept",
+        "label": "Complete Appendix B project concept",
+        "category": "step",
+        "required": true,
+        "stage": "application",
+        "details": "Write the project concept before uploading.",
+        "source_url": "https://kh-sbir.kcg.gov.tw/cp.aspx?n=DF2B296EB9CD492A&s=A79D7BE6F96044FF"
+      },
+      {
+        "id": "portal-upload",
+        "label": "Enter company information and upload documents",
+        "category": "step",
+        "required": true,
+        "stage": "application",
+        "details": "Register company basics in the online system and upload concept form and eligibility documents.",
+        "source_url": "https://kh-sbir.kcg.gov.tw/cp.aspx?n=DF2B296EB9CD492A&s=A79D7BE6F96044FF"
+      },
+      {
+        "id": "review-notification",
+        "label": "Wait for first-stage concept review notification",
+        "category": "step",
+        "required": true,
+        "stage": "application",
+        "details": "The office informs applicants of concept review results.",
+        "source_url": "https://kh-sbir.kcg.gov.tw/cp.aspx?n=DF2B296EB9CD492A&s=A79D7BE6F96044FF"
+      }
+    ],
+    "winners": [],
+    "planning": {
+      "year": 2027,
+      "estimated_deadline": "2027-06-17",
+      "last_round_deadline": "2026-06-17",
+      "last_round_name": "Kaohsiung Local SBIR 2026",
+      "basis": "Planning estimate from the previous round. A new call, recurrence and deadline are not officially confirmed."
+    }
+  },
+  "tw-ndf-angel": {
+    "purpose": "Provide startup capital alongside angel investors and connect founders with investor mentoring and networks.",
+    "theme": "Early-stage startup growth across sectors, including software and AI.",
+    "activities": "Prepare company and financing documents, find a co-investor, present the business to the investment committee, and report after investment.",
+    "cycle": "Rolling intake through 2030-12-31, verified on the organizer website.",
+    "checked_at": "2026-10-01",
+    "coverage": "partial",
+    "company": {
+      "required": true,
+      "jurisdiction": "Taiwan registration or principal business activity in Taiwan for an overseas startup",
+      "entity_types": "Startup company; not publicly traded",
+      "min_age_months": null,
+      "max_age_months": 96,
+      "age_reference": "Application date; exact age calculation must be confirmed in the applicable call.",
+      "formation_stage": "Before application",
+      "notes": "Ordinary company age is no more than eight years, inclusive. Capital or cumulative funds raised normally cannot exceed NT$100 million. Committee exceptions may apply.",
+      "source_url": "https://www.angelinvestment.org.tw/introduction"
+    },
+    "limitations": [
+      "Equity ownership and investment terms are negotiated, not a cash grant.",
+      "Exact application form questions and specific past investees have not been captured. Newly established companies are exempt from the three-year financial-statement attachment."
+    ],
+    "sources": [
+      {
+        "url": "https://www.angelinvestment.org.tw/introduction",
+        "title": "Investment scope, eligibility, materials and process"
+      },
+      {
+        "url": "https://www.angelinvestment.org.tw/",
+        "title": "Current intake and free application notice"
+      }
+    ],
+    "requirements": [
+      {
+        "id": "startup-registration",
+        "label": "Establish an eligible startup company",
+        "category": "eligibility",
+        "required": true,
+        "stage": "application",
+        "details": "Taiwan-registered startup or overseas startup with principal business activities in Taiwan. It must not be publicly traded.",
+        "source_url": "https://www.angelinvestment.org.tw/introduction"
+      },
+      {
+        "id": "company-age",
+        "label": "Company established no more than eight years ago",
+        "category": "eligibility",
+        "required": true,
+        "stage": "application",
+        "details": "Ordinary eligibility is at most eight years; the committee can approve exceptions.",
+        "source_url": "https://www.angelinvestment.org.tw/introduction"
+      },
+      {
+        "id": "capital-cap",
+        "label": "Keep capital or previous fundraising within NT$100 million",
+        "category": "eligibility",
+        "required": true,
+        "stage": "application",
+        "details": "Ordinary threshold; committee exceptions exist.",
+        "source_url": "https://www.angelinvestment.org.tw/introduction"
+      },
+      {
+        "id": "co-investor",
+        "label": "Arrange an angel co-investor",
+        "category": "eligibility",
+        "required": true,
+        "stage": "application",
+        "details": "Co-investment and mentorship normally apply. Cases without co-investment require committee acceptance.",
+        "source_url": "https://www.angelinvestment.org.tw/introduction"
+      },
+      {
+        "id": "application-form",
+        "label": "Investment application form",
+        "category": "material",
+        "required": true,
+        "stage": "application",
+        "details": "Use the organizer download area for the current form.",
+        "source_url": "https://www.angelinvestment.org.tw/introduction"
+      },
+      {
+        "id": "business-plan",
+        "label": "Operating business plan",
+        "category": "material",
+        "required": true,
+        "stage": "application",
+        "details": "Prepare the plan using the recommended structure.",
+        "source_url": "https://www.angelinvestment.org.tw/introduction",
+        "match_key": "project.business_plan"
+      },
+      {
+        "id": "articles",
+        "label": "Latest articles of association",
+        "category": "material",
+        "required": true,
+        "stage": "application",
+        "details": "Provide a copy of the current company articles.",
+        "source_url": "https://www.angelinvestment.org.tw/introduction"
+      },
+      {
+        "id": "financials",
+        "label": "Financial statements for the last three years",
+        "category": "material",
+        "required": true,
+        "stage": "application",
+        "details": "CPA statements, tax returns or self-prepared statements are accepted. Newly established companies are exempt.",
+        "source_url": "https://www.angelinvestment.org.tw/introduction"
+      },
+      {
+        "id": "credit-evidence",
+        "label": "Company and principal-manager credit evidence",
+        "category": "material",
+        "required": true,
+        "stage": "application",
+        "details": "Provide check-credit and debt-credit evidence.",
+        "source_url": "https://www.angelinvestment.org.tw/introduction"
+      },
+      {
+        "id": "registration-documents",
+        "label": "Company registration documents",
+        "category": "material",
+        "required": true,
+        "stage": "application",
+        "details": "Provide company establishment registration documents.",
+        "source_url": "https://www.angelinvestment.org.tw/introduction",
+        "match_key": "company.registration_documents"
+      },
+      {
+        "id": "submit",
+        "label": "Prepare and submit investment documents",
+        "category": "step",
+        "required": true,
+        "stage": "application",
+        "details": "The startup or angel investor may apply. Additional supporting evidence may be requested.",
+        "source_url": "https://www.angelinvestment.org.tw/introduction"
+      },
+      {
+        "id": "present-review",
+        "label": "Present the investment proposal to the committee",
+        "category": "step",
+        "required": true,
+        "stage": "application",
+        "details": "Applicants must cooperate with committee presentations. The co-investing angel may attend.",
+        "source_url": "https://www.angelinvestment.org.tw/introduction"
+      },
+      {
+        "id": "receive-decision",
+        "label": "Receive the committee decision",
+        "category": "step",
+        "required": true,
+        "stage": "application",
+        "details": "The implementing organization notifies the applicant after review.",
+        "source_url": "https://www.angelinvestment.org.tw/introduction"
+      }
+    ],
+    "winners": []
+  },
+  "tw-digital-service-innovation-2026": {
+    "purpose": "Fund innovative software and information services that strengthen digital industry and support wider digital transformation.",
+    "theme": "Advanced technology, business operations, consumer services, sustainable society, and core AI services including AI agents and multi-agent systems.",
+    "activities": "Develop a market-relevant innovative service and apply online using company documentation and a business certificate.",
+    "cycle": "Last published round. A later application period has not been verified.",
+    "checked_at": "2026-10-01",
+    "coverage": "partial",
+    "company": {
+      "required": true,
+      "jurisdiction": "Taiwan",
+      "entity_types": "Sole proprietorship, partnership, limited partnership or company; branches excluded",
+      "min_age_months": null,
+      "max_age_months": null,
+      "age_reference": "Application date; exact age calculation must be confirmed in the applicable call.",
+      "formation_stage": "Before application",
+      "notes": "Company must be in J582, J62 or J63 and have positive net worth. No exact company-age limit is stated in the recovered call.",
+      "source_url": "https://digiplus.adi.gov.tw/plan_table_newinner.html?id=A1CB8D05-4972-41C7-91E7-7FEBD2921639"
+    },
+    "limitations": [
+      "Full guide, budget rules, proposal contents and portal fields remain to be extracted.",
+      "The published call is 2026. A later intake is not confirmed."
+    ],
+    "sources": [
+      {
+        "url": "https://digiplus.adi.gov.tw/plan_table_newinner.html?id=A1CB8D05-4972-41C7-91E7-7FEBD2921639",
+        "title": "2026 call scope, eligibility, online submission and attachments"
+      }
+    ],
+    "requirements": [
+      {
+        "id": "taiwan-entity",
+        "label": "Register a Taiwan software or information-service business",
+        "category": "eligibility",
+        "required": true,
+        "stage": "application",
+        "details": "Eligible tax industry classifications are J582, J62 or J63. Domestic and foreign company branches are excluded.",
+        "source_url": "https://digiplus.adi.gov.tw/plan_table_newinner.html?id=A1CB8D05-4972-41C7-91E7-7FEBD2921639",
+        "match_key": "company.tw_registered"
+      },
+      {
+        "id": "positive-net-worth",
+        "label": "Maintain positive net worth and acceptable bank standing",
+        "category": "eligibility",
+        "required": true,
+        "stage": "application",
+        "details": "Applicant cannot be a bank-refused account and must have positive equity.",
+        "source_url": "https://digiplus.adi.gov.tw/plan_table_newinner.html?id=A1CB8D05-4972-41C7-91E7-7FEBD2921639"
+      },
+      {
+        "id": "no-mainland-investment",
+        "label": "Meet the non-mainland-invested business rule",
+        "category": "eligibility",
+        "required": true,
+        "stage": "application",
+        "details": "Mainland China-invested businesses are excluded.",
+        "source_url": "https://digiplus.adi.gov.tw/plan_table_newinner.html?id=A1CB8D05-4972-41C7-91E7-7FEBD2921639"
+      },
+      {
+        "id": "business-certificate",
+        "label": "Obtain an Industrial and Commercial Certificate",
+        "category": "material",
+        "required": true,
+        "stage": "application",
+        "details": "Online submission requires the business certificate.",
+        "source_url": "https://digiplus.adi.gov.tw/plan_table_newinner.html?id=A1CB8D05-4972-41C7-91E7-7FEBD2921639",
+        "match_key": "company.business_certificate"
+      },
+      {
+        "id": "consent",
+        "label": "Prepare the enterprise personal-data consent attachment",
+        "category": "material",
+        "required": true,
+        "stage": "application",
+        "details": "The organizer supplies Appendix 5 for upload.",
+        "source_url": "https://digiplus.adi.gov.tw/plan_table_newinner.html?id=A1CB8D05-4972-41C7-91E7-7FEBD2921639"
+      },
+      {
+        "id": "online-submit",
+        "label": "Submit through the online system before the deadline",
+        "category": "step",
+        "required": true,
+        "stage": "application",
+        "details": "Paper submissions are not accepted. The system receipt time controls submission; it closes at 17:00.",
+        "source_url": "https://digiplus.adi.gov.tw/plan_table_newinner.html?id=A1CB8D05-4972-41C7-91E7-7FEBD2921639"
+      }
+    ],
+    "winners": [],
+    "planning": {
+      "year": 2027,
+      "estimated_deadline": "2027-05-18",
+      "last_round_deadline": "2026-05-18",
+      "last_round_name": "Digital Service Innovation Subsidy 2026",
+      "basis": "Planning estimate from the previous round. A new call, recurrence and deadline are not officially confirmed."
+    }
+  },
+  "tw-digital-startup-reward-2026": {
+    "purpose": "Recognize successful self-developed digital services and support their international expansion.",
+    "theme": "Innovative technology, enterprise operations, consumer applications, sustainable society, and core AI digital services.",
+    "activities": "Choose one award category, demonstrate actual product results and commit to a measurable international expansion plan.",
+    "cycle": "Last published round. A later application period has not been verified.",
+    "checked_at": "2026-10-01",
+    "coverage": "partial",
+    "company": {
+      "required": true,
+      "jurisdiction": "Taiwan",
+      "entity_types": "Sole proprietorship, partnership, limited partnership or company; branches excluded",
+      "min_age_months": 36,
+      "max_age_months": 96,
+      "age_reference": "2026 fixed formation cutoff and specified operating years; do not reuse these dates for a later call.",
+      "formation_stage": "Before application",
+      "notes": "The 2026 call says under eight years but fixes formation on or after 2018-01-01. It additionally requires operating results for 2023-2025. The calendar cutoff must be checked again in each later cycle.",
+      "source_url": "https://digiplus.adi.gov.tw/plan_table_newinner.html?id=51BC497F-0440-4AED-800B-6A6AEE16066D"
+    },
+    "limitations": [
+      "Operating-history requirement means this is a future-maturity option, not an immediate new-company opportunity.",
+      "Exact award cap, full guide and portal fields remain unverified. Future-cycle eligibility dates have not been announced."
+    ],
+    "sources": [
+      {
+        "url": "https://digiplus.adi.gov.tw/plan_table_newinner.html?id=51BC497F-0440-4AED-800B-6A6AEE16066D",
+        "title": "2026 formation cutoff, operating history and award rules"
+      }
+    ],
+    "requirements": [
+      {
+        "id": "taiwan-software-company",
+        "label": "Register a Taiwan software or information-service business",
+        "category": "eligibility",
+        "required": true,
+        "stage": "application",
+        "details": "J582, J62 or J63 tax classifications; branches and mainland China investment are excluded.",
+        "source_url": "https://digiplus.adi.gov.tw/plan_table_newinner.html?id=51BC497F-0440-4AED-800B-6A6AEE16066D",
+        "match_key": "company.tw_registered"
+      },
+      {
+        "id": "company-age",
+        "label": "Meet the startup formation and operating-history rules",
+        "category": "eligibility",
+        "required": true,
+        "stage": "application",
+        "details": "2026 requires formation on or after 2018-01-01 and operating results for 2023, 2024 and 2025. New formation alone does not meet the history requirement.",
+        "source_url": "https://digiplus.adi.gov.tw/plan_table_newinner.html?id=51BC497F-0440-4AED-800B-6A6AEE16066D"
+      },
+      {
+        "id": "own-product",
+        "label": "Show a self-developed product with real-world results",
+        "category": "eligibility",
+        "required": true,
+        "stage": "application",
+        "details": "Reselling, agency and purchasing on behalf of others are excluded. Chosen category needs actual application or business validation.",
+        "source_url": "https://digiplus.adi.gov.tw/plan_table_newinner.html?id=51BC497F-0440-4AED-800B-6A6AEE16066D"
+      },
+      {
+        "id": "positive-equity",
+        "label": "Maintain positive net worth and acceptable bank standing",
+        "category": "eligibility",
+        "required": true,
+        "stage": "application",
+        "details": "No bank-refused accounts; positive equity required.",
+        "source_url": "https://digiplus.adi.gov.tw/plan_table_newinner.html?id=51BC497F-0440-4AED-800B-6A6AEE16066D"
+      },
+      {
+        "id": "international-plan",
+        "label": "Set specific international expansion goals",
+        "category": "material",
+        "required": true,
+        "stage": "application",
+        "details": "Goals may cover exhibitions, accelerators, international fundraising, overseas business or locations. Award payment depends on implementation and evidence review.",
+        "source_url": "https://digiplus.adi.gov.tw/plan_table_newinner.html?id=51BC497F-0440-4AED-800B-6A6AEE16066D"
+      },
+      {
+        "id": "business-certificate",
+        "label": "Obtain an Industrial and Commercial Certificate",
+        "category": "material",
+        "required": true,
+        "stage": "application",
+        "details": "Required for online application.",
+        "source_url": "https://digiplus.adi.gov.tw/plan_table_newinner.html?id=51BC497F-0440-4AED-800B-6A6AEE16066D",
+        "match_key": "company.business_certificate"
+      },
+      {
+        "id": "consent",
+        "label": "Prepare enterprise personal-data consent",
+        "category": "material",
+        "required": true,
+        "stage": "application",
+        "details": "Appendix 5 is supplied for upload.",
+        "source_url": "https://digiplus.adi.gov.tw/plan_table_newinner.html?id=51BC497F-0440-4AED-800B-6A6AEE16066D"
+      },
+      {
+        "id": "category",
+        "label": "Select one award category",
+        "category": "field",
+        "required": true,
+        "stage": "application",
+        "details": "One category only; cannot be changed after application.",
+        "source_url": "https://digiplus.adi.gov.tw/plan_table_newinner.html?id=51BC497F-0440-4AED-800B-6A6AEE16066D"
+      },
+      {
+        "id": "submit-online",
+        "label": "Complete online application before the deadline",
+        "category": "step",
+        "required": true,
+        "stage": "application",
+        "details": "No paper submissions; official system time controls acceptance.",
+        "source_url": "https://digiplus.adi.gov.tw/plan_table_newinner.html?id=51BC497F-0440-4AED-800B-6A6AEE16066D"
+      }
+    ],
+    "winners": [],
+    "planning": {
+      "year": 2027,
+      "estimated_deadline": "2027-07-14",
+      "last_round_deadline": "2026-07-14",
+      "last_round_name": "Digital Startup Application Reward 2026",
+      "basis": "Planning estimate from the previous round. A new call, recurrence and deadline are not officially confirmed."
+    }
+  },
+  "tw-flyingvest-tta": {
+    "purpose": "Help young technology startups develop their business and expand into international markets.",
+    "theme": "AI, biotechnology and health, 5G, and consumer electronics are priorities; other sectors are welcome.",
+    "activities": "Work with a programme manager and experts, attend startup workshops, connect with investors and companies, and participate in demo events.",
+    "cycle": "Organizer says it is always looking to recruit startups; exact cohort dates unverified.",
+    "checked_at": "2026-10-01",
+    "coverage": "partial",
+    "company": {
+      "required": null,
+      "jurisdiction": "Domestic or international startup; Taiwan-only incorporation requirement not stated",
+      "entity_types": "Startup business; exact legal-entity categories not stated",
+      "min_age_months": null,
+      "max_age_months": 96,
+      "age_reference": "Application date; exact age calculation must be confirmed in the applicable call.",
+      "formation_stage": "Before application",
+      "notes": "Startups within eight years of establishment are eligible. No minimum founder-team size is published on the recovered page.",
+      "source_url": "https://www.flyingvest.com.tw/program-tta-en"
+    },
+    "limitations": [
+      "Admission schedule and any participation fee or investment terms require direct programme confirmation.",
+      "Additional recruitment form fields include industry, product/service, founding year, founder, capital, address, website and invoice number; required flags were not reliably exposed, so these have not been marked required.",
+      "No specific past alumni or accepted application outcomes verified."
+    ],
+    "sources": [
+      {
+        "url": "https://www.flyingvest.com.tw/program-tta-en",
+        "title": "Accelerator programme and recruiting conditions"
+      },
+      {
+        "url": "https://www.flyingvest.com.tw/recruitment",
+        "title": "Live startup recruitment form"
+      }
+    ],
+    "requirements": [
+      {
+        "id": "startup-age",
+        "label": "Startup established within eight years",
+        "category": "eligibility",
+        "required": true,
+        "stage": "application",
+        "details": "The programme accepts domestic and international startups within eight years of establishment.",
+        "source_url": "https://www.flyingvest.com.tw/program-tta-en"
+      },
+      {
+        "id": "company-name",
+        "label": "Company name",
+        "category": "field",
+        "required": true,
+        "stage": "application",
+        "details": "Asterisk-marked field on the recruitment form.",
+        "source_url": "https://www.flyingvest.com.tw/recruitment"
+      },
+      {
+        "id": "contact-person",
+        "label": "Contact person",
+        "category": "field",
+        "required": true,
+        "stage": "application",
+        "details": "Asterisk-marked field on the recruitment form.",
+        "source_url": "https://www.flyingvest.com.tw/recruitment"
+      },
+      {
+        "id": "contact-phone",
+        "label": "Contact number",
+        "category": "field",
+        "required": true,
+        "stage": "application",
+        "details": "Asterisk-marked field on the recruitment form.",
+        "source_url": "https://www.flyingvest.com.tw/recruitment"
+      },
+      {
+        "id": "contact-email",
+        "label": "Contact email",
+        "category": "field",
+        "required": true,
+        "stage": "application",
+        "details": "Asterisk-marked field on the recruitment form.",
+        "source_url": "https://www.flyingvest.com.tw/recruitment"
+      },
+      {
+        "id": "send-interest",
+        "label": "Send company details through the recruitment form",
+        "category": "step",
+        "required": true,
+        "stage": "application",
+        "details": "The organization says it recruits continuously and will contact interested startups. This is an interest/application form, not guaranteed admission.",
+        "source_url": "https://www.flyingvest.com.tw/recruitment"
+      }
+    ],
+    "winners": []
+  },
+  "tw-civic-action-hub-2026": {
+    "purpose": "Connect civic technologists with public agencies to build usable digital services for local issues.",
+    "theme": "2026 disaster prevention: incident reporting, warning, volunteer and supply coordination, and vulnerable-person reporting.",
+    "activities": "Propose a solution for a government challenge, pitch, work with an assigned adviser, and deliver public code and project reports.",
+    "cycle": "Last published round. A later application period has not been verified.",
+    "checked_at": "2026-10-01",
+    "coverage": "partial",
+    "company": {
+      "required": false,
+      "jurisdiction": "Lawful presence in Taiwan",
+      "entity_types": "Individuals or teams accepted",
+      "min_age_months": null,
+      "max_age_months": null,
+      "age_reference": "Application date; exact age calculation must be confirmed in the applicable call.",
+      "formation_stage": "Before application",
+      "notes": "No company formation or company-age requirement is stated. Executor supplies the adviser.",
+      "source_url": "https://cttaiwan.moda.gov.tw/"
+    },
+    "limitations": [
+      "The 2026 theme requires a public-interest disaster-prevention adaptation; eligibility is not a claim that existing annnä SaaS already fits.",
+      "Outputs must be open source. Exact form fields and future-cycle topics remain unverified.",
+      "2025 award amount was NT$460,000; the 2026 organizer now specifies NT$300,000 equivalent gifts or vouchers, not cash."
+    ],
+    "sources": [
+      {
+        "url": "https://cttaiwan.moda.gov.tw/",
+        "title": "2026 official theme, solo registration, process and support"
+      },
+      {
+        "url": "https://moda.gov.tw/en/press/press-releases/16574.html",
+        "title": "2025 predecessor programme and outcomes"
+      },
+      {
+        "url": "https://cttaiwan.moda.gov.tw/news/20260825-winners.html",
+        "title": "2026 selected teams and assigned government challenges"
+      }
+    ],
+    "requirements": [
+      {
+        "id": "lawful-taiwan-residence",
+        "label": "Hold lawful residence evidence in Taiwan",
+        "category": "eligibility",
+        "required": true,
+        "stage": "application",
+        "details": "Age, identity and nationality are unrestricted; individuals can apply.",
+        "source_url": "https://cttaiwan.moda.gov.tw/"
+      },
+      {
+        "id": "one-team",
+        "label": "Apply to only one team",
+        "category": "eligibility",
+        "required": true,
+        "stage": "application",
+        "details": "Each person may join only one team. The executor arranges one digital-transformation adviser alongside at least one creative participant.",
+        "source_url": "https://cttaiwan.moda.gov.tw/"
+      },
+      {
+        "id": "public-code",
+        "label": "Accept the Standard for Public Code",
+        "category": "eligibility",
+        "required": true,
+        "stage": "application",
+        "details": "Developed outputs must be open source and published on MODA GitHub. A proprietary SaaS product cannot simply remain closed source.",
+        "source_url": "https://cttaiwan.moda.gov.tw/"
+      },
+      {
+        "id": "proposal",
+        "label": "Prepare a proposal plan or presentation",
+        "category": "material",
+        "required": true,
+        "stage": "application",
+        "details": "Upload a proposal plan or slide presentation with the registration form.",
+        "source_url": "https://cttaiwan.moda.gov.tw/"
+      },
+      {
+        "id": "online-application",
+        "label": "Complete online registration and upload the proposal",
+        "category": "step",
+        "required": true,
+        "stage": "application",
+        "details": "Individuals or whole teams may apply.",
+        "source_url": "https://cttaiwan.moda.gov.tw/"
+      },
+      {
+        "id": "document-review",
+        "label": "Pass eligibility and document screening",
+        "category": "step",
+        "required": true,
+        "stage": "application",
+        "details": "The executor scores suitability and feasibility.",
+        "source_url": "https://cttaiwan.moda.gov.tw/"
+      },
+      {
+        "id": "demo-pitch",
+        "label": "Give the final-selection demo pitch",
+        "category": "step",
+        "required": true,
+        "stage": "application",
+        "details": "Selected applicants pitch before the government cooperation selection.",
+        "source_url": "https://cttaiwan.moda.gov.tw/"
+      },
+      {
+        "id": "deliver",
+        "label": "Deliver plans, code and completion report in stages",
+        "category": "step",
+        "required": true,
+        "stage": "participation",
+        "details": "Three installments of gifts or vouchers depend on delivery milestones.",
+        "source_url": "https://cttaiwan.moda.gov.tw/"
+      }
+    ],
+    "winners": [
+      {
+        "year": 2026,
+        "name": "Prepared Engineering Team",
+        "description": "Selected for Keelung City’s disaster-prevention volunteer training registration platform. The source gives selection and assigned topic, not a completed project result.",
+        "source_url": "https://cttaiwan.moda.gov.tw/news/20260825-winners.html",
+        "kind": "recipient"
+      },
+      {
+        "year": 2026,
+        "name": "Rui Si Technology",
+        "description": "Selected for New Taipei City’s real-time disaster reporting platform for vulnerable institutions. The source gives the assigned challenge; project completion has not been verified.",
+        "source_url": "https://cttaiwan.moda.gov.tw/news/20260825-winners.html",
+        "kind": "recipient"
+      }
+    ],
+    "planning": {
+      "year": 2027,
+      "estimated_deadline": "2027-08-19",
+      "last_round_deadline": "2026-08-19",
+      "last_round_name": "Civic Action Hub 2026",
+      "basis": "Planning estimate from the previous round. A new call, recurrence and deadline are not officially confirmed."
+    }
+  },
+  "tw-yawan-ai-poc-2026": {
+    "purpose": "Connect AI startups with local businesses to validate technology in real industrial settings and develop commercial opportunities.",
+    "theme": "Automotive electronics, plastics/rubber/chemicals, food processing and logistics; AI decision-making, production and marketing applications.",
+    "activities": "Pitch an AI solution, work with a local industry pilot partner, validate it in a real setting, and participate in business matching and demonstrations.",
+    "cycle": "Last published round. A later application period has not been verified.",
+    "checked_at": "2026-10-01",
+    "coverage": "partial",
+    "company": {
+      "required": true,
+      "jurisdiction": "Taiwan SME eligibility; no Kaohsiung incorporation mandate stated in the published call",
+      "entity_types": "Startup enterprise meeting the SME definition; no mainland investment or Taiwan branch of an overseas business",
+      "min_age_months": null,
+      "max_age_months": null,
+      "age_reference": "The published 2026 fixed formation cutoff is 2018-04-25, exclusive.",
+      "formation_stage": "Before application",
+      "notes": "2026 formation must be after 2018-04-25. Exact future formation cutoff is unannounced. The call explicitly accepts SaaS and generative AI.",
+      "source_url": "https://startupterrace.sme.gov.tw/News_Content.aspx?n=1654&sms=11624&s=15273"
+    },
+    "limitations": [
+      "The application portal currently redirects to the general programme description, so exact form fields remain unverified.",
+      "Future cycle and its formation cutoff are not announced. An industry-specific use case and pilot partner are needed; this is not unrestricted SaaS funding.",
+      "Exact participation terms, credit values and past selected startup examples are not captured."
+    ],
+    "sources": [
+      {
+        "url": "https://startupterrace.sme.gov.tw/News_Content.aspx?n=1654&sms=11624&s=15273",
+        "title": "2026 official call, SaaS eligibility, cutoff, deadline and attachments"
+      },
+      {
+        "url": "https://startupterrace.sme.gov.tw/cp.aspx?n=1809",
+        "title": "Programme overview"
+      }
+    ],
+    "requirements": [
+      {
+        "id": "taiwan-sme",
+        "label": "Establish an eligible startup SME",
+        "category": "eligibility",
+        "required": true,
+        "stage": "application",
+        "details": "Meet the Taiwan SME definition. Mainland China-invested businesses and Taiwan branches of foreign businesses are excluded.",
+        "source_url": "https://startupterrace.sme.gov.tw/News_Content.aspx?n=1654&sms=11624&s=15273",
+        "match_key": "company.tw_registered"
+      },
+      {
+        "id": "formation-cutoff",
+        "label": "Meet the formation cutoff",
+        "category": "eligibility",
+        "required": true,
+        "stage": "application",
+        "details": "The 2026 call requires formation after 2018-04-25. Recheck the formation cutoff in any future round.",
+        "source_url": "https://startupterrace.sme.gov.tw/News_Content.aspx?n=1654&sms=11624&s=15273"
+      },
+      {
+        "id": "ai-industry",
+        "label": "Propose an AI product or SaaS for a target industry",
+        "category": "eligibility",
+        "required": true,
+        "stage": "application",
+        "details": "Products or SaaS platforms including generative AI may be used for automotive electronics, plastics/rubber/chemicals, food processing or logistics.",
+        "source_url": "https://startupterrace.sme.gov.tw/News_Content.aspx?n=1654&sms=11624&s=15273"
+      },
+      {
+        "id": "application-form",
+        "label": "Complete the application form",
+        "category": "material",
+        "required": true,
+        "stage": "application",
+        "details": "Appendix 2.",
+        "source_url": "https://startupterrace.sme.gov.tw/News_Content.aspx?n=1654&sms=11624&s=15273"
+      },
+      {
+        "id": "pitch-slides",
+        "label": "Prepare pitch slides",
+        "category": "material",
+        "required": true,
+        "stage": "application",
+        "details": "Appendix 3.",
+        "source_url": "https://startupterrace.sme.gov.tw/News_Content.aspx?n=1654&sms=11624&s=15273",
+        "match_key": "project.pitch_deck"
+      },
+      {
+        "id": "declaration",
+        "label": "Prepare the applicant declaration",
+        "category": "material",
+        "required": true,
+        "stage": "application",
+        "details": "Appendix 4.",
+        "source_url": "https://startupterrace.sme.gov.tw/News_Content.aspx?n=1654&sms=11624&s=15273"
+      },
+      {
+        "id": "consent",
+        "label": "Prepare personal-data consent",
+        "category": "material",
+        "required": true,
+        "stage": "application",
+        "details": "Appendix 5.",
+        "source_url": "https://startupterrace.sme.gov.tw/News_Content.aspx?n=1654&sms=11624&s=15273"
+      },
+      {
+        "id": "upload",
+        "label": "Submit the required documents through the online system",
+        "category": "step",
+        "required": true,
+        "stage": "application",
+        "details": "Upload all required attachments by the official deadline.",
+        "source_url": "https://startupterrace.sme.gov.tw/News_Content.aspx?n=1654&sms=11624&s=15273"
+      },
+      {
+        "id": "selection-pitch",
+        "label": "Attend online pitch selection",
+        "category": "step",
+        "required": true,
+        "stage": "application",
+        "details": "The 2026 selection was provisionally scheduled for early May.",
+        "source_url": "https://startupterrace.sme.gov.tw/News_Content.aspx?n=1654&sms=11624&s=15273"
+      }
+    ],
+    "winners": [],
+    "planning": {
+      "year": 2027,
+      "estimated_deadline": "2027-04-24",
+      "last_round_deadline": "2026-04-24",
+      "last_round_name": "Yawan AI Innovation Proof of Concept 2026",
+      "basis": "Planning estimate from the previous round. A new call, recurrence and deadline are not officially confirmed."
     }
   }
 }

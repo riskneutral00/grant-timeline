@@ -35,7 +35,7 @@ def validate_details(details,rows):
     for event,detail in details.items():
         if event not in fits:raise ValueError('Unknown event '+event)
         if fits[event]=='skip':continue
-        if not isinstance(detail,dict) or set(detail)!=DETAIL_FIELDS:raise ValueError('Unexpected or missing public detail fields')
+        if not isinstance(detail,dict) or not DETAIL_FIELDS <= set(detail) or set(detail) - DETAIL_FIELDS - {'planning'}:raise ValueError('Unexpected or missing public detail fields')
         for key in ('purpose','theme','activities','cycle','checked_at'):text(detail[key])
         dt.date.fromisoformat(detail['checked_at'])
         if detail['coverage'] not in {'partial','verified'}:raise ValueError('Invalid research coverage')
@@ -72,6 +72,12 @@ def validate_details(details,rows):
             if set(winner)-{'year','name','description','source_url','kind'} or not {'year','name','description','source_url'}<=set(winner) or type(winner['year']) is not int:raise ValueError('Invalid previous winner fields')
             text(winner['name']);text(winner['description']);public_url(winner['source_url'])
             if winner.get('kind','winner') not in {'winner','recipient','alumnus','participant'}:raise ValueError('Invalid past-example kind')
+        if 'planning' in detail:
+            p=detail['planning']
+            if set(p)!=set('year estimated_deadline last_round_deadline last_round_name basis'.split()) or type(p['year']) is not int:raise ValueError('Invalid programme planning fields')
+            for k in ('estimated_deadline','last_round_deadline'):
+                if p[k] is not None:dt.date.fromisoformat(p[k])
+            text(p['last_round_name']);text(p['basis'])
         ensure_english(detail)
         out[event]=detail
     return out
@@ -80,9 +86,11 @@ def validate_details(details,rows):
 def company_age_summary(company):
     if company['required'] is False:return ''
     notes=company['notes']
+    if re.search(r'\d{4}-\d{2}-\d{2}',notes):
+        return next((sentence for sentence in re.split(r'(?<=[.!?])\s+',notes) if re.search(r'\d{4}-\d{2}-\d{2}',sentence)),notes)
     if company['max_age_months'] is not None:
         months=company['max_age_months']
-        bound=f'Under {months // 12} years' if months % 12 == 0 and ('exclusive' in notes.lower() or 'less than' in notes.lower()) else f'{months}-month upper bound'
+        bound=f'Under {months // 12} years' if months % 12 == 0 and ('exclusive' in notes.lower() or 'less than' in notes.lower()) else f'At most {months // 12} years' if months % 12 == 0 and 'inclusive' in notes.lower() else f'{months}-month upper bound'
         return bound+'; measured at '+company['age_reference']+'.'
     for sentence in re.split(r'(?<=[.!?])\s+',notes):
         if re.search(r'company.age|\d{4}-\d{2}-\d{2}|formation (cutoff|window)',sentence,re.I):return sentence
@@ -96,6 +104,9 @@ def render_research(detail):
     requirement='Required' if company['required'] is True else '' if company['required'] is False else 'Not yet verified'
     parts=[f'<section class="company-rules"><h2>Company formation and age</h2><dl><div><dt>Company required</dt><dd>{requirement}</dd></div><div><dt>Jurisdiction</dt><dd>{esc(company["jurisdiction"])}</dd></div><div><dt>Entity types</dt><dd>{esc(company["entity_types"])}</dd></div><div><dt>When you must be incorporated</dt><dd>{esc(company["formation_stage"])}</dd></div><div><dt>When company age is measured</dt><dd>{esc(company["age_reference"])}</dd></div></dl><p>{esc(company["notes"])}</p><a href="{esc(company["source_url"],quote=True)}" target="_blank" rel="noopener noreferrer">Company eligibility source ↗</a></section>']
     if company['required'] is False:parts=[]
+    if detail.get('planning'):
+        p=detail['planning'];estimate=dt.date.fromisoformat(p['estimated_deadline']).strftime('%B %Y') if p['estimated_deadline'] else 'Not yet estimated'
+        parts.insert(0,f'<section class="planning-note"><h2>Planning for {p["year"]}</h2><p>The next intake and deadline are not announced. {esc(p["basis"])}</p><p>Planning window: {estimate}. Previous round: {esc(p["last_round_name"])}; deadline {p["last_round_deadline"] or "not recorded"}.</p><p>Requirements below are the last known rules and need confirmation for the next call.</p></section>')
     for key,title in [('purpose','What this event is for'),('theme','Theme and focus'),('activities','What you would do')]:
         parts.append(f'<section><h2>{title}</h2><p>{esc(detail[key])}</p></section>')
     parts.append(f'<section class="research-status"><h2>Research coverage</h2><p>{esc(detail["cycle"])} · Checked {esc(detail["checked_at"])} · {detail["coverage"].capitalize()}</p>')
