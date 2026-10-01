@@ -797,7 +797,7 @@
         "category": "material",
         "required": true,
         "stage": "application",
-        "details": "工商憑證 is required to authenticate and submit online.",
+        "details": "Business Digital Certificate is required to authenticate and submit online.",
         "source_url": "https://moda.gov.tw/ADI/news/events/20044"
       },
       {
@@ -837,7 +837,7 @@
       "max_age_months": null,
       "age_reference": "unknown",
       "formation_stage": "application",
-      "notes": "Already legally registered at application. Industry classification must be J 582, J 62 or J 63 and工商憑證 business-certificate authentication is required. No numeric company-age limit published in the inspected announcement.",
+      "notes": "Already legally registered at application. Industry classification must be J 582, J 62 or J 63 andBusiness Digital Certificate business-certificate authentication is required. No numeric company-age limit published in the inspected announcement.",
       "source_url": "https://moda.gov.tw/ADI/news/events/20044"
     }
   },
@@ -1936,7 +1936,7 @@
     "sources": [
       {
         "url": "https://service.moea.gov.tw/EE514/tw/aiip/50-7691.html",
-        "title": "A+早期新創補助計畫 official information"
+        "title": "A+ Early-stage Startup Subsidy official information"
       }
     ],
     "requirements": [
