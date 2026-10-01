@@ -1409,7 +1409,8 @@
         "source_url": "https://www.sparklabstaiwan.com/accelerator/program",
         "match_key": "project.pitch_deck",
         "constraints": {
-          "max_seconds": 360
+          "max_seconds": 360,
+          "requires_event_review": true
         }
       },
       {
@@ -2236,7 +2237,8 @@
         "source_url": "https://asia-innovation-cup.tw/files/TiBOOST-Guidelines-EN-2026.pdf",
         "match_key": "project.pitch_deck",
         "constraints": {
-          "max_seconds": 420
+          "max_seconds": 420,
+          "requires_event_review": true
         }
       },
       {
@@ -3493,7 +3495,10 @@
         "stage": "participation",
         "details": "Build from a selected local food-system challenge brief during the sprint.",
         "source_url": "https://luma.com/ith7j4aw",
-        "match_key": "project.working_demo"
+        "match_key": "project.working_demo",
+        "constraints": {
+          "must_be_new": true
+        }
       },
       {
         "id": "presentation",
@@ -3978,7 +3983,8 @@
         "match_key": "project.research_report",
         "constraints": {
           "format": "PDF",
-          "max_bytes": 25000000
+          "max_bytes": 25000000,
+          "requires_event_review": true
         }
       },
       {

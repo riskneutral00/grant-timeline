@@ -7,7 +7,7 @@ from translate import FOREIGN
 
 DETAIL_FIELDS=set('purpose theme activities cycle checked_at coverage company limitations sources requirements winners'.split())
 REQUIRED_FIELDS=set('id label category required stage details source_url'.split())
-CONSTRAINT_TYPES={'language':str,'format':str,'min_seconds':int,'max_seconds':int,'max_age_days':int,'max_bytes':int,'max_words':int,'max_pages':int,'must_be_new':bool,'min_company_age_months':int,'max_company_age_months':int,'company_age_reference':str}
+CONSTRAINT_TYPES={'language':str,'format':str,'min_seconds':int,'max_seconds':int,'max_age_days':int,'max_bytes':int,'max_words':int,'max_pages':int,'must_be_new':bool,'requires_event_review':bool,'min_company_age_months':int,'max_company_age_months':int,'company_age_reference':str}
 
 
 def public_url(value):
