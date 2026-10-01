@@ -38,6 +38,16 @@ class ProgrammeCycleTests(unittest.TestCase):
         self.assertEqual(updated[0]['status'],'planning')
         self.assertGreaterEqual(new['sample']['planning']['estimated_deadline'],future.isoformat())
 
+    def test_passed_planning_window_advances_without_hiding_programme(self):
+        previous=dt.date(self.today.year-1,1,15)
+        row=dict(self.row,name=f'Software programme {previous.year}',deadline=previous.isoformat())
+        before=dt.date(self.today.year,1,1)
+        rows,details=roll_programmes([row],self.details,before)
+        after=dt.date(self.today.year,2,1)
+        advanced,next_details=roll_programmes(rows,details,after)
+        self.assertEqual(next_details['sample']['planning']['year'],after.year+1)
+        self.assertEqual(advanced[0]['status'],'planning');self.assertIsNone(advanced[0]['deadline'])
+
     def test_verified_next_call_replaces_planning(self):
         rows,details=roll_programmes([self.row],self.details,self.today)
         actual=dict(rows[0],status='open',deadline=(self.today+dt.timedelta(days=60)).isoformat(),name='Announced new intake')

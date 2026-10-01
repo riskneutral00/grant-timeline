@@ -42,7 +42,8 @@ def roll_programmes(rows,details,today,planning_year=None):
         if row['status'] not in {'closed','planning'} and not expired:continue
         if detail is None:detail=details.setdefault(row['id'],planning_stub(row))
         planning=detail.get('planning')
-        if planning and planning['year']>=today.year:
+        estimate_passed = bool(planning and planning.get('estimated_deadline') and planning['estimated_deadline']<today.isoformat() and planning['year']<=today.year)
+        if planning and planning['year']>=today.year and not estimate_passed:
             row['status']='planning';row['deadline']=None
             continue
         last_date=planning['last_round_deadline'] if planning else row['deadline']
