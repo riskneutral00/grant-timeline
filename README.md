@@ -27,3 +27,12 @@ New official discoveries: AppWorks #33, VentureSpark cohort 2, Cyberport CCMF Oc
 The original page mixed public facts with personal banking, registration budgets, and cash-flow strategy. Its full original was backed up outside this public repository before editing. At the initial migration, original styles and main headings remained in the template; personal plan text and financial estimates were replaced with neutral public guidance. This deliberately prioritizes the public-only requirement over verbatim preservation of sensitive non-table text. Original content may still exist in earlier Git history; history was not rewritten.
 
 Monthly operation: search official pages, append/update records, build/test, review public-only diff, commit/push and verify remote HEAD. Refresh the private consolidated Grants notebook through the shared publisher; failed authentication must not prevent the public scan. Report new entries and confirmed deadlines within 60 days. No contacting programs or submitting applications.
+
+
+## Event research and private preparation
+
+`data/event_details.json` is the validated public projection of research for potential-fit events only. It includes purpose/theme, expected work, company formation and exact company-age rules, sourced eligibility/materials/form fields/steps, research gaps and past examples. Company formation and age are separate columns in the directory. Unknown requirements remain explicitly unverified. Closed rounds are historical; no successor is assumed.
+
+The private grants workspace owns enrichment and private readiness. `grant_sync.py details` saves research, and `prepare` saves shared facts/materials or a signed per-event check. The common cron publisher regenerates every output, including the expanded private CSV and NotebookLM. No readiness, personal evidence, identifiers or private attachments are exported to this public repository.
+
+The directory links to https://grants.srv1989548.hstgr.cloud/ for authenticated preparation checklists. A shared update recomputes matching events; exact duration/language/format/freshness/new-work and company-age constraints remain separate checks. Private checks never submit applications.

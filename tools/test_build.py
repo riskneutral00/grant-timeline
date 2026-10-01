@@ -82,6 +82,16 @@ class BuildTests(unittest.TestCase):
         self.assertIn('Solo OK', page)
         self.assertIn('Not specified', page)
         self.assertIn('Not announced', page)
+    def test_company_columns_have_separate_formation_and_age_values(self):
+        from test_event_details import fixture
+        details=fixture();details['x']=details.pop('sample')
+        page=render([self.r],'{{TABLE}}',details)
+        self.assertIn('class="company-formation"',page)
+        self.assertIn('class="company-age"',page)
+        self.assertIn('Less than three years old.',page)
+        excluded=render([dict(self.r,fit='skip',fit_reason='Not eligible')],'{{TABLE}}',details)
+        self.assertNotIn('Less than three years old.',excluded)
+
     def test_template_invalid(self):
         with self.assertRaises(ValueError): render([self.r],'No marker')
 
