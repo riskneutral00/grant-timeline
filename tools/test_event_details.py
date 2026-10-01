@@ -37,6 +37,10 @@ class EventDetailTests(unittest.TestCase):
         self.assertIn('Less than three years old.',page)
         broken=dict(self.details['sample']);del broken['company']
         with self.assertRaises(ValueError):validate_details({'sample':broken},self.rows)
+    def test_untranslated_enrichment_is_held_before_publication(self):
+        self.details['sample']['theme']='臺灣'
+        with self.assertRaises(ValueError):validate_details(self.details,self.rows)
+
     def test_empty_details_do_not_invent_requirements(self):
         self.assertEqual(render_research(None),'')
 

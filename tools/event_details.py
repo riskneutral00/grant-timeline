@@ -3,6 +3,7 @@ import datetime as dt
 import html
 import re
 from urllib.parse import urlsplit
+from translate import FOREIGN
 
 DETAIL_FIELDS=set('purpose theme activities cycle checked_at coverage company limitations sources requirements winners'.split())
 REQUIRED_FIELDS=set('id label category required stage details source_url'.split())
@@ -13,6 +14,14 @@ def public_url(value):
     u=urlsplit(value)
     if u.scheme not in {'https','http'} or not u.netloc or u.username or u.password:
         raise ValueError('Invalid public source URL')
+
+
+def ensure_english(value,key=''):
+    if isinstance(value,str) and key not in {'url','source_url'} and not value.startswith(('https://','http://')) and FOREIGN.search(value):raise ValueError('Translate event research into English before publication')
+    if isinstance(value,list):
+        for v in value:ensure_english(v,key)
+    if isinstance(value,dict):
+        for k,v in value.items():ensure_english(v,k)
 
 
 def text(value):
@@ -63,6 +72,7 @@ def validate_details(details,rows):
             if set(winner)-{'year','name','description','source_url','kind'} or not {'year','name','description','source_url'}<=set(winner) or type(winner['year']) is not int:raise ValueError('Invalid previous winner fields')
             text(winner['name']);text(winner['description']);public_url(winner['source_url'])
             if winner.get('kind','winner') not in {'winner','recipient','alumnus','participant'}:raise ValueError('Invalid past-example kind')
+        ensure_english(detail)
         out[event]=detail
     return out
 
@@ -103,11 +113,11 @@ def render_research(detail):
                 parts.append(f'<li><strong>{esc(req["label"])}</strong><span class="requirement-meta">{flag} · {stage}</span><p>{esc(req["details"])}</p><a href="{esc(req["source_url"],quote=True)}" target="_blank" rel="noopener noreferrer">Requirement source ↗</a></li>')
             parts.append(f'</{tag}>')
         parts.append('</section>')
-    parts.append('<section><h2>Previous winners and recipients</h2>')
+    parts.append('<section><h2>Previous winners and other past examples</h2>')
     if not detail['winners']:parts.append('<p class="muted">No verified past-winner or recipient details captured. This does not mean there were no previous winners.</p>')
     else:
         for w in detail['winners']:
-            parts.append(f'<article class="winner"><h3>{w["year"]} · {esc(w["name"])}</h3><p class="requirement-meta">{esc(w.get("kind","winner").capitalize())}</p><p>{esc(w["description"])}</p><a href="{esc(w["source_url"],quote=True)}" target="_blank" rel="noopener noreferrer">Winner source ↗</a></article>')
+            parts.append(f'<article class="winner"><h3>{w["year"]} · {esc(w["name"])}</h3><p class="requirement-meta">{esc(w.get("kind","winner").capitalize())}</p><p>{esc(w["description"])}</p><a href="{esc(w["source_url"],quote=True)}" target="_blank" rel="noopener noreferrer">Example source ↗</a></article>')
     parts.append('</section><section><h2>Research sources</h2><ul>')
     for source in detail['sources']:parts.append(f'<li><a href="{esc(source["url"],quote=True)}" target="_blank" rel="noopener noreferrer">{esc(source["title"])} ↗</a></li>')
     parts.append('</ul></section>')
