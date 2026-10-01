@@ -33,6 +33,9 @@ Monthly operation: search official pages, append/update records, build/test, rev
 
 `data/event_details.json` is the validated public projection of research for potential-fit events only. It includes purpose/theme, expected work, company formation and exact company-age rules, sourced eligibility/materials/form fields/steps, research gaps and past examples. Company formation and age are separate columns in the directory. Unknown requirements remain explicitly unverified. Closed rounds are historical; no successor is assumed.
 
-The private grants workspace owns enrichment and private readiness. `grant_sync.py details` saves research, and `prepare` saves shared facts/materials or a signed per-event check. The common cron publisher regenerates every output, including the expanded private CSV and NotebookLM. No readiness, personal evidence, identifiers or private attachments are exported to this public repository.
+The private grants workspace owns enrichment and shared readiness. `grant_sync.py details` saves research, and `prepare` saves shared facts/materials or a signed per-event check. The common cron publisher regenerates every output, including the expanded private CSV and NotebookLM. No readiness, personal evidence, identifiers or private attachments are exported to this public repository.
 
-The directory links to https://grants.srv1989548.hstgr.cloud/ for authenticated preparation checklists. A shared update recomputes matching events; exact duration/language/format/freshness/new-work and company-age constraints remain separate checks. Private checks never submit applications.
+The directory links to https://grants.srv1989548.hstgr.cloud/ for open preparation checklists without sign-in or passwords. A shared update recomputes matching events; exact duration/language/format/freshness/new-work and company-age constraints remain separate checks. Private checks never submit applications.
+
+
+Matt approved open viewing and editing of the hosted event checklists on2026-10-01. No account, password or sign-in is required. Source storage and synchronization remain in the same grants workspace.
