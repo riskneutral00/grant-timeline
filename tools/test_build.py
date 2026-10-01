@@ -1,6 +1,8 @@
 import copy
+import datetime as dt
+from html.parser import HTMLParser
 import unittest
-from build import validate, normalized, sort_key, render
+from build import validate, normalized, sort_key, render, render_detail, program_path
 
 class BuildTests(unittest.TestCase):
     def setUp(self):
@@ -30,11 +32,39 @@ class BuildTests(unittest.TestCase):
         for r in [dict(self.r, fit='maybe'), dict(self.r, fit='skip', fit_reason='')]:
             with self.assertRaises(ValueError): validate([r])
         self.assertEqual(len(validate([dict(self.r, fit='skip', fit_reason='HK university teams only')])), 1)
-    def test_skip_section(self):
-        page=render([self.r, dict(self.r, id='s', name='Skipped one', fit='skip', fit_reason='Needs HKID')],'{{TABLE}}')
-        want, skip = page.split('<details')
-        self.assertIn('data-id="x"', want); self.assertNotIn('Skipped one', want)
-        self.assertIn('Skipped one', skip); self.assertIn('Needs HKID', skip)
+    def test_all_records_remain_accessible(self):
+        page=render([self.r, dict(self.r, id='s', name='Skipped one', fit='skip', fit_reason='Needs HKID')], '{{TABLE}}')
+        self.assertIn('data-id="x"', page)
+        self.assertIn('data-id="s"', page)
+        self.assertIn('data-fit="skip"', page)
+        self.assertIn('Needs HKID', page)
+    def test_program_links_open_separate_detail_pages(self):
+        class Links(HTMLParser):
+            def __init__(self):
+                super().__init__(); self.links = []
+            def handle_starttag(self, tag, attrs):
+                if tag == 'a': self.links.append(dict(attrs))
+        parser = Links(); parser.feed(render([self.r], '{{TABLE}}'))
+        link = next(a for a in parser.links if a.get('href') == program_path(self.r))
+        self.assertEqual(link['target'], '_blank')
+        self.assertIn('noopener', link['rel'])
+    def test_detail_has_full_facts_and_safe_sources(self):
+        row = dict(self.r, summary='Long explanation. Full requirements & conditions.', fit='skip', fit_reason='Needs HKID', prize='Up to $123,456')
+        page = render_detail(row)
+        for value in ['&lt;unsafe&gt;', 'Full requirements &amp; conditions.', 'Needs HKID', 'Up to $123,456', 'https://example.org/', 'Not announced']:
+            self.assertIn(value, page)
+        self.assertNotIn('<unsafe>', page)
+    def test_safe_stable_program_paths(self):
+        path = program_path(dict(self.r, id='../escape'))
+        self.assertTrue(path.startswith('programs/'))
+        self.assertNotIn('..', path)
+        self.assertEqual(path, program_path(dict(self.r, id='../escape')))
+    def test_deadlines_increase_inside_directory(self):
+        today = dt.date.today()
+        early = (today + dt.timedelta(days=4)).isoformat()
+        late = (today + dt.timedelta(days=12)).isoformat()
+        page = render([dict(self.r,id='late',deadline=late,status='open'),dict(self.r,id='early',deadline=early,status='upcoming')], '{{TABLE}}')
+        self.assertLess(page.index('data-id="early"'), page.index('data-id="late"'))
     def test_render_refuses_chinese(self):
         with self.assertRaises(ValueError): render([dict(self.r, name='臺北')], '{{TABLE}}')
     def test_validate_allows_source_language(self):
@@ -45,12 +75,13 @@ class BuildTests(unittest.TestCase):
         with self.assertRaises(ValueError): validate([dict(self.r, team_min='2')])
         self.assertEqual(len(validate([dict(self.r, team_min=4, team_max=5, fit='skip', fit_reason='Teams of 4-5 required.')])), 1)
         self.assertEqual(len(validate([dict(self.r, team_min=1, team_max=6)])), 1)
-    def test_team_and_prize_columns(self):
+    def test_key_facts_and_unknown_values(self):
         page = render([dict(self.r, team_min=1, team_max=2, prize='NT$700,000 total'), dict(self.r, id='y', team_min=1, team_max=1), dict(self.r, id='z')], '{{TABLE}}')
-        self.assertIn('<th>Team size</th><th>Prize / money</th>', page)
-        self.assertIn('<td>1–2</td><td>NT$700,000 total</td>', page)
-        self.assertIn('<td>Solo OK</td>', page)
-        self.assertIn('<td>NA</td><td>NA</td>', page)
+        self.assertIn('1–2', page)
+        self.assertIn('NT$700,000 total', page)
+        self.assertIn('Solo OK', page)
+        self.assertIn('Not specified', page)
+        self.assertIn('Not announced', page)
     def test_template_invalid(self):
         with self.assertRaises(ValueError): render([self.r],'No marker')
 
