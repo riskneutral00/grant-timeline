@@ -3913,6 +3913,13 @@
       "formation_stage": "Not required for the published individual registration path.",
       "notes": "Only the team leader registers; solo entry is explicitly permitted. Company you work for and job title are explicitly optional. New-work rule concerns the hackathon project, not company age.",
       "source_url": "https://luma.com/lqrbtu27"
+    },
+    "planning": {
+      "year": 2027,
+      "estimated_deadline": "2027-10-01",
+      "last_round_deadline": "2026-10-01",
+      "last_round_name": "U-Hackathon 2026",
+      "basis": "Planning estimate from the previous round. A new call, recurrence and deadline are not officially confirmed."
     }
   },
   "hk-ai-collusion-sprint-2026": {
