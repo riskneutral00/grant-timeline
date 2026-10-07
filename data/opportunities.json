@@ -380,8 +380,8 @@
     "deadline_time": null,
     "deadline_timezone": null,
     "deadline_source_url": null,
-    "funding_kind": "unknown",
-    "fee_status": "unknown"
+    "funding_kind": "noncash",
+    "fee_status": "none"
   },
   {
     "id": "tw-sparklabs",
@@ -404,7 +404,7 @@
     "deadline_time": null,
     "deadline_timezone": null,
     "deadline_source_url": null,
-    "funding_kind": "unknown",
+    "funding_kind": "equity",
     "fee_status": "unknown"
   },
   {
@@ -548,8 +548,8 @@
     "deadline_time": null,
     "deadline_timezone": null,
     "deadline_source_url": null,
-    "funding_kind": "unknown",
-    "fee_status": "unknown"
+    "funding_kind": "noncash",
+    "fee_status": "none"
   },
   {
     "id": "hk-ccmf-oct-2026",
@@ -620,7 +620,7 @@
     "deadline_time": null,
     "deadline_timezone": null,
     "deadline_source_url": null,
-    "funding_kind": "unknown",
+    "funding_kind": "equity",
     "fee_status": "unknown"
   },
   {
@@ -716,8 +716,8 @@
     "deadline_time": null,
     "deadline_timezone": null,
     "deadline_source_url": null,
-    "funding_kind": "unknown",
-    "fee_status": "unknown"
+    "funding_kind": "noncash",
+    "fee_status": "required"
   },
   {
     "id": "tw-codefest-fall-2026",
@@ -884,7 +884,7 @@
     "deadline_time": null,
     "deadline_timezone": null,
     "deadline_source_url": null,
-    "funding_kind": "unknown",
+    "funding_kind": "mixed",
     "fee_status": "unknown"
   },
   {
@@ -1124,8 +1124,8 @@
     "deadline_time": null,
     "deadline_timezone": null,
     "deadline_source_url": null,
-    "funding_kind": "unknown",
-    "fee_status": "unknown"
+    "funding_kind": "noncash",
+    "fee_status": "required"
   },
   {
     "fit_reason": "Applicants must be qualifying students or recent graduates, and POC applicants need a majority Thai-owned juristic entity.",
@@ -1196,7 +1196,7 @@
     "deadline_time": null,
     "deadline_timezone": null,
     "deadline_source_url": null,
-    "funding_kind": "unknown",
+    "funding_kind": "equity",
     "fee_status": "unknown"
   },
   {
@@ -1220,7 +1220,7 @@
     "deadline_time": null,
     "deadline_timezone": null,
     "deadline_source_url": null,
-    "funding_kind": "unknown",
+    "funding_kind": "cash",
     "fee_status": "unknown"
   },
   {
@@ -1268,7 +1268,7 @@
     "deadline_time": null,
     "deadline_timezone": null,
     "deadline_source_url": null,
-    "funding_kind": "unknown",
+    "funding_kind": "noncash",
     "fee_status": "unknown"
   },
   {
@@ -1292,7 +1292,7 @@
     "deadline_time": null,
     "deadline_timezone": null,
     "deadline_source_url": null,
-    "funding_kind": "unknown",
+    "funding_kind": "noncash",
     "fee_status": "unknown"
   },
   {
@@ -1316,7 +1316,7 @@
     "deadline_time": null,
     "deadline_timezone": null,
     "deadline_source_url": null,
-    "funding_kind": "unknown",
+    "funding_kind": "noncash",
     "fee_status": "unknown"
   },
   {
@@ -1340,8 +1340,8 @@
     "deadline_time": null,
     "deadline_timezone": null,
     "deadline_source_url": null,
-    "funding_kind": "unknown",
-    "fee_status": "unknown"
+    "funding_kind": "noncash",
+    "fee_status": "none"
   },
   {
     "fit_reason": "",
