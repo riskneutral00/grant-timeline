@@ -16,7 +16,12 @@
     "fit_reason": "",
     "team_min": 1,
     "team_max": 1,
-    "prize": "Up to NT$1.5 million"
+    "prize": "Up to NT$1.5 million",
+    "deadline_time": null,
+    "deadline_timezone": null,
+    "deadline_source_url": null,
+    "funding_kind": "unknown",
+    "fee_status": "unknown"
   },
   {
     "id": "tw-sbir-2",
@@ -35,7 +40,12 @@
     "fit_reason": "",
     "team_min": 1,
     "team_max": null,
-    "prize": "Up to NT$6 million (1 year) or NT$12 million (2 years)"
+    "prize": "Up to NT$6 million (1 year) or NT$12 million (2 years)",
+    "deadline_time": null,
+    "deadline_timezone": null,
+    "deadline_source_url": null,
+    "funding_kind": "unknown",
+    "fee_status": "unknown"
   },
   {
     "id": "tw-khh-general-2026",
@@ -54,7 +64,12 @@
     "fit_reason": "",
     "team_min": 1,
     "team_max": null,
-    "prize": "Up to NT$80,000 (generally up to 70% of eligible costs)"
+    "prize": "Up to NT$80,000 (generally up to 70% of eligible costs)",
+    "deadline_time": null,
+    "deadline_timezone": null,
+    "deadline_source_url": null,
+    "funding_kind": "unknown",
+    "fee_status": "unknown"
   },
   {
     "id": "tw-khh-competitive-2026",
@@ -73,7 +88,12 @@
     "fit_reason": "",
     "team_min": 1,
     "team_max": null,
-    "prize": "NT$2.23 million total (company track 1st place NT$1 million)"
+    "prize": "NT$2.23 million total (company track 1st place NT$1 million)",
+    "deadline_time": null,
+    "deadline_timezone": null,
+    "deadline_source_url": null,
+    "funding_kind": "unknown",
+    "fee_status": "unknown"
   },
   {
     "id": "tw-ai-service-2026",
@@ -92,7 +112,12 @@
     "fit_reason": "",
     "team_min": 1,
     "team_max": null,
-    "prize": "Up to NT$5 million (AI apps) or NT$20 million (AI agents), max 50% of cost"
+    "prize": "Up to NT$5 million (AI apps) or NT$20 million (AI agents), max 50% of cost",
+    "deadline_time": null,
+    "deadline_timezone": null,
+    "deadline_source_url": null,
+    "funding_kind": "unknown",
+    "fee_status": "unknown"
   },
   {
     "id": "tw-digital-plus",
@@ -111,7 +136,12 @@
     "fit_reason": "Directory portal, not a separate application; individual funding calls are listed separately.",
     "team_min": null,
     "team_max": null,
-    "prize": "NA"
+    "prize": "NA",
+    "deadline_time": null,
+    "deadline_timezone": null,
+    "deadline_source_url": null,
+    "funding_kind": "unknown",
+    "fee_status": "unknown"
   },
   {
     "id": "tw-cross-domain",
@@ -130,7 +160,12 @@
     "fit_reason": "",
     "team_min": null,
     "team_max": null,
-    "prize": "Up to NT$7 million (max 50% of project cost)"
+    "prize": "Up to NT$7 million (max 50% of project cost)",
+    "deadline_time": null,
+    "deadline_timezone": null,
+    "deadline_source_url": null,
+    "funding_kind": "unknown",
+    "fee_status": "unknown"
   },
   {
     "id": "tw-citd",
@@ -149,7 +184,12 @@
     "fit_reason": "",
     "team_min": 1,
     "team_max": null,
-    "prize": "Up to NT$2 million (single company); NT$10 million for 3+ company alliances"
+    "prize": "Up to NT$2 million (single company); NT$10 million for 3+ company alliances",
+    "deadline_time": null,
+    "deadline_timezone": null,
+    "deadline_source_url": null,
+    "funding_kind": "unknown",
+    "fee_status": "unknown"
   },
   {
     "id": "tw-tourism-digital",
@@ -168,7 +208,12 @@
     "fit_reason": "Only for licensed tourism businesses.",
     "team_min": null,
     "team_max": null,
-    "prize": "Up to 90% of first e-commerce system cost (cap NT$50,000–100,000)"
+    "prize": "Up to 90% of first e-commerce system cost (cap NT$50,000–100,000)",
+    "deadline_time": null,
+    "deadline_timezone": null,
+    "deadline_source_url": null,
+    "funding_kind": "unknown",
+    "fee_status": "unknown"
   },
   {
     "id": "tw-taitung-sbir-2026",
@@ -187,7 +232,12 @@
     "fit_reason": "Needs a company registered and operating in Taitung County.",
     "team_min": 1,
     "team_max": null,
-    "prize": "Up to NT$1 million (max 50% of project cost)"
+    "prize": "Up to NT$1 million (max 50% of project cost)",
+    "deadline_time": null,
+    "deadline_timezone": null,
+    "deadline_source_url": null,
+    "funding_kind": "unknown",
+    "fee_status": "unknown"
   },
   {
     "id": "tw-taitung-bravo",
@@ -206,7 +256,12 @@
     "fit_reason": "Local Taitung program; needs Taitung residence or registration.",
     "team_min": null,
     "team_max": null,
-    "prize": "NA"
+    "prize": "NA",
+    "deadline_time": null,
+    "deadline_timezone": null,
+    "deadline_source_url": null,
+    "funding_kind": "unknown",
+    "fee_status": "unknown"
   },
   {
     "id": "tw-oac-2026",
@@ -225,7 +280,12 @@
     "fit_reason": "",
     "team_min": null,
     "team_max": null,
-    "prize": "NA"
+    "prize": "NA",
+    "deadline_time": null,
+    "deadline_timezone": null,
+    "deadline_source_url": null,
+    "funding_kind": "unknown",
+    "fee_status": "unknown"
   },
   {
     "id": "tw-siir-2026",
@@ -244,7 +304,12 @@
     "fit_reason": "",
     "team_min": 1,
     "team_max": 1,
-    "prize": "Up to NT$1.5 million (single-company track)"
+    "prize": "Up to NT$1.5 million (single-company track)",
+    "deadline_time": null,
+    "deadline_timezone": null,
+    "deadline_source_url": null,
+    "funding_kind": "unknown",
+    "fee_status": "unknown"
   },
   {
     "id": "tw-pingtung-sbir-2026",
@@ -263,7 +328,12 @@
     "fit_reason": "Needs a company registered and operating in Pingtung County.",
     "team_min": 1,
     "team_max": null,
-    "prize": "Up to NT$1 million (single company); NT$2 million joint"
+    "prize": "Up to NT$1 million (single company); NT$2 million joint",
+    "deadline_time": null,
+    "deadline_timezone": null,
+    "deadline_source_url": null,
+    "funding_kind": "unknown",
+    "fee_status": "unknown"
   },
   {
     "id": "tw-siti-rd",
@@ -282,7 +352,12 @@
     "fit_reason": "Needs a company registered in Taipei City.",
     "team_min": null,
     "team_max": null,
-    "prize": "Up to NT$5 million (max 50% of project cost)"
+    "prize": "Up to NT$5 million (max 50% of project cost)",
+    "deadline_time": null,
+    "deadline_timezone": null,
+    "deadline_source_url": null,
+    "funding_kind": "unknown",
+    "fee_status": "unknown"
   },
   {
     "id": "tw-aspn-3",
@@ -301,7 +376,12 @@
     "fit_reason": "",
     "team_min": null,
     "team_max": null,
-    "prize": "None (zero-fee, zero-equity accelerator support)"
+    "prize": "None (zero-fee, zero-equity accelerator support)",
+    "deadline_time": null,
+    "deadline_timezone": null,
+    "deadline_source_url": null,
+    "funding_kind": "unknown",
+    "fee_status": "unknown"
   },
   {
     "id": "tw-sparklabs",
@@ -320,7 +400,12 @@
     "fit_reason": "",
     "team_min": null,
     "team_max": null,
-    "prize": "US$100,000+ investment for up to 7% equity"
+    "prize": "US$100,000+ investment for up to 7% equity",
+    "deadline_time": null,
+    "deadline_timezone": null,
+    "deadline_source_url": null,
+    "funding_kind": "unknown",
+    "fee_status": "unknown"
   },
   {
     "id": "tw-cht-2026",
@@ -339,7 +424,12 @@
     "fit_reason": "",
     "team_min": 1,
     "team_max": 6,
-    "prize": "1st place NT$250,000 (NT$2.26 million+ across the series)"
+    "prize": "1st place NT$250,000 (NT$2.26 million+ across the series)",
+    "deadline_time": null,
+    "deadline_timezone": null,
+    "deadline_source_url": null,
+    "funding_kind": "unknown",
+    "fee_status": "unknown"
   },
   {
     "id": "hk-gft-2026",
@@ -358,7 +448,12 @@
     "fit_reason": "",
     "team_min": null,
     "team_max": null,
-    "prize": "NA"
+    "prize": "NA",
+    "deadline_time": null,
+    "deadline_timezone": null,
+    "deadline_source_url": null,
+    "funding_kind": "unknown",
+    "fee_status": "unknown"
   },
   {
     "id": "th-ai-for-all-2026",
@@ -377,7 +472,12 @@
     "fit_reason": "Open to Thai citizens only.",
     "team_min": null,
     "team_max": 5,
-    "prize": "THB 500,000 total"
+    "prize": "THB 500,000 total",
+    "deadline_time": null,
+    "deadline_timezone": null,
+    "deadline_source_url": null,
+    "funding_kind": "unknown",
+    "fee_status": "unknown"
   },
   {
     "id": "regional-ai-builders-s1",
@@ -396,7 +496,12 @@
     "fit_reason": "",
     "team_min": null,
     "team_max": null,
-    "prize": "US$50,000–250,000 conditional investment (not guaranteed)"
+    "prize": "US$50,000–250,000 conditional investment (not guaranteed)",
+    "deadline_time": null,
+    "deadline_timezone": null,
+    "deadline_source_url": null,
+    "funding_kind": "unknown",
+    "fee_status": "unknown"
   },
   {
     "id": "th-ai-builders-bangkok-s1-27",
@@ -415,7 +520,12 @@
     "fit_reason": "",
     "team_min": null,
     "team_max": null,
-    "prize": "US$50,000–250,000 conditional investment (not guaranteed)"
+    "prize": "US$50,000–250,000 conditional investment (not guaranteed)",
+    "deadline_time": null,
+    "deadline_timezone": null,
+    "deadline_source_url": null,
+    "funding_kind": "unknown",
+    "fee_status": "unknown"
   },
   {
     "id": "tw-appworks-33",
@@ -434,7 +544,12 @@
     "fit_reason": "",
     "team_min": null,
     "team_max": null,
-    "prize": "None directly (free, no equity; access to investors)"
+    "prize": "None directly (free, no equity; access to investors)",
+    "deadline_time": null,
+    "deadline_timezone": null,
+    "deadline_source_url": null,
+    "funding_kind": "unknown",
+    "fee_status": "unknown"
   },
   {
     "id": "hk-ccmf-oct-2026",
@@ -453,7 +568,12 @@
     "fit_reason": "Needs a Hong Kong ID or a Hong Kong-incorporated company.",
     "team_min": 1,
     "team_max": null,
-    "prize": "Up to HK$100,000"
+    "prize": "Up to HK$100,000",
+    "deadline_time": null,
+    "deadline_timezone": null,
+    "deadline_source_url": null,
+    "funding_kind": "unknown",
+    "fee_status": "unknown"
   },
   {
     "id": "hk-ccmf-feb-2027",
@@ -472,7 +592,12 @@
     "fit_reason": "Needs a Hong Kong ID or a Hong Kong-incorporated company.",
     "team_min": 1,
     "team_max": null,
-    "prize": "Up to HK$100,000"
+    "prize": "Up to HK$100,000",
+    "deadline_time": null,
+    "deadline_timezone": null,
+    "deadline_source_url": null,
+    "funding_kind": "unknown",
+    "fee_status": "unknown"
   },
   {
     "id": "th-venturespark-2-2026",
@@ -491,7 +616,12 @@
     "fit_reason": "",
     "team_min": 2,
     "team_max": null,
-    "prize": "NA (equity accelerator)"
+    "prize": "NA (equity accelerator)",
+    "deadline_time": null,
+    "deadline_timezone": null,
+    "deadline_source_url": null,
+    "funding_kind": "unknown",
+    "fee_status": "unknown"
   },
   {
     "id": "hk-hktech300-s21",
@@ -510,7 +640,12 @@
     "fit_reason": "The person in charge must have a City University of Hong Kong association.",
     "team_min": null,
     "team_max": null,
-    "prize": "HK$100,000 per selected team"
+    "prize": "HK$100,000 per selected team",
+    "deadline_time": null,
+    "deadline_timezone": null,
+    "deadline_source_url": null,
+    "funding_kind": "unknown",
+    "fee_status": "unknown"
   },
   {
     "id": "tw-eureka-globalstars-2026",
@@ -529,7 +664,12 @@
     "fit_reason": "",
     "team_min": null,
     "team_max": null,
-    "prize": "Up to 50% of project costs for the Taiwan company"
+    "prize": "Up to 50% of project costs for the Taiwan company",
+    "deadline_time": null,
+    "deadline_timezone": null,
+    "deadline_source_url": null,
+    "funding_kind": "unknown",
+    "fee_status": "unknown"
   },
   {
     "id": "tw-presidential-hackathon-2026-intl",
@@ -548,7 +688,12 @@
     "fit_reason": "Teams of 3–10 people, with at least one non-Taiwan national.",
     "team_min": 3,
     "team_max": 10,
-    "prize": "No cash prize: presentation to the President and a paid Taiwan trip"
+    "prize": "No cash prize: presentation to the President and a paid Taiwan trip",
+    "deadline_time": null,
+    "deadline_timezone": null,
+    "deadline_source_url": null,
+    "funding_kind": "unknown",
+    "fee_status": "unknown"
   },
   {
     "id": "hk-fi-hk-fall-2026",
@@ -567,7 +712,12 @@
     "fit_reason": "",
     "team_min": 1,
     "team_max": null,
-    "prize": "None (US$1,049 entrance fee)"
+    "prize": "None (US$1,049 entrance fee)",
+    "deadline_time": null,
+    "deadline_timezone": null,
+    "deadline_source_url": null,
+    "funding_kind": "unknown",
+    "fee_status": "unknown"
   },
   {
     "id": "tw-codefest-fall-2026",
@@ -586,7 +736,12 @@
     "fit_reason": "Teams of 4–5 people required.",
     "team_min": 4,
     "team_max": 5,
-    "prize": "NT$700,000 total (1st place NT$300,000)"
+    "prize": "NT$700,000 total (1st place NT$300,000)",
+    "deadline_time": null,
+    "deadline_timezone": null,
+    "deadline_source_url": null,
+    "funding_kind": "unknown",
+    "fee_status": "unknown"
   },
   {
     "fit_reason": "",
@@ -605,7 +760,12 @@
     "last_checked": "2026-10-06",
     "team_min": null,
     "team_max": 10,
-    "prize": "NT$200,000 each for the top 5 teams"
+    "prize": "NT$200,000 each for the top 5 teams",
+    "deadline_time": null,
+    "deadline_timezone": null,
+    "deadline_source_url": null,
+    "funding_kind": "unknown",
+    "fee_status": "unknown"
   },
   {
     "fit_reason": "An accepted startup will typically need to set up a US entity to receive funding.",
@@ -624,7 +784,12 @@
     "source_url": "https://www.886studios.com/programs",
     "fit": "skip",
     "first_seen": "2026-10-01",
-    "last_checked": "2026-10-01"
+    "last_checked": "2026-10-01",
+    "deadline_time": null,
+    "deadline_timezone": null,
+    "deadline_source_url": null,
+    "funding_kind": "unknown",
+    "fee_status": "unknown"
   },
   {
     "fit_reason": "",
@@ -643,7 +808,12 @@
     "source_url": "https://som.ait.ac.th/post/save-the-date-create-lasting-impact-hackathon-2026",
     "fit": "want",
     "first_seen": "2026-10-01",
-    "last_checked": "2026-10-06"
+    "last_checked": "2026-10-06",
+    "deadline_time": null,
+    "deadline_timezone": null,
+    "deadline_source_url": null,
+    "funding_kind": "unknown",
+    "fee_status": "unknown"
   },
   {
     "fit_reason": "",
@@ -662,7 +832,12 @@
     "source_url": "https://luma.com/ith7j4aw",
     "fit": "want",
     "first_seen": "2026-10-01",
-    "last_checked": "2026-10-06"
+    "last_checked": "2026-10-06",
+    "deadline_time": null,
+    "deadline_timezone": null,
+    "deadline_source_url": null,
+    "funding_kind": "unknown",
+    "fee_status": "unknown"
   },
   {
     "fit_reason": "",
@@ -681,7 +856,12 @@
     "source_url": "https://luma.com/lqrbtu27",
     "fit": "want",
     "first_seen": "2026-10-01",
-    "last_checked": "2026-10-06"
+    "last_checked": "2026-10-06",
+    "deadline_time": null,
+    "deadline_timezone": null,
+    "deadline_source_url": null,
+    "funding_kind": "unknown",
+    "fee_status": "unknown"
   },
   {
     "fit_reason": "",
@@ -700,7 +880,12 @@
     "source_url": "https://apartresearch.com/sprints/ai-collusion-research-sprint-2026-10-23-to-2026-10-25",
     "fit": "want",
     "first_seen": "2026-10-01",
-    "last_checked": "2026-10-06"
+    "last_checked": "2026-10-06",
+    "deadline_time": null,
+    "deadline_timezone": null,
+    "deadline_source_url": null,
+    "funding_kind": "unknown",
+    "fee_status": "unknown"
   },
   {
     "fit_reason": "Teams must have exactly three members.",
@@ -719,7 +904,12 @@
     "source_url": "https://dtamhackathon.dtam.moph.go.th/",
     "fit": "skip",
     "first_seen": "2026-10-01",
-    "last_checked": "2026-10-01"
+    "last_checked": "2026-10-01",
+    "deadline_time": null,
+    "deadline_timezone": null,
+    "deadline_source_url": null,
+    "funding_kind": "unknown",
+    "fee_status": "unknown"
   },
   {
     "fit_reason": "",
@@ -738,7 +928,12 @@
     "source_url": "https://service.moea.gov.tw/EE514/tw/aiip/50-7691.html",
     "fit": "want",
     "first_seen": "2026-10-01",
-    "last_checked": "2026-10-06"
+    "last_checked": "2026-10-06",
+    "deadline_time": null,
+    "deadline_timezone": null,
+    "deadline_source_url": null,
+    "funding_kind": "unknown",
+    "fee_status": "unknown"
   },
   {
     "fit_reason": "",
@@ -757,7 +952,12 @@
     "source_url": "https://asia-innovation-cup.tw/files/TiBOOST-Guidelines-EN-2026.pdf",
     "fit": "want",
     "first_seen": "2026-10-01",
-    "last_checked": "2026-10-06"
+    "last_checked": "2026-10-06",
+    "deadline_time": null,
+    "deadline_timezone": null,
+    "deadline_source_url": null,
+    "funding_kind": "unknown",
+    "fee_status": "unknown"
   },
   {
     "fit_reason": "Selected non-Taipei teams must register a Taipei company within six months.",
@@ -776,7 +976,12 @@
     "source_url": "https://www.might.com.tw/en/news/mightynetxinnopadtaipei-program-1th-en/",
     "fit": "skip",
     "first_seen": "2026-10-01",
-    "last_checked": "2026-10-01"
+    "last_checked": "2026-10-01",
+    "deadline_time": null,
+    "deadline_timezone": null,
+    "deadline_source_url": null,
+    "funding_kind": "unknown",
+    "fee_status": "unknown"
   },
   {
     "fit_reason": "",
@@ -795,7 +1000,12 @@
     "source_url": "https://www.might.com.tw/en/news/2026-11th-mighty-net-innovation-program-now-open-for-applications-accelerating-the-future-of-smart-manufacturing/",
     "fit": "want",
     "first_seen": "2026-10-01",
-    "last_checked": "2026-10-06"
+    "last_checked": "2026-10-06",
+    "deadline_time": null,
+    "deadline_timezone": null,
+    "deadline_source_url": null,
+    "funding_kind": "unknown",
+    "fee_status": "unknown"
   },
   {
     "fit_reason": "",
@@ -814,7 +1024,12 @@
     "source_url": "https://form.jotform.com/262528637800056",
     "fit": "want",
     "first_seen": "2026-10-01",
-    "last_checked": "2026-10-06"
+    "last_checked": "2026-10-06",
+    "deadline_time": null,
+    "deadline_timezone": null,
+    "deadline_source_url": null,
+    "funding_kind": "unknown",
+    "fee_status": "unknown"
   },
   {
     "fit_reason": "",
@@ -833,7 +1048,12 @@
     "source_url": "https://ec.hkust.edu.hk/events/hong-kong-ai-summit-build-across-hackathon",
     "fit": "want",
     "first_seen": "2026-10-01",
-    "last_checked": "2026-10-06"
+    "last_checked": "2026-10-06",
+    "deadline_time": null,
+    "deadline_timezone": null,
+    "deadline_source_url": null,
+    "funding_kind": "unknown",
+    "fee_status": "unknown"
   },
   {
     "fit_reason": "Teams must include members affiliated with listed co-organising universities or institutions.",
@@ -852,7 +1072,12 @@
     "source_url": "https://www.hktechathon.com/en/site/join",
     "fit": "skip",
     "first_seen": "2026-10-01",
-    "last_checked": "2026-10-01"
+    "last_checked": "2026-10-01",
+    "deadline_time": null,
+    "deadline_timezone": null,
+    "deadline_source_url": null,
+    "funding_kind": "unknown",
+    "fee_status": "unknown"
   },
   {
     "fit_reason": "Limited to current Taiwan university students or 2026 graduates.",
@@ -871,7 +1096,12 @@
     "source_url": "https://ievents.iii.org.tw/EventS.aspx?id=3313&t=0",
     "fit": "skip",
     "first_seen": "2026-10-01",
-    "last_checked": "2026-10-01"
+    "last_checked": "2026-10-01",
+    "deadline_time": null,
+    "deadline_timezone": null,
+    "deadline_source_url": null,
+    "funding_kind": "unknown",
+    "fee_status": "unknown"
   },
   {
     "fit_reason": "",
@@ -890,7 +1120,12 @@
     "source_url": "https://www.tenity.com/program/go-global-boot-camp-hong-kong/",
     "fit": "want",
     "first_seen": "2026-10-01",
-    "last_checked": "2026-10-06"
+    "last_checked": "2026-10-06",
+    "deadline_time": null,
+    "deadline_timezone": null,
+    "deadline_source_url": null,
+    "funding_kind": "unknown",
+    "fee_status": "unknown"
   },
   {
     "fit_reason": "Applicants must be qualifying students or recent graduates, and POC applicants need a majority Thai-owned juristic entity.",
@@ -909,7 +1144,12 @@
     "source_url": "https://www.swpark.or.th/ted-youth-startup",
     "fit": "skip",
     "first_seen": "2026-10-01",
-    "last_checked": "2026-10-01"
+    "last_checked": "2026-10-01",
+    "deadline_time": null,
+    "deadline_timezone": null,
+    "deadline_source_url": null,
+    "funding_kind": "unknown",
+    "fee_status": "unknown"
   },
   {
     "fit_reason": "",
@@ -928,7 +1168,12 @@
     "source_url": "https://kh-sbir.kcg.gov.tw/News_Content.aspx?n=8DFC8FD7B318AA1C&sms=F8E11BD7DAC9CDDB&s=F9F039541F9EBFCC",
     "fit": "want",
     "first_seen": "2026-10-01",
-    "last_checked": "2026-10-06"
+    "last_checked": "2026-10-06",
+    "deadline_time": null,
+    "deadline_timezone": null,
+    "deadline_source_url": null,
+    "funding_kind": "unknown",
+    "fee_status": "unknown"
   },
   {
     "fit_reason": "",
@@ -947,7 +1192,12 @@
     "source_url": "https://www.angelinvestment.org.tw/introduction",
     "fit": "want",
     "first_seen": "2026-10-01",
-    "last_checked": "2026-10-06"
+    "last_checked": "2026-10-06",
+    "deadline_time": null,
+    "deadline_timezone": null,
+    "deadline_source_url": null,
+    "funding_kind": "unknown",
+    "fee_status": "unknown"
   },
   {
     "fit_reason": "",
@@ -966,7 +1216,12 @@
     "source_url": "https://digiplus.adi.gov.tw/plan_table_newinner.html?id=A1CB8D05-4972-41C7-91E7-7FEBD2921639",
     "fit": "want",
     "first_seen": "2026-10-01",
-    "last_checked": "2026-10-06"
+    "last_checked": "2026-10-06",
+    "deadline_time": null,
+    "deadline_timezone": null,
+    "deadline_source_url": null,
+    "funding_kind": "unknown",
+    "fee_status": "unknown"
   },
   {
     "fit_reason": "",
@@ -985,7 +1240,12 @@
     "source_url": "https://digiplus.adi.gov.tw/plan_table_newinner.html?id=51BC497F-0440-4AED-800B-6A6AEE16066D",
     "fit": "want",
     "first_seen": "2026-10-01",
-    "last_checked": "2026-10-06"
+    "last_checked": "2026-10-06",
+    "deadline_time": null,
+    "deadline_timezone": null,
+    "deadline_source_url": null,
+    "funding_kind": "unknown",
+    "fee_status": "unknown"
   },
   {
     "fit_reason": "",
@@ -1004,7 +1264,12 @@
     "source_url": "https://www.flyingvest.com.tw/program-tta-en",
     "fit": "want",
     "first_seen": "2026-10-01",
-    "last_checked": "2026-10-06"
+    "last_checked": "2026-10-06",
+    "deadline_time": null,
+    "deadline_timezone": null,
+    "deadline_source_url": null,
+    "funding_kind": "unknown",
+    "fee_status": "unknown"
   },
   {
     "fit_reason": "",
@@ -1023,7 +1288,12 @@
     "source_url": "https://cttaiwan.moda.gov.tw/",
     "fit": "want",
     "first_seen": "2026-10-01",
-    "last_checked": "2026-10-06"
+    "last_checked": "2026-10-06",
+    "deadline_time": null,
+    "deadline_timezone": null,
+    "deadline_source_url": null,
+    "funding_kind": "unknown",
+    "fee_status": "unknown"
   },
   {
     "fit_reason": "",
@@ -1038,11 +1308,16 @@
     "url": "https://startupterrace.sme.gov.tw/News_Content.aspx?n=1654&sms=11624&s=15273",
     "deadline": null,
     "status": "planning",
-    "summary": "Planning for 2027; next intake and deadline are unconfirmed. Previous-round reference: AI startup programme explicitly accepting SaaS and generative AI for real industrial pilots in southern Taiwan. Last round ended April 24; suitable for an industry-specific annnä proposal after company formation.",
+    "summary": "Planning for 2027; next intake and deadline are unconfirmed. Previous-round reference: AI startup programme explicitly accepting SaaS and generative AI for real industrial pilots in southern Taiwan. Last round ended April 24; suitable for an industry-specific product proposal after company formation.",
     "source_url": "https://startupterrace.sme.gov.tw/News_Content.aspx?n=1654&sms=11624&s=15273",
     "fit": "want",
     "first_seen": "2026-10-01",
-    "last_checked": "2026-10-06"
+    "last_checked": "2026-10-06",
+    "deadline_time": null,
+    "deadline_timezone": null,
+    "deadline_source_url": null,
+    "funding_kind": "unknown",
+    "fee_status": "unknown"
   },
   {
     "fit_reason": "",
@@ -1061,7 +1336,12 @@
     "status": "planning",
     "fit": "want",
     "first_seen": "2026-10-06",
-    "last_checked": "2026-10-06"
+    "last_checked": "2026-10-06",
+    "deadline_time": null,
+    "deadline_timezone": null,
+    "deadline_source_url": null,
+    "funding_kind": "unknown",
+    "fee_status": "unknown"
   },
   {
     "fit_reason": "",
@@ -1080,7 +1360,12 @@
     "status": "open",
     "fit": "want",
     "first_seen": "2026-10-06",
-    "last_checked": "2026-10-06"
+    "last_checked": "2026-10-06",
+    "deadline_time": null,
+    "deadline_timezone": null,
+    "deadline_source_url": null,
+    "funding_kind": "unknown",
+    "fee_status": "unknown"
   },
   {
     "fit_reason": "",
@@ -1099,7 +1384,12 @@
     "status": "planning",
     "fit": "want",
     "first_seen": "2026-10-06",
-    "last_checked": "2026-10-06"
+    "last_checked": "2026-10-06",
+    "deadline_time": null,
+    "deadline_timezone": null,
+    "deadline_source_url": null,
+    "funding_kind": "unknown",
+    "fee_status": "unknown"
   },
   {
     "fit_reason": "Applications require a pre-formed team of three to four members.",
@@ -1118,7 +1408,12 @@
     "status": "open",
     "fit": "skip",
     "first_seen": "2026-10-06",
-    "last_checked": "2026-10-06"
+    "last_checked": "2026-10-06",
+    "deadline_time": null,
+    "deadline_timezone": null,
+    "deadline_source_url": null,
+    "funding_kind": "unknown",
+    "fee_status": "unknown"
   },
   {
     "fit_reason": "Participation requires teams of three to six people, including individuals matched into teams.",
@@ -1137,6 +1432,11 @@
     "status": "open",
     "fit": "skip",
     "first_seen": "2026-10-06",
-    "last_checked": "2026-10-06"
+    "last_checked": "2026-10-06",
+    "deadline_time": null,
+    "deadline_timezone": null,
+    "deadline_source_url": null,
+    "funding_kind": "unknown",
+    "fee_status": "unknown"
   }
 ]

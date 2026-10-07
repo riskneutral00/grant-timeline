@@ -1,11 +1,11 @@
 /* Visibility changes preserve the generated deadline order. */
 (() => {
- const rows=[...document.querySelectorAll('.program-row')], groups=[...document.querySelectorAll('.deadline-group')], form=document.querySelector('#filters'), tabs=[...document.querySelectorAll('[data-view]')], controls=['search','country','type','team'].map(id=>document.getElementById(id));
+ const rows=[...document.querySelectorAll('.program-row')], groups=[...document.querySelectorAll('.deadline-group')], form=document.querySelector('#filters'), tabs=[...document.querySelectorAll('[data-view]')], controls=['search','country','type','team','funding','fees'].map(id=>document.getElementById(id));
  let view='all';
  const matchesView=(r,v)=>GrantCatalogue.matchesView(r.dataset,v);
  function update(save=true){
-  const [search,country,type,team]=controls.map(c=>c.value), terms=search.trim().toLocaleLowerCase().split(/\s+/).filter(Boolean);
-  const matching=rows.filter(r=>(!country||r.dataset.country===country)&&(!type||r.dataset.type===type)&&(!team||r.dataset.solo==='true')&&terms.every(t=>r.dataset.search.toLocaleLowerCase().includes(t))), visible=new Set(matching.filter(r=>matchesView(r,view)));
+  const [search,country,type,team,funding,fees]=controls.map(c=>c.value), terms=search.trim().toLocaleLowerCase().split(/\s+/).filter(Boolean);
+  const matching=rows.filter(r=>(!country||r.dataset.country===country)&&(!type||r.dataset.type===type)&&(!team||r.dataset.solo==='true')&&(!funding||r.dataset.funding===funding)&&(!fees||r.dataset.fees===fees)&&terms.every(t=>r.dataset.search.toLocaleLowerCase().includes(t))), visible=new Set(matching.filter(r=>matchesView(r,view)));
   rows.forEach(r=>r.hidden=!visible.has(r));
   groups.forEach(g=>{const n=[...g.querySelectorAll('.program-row')].filter(r=>visible.has(r)).length;g.hidden=n===0;g.querySelector('.group-count').textContent=`(${n})`;});
   tabs.forEach(t=>{t.setAttribute('aria-pressed',String(t.dataset.view===view));t.querySelector('span').textContent=matching.filter(r=>matchesView(r,t.dataset.view)).length;});
