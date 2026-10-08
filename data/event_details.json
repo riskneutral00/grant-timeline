@@ -6831,5 +6831,1463 @@
       "last_round_name": "JUMPSTARTER 2026",
       "basis": "2026 factsheet gives June–October 31, 2025 applications and March 2026 finale; successor timing is not announced."
     }
+  },
+  "startup-benefits-posthog": {
+    "purpose": "US$50,000 service credits for 12 months; no cash. Partner perks are separate discounts/credits.",
+    "theme": "Noncash startup support for civilian software founders.",
+    "activities": "Review eligibility and usable benefit timing before any separately authorized enrollment; the catalogue does not enroll or redeem offers.",
+    "cycle": "Rolling/continuous programme; fixed closing date not published in checked sources.",
+    "checked_at": "2026-10-07",
+    "coverage": "partial",
+    "company": {
+      "required": null,
+      "jurisdiction": "Provider rules apply; Taiwan-specific individual acceptance remains qualified by the sourced facts.",
+      "entity_types": "For-profit technology company where required; exact unregistered-individual acceptance is explicit or unknown in the sourced facts.",
+      "min_age_months": null,
+      "max_age_months": 24,
+      "age_reference": "Exact age measurement date unverified; check applicable programme route.",
+      "formation_stage": "Application where incorporation is explicit; otherwise route-specific or unverified.",
+      "notes": "Company required in wording; incorporation requirement and unregistered sole-founder eligibility not stated. Company under 2 years; raised less than US$5m; account created January 1, 2023 onward. The published under-age bound is exclusive; exact measurement date is unverified.",
+      "source_url": "https://posthog.com/startups"
+    },
+    "limitations": [
+      "Full current form fields/branches/required flags have not been exhaustively verified. No signup, application, payment, account or credentials action performed.",
+      "Benefits are noncash; maxima are not guaranteed awards. Free entry does not imply free usage.",
+      "Incorporation, billing-country, referral and paid-use verification are separate; unknowns are not permission to enroll."
+    ],
+    "sources": [
+      {
+        "url": "https://posthog.com/startups",
+        "title": "Official programme, terms, application or billing evidence"
+      },
+      {
+        "url": "https://posthog.com/pricing",
+        "title": "Official programme, terms, application or billing evidence"
+      },
+      {
+        "url": "https://github.com/PostHog/posthog.com/blob/master/contents/handbook/growth/sales/billing.md",
+        "title": "Official programme, terms, application or billing evidence"
+      }
+    ],
+    "requirements": [],
+    "winners": [],
+    "startup_benefits": {
+      "status": "verify_entity_then_time_to_usage",
+      "checked_on": "2026-10-07",
+      "cash_award": false,
+      "facts": [
+        {
+          "field": "benefits",
+          "value": "US$50,000 service credits for 12 months; no cash. Partner perks are separate discounts/credits.",
+          "sources": [
+            "https://posthog.com/startups"
+          ],
+          "evidence_status": "verified"
+        },
+        {
+          "field": "eligibility.entity_and_individual",
+          "value": "Company required in wording; incorporation requirement and unregistered sole-founder eligibility not stated.",
+          "sources": [
+            "https://posthog.com/startups"
+          ],
+          "evidence_status": "unknown"
+        },
+        {
+          "field": "eligibility.stage_funding_age",
+          "value": "Company under 2 years; raised less than US$5m; account created January 1, 2023 onward.",
+          "sources": [
+            "https://posthog.com/startups"
+          ],
+          "evidence_status": "verified"
+        },
+        {
+          "field": "eligibility.country_taiwan",
+          "value": "No public country whitelist on programme page; Taiwan acceptance unconfirmed.",
+          "sources": [
+            "https://posthog.com/startups"
+          ],
+          "evidence_status": "unknown"
+        },
+        {
+          "field": "eligibility.referral",
+          "value": "Direct application; company-domain email required; personal email rejected. YC offer cannot stack.",
+          "sources": [
+            "https://posthog.com/startups"
+          ],
+          "evidence_status": "verified"
+        },
+        {
+          "field": "cost_and_billing.entry",
+          "value": "No application fee advertised; application requires a usage-billed paid plan.",
+          "sources": [
+            "https://posthog.com/startups"
+          ],
+          "evidence_status": "verified"
+        },
+        {
+          "field": "cost_and_billing.card",
+          "value": "Standard pay-as-you-go upgrade adds a payment card; free product tier does not need one.",
+          "sources": [
+            "https://posthog.com/pricing"
+          ],
+          "evidence_status": "verified"
+        },
+        {
+          "field": "cost_and_billing.after_credits",
+          "value": "Usage above allowances, excluded products and usage after credits can be billable. Product billing limits matter; free tier stops at its limits.",
+          "sources": [
+            "https://posthog.com/pricing"
+          ],
+          "evidence_status": "inference"
+        },
+        {
+          "field": "cost_and_billing.automatic_transition",
+          "value": "Published billing implementation can move startup subscriptions automatically to default paid prices; do not assume automatic stop at expiry.",
+          "sources": [
+            "https://github.com/PostHog/posthog.com/blob/master/contents/handbook/growth/sales/billing.md"
+          ],
+          "evidence_status": "verified"
+        },
+        {
+          "field": "timing.deadline",
+          "value": "Application currently open; no fixed closing date published.",
+          "sources": [
+            "https://posthog.com/startups"
+          ],
+          "evidence_status": "observed"
+        },
+        {
+          "field": "timing.expiry",
+          "value": "12 months; confirm actual activation/expiry before redeeming.",
+          "sources": [
+            "https://posthog.com/startups"
+          ],
+          "evidence_status": "verified"
+        },
+        {
+          "field": "limitations",
+          "value": "From September 14, 2026 credits exclude AI tools: Desktop, Slack app, Replay Vision, PostHog AI and Inbox. BAA, paid onboarding/services excluded; no priority support.",
+          "sources": [
+            "https://posthog.com/startups"
+          ],
+          "evidence_status": "verified"
+        },
+        {
+          "field": "application_url",
+          "value": "https://app.posthog.com/startups",
+          "sources": [
+            "https://posthog.com/startups"
+          ],
+          "evidence_status": "verified"
+        }
+      ]
+    }
+  },
+  "startup-benefits-nvidia-inception": {
+    "purpose": "Technical courses/tools, selected hardware/software discounts, partner offers/cloud credits and conditional investor visibility. No universal credit award or cash grant published.",
+    "theme": "Noncash startup support for civilian software founders.",
+    "activities": "Review eligibility and usable benefit timing before any separately authorized enrollment; the catalogue does not enroll or redeem offers.",
+    "cycle": "Rolling/continuous programme; fixed closing date not published in checked sources.",
+    "checked_at": "2026-10-07",
+    "coverage": "partial",
+    "company": {
+      "required": true,
+      "jurisdiction": "Provider rules apply; Taiwan-specific individual acceptance remains qualified by the sourced facts.",
+      "entity_types": "For-profit technology company where required; exact unregistered-individual acceptance is explicit or unknown in the sourced facts.",
+      "min_age_months": null,
+      "max_age_months": 120,
+      "age_reference": "Exact age measurement date unverified; check applicable programme route.",
+      "formation_stage": "Application where incorporation is explicit; otherwise route-specific or unverified.",
+      "notes": "Incorporation required; unincorporated applicants excluded. Working website, pitch deck, at least one developer required; founder counting as employed developer unclarified. Under 10 years; any funding stage. Revenue and existing NVIDIA GPU/SDK use unnecessary. The published under-age bound is exclusive; exact measurement date is unverified.",
+      "source_url": "https://www.nvidia.com/en-us/startups/"
+    },
+    "limitations": [
+      "Full current form fields/branches/required flags have not been exhaustively verified. No signup, application, payment, account or credentials action performed.",
+      "Benefits are noncash; maxima are not guaranteed awards. Free entry does not imply free usage.",
+      "Incorporation, billing-country, referral and paid-use verification are separate; unknowns are not permission to enroll."
+    ],
+    "sources": [
+      {
+        "url": "https://www.nvidia.com/en-us/startups/",
+        "title": "Official programme, terms, application or billing evidence"
+      },
+      {
+        "url": "https://www.nvidia.com/zh-tw/startups/",
+        "title": "Official programme, terms, application or billing evidence"
+      },
+      {
+        "url": "https://programs.nvidia.com/phoenix/application",
+        "title": "Official programme, terms, application or billing evidence"
+      }
+    ],
+    "requirements": [],
+    "winners": [],
+    "startup_benefits": {
+      "status": "post_incorporation_ai_fit",
+      "checked_on": "2026-10-07",
+      "cash_award": false,
+      "facts": [
+        {
+          "field": "benefits",
+          "value": "Technical courses/tools, selected hardware/software discounts, partner offers/cloud credits and conditional investor visibility. No universal credit award or cash grant published.",
+          "sources": [
+            "https://www.nvidia.com/en-us/startups/"
+          ],
+          "evidence_status": "verified"
+        },
+        {
+          "field": "eligibility.entity_and_individual",
+          "value": "Incorporation required; unincorporated applicants excluded. Working website, pitch deck, at least one developer required; founder counting as employed developer unclarified.",
+          "sources": [
+            "https://www.nvidia.com/en-us/startups/"
+          ],
+          "evidence_status": "verified"
+        },
+        {
+          "field": "eligibility.stage_funding_age",
+          "value": "Under 10 years; any funding stage. Revenue and existing NVIDIA GPU/SDK use unnecessary.",
+          "sources": [
+            "https://www.nvidia.com/en-us/startups/"
+          ],
+          "evidence_status": "verified"
+        },
+        {
+          "field": "eligibility.country_taiwan",
+          "value": "Official Taiwan-language page and Taiwan startup section available.",
+          "sources": [
+            "https://www.nvidia.com/zh-tw/startups/"
+          ],
+          "evidence_status": "verified"
+        },
+        {
+          "field": "eligibility.referral",
+          "value": "Direct application; no published partner-referral prerequisite.",
+          "sources": [
+            "https://www.nvidia.com/en-us/startups/"
+          ],
+          "evidence_status": "verified"
+        },
+        {
+          "field": "cost_and_billing.entry",
+          "value": "No application fee, membership fee or equity requirement.",
+          "sources": [
+            "https://www.nvidia.com/en-us/startups/"
+          ],
+          "evidence_status": "verified"
+        },
+        {
+          "field": "cost_and_billing.card",
+          "value": "Membership card requirement not publicly stated; no payment performed.",
+          "sources": [
+            "https://www.nvidia.com/en-us/startups/"
+          ],
+          "evidence_status": "unknown"
+        },
+        {
+          "field": "cost_and_billing.after_credits",
+          "value": "Discounts and partner credits have separate purchase/billing terms; membership does not make services free indefinitely.",
+          "sources": [
+            "https://www.nvidia.com/en-us/startups/"
+          ],
+          "evidence_status": "inference"
+        },
+        {
+          "field": "timing.deadline",
+          "value": "Rolling, no deadlines or cohorts.",
+          "sources": [
+            "https://www.nvidia.com/en-us/startups/"
+          ],
+          "evidence_status": "verified"
+        },
+        {
+          "field": "timing.expiry",
+          "value": "No universal membership/credit expiry published; update company/product profile to maintain benefits.",
+          "sources": [
+            "https://www.nvidia.com/en-us/startups/"
+          ],
+          "evidence_status": "verified"
+        },
+        {
+          "field": "limitations",
+          "value": "Consultancies, outsourced developers, cryptocurrency-associated firms, cloud providers, resellers/distributors and public companies excluded. GPU availability/investor introductions not guaranteed.",
+          "sources": [
+            "https://www.nvidia.com/en-us/startups/"
+          ],
+          "evidence_status": "verified"
+        },
+        {
+          "field": "application_url",
+          "value": "https://programs.nvidia.com/phoenix/application",
+          "sources": [
+            "https://programs.nvidia.com/phoenix/application"
+          ],
+          "evidence_status": "verified"
+        }
+      ]
+    }
+  },
+  "startup-benefits-microsoft": {
+    "purpose": "Newer September/August 2026 guides: up to US$200 starter Azure credits; no-referral personal LinkedIn verification/Azure signup route.",
+    "theme": "Noncash startup support for civilian software founders.",
+    "activities": "Review eligibility and usable benefit timing before any separately authorized enrollment; the catalogue does not enroll or redeem offers.",
+    "cycle": "Rolling/continuous programme; fixed closing date not published in checked sources.",
+    "checked_at": "2026-10-07",
+    "coverage": "partial",
+    "company": {
+      "required": null,
+      "jurisdiction": "Provider rules apply; Taiwan-specific individual acceptance remains qualified by the sourced facts.",
+      "entity_types": "For-profit technology company where required; exact unregistered-individual acceptance is explicit or unknown in the sourced facts.",
+      "min_age_months": null,
+      "max_age_months": null,
+      "age_reference": "Exact age measurement date unverified; check applicable programme route.",
+      "formation_stage": "Application where incorporation is explicit; otherwise route-specific or unverified.",
+      "notes": "Initial personal route potentially before incorporation, subject to account/region checks; US$5,000 milestone requires entity verification. No numeric company-age limit verified. Registered legal entity required at US$5,000 milestone; starter personal route is subject to verification. Conflicting official offer/stage rules remain explicit.",
+      "source_url": "https://learn.microsoft.com/en-us/startups/microsoft-for-startups/application"
+    },
+    "limitations": [
+      "Full current form fields/branches/required flags have not been exhaustively verified. No signup, application, payment, account or credentials action performed.",
+      "Benefits are noncash; maxima are not guaranteed awards. Free entry does not imply free usage.",
+      "Incorporation, billing-country, referral and paid-use verification are separate; unknowns are not permission to enroll.",
+      "Official eligibility/offer wording conflicts are preserved in sourced facts; verify the applicable route."
+    ],
+    "sources": [
+      {
+        "url": "https://learn.microsoft.com/en-us/startups/microsoft-for-startups/application",
+        "title": "Official programme, terms, application or billing evidence"
+      },
+      {
+        "url": "https://learn.microsoft.com/en-us/startups/microsoft-for-startups/getting-started-mfs",
+        "title": "Official programme, terms, application or billing evidence"
+      },
+      {
+        "url": "https://learn.microsoft.com/en-us/startups/benefits",
+        "title": "Official programme, terms, application or billing evidence"
+      },
+      {
+        "url": "https://learn.microsoft.com/en-us/startups/microsoft-for-startups/overview",
+        "title": "Official programme, terms, application or billing evidence"
+      },
+      {
+        "url": "https://azure.microsoft.com/en-us/pricing/purchase-options/azure-account",
+        "title": "Official programme, terms, application or billing evidence"
+      },
+      {
+        "url": "https://learn.microsoft.com/en-us/startups/microsoft-for-startups/mfs-faqs",
+        "title": "Official programme, terms, application or billing evidence"
+      },
+      {
+        "url": "https://learn.microsoft.com/en-us/startups/other",
+        "title": "Official programme, terms, application or billing evidence"
+      },
+      {
+        "url": "https://www.microsoft.com/en-us/startups",
+        "title": "Official programme, terms, application or billing evidence"
+      }
+    ],
+    "requirements": [],
+    "winners": [],
+    "startup_benefits": {
+      "status": "small_initial_route_larger_entity_milestone",
+      "checked_on": "2026-10-07",
+      "cash_award": false,
+      "facts": [
+        {
+          "field": "initial_benefit",
+          "value": "Newer September/August 2026 guides: up to US$200 starter Azure credits; no-referral personal LinkedIn verification/Azure signup route.",
+          "sources": [
+            "https://learn.microsoft.com/en-us/startups/microsoft-for-startups/application",
+            "https://learn.microsoft.com/en-us/startups/microsoft-for-startups/getting-started-mfs"
+          ],
+          "evidence_status": "verified"
+        },
+        {
+          "field": "registered_entity_milestone",
+          "value": "US$5,000 milestone requires verified registered legal entity; not guaranteed additional US$5,000.",
+          "sources": [
+            "https://learn.microsoft.com/en-us/startups/microsoft-for-startups/getting-started-mfs"
+          ],
+          "evidence_status": "verified"
+        },
+        {
+          "field": "higher_milestones",
+          "value": "US$25k/50k milestones require 5+/7+ workloads. US$150k requires 10+ workloads and about US$3,000/month for about 60 days; not automatic.",
+          "sources": [
+            "https://learn.microsoft.com/en-us/startups/microsoft-for-startups/getting-started-mfs"
+          ],
+          "evidence_status": "verified"
+        },
+        {
+          "field": "investor_path",
+          "value": "Investor Network 10-character referral enables larger benefits; up to US$200,000 advertised for qualifying backed startups, not direct-entry entitlement.",
+          "sources": [
+            "https://learn.microsoft.com/en-us/startups/microsoft-for-startups/application",
+            "https://learn.microsoft.com/en-us/startups/benefits"
+          ],
+          "evidence_status": "verified"
+        },
+        {
+          "field": "company_eligibility",
+          "value": "Own software product; private for-profit; eligible Azure region; lifetime free Azure credits at most US$350,000. Overview excludes Series C+, public-sector/education, agencies/consultancies, crypto mining.",
+          "sources": [
+            "https://learn.microsoft.com/en-us/startups/microsoft-for-startups/overview"
+          ],
+          "evidence_status": "verified"
+        },
+        {
+          "field": "stage_and_age_caveat",
+          "value": "Newest guide says B2B, toward/at MVP, pre-seed through Series C, conflicting with overview excluding Series C. No age/headcount cap found.",
+          "sources": [
+            "https://learn.microsoft.com/en-us/startups/microsoft-for-startups/application",
+            "https://learn.microsoft.com/en-us/startups/microsoft-for-startups/overview"
+          ],
+          "evidence_status": "verified"
+        },
+        {
+          "field": "individual_eligibility",
+          "value": "Initial personal route potentially before incorporation, subject to account/region checks; US$5,000 milestone requires entity verification.",
+          "sources": [
+            "https://learn.microsoft.com/en-us/startups/microsoft-for-startups/application",
+            "https://learn.microsoft.com/en-us/startups/microsoft-for-startups/getting-started-mfs"
+          ],
+          "evidence_status": "initial_path_supported_expanded_credits_require_verification"
+        },
+        {
+          "field": "account_and_country",
+          "value": "Personal Microsoft account, no prior Azure account; work/school/company email excluded at signup. Taiwan Azure-supported; actual offer billing-country dropdown must include it.",
+          "sources": [
+            "https://learn.microsoft.com/en-us/startups/microsoft-for-startups/application",
+            "https://azure.microsoft.com/en-us/pricing/purchase-options/azure-account",
+            "https://learn.microsoft.com/en-us/startups/microsoft-for-startups/mfs-faqs"
+          ],
+          "evidence_status": "verified"
+        },
+        {
+          "field": "cost_and_card",
+          "value": "Card required; no upfront commitment stated. Automatic pay-as-you-go after expiry/exhaustion. Uncovered services/wrong billing profile can charge while credits remain.",
+          "sources": [
+            "https://learn.microsoft.com/en-us/startups/microsoft-for-startups/application",
+            "https://learn.microsoft.com/en-us/startups/microsoft-for-startups/mfs-faqs"
+          ],
+          "evidence_status": "verified_billing_rules_no_application_fee_advertised"
+        },
+        {
+          "field": "expiry",
+          "value": "Conflicting periods: activate within 90 days/up to 2-year validity in FAQ versus 90/180-day starter/follow-on pages. Milestone extension described; verify dashboard expiry.",
+          "sources": [
+            "https://learn.microsoft.com/en-us/startups/microsoft-for-startups/mfs-faqs",
+            "https://learn.microsoft.com/en-us/startups/other",
+            "https://learn.microsoft.com/en-us/startups/microsoft-for-startups/getting-started-mfs"
+          ],
+          "evidence_status": "verified"
+        },
+        {
+          "field": "official_source_conflict",
+          "value": "US$200 starter versus US$1,000; US$4,000 follow-on versus US$5,000 milestone. Use newer US$200 conservatively; verify actual offer, never add inconsistent values.",
+          "sources": [
+            "https://learn.microsoft.com/en-us/startups/microsoft-for-startups/mfs-faqs",
+            "https://learn.microsoft.com/en-us/startups/other",
+            "https://learn.microsoft.com/en-us/startups/microsoft-for-startups/application",
+            "https://learn.microsoft.com/en-us/startups/microsoft-for-startups/getting-started-mfs"
+          ],
+          "evidence_status": "conflicting_official_documentation"
+        },
+        {
+          "field": "deadline",
+          "value": "Live application; no fixed cutoff. Recheck terms before using credits.",
+          "sources": [
+            "https://learn.microsoft.com/en-us/startups/microsoft-for-startups/overview",
+            "https://www.microsoft.com/en-us/startups"
+          ],
+          "evidence_status": "no_fixed_deadline_published"
+        },
+        {
+          "field": "application_url",
+          "value": "https://startups.microsoft.com/",
+          "sources": [
+            "https://learn.microsoft.com/en-us/startups/microsoft-for-startups/overview",
+            "https://learn.microsoft.com/en-us/startups/microsoft-for-startups/application",
+            "https://www.microsoft.com/en-us/startups"
+          ],
+          "evidence_status": "verified"
+        }
+      ]
+    }
+  },
+  "startup-benefits-aws-activate": {
+    "purpose": "Founders US$1,000 initially; selected startups up to US$5,000 over time. Portfolio up to US$200,000 conditional AWS service credits, not cash.",
+    "theme": "Noncash startup support for civilian software founders.",
+    "activities": "Review eligibility and usable benefit timing before any separately authorized enrollment; the catalogue does not enroll or redeem offers.",
+    "cycle": "Rolling/continuous programme; fixed closing date not published in checked sources.",
+    "checked_at": "2026-10-07",
+    "coverage": "partial",
+    "company": {
+      "required": null,
+      "jurisdiction": "Provider rules apply; Taiwan-specific individual acceptance remains qualified by the sourced facts.",
+      "entity_types": "For-profit technology company where required; exact unregistered-individual acceptance is explicit or unknown in the sourced facts.",
+      "min_age_months": null,
+      "max_age_months": 120,
+      "age_reference": "Exact age measurement date unverified; check applicable programme route.",
+      "formation_stage": "Application where incorporation is explicit; otherwise route-specific or unverified.",
+      "notes": "Incorporation/minimum headcount not explicit; unregistered solo-founder eligibility unconfirmed. Pre-Series B; founded within 10 years; AWS Paid Tier account; new to Activate credits or seeking more than previously received.",
+      "source_url": "https://aws.amazon.com/startups/credits/"
+    },
+    "limitations": [
+      "Full current form fields/branches/required flags have not been exhaustively verified. No signup, application, payment, account or credentials action performed.",
+      "Benefits are noncash; maxima are not guaranteed awards. Free entry does not imply free usage.",
+      "Incorporation, billing-country, referral and paid-use verification are separate; unknowns are not permission to enroll."
+    ],
+    "sources": [
+      {
+        "url": "https://aws.amazon.com/startups/credits/",
+        "title": "Official programme, terms, application or billing evidence"
+      },
+      {
+        "url": "https://aws.amazon.com/aws-startups/learn/applying-for-aws-activate-credits-a-step-by-step-guide/",
+        "title": "Official programme, terms, application or billing evidence"
+      },
+      {
+        "url": "https://aws.amazon.com/activate/terms/",
+        "title": "Official programme, terms, application or billing evidence"
+      },
+      {
+        "url": "https://pages.awscloud.com/TW-Startup-Activate.html",
+        "title": "Official programme, terms, application or billing evidence"
+      },
+      {
+        "url": "https://aws.amazon.com/awscredits/",
+        "title": "Official programme, terms, application or billing evidence"
+      },
+      {
+        "url": "https://aws.amazon.com/aws-startups/learn/everything-you-need-to-know-about-aws-activate-credits/",
+        "title": "Official programme, terms, application or billing evidence"
+      },
+      {
+        "url": "https://startups.aws.com/join?destination=/credits/apply",
+        "title": "Official programme, terms, application or billing evidence"
+      }
+    ],
+    "requirements": [],
+    "winners": [],
+    "startup_benefits": {
+      "status": "verify_entity_then_time_to_usage",
+      "checked_on": "2026-10-07",
+      "cash_award": false,
+      "facts": [
+        {
+          "field": "benefit",
+          "value": "Founders US$1,000 initially; selected startups up to US$5,000 over time. Portfolio up to US$200,000 conditional AWS service credits, not cash.",
+          "sources": [
+            "https://aws.amazon.com/startups/credits/"
+          ],
+          "evidence_status": "verified"
+        },
+        {
+          "field": "basic_eligibility",
+          "value": "Pre-Series B; founded within 10 years; AWS Paid Tier account; new to Activate credits or seeking more than previously received.",
+          "sources": [
+            "https://aws.amazon.com/startups/credits/"
+          ],
+          "evidence_status": "verified"
+        },
+        {
+          "field": "founders_path",
+          "value": "Self-funded, first Activate credits, functioning company website; direct Founders route needs no investor/accelerator referral.",
+          "sources": [
+            "https://aws.amazon.com/aws-startups/learn/applying-for-aws-activate-credits-a-step-by-step-guide/",
+            "https://aws.amazon.com/startups/credits/"
+          ],
+          "evidence_status": "verified"
+        },
+        {
+          "field": "portfolio_path",
+          "value": "Activate Provider affiliation and Organization ID required; latest funding within 12 months when applicable; provider/prior-credit limits apply.",
+          "sources": [
+            "https://aws.amazon.com/aws-startups/learn/applying-for-aws-activate-credits-a-step-by-step-guide/"
+          ],
+          "evidence_status": "verified"
+        },
+        {
+          "field": "individual_and_company_status",
+          "value": "Incorporation/minimum headcount not explicit; unregistered solo-founder eligibility unconfirmed.",
+          "sources": [
+            "https://aws.amazon.com/activate/terms/",
+            "https://aws.amazon.com/aws-startups/learn/applying-for-aws-activate-credits-a-step-by-step-guide/"
+          ],
+          "evidence_status": "not_explicitly_settled"
+        },
+        {
+          "field": "country",
+          "value": "Official Taiwan programme exists; old Taiwan page US$500 obsolete. Use global criteria; Taiwan-specific approval unconfirmed.",
+          "sources": [
+            "https://pages.awscloud.com/TW-Startup-Activate.html",
+            "https://aws.amazon.com/startups/credits/"
+          ],
+          "evidence_status": "service_or_historical_program_support_verified_current_individual_admission_unconfirmed"
+        },
+        {
+          "field": "application_materials",
+          "value": "Domain-matching business email, working website, product/company/funding details and Builder ID linked to AWS account.",
+          "sources": [
+            "https://aws.amazon.com/aws-startups/learn/applying-for-aws-activate-credits-a-step-by-step-guide/",
+            "https://aws.amazon.com/activate/terms/"
+          ],
+          "evidence_status": "verified"
+        },
+        {
+          "field": "cost_and_card",
+          "value": "No application fee advertised; valid card required. Paid Tier has no stated fixed subscription purchase; uncovered/excess usage billable.",
+          "sources": [
+            "https://aws.amazon.com/startups/credits/",
+            "https://aws.amazon.com/awscredits/"
+          ],
+          "evidence_status": "verified_billing_rules_no_application_fee_advertised"
+        },
+        {
+          "field": "coverage",
+          "value": "Eligible AWS usage/qualifying support/third-party Bedrock models. Other Marketplace purchases, domains and some support/upfront commitments excluded.",
+          "sources": [
+            "https://aws.amazon.com/activate/terms/",
+            "https://aws.amazon.com/awscredits/"
+          ],
+          "evidence_status": "verified"
+        },
+        {
+          "field": "support_billing_risk",
+          "value": "Separately awarded Business Support credits may auto-enrol; charges continue after credits run out. Basic Support avoids ongoing plan charge.",
+          "sources": [
+            "https://aws.amazon.com/activate/terms/"
+          ],
+          "evidence_status": "verified"
+        },
+        {
+          "field": "expiry_and_timing",
+          "value": "Usually 1-2 years, actual award/Billing dates govern. New usage only, not old bills. Apply near usage.",
+          "sources": [
+            "https://aws.amazon.com/aws-startups/learn/everything-you-need-to-know-about-aws-activate-credits/"
+          ],
+          "evidence_status": "verified"
+        },
+        {
+          "field": "deadline",
+          "value": "Currently open, no fixed cohort cutoff; Portfolio funding-window requirement applies.",
+          "sources": [
+            "https://aws.amazon.com/startups/credits/",
+            "https://aws.amazon.com/aws-startups/learn/everything-you-need-to-know-about-aws-activate-credits/"
+          ],
+          "evidence_status": "no_fixed_deadline_published"
+        },
+        {
+          "field": "application_url",
+          "value": "https://startups.aws.com/join?destination=/credits/apply",
+          "sources": [
+            "https://startups.aws.com/join?destination=/credits/apply"
+          ],
+          "evidence_status": "verified"
+        }
+      ]
+    }
+  },
+  "startup-benefits-google-cloud": {
+    "purpose": "Start up to US$2,000 Cloud credits/12 months; US$200 Skills credits; conditional 12-month Workspace Business Plus. Noncash.",
+    "theme": "Noncash startup support for civilian software founders.",
+    "activities": "Review eligibility and usable benefit timing before any separately authorized enrollment; the catalogue does not enroll or redeem offers.",
+    "cycle": "Rolling/continuous programme; fixed closing date not published in checked sources.",
+    "checked_at": "2026-10-07",
+    "coverage": "partial",
+    "company": {
+      "required": null,
+      "jurisdiction": "Provider rules apply; Taiwan-specific individual acceptance remains qualified by the sourced facts.",
+      "entity_types": "For-profit technology company where required; exact unregistered-individual acceptance is explicit or unknown in the sourced facts.",
+      "min_age_months": null,
+      "max_age_months": 24,
+      "age_reference": "Exact age measurement date unverified; check applicable programme route.",
+      "formation_stage": "Application where incorporation is explicit; otherwise route-specific or unverified.",
+      "notes": "Terms contract with company; incorporation/unregistered-individual acceptance unsettled; no published minimum team. Digital-native tech startup, working MVP, clear business model, plans to seek venture funding soon; founded within 24 months; no Cloud credits beyond free trial.",
+      "source_url": "https://cloud.google.com/startup/pre-funded"
+    },
+    "limitations": [
+      "Full current form fields/branches/required flags have not been exhaustively verified. No signup, application, payment, account or credentials action performed.",
+      "Benefits are noncash; maxima are not guaranteed awards. Free entry does not imply free usage.",
+      "Incorporation, billing-country, referral and paid-use verification are separate; unknowns are not permission to enroll."
+    ],
+    "sources": [
+      {
+        "url": "https://cloud.google.com/startup/pre-funded",
+        "title": "Official programme, terms, application or billing evidence"
+      },
+      {
+        "url": "https://cloud.google.com/terms/startup-program-tos",
+        "title": "Official programme, terms, application or billing evidence"
+      },
+      {
+        "url": "https://cloud.google.com/startup/benefits?hl=en",
+        "title": "Official programme, terms, application or billing evidence"
+      },
+      {
+        "url": "https://cloud.google.com/startup/faq",
+        "title": "Official programme, terms, application or billing evidence"
+      },
+      {
+        "url": "https://docs.cloud.google.com/billing/docs/resources/currency",
+        "title": "Official programme, terms, application or billing evidence"
+      },
+      {
+        "url": "https://docs.cloud.google.com/billing/docs/how-to/payment-methods",
+        "title": "Official programme, terms, application or billing evidence"
+      },
+      {
+        "url": "https://services.google.com/fh/files/misc/genai_ebook.pdf",
+        "title": "Official programme, terms, application or billing evidence"
+      }
+    ],
+    "requirements": [],
+    "winners": [],
+    "startup_benefits": {
+      "status": "working_mvp_and_venture_intent_required",
+      "checked_on": "2026-10-07",
+      "cash_award": false,
+      "facts": [
+        {
+          "field": "start_benefit",
+          "value": "Start up to US$2,000 Cloud credits/12 months; US$200 Skills credits; conditional 12-month Workspace Business Plus. Noncash.",
+          "sources": [
+            "https://cloud.google.com/startup/pre-funded"
+          ],
+          "evidence_status": "verified"
+        },
+        {
+          "field": "start_eligibility",
+          "value": "Digital-native tech startup, working MVP, clear business model, plans to seek venture funding soon; founded within 24 months; no Cloud credits beyond free trial.",
+          "sources": [
+            "https://cloud.google.com/startup/pre-funded"
+          ],
+          "evidence_status": "verified"
+        },
+        {
+          "field": "individual_and_company_status",
+          "value": "Terms contract with company; incorporation/unregistered-individual acceptance unsettled; no published minimum team.",
+          "sources": [
+            "https://cloud.google.com/terms/startup-program-tos",
+            "https://cloud.google.com/startup/pre-funded"
+          ],
+          "evidence_status": "not_explicitly_settled"
+        },
+        {
+          "field": "scale_eligibility",
+          "value": "Institutional/VC/SAFE funding; pre-seed/seed within 5 years or Series A within 12 months; founded within 5 years; prior credits at most US$5,000. Ordinary angel/grants/crowdfunding not qualifying.",
+          "sources": [
+            "https://cloud.google.com/startup/benefits?hl=en",
+            "https://cloud.google.com/startup/faq"
+          ],
+          "evidence_status": "verified"
+        },
+        {
+          "field": "scale_benefit",
+          "value": "Scale up to US$200,000: year 1 100% coverage up to US$100,000; year 2 only 20% up to US$100,000. Approved AI-first year-1 cap up to US$250,000.",
+          "sources": [
+            "https://cloud.google.com/startup/benefits?hl=en"
+          ],
+          "evidence_status": "verified"
+        },
+        {
+          "field": "ai_and_coverage",
+          "value": "AI-first must be foundational; eligible Google Cloud/Google models covered; third-party models and Marketplace excluded.",
+          "sources": [
+            "https://cloud.google.com/startup/faq"
+          ],
+          "evidence_status": "verified"
+        },
+        {
+          "field": "excluded_businesses",
+          "value": "IPO/acquired companies, education/government/nonprofits, blogs/content, agencies/dev shops/consultancies, crypto mining, noncompliant token distribution excluded.",
+          "sources": [
+            "https://cloud.google.com/startup/benefits?hl=en"
+          ],
+          "evidence_status": "verified"
+        },
+        {
+          "field": "application_materials_and_referral",
+          "value": "Direct Start without published referral requirement; 18-character Billing ID; matching email/website/billing-owner domains; funded applicants require funding verification.",
+          "sources": [
+            "https://cloud.google.com/startup/faq",
+            "https://cloud.google.com/startup/pre-funded"
+          ],
+          "evidence_status": "verified"
+        },
+        {
+          "field": "country",
+          "value": "Taiwan billing supports TWD/cards, not programme acceptance; Google retains region discretion.",
+          "sources": [
+            "https://docs.cloud.google.com/billing/docs/resources/currency",
+            "https://cloud.google.com/terms/startup-program-tos"
+          ],
+          "evidence_status": "service_or_historical_program_support_verified_current_individual_admission_unconfirmed"
+        },
+        {
+          "field": "cost_and_post_credit_billing",
+          "value": "No application fee advertised; self-serve Billing payment method required. Uncovered/excess usage payable, no required exhaustion notice. Credits not a spending cap.",
+          "sources": [
+            "https://docs.cloud.google.com/billing/docs/how-to/payment-methods",
+            "https://cloud.google.com/terms/startup-program-tos"
+          ],
+          "evidence_status": "verified_billing_rules_no_application_fee_advertised"
+        },
+        {
+          "field": "workspace_caveat",
+          "value": "Domain paid-plan history must meet stated 31-day pre-application/redemption rule; annual Business Plus excluded.",
+          "sources": [
+            "https://cloud.google.com/startup/pre-funded"
+          ],
+          "evidence_status": "verified"
+        },
+        {
+          "field": "expiry_and_deadline",
+          "value": "Start 12 months; award-specific activation/redemption governs. Currently open, no fixed cutoff.",
+          "sources": [
+            "https://cloud.google.com/startup/pre-funded",
+            "https://cloud.google.com/terms/startup-program-tos",
+            "https://cloud.google.com/startup/benefits?hl=en"
+          ],
+          "evidence_status": "no_fixed_deadline_published"
+        },
+        {
+          "field": "application_url",
+          "value": "https://cloud.google.com/startup/apply",
+          "sources": [
+            "https://services.google.com/fh/files/misc/genai_ebook.pdf"
+          ],
+          "evidence_status": "verified"
+        }
+      ]
+    }
+  },
+  "startup-benefits-cloudflare": {
+    "purpose": "Tier 3 US$10,000 service credits, not cash. US$100k/350k tiers require affiliated-partner funding, not bootstrapped entitlement.",
+    "theme": "Noncash startup support for civilian software founders.",
+    "activities": "Review eligibility and usable benefit timing before any separately authorized enrollment; the catalogue does not enroll or redeem offers.",
+    "cycle": "Rolling/continuous programme; fixed closing date not published in checked sources.",
+    "checked_at": "2026-10-07",
+    "coverage": "partial",
+    "company": {
+      "required": true,
+      "jurisdiction": "Provider rules apply; Taiwan-specific individual acceptance remains qualified by the sourced facts.",
+      "entity_types": "For-profit technology company where required; exact unregistered-individual acceptance is explicit or unknown in the sourced facts.",
+      "min_age_months": null,
+      "max_age_months": 120,
+      "age_reference": "Exact age measurement date unverified; check applicable programme route.",
+      "formation_stage": "Application where incorporation is explicit; otherwise route-specific or unverified.",
+      "notes": "For-profit technology company incorporated within 10 years. For-profit technology company incorporated within 10 years.",
+      "source_url": "https://www.cloudflare.com/startups/"
+    },
+    "limitations": [
+      "Full current form fields/branches/required flags have not been exhaustively verified. No signup, application, payment, account or credentials action performed.",
+      "Benefits are noncash; maxima are not guaranteed awards. Free entry does not imply free usage.",
+      "Incorporation, billing-country, referral and paid-use verification are separate; unknowns are not permission to enroll.",
+      "Official eligibility/offer wording conflicts are preserved in sourced facts; verify the applicable route."
+    ],
+    "sources": [
+      {
+        "url": "https://www.cloudflare.com/startups/",
+        "title": "Official programme, terms, application or billing evidence"
+      }
+    ],
+    "requirements": [],
+    "winners": [],
+    "startup_benefits": {
+      "status": "post_incorporation_funding_wording_conflict",
+      "checked_on": "2026-10-07",
+      "cash_award": false,
+      "facts": [
+        {
+          "field": "benefit",
+          "value": "Tier 3 US$10,000 service credits, not cash. US$100k/350k tiers require affiliated-partner funding, not bootstrapped entitlement.",
+          "sources": [
+            "https://www.cloudflare.com/startups/"
+          ],
+          "evidence_status": "verified"
+        },
+        {
+          "field": "funding_stage_and_referral",
+          "value": "Tier 3 bootstrapped/self-funded, under USD 1m raised; no minimum funding/referral shown.",
+          "sources": [
+            "https://www.cloudflare.com/startups/"
+          ],
+          "evidence_status": "verified"
+        },
+        {
+          "field": "entity_age",
+          "value": "For-profit technology company incorporated within 10 years.",
+          "sources": [
+            "https://www.cloudflare.com/startups/"
+          ],
+          "evidence_status": "verified"
+        },
+        {
+          "field": "individuals",
+          "value": "Incorporation criterion excludes unregistered applicant; no solo-headcount exclusion published.",
+          "sources": [
+            "https://www.cloudflare.com/startups/"
+          ],
+          "evidence_status": "inference"
+        },
+        {
+          "field": "country",
+          "value": "Taiwan-specific eligibility unconfirmed; no country restriction displayed.",
+          "sources": [
+            "https://www.cloudflare.com/startups/"
+          ],
+          "evidence_status": "not_confirmed"
+        },
+        {
+          "field": "presence",
+          "value": "Live website, domain-matching business email, public LinkedIn/X/GitHub.",
+          "sources": [
+            "https://www.cloudflare.com/startups/"
+          ],
+          "evidence_status": "verified"
+        },
+        {
+          "field": "restrictions",
+          "value": "Once only; no existing Enterprise customers, agencies/consultancies/MSPs/resellers/blogs/education. Noncash/nontransferable; taxes and logo-publicity permission apply.",
+          "sources": [
+            "https://www.cloudflare.com/startups/"
+          ],
+          "evidence_status": "verified"
+        },
+        {
+          "field": "contradiction",
+          "value": "General criteria Series B-or-earlier funding within 12 months conflicts with bootstrapped tier; confirm applicability.",
+          "sources": [
+            "https://www.cloudflare.com/startups/"
+          ],
+          "evidence_status": "source_conflict"
+        },
+        {
+          "field": "fee_and_payment",
+          "value": "No application fee stated; valid payment method required; automatic overage/expiry billing.",
+          "sources": [
+            "https://www.cloudflare.com/startups/"
+          ],
+          "evidence_status": "verified"
+        },
+        {
+          "field": "expiry",
+          "value": "One year or exhaustion; no extensions.",
+          "sources": [
+            "https://www.cloudflare.com/startups/"
+          ],
+          "evidence_status": "verified"
+        },
+        {
+          "field": "service_limits",
+          "value": "Tier-3 Workers AI cap US$2,500; R2 cap US$10,000. AI Gateway, Registrar, enterprise add-ons/premium networking excluded. Terms exclude SLA despite marketing claim.",
+          "sources": [
+            "https://www.cloudflare.com/startups/"
+          ],
+          "evidence_status": "verified"
+        },
+        {
+          "field": "deadline",
+          "value": "No fixed closing date displayed.",
+          "sources": [
+            "https://www.cloudflare.com/startups/"
+          ],
+          "evidence_status": "not_confirmed"
+        },
+        {
+          "field": "application_url",
+          "value": "https://www.cloudflare.com/startups/",
+          "sources": [
+            "https://www.cloudflare.com/startups/"
+          ],
+          "evidence_status": "verified"
+        }
+      ]
+    }
+  },
+  "startup-benefits-mongodb": {
+    "purpose": "Atlas credits, Voyage AI tokens, technical resources; Inspire tier for bootstrapped startups.",
+    "theme": "Noncash startup support for civilian software founders.",
+    "activities": "Review eligibility and usable benefit timing before any separately authorized enrollment; the catalogue does not enroll or redeem offers.",
+    "cycle": "Rolling/continuous programme; fixed closing date not published in checked sources.",
+    "checked_at": "2026-10-07",
+    "coverage": "partial",
+    "company": {
+      "required": null,
+      "jurisdiction": "Provider rules apply; Taiwan-specific individual acceptance remains qualified by the sourced facts.",
+      "entity_types": "For-profit technology company where required; exact unregistered-individual acceptance is explicit or unknown in the sourced facts.",
+      "min_age_months": null,
+      "max_age_months": 84,
+      "age_reference": "Exact age measurement date unverified; check applicable programme route.",
+      "formation_stage": "Application where incorporation is explicit; otherwise route-specific or unverified.",
+      "notes": "Legal company name requested; unincorporated acceptance not explicit. Applicant 18+ and eligible resident. Under seven years. The published under-age bound is exclusive; exact measurement date is unverified.",
+      "source_url": "https://www.mongodb.com/solutions/startups"
+    },
+    "limitations": [
+      "Full current form fields/branches/required flags have not been exhaustively verified. No signup, application, payment, account or credentials action performed.",
+      "Benefits are noncash; maxima are not guaranteed awards. Free entry does not imply free usage.",
+      "Incorporation, billing-country, referral and paid-use verification are separate; unknowns are not permission to enroll."
+    ],
+    "sources": [
+      {
+        "url": "https://www.mongodb.com/solutions/startups",
+        "title": "Official programme, terms, application or billing evidence"
+      },
+      {
+        "url": "https://www.mongodb.com/solutions/startups/terms-conditions",
+        "title": "Official programme, terms, application or billing evidence"
+      },
+      {
+        "url": "https://www.mongodb.com/docs/atlas/billing/subscriptions/",
+        "title": "Official programme, terms, application or billing evidence"
+      }
+    ],
+    "requirements": [
+      {
+        "id": "legal_company_name",
+        "label": "Legal company name",
+        "category": "field",
+        "required": null,
+        "stage": "application",
+        "details": "This named field is reported in the checked public form. Exact required flag and constraints unverified; source-backed semantic mapping remains review-only.",
+        "source_url": "https://www.mongodb.com/solutions/startups",
+        "match_key": "company.name"
+      },
+      {
+        "id": "hq_country",
+        "label": "HQ country",
+        "category": "field",
+        "required": null,
+        "stage": "application",
+        "details": "Taiwan appears in the checked dropdown. Required flag, complete options and shared-answer binding unverified.",
+        "source_url": "https://www.mongodb.com/solutions/startups"
+      }
+    ],
+    "winners": [],
+    "startup_benefits": {
+      "status": "verify_entity_and_own_database_fit",
+      "checked_on": "2026-10-07",
+      "cash_award": false,
+      "facts": [
+        {
+          "field": "benefit",
+          "value": "Atlas credits, Voyage AI tokens, technical resources; Inspire tier for bootstrapped startups.",
+          "sources": [
+            "https://www.mongodb.com/solutions/startups"
+          ],
+          "evidence_status": "verified"
+        },
+        {
+          "field": "realistic_value",
+          "value": "Dollar/token quantity unpublished; individually set award, no cash equivalent.",
+          "sources": [
+            "https://www.mongodb.com/solutions/startups",
+            "https://www.mongodb.com/solutions/startups/terms-conditions"
+          ],
+          "evidence_status": "verified"
+        },
+        {
+          "field": "funding_stage",
+          "value": "Series A or earlier; no Inspire funding minimum.",
+          "sources": [
+            "https://www.mongodb.com/solutions/startups"
+          ],
+          "evidence_status": "verified"
+        },
+        {
+          "field": "referral",
+          "value": "Direct application allowed without VC/incubator/accelerator.",
+          "sources": [
+            "https://www.mongodb.com/solutions/startups"
+          ],
+          "evidence_status": "verified"
+        },
+        {
+          "field": "company_age",
+          "value": "Under seven years.",
+          "sources": [
+            "https://www.mongodb.com/solutions/startups"
+          ],
+          "evidence_status": "verified"
+        },
+        {
+          "field": "entity_and_individuals",
+          "value": "Legal company name requested; unincorporated acceptance not explicit. Applicant 18+ and eligible resident.",
+          "sources": [
+            "https://www.mongodb.com/solutions/startups",
+            "https://www.mongodb.com/solutions/startups/terms-conditions"
+          ],
+          "evidence_status": "partly_unconfirmed"
+        },
+        {
+          "field": "country",
+          "value": "Taiwan in HQ-country dropdown; residents allowed where lawful.",
+          "sources": [
+            "https://www.mongodb.com/solutions/startups",
+            "https://www.mongodb.com/solutions/startups/terms-conditions"
+          ],
+          "evidence_status": "verified"
+        },
+        {
+          "field": "presence_and_product",
+          "value": "Scalable software product/service, active website and LinkedIn; personal LinkedIn accepted if company lacks one.",
+          "sources": [
+            "https://www.mongodb.com/solutions/startups"
+          ],
+          "evidence_status": "verified"
+        },
+        {
+          "field": "prior_usage_and_exclusions",
+          "value": "First participation; existing Atlas users eligible; agencies/dev shops excluded.",
+          "sources": [
+            "https://www.mongodb.com/solutions/startups"
+          ],
+          "evidence_status": "verified"
+        },
+        {
+          "field": "fee",
+          "value": "No purchase/payment required to enter.",
+          "sources": [
+            "https://www.mongodb.com/solutions/startups/terms-conditions"
+          ],
+          "evidence_status": "verified"
+        },
+        {
+          "field": "payment_method",
+          "value": "Startup-specific card requirement not stated; verify before paid resources.",
+          "sources": [
+            "https://www.mongodb.com/solutions/startups",
+            "https://www.mongodb.com/solutions/startups/terms-conditions"
+          ],
+          "evidence_status": "not_confirmed"
+        },
+        {
+          "field": "billing_caution",
+          "value": "Expiry bills remaining Atlas charges to configured payment; terminate deployments to stop future charges.",
+          "sources": [
+            "https://www.mongodb.com/docs/atlas/billing/subscriptions/"
+          ],
+          "evidence_status": "verified"
+        },
+        {
+          "field": "expiry",
+          "value": "Activate within 12 months; use within 12 months afterward; discretionary extensions.",
+          "sources": [
+            "https://www.mongodb.com/solutions/startups"
+          ],
+          "evidence_status": "verified"
+        },
+        {
+          "field": "deadline",
+          "value": "Indefinite submission period, changeable by MongoDB.",
+          "sources": [
+            "https://www.mongodb.com/solutions/startups/terms-conditions"
+          ],
+          "evidence_status": "verified"
+        },
+        {
+          "field": "restrictions",
+          "value": "One entry/person/company; nontransferable; taxes/incidental costs applicant responsibility; publicity permission.",
+          "sources": [
+            "https://www.mongodb.com/solutions/startups/terms-conditions"
+          ],
+          "evidence_status": "verified"
+        },
+        {
+          "field": "application_url",
+          "value": "https://www.mongodb.com/solutions/startups",
+          "sources": [
+            "https://www.mongodb.com/solutions/startups"
+          ],
+          "evidence_status": "verified"
+        }
+      ]
+    }
+  },
+  "startup-benefits-github": {
+    "purpose": "USD 10,000 platform credits, no cash; Enterprise/Copilot/Advanced Security/Actions/eligible add-ons.",
+    "theme": "Noncash startup support for civilian software founders.",
+    "activities": "Review eligibility and usable benefit timing before any separately authorized enrollment; the catalogue does not enroll or redeem offers.",
+    "cycle": "Rolling/continuous programme; fixed closing date not published in checked sources.",
+    "checked_at": "2026-10-07",
+    "coverage": "partial",
+    "company": {
+      "required": null,
+      "jurisdiction": "Provider rules apply; Taiwan-specific individual acceptance remains qualified by the sourced facts.",
+      "entity_types": "For-profit technology company where required; exact unregistered-individual acceptance is explicit or unknown in the sourced facts.",
+      "min_age_months": null,
+      "max_age_months": null,
+      "age_reference": "Exact age measurement date unverified; check applicable programme route.",
+      "formation_stage": "Application where incorporation is explicit; otherwise route-specific or unverified.",
+      "notes": "Startup/Enterprise-account offer; incorporation/unregistered-individual rules not stated. No numeric company-age limit verified.",
+      "source_url": "https://github.com/enterprise/startups"
+    },
+    "limitations": [
+      "Full current form fields/branches/required flags have not been exhaustively verified. No signup, application, payment, account or credentials action performed.",
+      "Benefits are noncash; maxima are not guaranteed awards. Free entry does not imply free usage.",
+      "Incorporation, billing-country, referral and paid-use verification are separate; unknowns are not permission to enroll."
+    ],
+    "sources": [
+      {
+        "url": "https://github.com/enterprise/startups",
+        "title": "Official programme, terms, application or billing evidence"
+      },
+      {
+        "url": "https://github.com/github/GitHub-for-Startups-HQ/blob/main/Partner%20Assets.md",
+        "title": "Official programme, terms, application or billing evidence"
+      },
+      {
+        "url": "https://github.com/enterprise/startups/partners",
+        "title": "Official programme, terms, application or billing evidence"
+      }
+    ],
+    "requirements": [],
+    "winners": [],
+    "startup_benefits": {
+      "status": "outside_funding_and_partner_required",
+      "checked_on": "2026-10-07",
+      "cash_award": false,
+      "facts": [
+        {
+          "field": "benefit",
+          "value": "USD 10,000 platform credits, no cash; Enterprise/Copilot/Advanced Security/Actions/eligible add-ons.",
+          "sources": [
+            "https://github.com/enterprise/startups",
+            "https://github.com/github/GitHub-for-Startups-HQ/blob/main/Partner%20Assets.md"
+          ],
+          "evidence_status": "verified"
+        },
+        {
+          "field": "funding_stage",
+          "value": "Outside funding, Series B or earlier; non-equity credits not qualifying.",
+          "sources": [
+            "https://github.com/enterprise/startups"
+          ],
+          "evidence_status": "verified"
+        },
+        {
+          "field": "referral",
+          "value": "Approved-partner affiliation and unique referral link required.",
+          "sources": [
+            "https://github.com/enterprise/startups",
+            "https://github.com/enterprise/startups/partners",
+            "https://github.com/github/GitHub-for-Startups-HQ/blob/main/Partner%20Assets.md"
+          ],
+          "evidence_status": "verified"
+        },
+        {
+          "field": "entity_and_individuals",
+          "value": "Startup/Enterprise-account offer; incorporation/unregistered-individual rules not stated.",
+          "sources": [
+            "https://github.com/enterprise/startups"
+          ],
+          "evidence_status": "not_confirmed"
+        },
+        {
+          "field": "company_age_and_country",
+          "value": "No numeric age limit or Taiwan-specific rule found.",
+          "sources": [
+            "https://github.com/enterprise/startups"
+          ],
+          "evidence_status": "not_confirmed"
+        },
+        {
+          "field": "prior_usage",
+          "value": "No Enterprise plan during previous six months; no prior credits/license grants, including Microsoft startup credits.",
+          "sources": [
+            "https://github.com/enterprise/startups"
+          ],
+          "evidence_status": "verified"
+        },
+        {
+          "field": "fee_and_payment",
+          "value": "No application fee stated; valid payment method and authorization charge required; failure can lock account.",
+          "sources": [
+            "https://github.com/enterprise/startups"
+          ],
+          "evidence_status": "verified"
+        },
+        {
+          "field": "billing_after",
+          "value": "Active services automatically paid after exhaustion/expiry; linked Azure subscription charged if present.",
+          "sources": [
+            "https://github.com/enterprise/startups"
+          ],
+          "evidence_status": "verified"
+        },
+        {
+          "field": "expiry",
+          "value": "Earlier of exhaustion or 12 months from approval.",
+          "sources": [
+            "https://github.com/enterprise/startups"
+          ],
+          "evidence_status": "verified"
+        },
+        {
+          "field": "restrictions",
+          "value": "Once only, account-specific/nontransferable. Downgrade forfeits credits. GitHub.com Enterprise Cloud only, no Server/data-residency; old free-seat offer discontinued.",
+          "sources": [
+            "https://github.com/enterprise/startups"
+          ],
+          "evidence_status": "verified"
+        },
+        {
+          "field": "deadline",
+          "value": "No fixed cutoff published; partner route ongoing.",
+          "sources": [
+            "https://github.com/enterprise/startups",
+            "https://github.com/enterprise/startups/partners"
+          ],
+          "evidence_status": "inference"
+        },
+        {
+          "field": "application_url",
+          "value": "https://github.com/enterprise/startups/partners",
+          "sources": [
+            "https://github.com/enterprise/startups/partners"
+          ],
+          "evidence_status": "verified"
+        }
+      ]
+    }
+  },
+  "startup-benefits-yc-startup-school": {
+    "purpose": "Free self-paced founder course, progress tracking, optional co-founder matching; no cash/service-credit award promised.",
+    "theme": "Noncash startup support for civilian software founders.",
+    "activities": "Review eligibility and usable benefit timing before any separately authorized enrollment; the catalogue does not enroll or redeem offers.",
+    "cycle": "Rolling/continuous programme; fixed closing date not published in checked sources.",
+    "checked_at": "2026-10-07",
+    "coverage": "partial",
+    "company": {
+      "required": false,
+      "jurisdiction": "Provider rules apply; Taiwan-specific individual acceptance remains qualified by the sourced facts.",
+      "entity_types": "For-profit technology company where required; exact unregistered-individual acceptance is explicit or unknown in the sourced facts.",
+      "min_age_months": null,
+      "max_age_months": null,
+      "age_reference": "Exact age measurement date unverified; check applicable programme route.",
+      "formation_stage": "Application where incorporation is explicit; otherwise route-specific or unverified.",
+      "notes": "Individuals/people considering a startup welcome; no incorporation; solo founders eligible. Idea/early-stage founders; no age/funding threshold published.",
+      "source_url": "https://www.startupschool.org/"
+    },
+    "limitations": [
+      "Full current form fields/branches/required flags have not been exhaustively verified. No signup, application, payment, account or credentials action performed.",
+      "Benefits are noncash; maxima are not guaranteed awards. Free entry does not imply free usage.",
+      "Incorporation, billing-country, referral and paid-use verification are separate; unknowns are not permission to enroll."
+    ],
+    "sources": [
+      {
+        "url": "https://www.startupschool.org/",
+        "title": "Official programme, terms, application or billing evidence"
+      },
+      {
+        "url": "https://www.startupschool.org/faq",
+        "title": "Official programme, terms, application or billing evidence"
+      }
+    ],
+    "requirements": [],
+    "winners": [],
+    "startup_benefits": {
+      "status": "available_pre_incorporation_learning",
+      "checked_on": "2026-10-07",
+      "cash_award": false,
+      "facts": [
+        {
+          "field": "benefits",
+          "value": "Free self-paced founder course, progress tracking, optional co-founder matching; no cash/service-credit award promised.",
+          "sources": [
+            "https://www.startupschool.org/"
+          ],
+          "evidence_status": "verified"
+        },
+        {
+          "field": "eligibility.entity_and_individual",
+          "value": "Individuals/people considering a startup welcome; no incorporation; solo founders eligible.",
+          "sources": [
+            "https://www.startupschool.org/faq"
+          ],
+          "evidence_status": "verified"
+        },
+        {
+          "field": "eligibility.stage_funding_age",
+          "value": "Idea/early-stage founders; no age/funding threshold published.",
+          "sources": [
+            "https://www.startupschool.org/faq"
+          ],
+          "evidence_status": "verified"
+        },
+        {
+          "field": "eligibility.country_taiwan",
+          "value": "Worldwide; internet access required.",
+          "sources": [
+            "https://www.startupschool.org/faq"
+          ],
+          "evidence_status": "verified"
+        },
+        {
+          "field": "eligibility.referral",
+          "value": "Direct signup; no investor/accelerator/partner referral published.",
+          "sources": [
+            "https://www.startupschool.org/"
+          ],
+          "evidence_status": "verified"
+        },
+        {
+          "field": "cost_and_billing.entry",
+          "value": "Completely free; only internet-connected device needed per FAQ.",
+          "sources": [
+            "https://www.startupschool.org/faq"
+          ],
+          "evidence_status": "verified"
+        },
+        {
+          "field": "cost_and_billing.card",
+          "value": "No payment/card step advertised; signup not performed.",
+          "sources": [
+            "https://www.startupschool.org/faq"
+          ],
+          "evidence_status": "observed"
+        },
+        {
+          "field": "cost_and_billing.after_credits",
+          "value": "Not metered credits; no post-credit billing.",
+          "sources": [
+            "https://www.startupschool.org/"
+          ],
+          "evidence_status": "assessment"
+        },
+        {
+          "field": "timing.deadline",
+          "value": "Continuous self-paced access, not fixed cohort.",
+          "sources": [
+            "https://www.startupschool.org/faq"
+          ],
+          "evidence_status": "verified"
+        },
+        {
+          "field": "timing.expiry",
+          "value": "Approximately 7 weeks at 1-2 hours weekly; no fixed access expiry published.",
+          "sources": [
+            "https://www.startupschool.org/"
+          ],
+          "evidence_status": "verified"
+        },
+        {
+          "field": "limitations",
+          "value": "Separate from YC accelerator admission; participation does not automatically improve chances. Co-founder matching requires profile approval and is solely for finding co-founders.",
+          "sources": [
+            "https://www.startupschool.org/faq"
+          ],
+          "evidence_status": "verified"
+        },
+        {
+          "field": "application_url",
+          "value": "https://www.startupschool.org/",
+          "sources": [
+            "https://www.startupschool.org/"
+          ],
+          "evidence_status": "verified"
+        }
+      ]
+    }
   }
 }
