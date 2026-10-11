@@ -2348,9 +2348,9 @@
     "country": "TH",
     "organizer": "Rotaract Club of Bangkok Global Connect",
     "url": "https://som.ait.ac.th/post/save-the-date-create-lasting-impact-hackathon-2026",
-    "deadline": "2026-10-10",
-    "status": "open",
-    "summary": "The hackathon runs October 17–18 in Bangkok; applicants register individually and the organizer has not published team limits or a prize.",
+    "deadline": null,
+    "status": "planning",
+    "summary": "Next intake and application dates are unannounced in this record. Previous-round reference: The hackathon runs October 17–18 in Bangkok; applicants register individually and the organizer has not published team limits or a prize.",
     "source_url": "https://som.ait.ac.th/post/save-the-date-create-lasting-impact-hackathon-2026",
     "fit": "want",
     "first_seen": "2026-10-01",
@@ -2361,38 +2361,51 @@
     "funding_kind": "unknown",
     "fee_status": "unknown",
     "application_cycle": {
-      "label": "Create Lasting Impact Hackathon 2026",
+      "label": "Next intake (dates unannounced)",
       "programme_name": "Create Lasting Impact Hackathon 2026",
-      "status": "open",
-      "announcement_status": "announced",
+      "status": "planning",
+      "announcement_status": "unverified",
       "opens_on": null,
-      "deadline": "2026-10-10",
+      "deadline": null,
       "deadline_time": null,
       "timezone": null,
       "source_url": "https://som.ait.ac.th/post/save-the-date-create-lasting-impact-hackathon-2026",
-      "checked_at": "2026-10-06",
-      "history": [],
-      "research": {
-        "as_of": "2026-10-07",
-        "status": "unavailable",
-        "limits": "Official article index supports October 10; direct article/form unavailable. Time/zone absent; event ICT cannot establish application zone.",
-        "evidence": [
-          {
-            "url": "https://som.ait.ac.th/post/save-the-date-create-lasting-impact-hackathon-2026",
-            "kind": "official_index"
-          }
-        ]
-      },
-      "date_evidence_kind": "last_known",
-      "milestones": [
+      "checked_at": null,
+      "history": [
         {
-          "type": "event",
-          "date": "2026-10-17",
-          "end_date": "2026-10-18",
-          "time": "09:30",
-          "timezone": "Asia/Bangkok",
+          "label": "Create Lasting Impact Hackathon 2026",
+          "programme_name": "Create Lasting Impact Hackathon 2026",
+          "status": "open",
+          "announcement_status": "announced",
+          "opens_on": null,
+          "deadline": "2026-10-10",
+          "deadline_time": null,
+          "timezone": null,
           "source_url": "https://som.ait.ac.th/post/save-the-date-create-lasting-impact-hackathon-2026",
-          "evidence_kind": "official_index"
+          "checked_at": "2026-10-06",
+          "research": {
+            "as_of": "2026-10-07",
+            "status": "unavailable",
+            "limits": "Official article index supports October 10; direct article/form unavailable. Time/zone absent; event ICT cannot establish application zone.",
+            "evidence": [
+              {
+                "url": "https://som.ait.ac.th/post/save-the-date-create-lasting-impact-hackathon-2026",
+                "kind": "official_index"
+              }
+            ]
+          },
+          "date_evidence_kind": "last_known",
+          "milestones": [
+            {
+              "type": "event",
+              "date": "2026-10-17",
+              "end_date": "2026-10-18",
+              "time": "09:30",
+              "timezone": "Asia/Bangkok",
+              "source_url": "https://som.ait.ac.th/post/save-the-date-create-lasting-impact-hackathon-2026",
+              "evidence_kind": "official_index"
+            }
+          ]
         }
       ]
     }
