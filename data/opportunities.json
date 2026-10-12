@@ -9031,5 +9031,730 @@
         ]
       }
     }
+  },
+  {
+    "fit_reason": "",
+    "team_min": null,
+    "team_max": null,
+    "prize": "Two free workspace seats for six months plus mentoring; no guaranteed cash.",
+    "id": "tw-garageplus-starship",
+    "name": "Garage+ Starship Program",
+    "type": "accelerator",
+    "country": "TW",
+    "organizer": "Epoch Foundation / Garage+",
+    "url": "https://garageplus.asia/starship",
+    "source_url": "https://garageplus.asia/starship",
+    "status": "rolling",
+    "deadline": null,
+    "deadline_time": null,
+    "deadline_timezone": null,
+    "summary": "Undated live Starship guidance: monthly intake, six-month physical incubation. No separate 2027 call verified.",
+    "fit": "want",
+    "funding_kind": "noncash",
+    "fee_status": "unknown",
+    "first_seen": "2026-10-12",
+    "last_checked": "2026-10-12",
+    "application_cycle": {
+      "label": "Current undated programme guidance; next cutoff unverified",
+      "programme_name": "Garage+ Starship Program",
+      "status": "rolling",
+      "announcement_status": "unverified",
+      "opens_on": null,
+      "deadline": null,
+      "deadline_time": null,
+      "timezone": null,
+      "source_url": "https://garageplus.asia/starship",
+      "checked_at": "2026-10-12",
+      "history": [],
+      "research": {
+        "as_of": "2026-10-12",
+        "status": "mixed",
+        "limits": "Undated live Starship guidance: monthly intake, six-month physical incubation. No separate 2027 call verified. Public form coverage and eligibility/award gaps are stated in the detailed audit.",
+        "evidence": [
+          {
+            "url": "https://garageplus.asia/starship",
+            "kind": "official_source_read"
+          },
+          {
+            "url": "https://garageplus.asia/2026_mustsee/",
+            "kind": "official_source_read"
+          },
+          {
+            "url": "https://www.surveycake.com/s/o8v1m",
+            "kind": "unavailable"
+          }
+        ]
+      },
+      "date_evidence_kind": "official_source_read"
+    },
+    "deadline_source_url": null
+  },
+  {
+    "fit_reason": "",
+    "team_min": null,
+    "team_max": null,
+    "prize": "Free membership, mentor office hours, introductions, perks and community; no equity or hidden fees stated.",
+    "id": "tw-tss-starting-lineup-x",
+    "name": "Taiwan Startup Stadium Starting Lineup X",
+    "type": "startup-benefits",
+    "country": "TW",
+    "organizer": "Taiwan Startup Stadium",
+    "url": "https://www.startupstadium.tw/starting-lineup",
+    "source_url": "https://www.startupstadium.tw/starting-lineup",
+    "status": "planning",
+    "deadline": null,
+    "deadline_time": null,
+    "deadline_timezone": null,
+    "summary": "Live membership guidance is available, but page is undated and linked form unreadable. No dated 2026/2027 intake verified.",
+    "fit": "want",
+    "funding_kind": "noncash",
+    "fee_status": "none",
+    "first_seen": "2026-10-12",
+    "last_checked": "2026-10-12",
+    "application_cycle": {
+      "label": "Current undated programme guidance; next cutoff unverified",
+      "programme_name": "Taiwan Startup Stadium Starting Lineup X",
+      "status": "planning",
+      "announcement_status": "unverified",
+      "opens_on": null,
+      "deadline": null,
+      "deadline_time": null,
+      "timezone": null,
+      "source_url": "https://www.startupstadium.tw/starting-lineup",
+      "checked_at": "2026-10-12",
+      "history": [],
+      "research": {
+        "as_of": "2026-10-12",
+        "status": "mixed",
+        "limits": "Live membership guidance is available, but page is undated and linked form unreadable. No dated 2026/2027 intake verified. Public form coverage and eligibility/award gaps are stated in the detailed audit.",
+        "evidence": [
+          {
+            "url": "https://www.startupstadium.tw/starting-lineup",
+            "kind": "official_source_read"
+          },
+          {
+            "url": "https://www.startupstadium.tw/accelerator-coaching",
+            "kind": "official_source_read"
+          },
+          {
+            "url": "https://forms.gle/1RavZD6mE1EaaBWq8",
+            "kind": "unavailable"
+          }
+        ]
+      },
+      "date_evidence_kind": "official_source_read"
+    },
+    "deadline_source_url": null
+  },
+  {
+    "fit_reason": "",
+    "team_min": null,
+    "team_max": null,
+    "prize": "Corporate pilot mentoring, investor matching/conditional investment intentions; two selected Japan-expansion startups receive one return ticket each. No guaranteed cash grant.",
+    "id": "tw-ciat-cloud-leopard",
+    "name": "CIAT Cloud Leopard Corporate-Startup Accelerator",
+    "type": "accelerator",
+    "country": "TW",
+    "organizer": "Cloud Computing & IoT Association / StarFab",
+    "url": "https://www.starfabx.com/ciat-accelerator/",
+    "source_url": "https://www.starfabx.com/ciat-accelerator/",
+    "status": "planning",
+    "deadline": null,
+    "deadline_time": null,
+    "deadline_timezone": null,
+    "summary": "Verified 14th (2026) cohort: applications closed April 24; programme July–October; Demo Day November 13. Next intake unannounced.",
+    "fit": "want",
+    "funding_kind": "noncash",
+    "fee_status": "unknown",
+    "first_seen": "2026-10-12",
+    "last_checked": "2026-10-12",
+    "application_cycle": {
+      "label": "Current undated programme guidance; next cutoff unverified",
+      "programme_name": "CIAT Cloud Leopard Corporate-Startup Accelerator",
+      "status": "planning",
+      "announcement_status": "unverified",
+      "opens_on": null,
+      "deadline": null,
+      "deadline_time": null,
+      "timezone": null,
+      "source_url": "https://www.starfabx.com/ciat-accelerator/",
+      "checked_at": "2026-10-12",
+      "history": [
+        {
+          "label": "14th cohort (2026), closed intake",
+          "programme_name": "CIAT Cloud Leopard Corporate-Startup Accelerator",
+          "status": "closed",
+          "announcement_status": "announced",
+          "opens_on": "2026-03-13",
+          "deadline": "2026-04-24",
+          "deadline_time": "23:59:00",
+          "timezone": null,
+          "source_url": "https://accelerator.twcloud.org.tw/home",
+          "checked_at": "2026-10-12"
+        }
+      ],
+      "research": {
+        "as_of": "2026-10-12",
+        "status": "mixed",
+        "limits": "Verified 14th (2026) cohort: applications closed April 24; programme July–October; Demo Day November 13. Next intake unannounced. Public form coverage and eligibility/award gaps are stated in the detailed audit.",
+        "evidence": [
+          {
+            "url": "https://www.starfabx.com/ciat-accelerator/",
+            "kind": "official_source_read"
+          },
+          {
+            "url": "https://zh.starfabx.com/ciat-accelerator/",
+            "kind": "official_source_read"
+          },
+          {
+            "url": "https://accelerator.twcloud.org.tw/home",
+            "kind": "official_source_read"
+          },
+          {
+            "url": "https://www.surveycake.com/s/wp2Zl",
+            "kind": "unavailable"
+          }
+        ]
+      },
+      "date_evidence_kind": "official_source_read"
+    },
+    "deadline_source_url": null
+  },
+  {
+    "fit_reason": "",
+    "team_min": null,
+    "team_max": null,
+    "prize": "Corporate test sites, de-identified data and PoC opportunities; Google cloud programme referral, no guaranteed cash or credit amount.",
+    "id": "tw-hotai-starfab",
+    "name": "Hotai × StarFab Accelerator",
+    "type": "accelerator",
+    "country": "TW",
+    "organizer": "Hotai Group / StarFab",
+    "url": "https://www.starfabx.com/hotai-starfab-accelerator/",
+    "source_url": "https://www.starfabx.com/hotai-starfab-accelerator/",
+    "status": "planning",
+    "deadline": null,
+    "deadline_time": null,
+    "deadline_timezone": null,
+    "summary": "Current official challenge guidance references 2025 business results and present themes; dated intake/cutoff and 2027 successor not verified.",
+    "fit": "want",
+    "funding_kind": "noncash",
+    "fee_status": "unknown",
+    "first_seen": "2026-10-12",
+    "last_checked": "2026-10-12",
+    "application_cycle": {
+      "label": "Current undated programme guidance; next cutoff unverified",
+      "programme_name": "Hotai × StarFab Accelerator",
+      "status": "planning",
+      "announcement_status": "unverified",
+      "opens_on": null,
+      "deadline": null,
+      "deadline_time": null,
+      "timezone": null,
+      "source_url": "https://www.starfabx.com/hotai-starfab-accelerator/",
+      "checked_at": "2026-10-12",
+      "history": [],
+      "research": {
+        "as_of": "2026-10-12",
+        "status": "mixed",
+        "limits": "Current official challenge guidance references 2025 business results and present themes; dated intake/cutoff and 2027 successor not verified. Public form coverage and eligibility/award gaps are stated in the detailed audit.",
+        "evidence": [
+          {
+            "url": "https://www.starfabx.com/hotai-starfab-accelerator/",
+            "kind": "official_source_read"
+          },
+          {
+            "url": "https://zh.starfabx.com/hotai-starfab-accelerator/",
+            "kind": "official_source_read"
+          }
+        ]
+      },
+      "date_evidence_kind": "official_source_read"
+    },
+    "deadline_source_url": null
+  },
+  {
+    "fit_reason": "",
+    "team_min": null,
+    "team_max": null,
+    "prize": "2026: USD10,000 grand cash component plus services/booth; separate sponsored prizes. Next edition unknown.",
+    "id": "tw-innovex-pitch",
+    "name": "InnoVEX Pitch Contest",
+    "type": "competition",
+    "country": "TW",
+    "organizer": "Taipei Computer Association / TAITRA",
+    "url": "https://innovex.computex.biz/show/pitch.aspx",
+    "source_url": "https://innovex.computex.biz/show/pitch.aspx",
+    "status": "planning",
+    "deadline": null,
+    "summary": "Technology pitching family; 2026 closed. Software categories include AI and entertainment. Non-exhibitors pay; Taiwan finals mandatory. 2026 non-exhibitor fees apply; exhibitors are exempt. Future fees unverified.",
+    "fit": "want",
+    "funding_kind": "mixed",
+    "fee_status": "unknown",
+    "first_seen": "2026-10-12",
+    "last_checked": "2026-10-12",
+    "deadline_time": null,
+    "deadline_timezone": null,
+    "deadline_source_url": null,
+    "application_cycle": {
+      "label": "Next intake unannounced; 2026 reference closed",
+      "programme_name": "InnoVEX Pitch Contest",
+      "status": "planning",
+      "announcement_status": "unannounced",
+      "opens_on": null,
+      "deadline": null,
+      "deadline_time": null,
+      "timezone": null,
+      "source_url": "https://innovex.computex.biz/show/pitch.aspx",
+      "checked_at": "2026-10-12",
+      "history": [
+        {
+          "label": "2026 completed intake",
+          "programme_name": "InnoVEX Pitch Contest",
+          "status": "closed",
+          "announcement_status": "announced",
+          "opens_on": "2026-01-08",
+          "deadline": "2026-05-05",
+          "deadline_time": "23:59:00",
+          "timezone": "Asia/Taipei",
+          "source_url": "https://innovex.computex.biz/show/pitch.aspx",
+          "checked_at": "2026-10-12",
+          "date_evidence_kind": "official_source_read"
+        }
+      ],
+      "research": {
+        "as_of": "2026-10-12",
+        "status": "mixed",
+        "limits": "2026 completed; site banner gives 2027 exhibition dates, not a verified 2027 contest call. Public form coverage and eligibility/award gaps are stated in the detailed audit.",
+        "evidence": [
+          {
+            "url": "https://innovex.computex.biz/show/pitch.aspx",
+            "kind": "official_source_read"
+          },
+          {
+            "url": "https://www.innovex.com.tw/en/menu/EB0FD9FDE212BF10D0636733C6861689/info.html",
+            "kind": "official_source_read"
+          },
+          {
+            "url": "https://innovex.computex.biz/2026/files/InnoVEX_2026_PitchContestRegulations_EN.pdf",
+            "kind": "official_source_read"
+          }
+        ]
+      },
+      "date_evidence_kind": "official_source_read"
+    }
+  },
+  {
+    "fit_reason": "",
+    "team_min": null,
+    "team_max": null,
+    "prize": "Global grand-final award up to USD1,000,000 investment for equity/convertible note; Taiwan regional cash not verified.",
+    "id": "tw-startup-world-cup",
+    "name": "Startup World Cup — Taiwan regionals",
+    "type": "competition",
+    "country": "TW",
+    "organizer": "Pegasus Tech Ventures / regional partners",
+    "url": "https://www.startupworldcup.io/hsinchu-taiwan-2026",
+    "source_url": "https://www.startupworldcup.io/hsinchu-taiwan-2026",
+    "status": "planning",
+    "deadline": null,
+    "summary": "One global competition family with Taiwan gateways. Legal entity required; software accepted. Published Taiwan2026 events past; next intake unknown.",
+    "fit": "want",
+    "funding_kind": "equity",
+    "fee_status": "none",
+    "first_seen": "2026-10-12",
+    "last_checked": "2026-10-12",
+    "deadline_time": null,
+    "deadline_timezone": null,
+    "deadline_source_url": null,
+    "application_cycle": {
+      "label": "Next intake unannounced; 2026 reference closed",
+      "programme_name": "Startup World Cup — Taiwan regionals",
+      "status": "planning",
+      "announcement_status": "unannounced",
+      "opens_on": null,
+      "deadline": null,
+      "deadline_time": null,
+      "timezone": null,
+      "source_url": "https://www.startupworldcup.io/hsinchu-taiwan-2026",
+      "checked_at": "2026-10-12",
+      "history": [],
+      "research": {
+        "as_of": "2026-10-12",
+        "status": "mixed",
+        "limits": "Hsinchu June6 and Kaohsiung July23–24,2026 have passed. No next Taiwan application cutoff verified. Public form coverage and eligibility/award gaps are stated in the detailed audit.",
+        "evidence": [
+          {
+            "url": "https://www.startupworldcup.io/hsinchu-taiwan-2026",
+            "kind": "official_source_read"
+          },
+          {
+            "url": "https://www.startupworldcup.io/kaohsiung-taiwan-2026",
+            "kind": "official_source_read"
+          },
+          {
+            "url": "https://www.startupworldcup.io/hsinchu-taiwan-app-2026",
+            "kind": "official_source_read"
+          },
+          {
+            "url": "https://www.startupworldcup.io/faq",
+            "kind": "official_source_read"
+          },
+          {
+            "url": "https://www.startupworldcup.io/terms-and-conditions",
+            "kind": "official_source_read"
+          }
+        ]
+      },
+      "date_evidence_kind": "official_source_read"
+    }
+  },
+  {
+    "fit_reason": "",
+    "team_min": null,
+    "team_max": null,
+    "prize": "2026 national recognition, media and industry/investor connections; no cash award verified.",
+    "id": "tw-smesa-new-venture-award",
+    "name": "SMESA New Venture Award (New Business Award)",
+    "type": "competition",
+    "country": "TW",
+    "organizer": "MOEA Small and Medium Enterprise and Startup Administration",
+    "url": "https://startup.sme.gov.tw/startupaward/",
+    "source_url": "https://startup.sme.gov.tw/startupaward/",
+    "status": "planning",
+    "deadline": null,
+    "summary": "National award for commercialized Taiwan SMEs; civilian innovative-service/software route. 2026 closed; requires prior-year nonzero turnover.",
+    "fit": "want",
+    "funding_kind": "noncash",
+    "fee_status": "none",
+    "first_seen": "2026-10-12",
+    "last_checked": "2026-10-12",
+    "deadline_time": null,
+    "deadline_timezone": null,
+    "deadline_source_url": null,
+    "application_cycle": {
+      "label": "Next intake unannounced; 2026 reference closed",
+      "programme_name": "SMESA New Venture Award (New Business Award)",
+      "status": "planning",
+      "announcement_status": "unannounced",
+      "opens_on": null,
+      "deadline": null,
+      "deadline_time": null,
+      "timezone": null,
+      "source_url": "https://startup.sme.gov.tw/startupaward/",
+      "checked_at": "2026-10-12",
+      "history": [
+        {
+          "label": "2026 completed intake",
+          "programme_name": "SMESA New Venture Award (New Business Award)",
+          "status": "closed",
+          "announcement_status": "announced",
+          "opens_on": "2026-04-01",
+          "deadline": "2026-06-01",
+          "deadline_time": "17:00:00",
+          "timezone": null,
+          "source_url": "https://startup.sme.gov.tw/startupaward/",
+          "checked_at": "2026-10-12",
+          "date_evidence_kind": "official_source_read"
+        }
+      ],
+      "research": {
+        "as_of": "2026-10-12",
+        "status": "mixed",
+        "limits": "25th2026 intake closed; next edition unannounced. Public form coverage and eligibility/award gaps are stated in the detailed audit.",
+        "evidence": [
+          {
+            "url": "https://startup.sme.gov.tw/startupaward/",
+            "kind": "official_source_read"
+          },
+          {
+            "url": "https://startup.sme.gov.tw/sitaiwan/Home/activity/3605",
+            "kind": "official_source_read"
+          },
+          {
+            "url": "https://www.industry-incentive.taipei/news_detail/449",
+            "kind": "official_source_read"
+          },
+          {
+            "url": "https://startup.sme.gov.tw/startupaward/home/member",
+            "kind": "unavailable"
+          }
+        ]
+      },
+      "date_evidence_kind": "official_source_read"
+    }
+  },
+  {
+    "fit_reason": "",
+    "team_min": 1,
+    "team_max": 8,
+    "prize": "2026 company tracks: TWD1m/700k/500k/200k cash; conditional follow-on resources, not automatic A+ grant.",
+    "id": "tw-best-ai-awards",
+    "name": "Best AI Awards — AI application category",
+    "type": "competition",
+    "country": "TW",
+    "organizer": "MOEA Department of Industrial Technology / Taipei Computer Association",
+    "url": "https://bestaiawards.tca.org.tw/",
+    "source_url": "https://bestaiawards.tca.org.tw/",
+    "status": "planning",
+    "deadline": null,
+    "summary": "Civilian AI-service competition. Domestic companies require2–8members; international company route1–8. 2026 completed; no2027call verified.",
+    "fit": "want",
+    "funding_kind": "cash",
+    "fee_status": "unknown",
+    "first_seen": "2026-10-12",
+    "last_checked": "2026-10-12",
+    "deadline_time": null,
+    "deadline_timezone": null,
+    "deadline_source_url": null,
+    "application_cycle": {
+      "label": "Next intake unannounced; 2026 reference closed",
+      "programme_name": "Best AI Awards — AI application category",
+      "status": "planning",
+      "announcement_status": "unannounced",
+      "opens_on": null,
+      "deadline": null,
+      "deadline_time": null,
+      "timezone": null,
+      "source_url": "https://bestaiawards.tca.org.tw/",
+      "checked_at": "2026-10-12",
+      "history": [
+        {
+          "label": "2026 completed intake",
+          "programme_name": "Best AI Awards — AI application category",
+          "status": "closed",
+          "announcement_status": "announced",
+          "opens_on": null,
+          "deadline": "2026-03-16",
+          "deadline_time": "17:00:00",
+          "timezone": null,
+          "source_url": "https://bestaiawards.tca.org.tw/",
+          "checked_at": "2026-10-12",
+          "date_evidence_kind": "official_source_read"
+        }
+      ],
+      "research": {
+        "as_of": "2026-10-12",
+        "status": "mixed",
+        "limits": "2026 closed; finals2026-04-25 completed. No2027dates verified. Public form coverage and eligibility/award gaps are stated in the detailed audit.",
+        "evidence": [
+          {
+            "url": "https://bestaiawards.tca.org.tw/",
+            "kind": "official_source_read"
+          },
+          {
+            "url": "https://bestaiawards.tca.org.tw/index.php?act=article&code=list&ids=4",
+            "kind": "official_source_read"
+          },
+          {
+            "url": "https://bestaiawards.tca.org.tw/index.php?act=article&code=list&ids=7",
+            "kind": "official_source_read"
+          },
+          {
+            "url": "https://bestaiawards.tca.org.tw/index.php?act=article&code=detail&ids=129",
+            "kind": "official_source_read"
+          }
+        ]
+      },
+      "date_evidence_kind": "official_source_read"
+    }
+  },
+  {
+    "fit_reason": "",
+    "team_min": null,
+    "team_max": null,
+    "prize": "Paid incubation/workspace with mentoring, accelerator referrals and matchmaking: Kaohsiung coworking NT$3,600/month/seat; no general cash grant guaranteed.",
+    "id": "tw-startupterrace-residency",
+    "name": "Startup Terrace Residency and Incubation",
+    "type": "startup-benefits",
+    "country": "TW",
+    "organizer": "MOEA Small and Medium Enterprise and Startup Administration / Taipei Computer Association",
+    "url": "https://startupterrace.sme.gov.tw/en/cp.aspx?n=1677",
+    "source_url": "https://startupterrace.sme.gov.tw/en/cp.aspx?n=1677",
+    "status": "planning",
+    "deadline": null,
+    "deadline_time": null,
+    "deadline_timezone": null,
+    "summary": "Current Kaohsiung residency guidance, updated October 6, 2026, with a December 2025 amended application guide. AI/software development is eligible; coworking supports teams completing registration. Current annual cutoff and vacancies unverified. Linkou is an alternative location, counted within one family.",
+    "fit": "want",
+    "funding_kind": "noncash",
+    "fee_status": "required",
+    "first_seen": "2026-10-12",
+    "last_checked": "2026-10-12",
+    "application_cycle": {
+      "label": "Next intake unannounced",
+      "programme_name": "Startup Terrace Residency and Incubation",
+      "status": "planning",
+      "announcement_status": "unannounced",
+      "opens_on": null,
+      "deadline": null,
+      "deadline_time": null,
+      "timezone": null,
+      "source_url": "https://startupterrace.sme.gov.tw/en/cp.aspx?n=1677",
+      "checked_at": "2026-10-12",
+      "history": [],
+      "research": {
+        "as_of": "2026-10-12",
+        "status": "mixed",
+        "limits": "Live 2026 guidance; December 2025 amended guide and attached August 2024 standard agreement. Current notices and the signed final agreement control amendments; annual application window and vacancies unverified. Public form coverage and eligibility/award gaps are stated in the detailed audit.",
+        "evidence": [
+          {
+            "url": "https://startupterrace.sme.gov.tw/en/cp.aspx?n=1677",
+            "kind": "official_source_read"
+          },
+          {
+            "url": "https://wimpservice-ws.hamastar.com.tw/Download.ashx?n=KDExNC4xMilTdGFydHVwIFRlcnJhY2UgS2FvaHNpdW5nIEFwcGxpY2F0aW9uIEd1aWRlIGZvciBSZXNpZGVuY3lfRU5HX0ZJTi5wZGY%3D&u=L0ZTMDEvRmlsZVBhdGgvNDkzL3JlbGZpbGUvMTE2MTgvNDU0L2ZlZmQ1OGQ5LWM5NGUtNDhkYi04ZmJjLTIxMjA1MDNhMWNkOC5wZGY%3D",
+            "kind": "official_source_read"
+          },
+          {
+            "url": "https://wimpservice-ws.hamastar.com.tw/Download.ashx?n=KDIwMjRBdWcpVGhlIFJlc2lkZW5jZSBBZ3JlZW1lbnQgb2YgU3RhcnR1cCBUZXJyYWNlIEthb2hzaXVuZyhGSU4pLnBkZg%3D%3D&u=L0ZTMDEvRmlsZVBhdGgvNDkyL3JlbGZpbGUvMTE2MTgvNDU0L2U2MTY2ZGNhLTdjY2ItNDc3Ny04MGZkLTc5ZWUyMjBiOTVlOC5wZGY%3D",
+            "kind": "official_source_read"
+          },
+          {
+            "url": "https://startupterrace.sme.gov.tw/en/cp.aspx?n=1676",
+            "kind": "official_source_read"
+          }
+        ]
+      },
+      "date_evidence_kind": "official_source_read"
+    },
+    "deadline_source_url": null
+  },
+  {
+    "fit_reason": "",
+    "team_min": 1,
+    "team_max": 5,
+    "prize": "2026 published base rules: social/student gold TWD100,000, silver60,000, bronze20,000 per group; company track no cash. Indexed extra award and latest terms require live confirmation.",
+    "id": "tw-hsinchu-smart-sandbox",
+    "name": "Hsinchu County Smart Sandbox Innovation Competition",
+    "type": "competition",
+    "country": "TW",
+    "organizer": "Hsinchu County Government Department of Digital Affairs",
+    "url": "https://smartsandbox.hsinchu.gov.tw/",
+    "source_url": "https://smartsandbox.hsinchu.gov.tw/",
+    "status": "open",
+    "deadline": "2026-10-16",
+    "deadline_time": null,
+    "deadline_timezone": null,
+    "deadline_source_url": null,
+    "summary": "Civic AI/software competition with 1–5-person teams. Cash only for social/student tracks; company track recognition. Official indexed banner reports October 16, 17:00 extension; live page unavailable and timezone unverified.",
+    "fit": "want",
+    "funding_kind": "mixed",
+    "fee_status": "unknown",
+    "first_seen": "2026-10-12",
+    "last_checked": "2026-10-12",
+    "application_cycle": {
+      "label": "2026 active professional solving stage",
+      "programme_name": "Hsinchu County Smart Sandbox Innovation Competition",
+      "status": "open",
+      "announcement_status": "announced",
+      "opens_on": "2026-08-21",
+      "deadline": "2026-10-16",
+      "deadline_time": "17:00:00",
+      "timezone": null,
+      "source_url": "https://smartsandbox.hsinchu.gov.tw/",
+      "checked_at": null,
+      "history": [
+        {
+          "label": "Original2026 professional solving deadline, superseded",
+          "programme_name": "Hsinchu County Smart Sandbox Innovation Competition",
+          "status": "closed",
+          "announcement_status": "announced",
+          "opens_on": "2026-08-21",
+          "deadline": "2026-10-07",
+          "deadline_time": null,
+          "timezone": null,
+          "source_url": "https://ws.hcshb.gov.tw/Download.ashx?n=MjAyNiDmlrDnq7nnuKPmmbrmhafmspnnm5LlibXmlrDoqIjnlavnq7bos73nsKHnq6AucGRm&u=LzAwMS9VcGxvYWQvNDExL3JlbGZpbGUvOTI5MS8xMDk4MTcvMzBlNTc5ZTUtMDUxOS00MTMyLWJjM2YtYjE5MGY0MGY1MzRlLnBkZg%3D%3D",
+          "checked_at": "2026-10-12"
+        }
+      ],
+      "date_evidence_kind": "official_index",
+      "research": {
+        "as_of": "2026-10-12",
+        "status": "index_only",
+        "limits": "Official indexed banner reports extension to October 16 at 17:00. Direct homepage retrieval failed; timezone and revised later schedule unverified. Cash is only for social/student tracks, never the company track.",
+        "evidence": [
+          {
+            "url": "https://smartsandbox.hsinchu.gov.tw/",
+            "kind": "official_index"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "fit_reason": "",
+    "team_min": null,
+    "team_max": null,
+    "prize": "2026 matched R&D subsidy up toTWD1m per company, at most50% project cost;6–10 months. Not unrestricted cash.",
+    "id": "tw-taoyuan-local-sbir",
+    "name": "Taoyuan Local SBIR — single-company route",
+    "type": "grant",
+    "country": "TW",
+    "organizer": "Taoyuan City Government Department of Economic Development",
+    "url": "https://invest.tycg.gov.tw/cp.aspx?n=848",
+    "source_url": "https://invest.tycg.gov.tw/cp.aspx?n=848",
+    "status": "planning",
+    "deadline": null,
+    "deadline_time": null,
+    "deadline_timezone": null,
+    "deadline_source_url": null,
+    "summary": "Independent city R&D subsidy. Software/innovative services eligible; AI service proposals favored. Taiwan SME with actual Taoyuan execution site required;2026 closed.",
+    "fit": "want",
+    "funding_kind": "cash",
+    "fee_status": "unknown",
+    "first_seen": "2026-10-12",
+    "last_checked": "2026-10-12",
+    "application_cycle": {
+      "label": "Next intake unannounced; 2026 reference closed",
+      "programme_name": "Taoyuan Local SBIR — single-company route",
+      "status": "planning",
+      "announcement_status": "unannounced",
+      "opens_on": null,
+      "deadline": null,
+      "deadline_time": null,
+      "timezone": null,
+      "source_url": "https://invest.tycg.gov.tw/cp.aspx?n=848",
+      "checked_at": "2026-10-12",
+      "history": [
+        {
+          "label": "2026 closed application",
+          "programme_name": "Taoyuan Local SBIR — single-company route",
+          "status": "closed",
+          "announcement_status": "announced",
+          "opens_on": null,
+          "deadline": "2026-06-01",
+          "deadline_time": "12:00:00",
+          "timezone": null,
+          "source_url": "https://invest.tycg.gov.tw/cp.aspx?n=848",
+          "checked_at": "2026-10-12",
+          "date_evidence_kind": "official_source_read"
+        }
+      ],
+      "research": {
+        "as_of": "2026-10-12",
+        "status": "mixed",
+        "limits": "115/2026 deadline passed; official portal lists September2026 grant recipients. No2027call verified. Public form coverage and eligibility/award gaps are stated in the detailed audit.",
+        "evidence": [
+          {
+            "url": "https://invest.tycg.gov.tw/cp.aspx?n=848",
+            "kind": "official_source_read"
+          },
+          {
+            "url": "https://ws.tycg.gov.tw/Download.ashx?n=MTE15bm0U0JJUueUs%2Biri%2BmgiOefpS5wZGY%3D&u=LzAwMS9VcGxvYWQvMTgvcmVsZmlsZS84MTU4LzE1My9jNWFlOGI1Zi1jZGYyLTQyY2EtOGUwMC1kYTU3NGY3ZDM5NmEucGRm",
+            "kind": "official_source_read"
+          },
+          {
+            "url": "https://ws.tycg.gov.tw/Download.ashx?n=MTE15bm05qGD5ZySU0JJUl%2Fnt5rkuIroqIjnlavnrqHnkIbns7vntbHmk43kvZzmlZnlrbgucGRm&u=LzAwMS9VcGxvYWQvMTgvcmVsZmlsZS84MTU4LzE1My8wZDlmZmI4Yy00Zjg3LTRlNGMtYWMxYy1hZjcwOGM4NzZkNWMucGRm",
+            "kind": "official_source_read"
+          },
+          {
+            "url": "https://taoyuan-sbir.tycg.gov.tw/",
+            "kind": "official_source_read"
+          }
+        ]
+      },
+      "date_evidence_kind": "official_source_read"
+    }
   }
 ]

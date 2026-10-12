@@ -56880,6 +56880,1559 @@
         "team_minimum"
       ],
       "review_complete": true
+    },
+    "tw-garageplus-starship": {
+      "raw_findings": {
+        "id": "tw-garageplus-starship",
+        "name": "Garage+ Starship Program",
+        "official_url": "https://garageplus.asia/starship",
+        "checked_at": "2026-10-12",
+        "edition_status": "Undated live Starship guidance: monthly intake, six-month physical incubation. No separate 2027 call verified.",
+        "team_minimum": {
+          "personnel_minimum": null,
+          "evidence": "No numeric personnel minimum found. Unknown does not establish solo eligibility."
+        },
+        "application_fields": {
+          "route": "Official website links public SurveyCake application https://www.surveycake.com/s/o8v1m. Form renders no fields in available reader.",
+          "verified_fields": [],
+          "process": "Document review then interview."
+        },
+        "eligibility": {
+          "required": [
+            "Referral by Epoch Family member, Garage+ mentor or Garage+ startup",
+            "Full-time founder",
+            "No institutional-investor funding yet"
+          ],
+          "sector": "Any industry; technology and social impact preferred",
+          "entity": "Company incorporation requirement not stated. Taiwan-facing early-stage route; residency/nationality restrictions unknown."
+        },
+        "requirements": {
+          "pitch": "Interview required; pitch deck, video, MVP and attachment specifications unverified."
+        },
+        "attendance": {
+          "mode": "Physical residence in Garage+ incubator for six months required. Taipei location; remote-only participation would not meet this condition."
+        },
+        "award": {
+          "type": "In-kind incubation",
+          "cash_amount": null,
+          "currency": null,
+          "benefit": "Two seats subsidized for six months; mentoring and ecosystem access.",
+          "equity": "Organizer 2026 Garage+ overview describes zero-equity model; no guaranteed investment.",
+          "fees": "Workspace seats expressly free; other participation costs unverified.",
+          "repayment": "No repayment term found; contract not inspected."
+        },
+        "expense_rules": {
+          "permitted": "Benefit tied to workspace/mentorship; no unrestricted cash spending allowance or reimbursement cap published.",
+          "restrictions": "Referral and physical participation required; travel/living costs not verified as covered."
+        },
+        "deadlines": {
+          "intake": "Year-round; each month closes on the 20th. Cutoff clock and timezone unstated.",
+          "review": "Written result within one week; interview arranged within ten days.",
+          "next_cycle": "Do not synthesize an absolute monthly deadline or 2027 intake."
+        },
+        "unresolved": [
+          "Public form fields inaccessible; Firecrawl scrape failed DNS resolution before extraction.",
+          "Minimum personnel, legal entity, nationality/residency conditions and participation agreement unverified.",
+          "Physical relocation/time commitment may outweigh workspace value."
+        ],
+        "sources": [
+          {
+            "url": "https://garageplus.asia/starship",
+            "kind": "official_source_read",
+            "checked_at": "2026-10-12",
+            "detail": "Starship eligibility, intake, two-seat benefit and physical six-month requirement."
+          },
+          {
+            "url": "https://garageplus.asia/2026_mustsee/",
+            "kind": "official_source_read",
+            "checked_at": "2026-10-12",
+            "detail": "Organizer 2026 overview identifies Garage+ zero-equity model."
+          },
+          {
+            "url": "https://www.surveycake.com/s/o8v1m",
+            "kind": "unavailable",
+            "checked_at": "2026-10-12",
+            "detail": "Public application shell; no question text returned."
+          }
+        ],
+        "note_markdown": "# Garage+ Starship Program\n\nChecked 2026-10-12. Potentially useful to an unfunded solo/two-person technology founder who can secure an existing-community referral and commit to Taipei residency. It is workspace and guidance, not a grant.\n\nIdentity: Not in baseline 80. Distinct early-stage referral incubation; do not count Taiwan SGP cohorts or international SGP as additional rounds of this record.\n\nSee structured audit for verified terms and open questions."
+      },
+      "award_components": [
+        {
+          "kind": "services",
+          "detail": "Programme services/incubation/resource access, not a cash grant. Original award fields retain their specific benefits, edition scope, costs and uncertainties; no numeric amount is implied by this classification.",
+          "evidence_state": "assessment",
+          "edition": null,
+          "checked_on": "2026-10-12",
+          "source_urls": [
+            "https://garageplus.asia/starship",
+            "https://garageplus.asia/2026_mustsee/"
+          ],
+          "amount": null,
+          "amount_basis": "unknown",
+          "pool_role": "unknown"
+        }
+      ],
+      "history": [],
+      "unconsumed_fields": [
+        "checked_at",
+        "edition_status",
+        "name",
+        "official_url",
+        "team_minimum"
+      ],
+      "review_complete": true,
+      "manual_review": {
+        "checked_on": "2026-10-12",
+        "protocol": "Reviewed new-only append; no old-record headline replacement. Undated terms were not assigned a fabricated 2026 edition.",
+        "coverage": "Source-material coverage and portal gaps retained; complete verified form bindings not claimed.",
+        "planner_used": false,
+        "additional_fields_reviewed": [
+          "checked_at",
+          "edition_status",
+          "name",
+          "official_url",
+          "team_minimum"
+        ]
+      }
+    },
+    "tw-tss-starting-lineup-x": {
+      "raw_findings": {
+        "id": "tw-tss-starting-lineup-x",
+        "name": "Taiwan Startup Stadium Starting Lineup X",
+        "official_url": "https://www.startupstadium.tw/starting-lineup",
+        "checked_at": "2026-10-12",
+        "edition_status": "Live membership guidance is available, but page is undated and linked form unreadable. No dated 2026/2027 intake verified.",
+        "team_minimum": {
+          "personnel_minimum": null,
+          "evidence": "No numeric personnel minimum found. Unknown does not establish solo eligibility."
+        },
+        "application_fields": {
+          "route": "Apply through https://forms.gle/1RavZD6mE1EaaBWq8; redirected public Google Form inaccessible to available reader.",
+          "verified_fields": [],
+          "process": "Application, interview, result; allow 1–2 weeks."
+        },
+        "eligibility": {
+          "required": [
+            "Registered technology company",
+            "Some physical presence in Taiwan (team, operations, manufacturing or R&D)",
+            "Online presence",
+            "At least one full-time founder",
+            "Operational demonstrable product beyond concept",
+            "Traction evidenced through revenue, users or R&D"
+          ],
+          "nationality": "No citizenship rule stated; physical Taiwan presence is not global unrestricted eligibility."
+        },
+        "requirements": {
+          "evidence": "Demonstrable product, online presence and traction required; exact deck/video fields not inspected.",
+          "maintenance": "Semiannual progress updates and continued progress in product, traction, revenue or fundraising."
+        },
+        "attendance": {
+          "mode": "Membership and office-hour/event opportunities; permanent residency not explicitly required. Taiwan physical business presence required; no universal attendance schedule published."
+        },
+        "award": {
+          "type": "In-kind startup support membership",
+          "cash_amount": null,
+          "currency": null,
+          "equity": "No equity taken.",
+          "fees": "No joining cost or hidden fees stated.",
+          "repayment": "No cash/loan award."
+        },
+        "expense_rules": {
+          "permitted": "Resources/perks depend on programme and partner terms; no unrestricted cash or current overseas travel subsidy established.",
+          "restrictions": "Do not inherit the separate historical 2018 coaching subsidy."
+        },
+        "deadlines": {
+          "intake": "No current application cutoff published. Family remains discoverable; dated 2026 intake unverified.",
+          "historical_warning": "Separate accelerator-coaching page explicitly discusses 2018 deadlines; not current proof."
+        },
+        "unresolved": [
+          "Current form fields, intake availability and any detailed attendance obligations unverified.",
+          "A registered company and operational product are prerequisites; applicant eligibility requires verification."
+        ],
+        "sources": [
+          {
+            "url": "https://www.startupstadium.tw/starting-lineup",
+            "kind": "official_source_read",
+            "checked_at": "2026-10-12",
+            "detail": "Membership qualification, process and free/no-equity terms."
+          },
+          {
+            "url": "https://www.startupstadium.tw/accelerator-coaching",
+            "kind": "official_source_read",
+            "checked_at": "2026-10-12",
+            "detail": "Historical 2018 coaching FAQ, kept separate from SLX membership."
+          },
+          {
+            "url": "https://forms.gle/1RavZD6mE1EaaBWq8",
+            "kind": "unavailable",
+            "checked_at": "2026-10-12",
+            "detail": "Public Google Form unavailable; no submission or sign-in attempted."
+          }
+        ],
+        "note_markdown": "# Taiwan Startup Stadium Starting Lineup X\n\nChecked 2026-10-12. Good low-cost support option once company, Taiwan presence and product traction exist. Minimum full-time founder count is one; no verified three-person minimum.\n\nIdentity: New membership programme absent baseline; TSS is provider, SLX is actual membership deliverable. Do not add coaching/events as duplicate membership rounds.\n\nSee structured audit for verified terms and open questions."
+      },
+      "award_components": [
+        {
+          "kind": "services",
+          "detail": "Programme services/incubation/resource access, not a cash grant. Original award fields retain their specific benefits, edition scope, costs and uncertainties; no numeric amount is implied by this classification.",
+          "evidence_state": "assessment",
+          "edition": null,
+          "checked_on": "2026-10-12",
+          "source_urls": [
+            "https://www.startupstadium.tw/starting-lineup",
+            "https://www.startupstadium.tw/accelerator-coaching"
+          ],
+          "amount": null,
+          "amount_basis": "unknown",
+          "pool_role": "unknown"
+        }
+      ],
+      "history": [],
+      "unconsumed_fields": [
+        "checked_at",
+        "edition_status",
+        "name",
+        "official_url",
+        "team_minimum"
+      ],
+      "review_complete": true,
+      "manual_review": {
+        "checked_on": "2026-10-12",
+        "protocol": "Reviewed new-only append; no old-record headline replacement. Undated terms were not assigned a fabricated 2026 edition.",
+        "coverage": "Source-material coverage and portal gaps retained; complete verified form bindings not claimed.",
+        "planner_used": false,
+        "additional_fields_reviewed": [
+          "checked_at",
+          "edition_status",
+          "name",
+          "official_url",
+          "team_minimum"
+        ]
+      }
+    },
+    "tw-ciat-cloud-leopard": {
+      "raw_findings": {
+        "id": "tw-ciat-cloud-leopard",
+        "name": "CIAT Cloud Leopard Corporate-Startup Accelerator",
+        "official_url": "https://www.starfabx.com/ciat-accelerator/",
+        "checked_at": "2026-10-12",
+        "edition_status": "Verified 14th (2026) cohort: applications closed April 24; programme July–October; Demo Day November 13. Next intake unannounced.",
+        "team_minimum": {
+          "personnel_minimum": null,
+          "evidence": "No numeric personnel minimum found. Unknown does not establish solo eligibility."
+        },
+        "application_fields": {
+          "verified_fields": [
+            "Online registration information (individual labels unavailable)",
+            "Company pitch deck PDF",
+            "Signed/stamped participation consent scan; original mailed to StarFab"
+          ],
+          "process": "Written review, possible founder interview, corporate Demo Pitch, matched corporate mentor, PoC, final selection."
+        },
+        "eligibility": {
+          "applicants": "SMEs, startups or teams not yet incorporated developing relevant technology",
+          "sectors": "Cloud, IoT, big data, Industry 4.0, AI; functioning solution and business model required.",
+          "entity": "Unincorporated teams explicitly accepted; nationality/residency restriction not stated.",
+          "legal": "Technology must not violate laws or binding contracts."
+        },
+        "requirements": {
+          "mvp": "Functional prototype demonstrable",
+          "pitch": "Six-minute pitch and existing product demonstration at corporate matching.",
+          "video": "No application video requirement found.",
+          "consent": "Signed/stamped consent required; complete agreement unseen."
+        },
+        "attendance": {
+          "mode": "Corporate briefings, interviews, PoC and Demo Day; physical corporate sites/Japan travel may be required. No universal remote alternative verified."
+        },
+        "award": {
+          "type": "Services, business matching, conditional equity investment and travel support",
+          "cash_amount": null,
+          "currency": null,
+          "equity": "Investor letters of intent are potential negotiated investments, not grants or committed cash. Terms unstated.",
+          "travel": "Tech-Startup Japan Award selects two cohort companies, each with one round-trip Japan ticket.",
+          "fees": "Participation fee not found in inspected pages; do not assert free.",
+          "repayment": "No grant/loan repayment terms verified."
+        },
+        "expense_rules": {
+          "permitted": "No published cash budget/expense reimbursement schedule. Ticket limited to selected Japan programme; other travel, lodging and pilot costs unknown.",
+          "restrictions": "Mentoring may terminate if not selected for Demo Day; pilot/IP/commercial terms unverified."
+        },
+        "deadlines": {
+          "application_open": "2026-03-13",
+          "application_close": "2026-04-24 23:59; timezone not expressly stated",
+          "programme": "July–October 2026",
+          "demo_day": "2026-11-13, not an application deadline",
+          "next_cycle": "2027 intake unannounced; never carry current Demo Day into cutoff."
+        },
+        "unresolved": [
+          "Exact portal field labels and full consent/IP clauses not accessible.",
+          "Nationality, personnel minimum, fees/equity percentages, attendance/travel funding beyond one ticket remain unknown."
+        ],
+        "sources": [
+          {
+            "url": "https://www.starfabx.com/ciat-accelerator/",
+            "kind": "official_source_read",
+            "checked_at": "2026-10-12",
+            "detail": "2026 eligibility, application package, timeline and Japan Award."
+          },
+          {
+            "url": "https://zh.starfabx.com/ciat-accelerator/",
+            "kind": "official_source_read",
+            "checked_at": "2026-10-12",
+            "detail": "Chinese programme details confirm six-minute pitch, field PoC and conditional investment intentions."
+          },
+          {
+            "url": "https://accelerator.twcloud.org.tw/home",
+            "kind": "official_source_read",
+            "checked_at": "2026-10-12",
+            "detail": "Official March13 2026 announcement states Apr24 23:59 close; Sept4 DemoDay announcement."
+          },
+          {
+            "url": "https://www.surveycake.com/s/wp2Zl",
+            "kind": "unavailable",
+            "checked_at": "2026-10-12",
+            "detail": "Linked public shell; questions not returned."
+          }
+        ],
+        "note_markdown": "# CIAT Cloud Leopard Corporate-Startup Accelerator\n\nChecked 2026-10-12. Promising next-round option for a small AI/cloud/software team with a working prototype seeking enterprise pilots. Investor interest is not guaranteed cash; 2026 applications are already closed.\n\nIdentity: Absent baseline. CIAT/Cloud Leopard is the same programme identity, one record; separate Hotai has different sponsor, challenges and application route.\n\nSee structured audit for verified terms and open questions.",
+        "form_coverage_review": "Listed documents are published guide-level requirements, not inspected portal labels. Current complete form, mandatory flags and IP consent remain unverified."
+      },
+      "award_components": [
+        {
+          "kind": "services",
+          "detail": "Programme services/incubation/resource access, not a cash grant. Original award fields retain their specific benefits, edition scope, costs and uncertainties; no numeric amount is implied by this classification.",
+          "evidence_state": "verified_historical",
+          "edition": 2026,
+          "checked_on": "2026-10-12",
+          "source_urls": [
+            "https://www.starfabx.com/ciat-accelerator/",
+            "https://zh.starfabx.com/ciat-accelerator/",
+            "https://accelerator.twcloud.org.tw/home"
+          ],
+          "amount": null,
+          "amount_basis": "unknown",
+          "pool_role": "unknown"
+        }
+      ],
+      "history": [],
+      "unconsumed_fields": [
+        "checked_at",
+        "edition_status",
+        "form_coverage_review",
+        "name",
+        "official_url",
+        "team_minimum"
+      ],
+      "review_complete": true,
+      "manual_review": {
+        "checked_on": "2026-10-12",
+        "protocol": "Reviewed new-only append; no old-record headline replacement. Undated terms were not assigned a fabricated 2026 edition.",
+        "coverage": "Source-material coverage and portal gaps retained; complete verified form bindings not claimed.",
+        "planner_used": false,
+        "additional_fields_reviewed": [
+          "checked_at",
+          "edition_status",
+          "form_coverage_review",
+          "name",
+          "official_url",
+          "team_minimum"
+        ]
+      }
+    },
+    "tw-hotai-starfab": {
+      "raw_findings": {
+        "id": "tw-hotai-starfab",
+        "name": "Hotai × StarFab Accelerator",
+        "official_url": "https://www.starfabx.com/hotai-starfab-accelerator/",
+        "checked_at": "2026-10-12",
+        "edition_status": "Current official challenge guidance references 2025 business results and present themes; dated intake/cutoff and 2027 successor not verified.",
+        "team_minimum": {
+          "personnel_minimum": null,
+          "evidence": "No numeric personnel minimum found. Unknown does not establish solo eligibility."
+        },
+        "application_fields": {
+          "route": "Apply link leads public Google Form; reader returned internal error. Exact required fields unavailable.",
+          "verified_fields": [],
+          "process": "Application, document review, corporate briefing, team pitch, selection."
+        },
+        "eligibility": {
+          "required": [
+            "Legally established startup/SME company",
+            "Fit current corporate themes",
+            "Competitive technology/product",
+            "Proven solution with recent customer references; profitability preferred"
+          ],
+          "registration_country": "Not specified in inspected guidance; Taiwan host location does not establish worldwide eligibility.",
+          "cloud_resource": "Company under three years for stated Google Cloud referral resource; do not apply this condition to all Hotai eligibility."
+        },
+        "requirements": {
+          "product": "Proven product and customer cases; team pitching. MVP-only acceptance and video/deck format unverified.",
+          "focus": "AI operations, AI decision making, new business models. Concrete software asks include web monitoring/competitive intelligence, accessibility, document extraction and insurance sales assistants."
+        },
+        "attendance": {
+          "mode": "Real-world Hotai business-site validation in Taiwan; exact in-person days and remote options not published."
+        },
+        "award": {
+          "type": "Corporate PoC/services and conditional third-party cloud support",
+          "cash_amount": null,
+          "currency": null,
+          "credits": "Referral to Google for Startups Cloud; qualification separate; no guaranteed credit allocation.",
+          "equity": "Programme equity, commercial/IP and investment terms unknown.",
+          "fees": "Not published in inspected source.",
+          "repayment": "No cash repayment scheme identified."
+        },
+        "expense_rules": {
+          "permitted": "Support tied to selected pilot; cash expense rules unverified.",
+          "restrictions": "De-identified corporate data/site access and cloud referral are controlled resources, not cash; cannot duplicate Google Cloud record award as guaranteed Hotai benefit."
+        },
+        "deadlines": {
+          "current_cutoff": "No readable date; zeroed countdown is not deadline evidence.",
+          "next_cycle": "No 2027 call verified."
+        },
+        "unresolved": [
+          "No verified application cutoff, exact fields, deck/video limits, fee or equity terms.",
+          "Legal company requirement is clear; incorporation jurisdiction, team minimum, residency and detailed attendance unknown.",
+          "Corporate scope requires genuine product fit; not generic startup funding."
+        ],
+        "sources": [
+          {
+            "url": "https://www.starfabx.com/hotai-starfab-accelerator/",
+            "kind": "official_source_read",
+            "checked_at": "2026-10-12",
+            "detail": "Current challenge themes, legal company/product/customer prerequisites and selection route."
+          },
+          {
+            "url": "https://zh.starfabx.com/hotai-starfab-accelerator/",
+            "kind": "official_source_read",
+            "checked_at": "2026-10-12",
+            "detail": "Chinese current asks clarify document-recognition software use case and profitability preference."
+          }
+        ],
+        "note_markdown": "# Hotai × StarFab Accelerator\n\nChecked 2026-10-12. Useful focused enterprise pilot target for AI workflow, web monitoring, accessibility or document software with customer evidence. New company setup and actual sponsor fit matter; no claimed cash prize.\n\nIdentity: Absent baseline. Distinct Hotai corporate pilot programme, not CIAT rebrand or Google Cloud credit-programme duplicate.\n\nSee structured audit for verified terms and open questions."
+      },
+      "award_components": [
+        {
+          "kind": "services",
+          "detail": "Programme services/incubation/resource access, not a cash grant. Original award fields retain their specific benefits, edition scope, costs and uncertainties; no numeric amount is implied by this classification.",
+          "evidence_state": "assessment",
+          "edition": null,
+          "checked_on": "2026-10-12",
+          "source_urls": [
+            "https://www.starfabx.com/hotai-starfab-accelerator/",
+            "https://zh.starfabx.com/hotai-starfab-accelerator/"
+          ],
+          "amount": null,
+          "amount_basis": "unknown",
+          "pool_role": "unknown"
+        }
+      ],
+      "history": [],
+      "unconsumed_fields": [
+        "checked_at",
+        "edition_status",
+        "name",
+        "official_url",
+        "team_minimum"
+      ],
+      "review_complete": true,
+      "manual_review": {
+        "checked_on": "2026-10-12",
+        "protocol": "Reviewed new-only append; no old-record headline replacement. Undated terms were not assigned a fabricated 2026 edition.",
+        "coverage": "Source-material coverage and portal gaps retained; complete verified form bindings not claimed.",
+        "planner_used": false,
+        "additional_fields_reviewed": [
+          "checked_at",
+          "edition_status",
+          "name",
+          "official_url",
+          "team_minimum"
+        ]
+      }
+    },
+    "tw-innovex-pitch": {
+      "raw_findings": {
+        "edition_status": "2026 completed; site banner gives 2027 exhibition dates, not a verified 2027 contest call.",
+        "team_minimum": {
+          "people": null,
+          "evidence": "No personnel minimum identified. One onstage presenter is not a one-person team eligibility guarantee."
+        },
+        "eligibility": {
+          "entity": "Founded after 2018-01-01, or academic/research team intending incorporation. Overseas startups eligible.",
+          "categories": "AI, green tech, health/biotech, mobility/communication, entertainment, manufacturing, robotics, semiconductor applications.",
+          "special_awards": "PwC prioritizes Taiwan entities; Startup Terrace excludes PRC-invested startups."
+        },
+        "application_fields": {
+          "observed": "English registration; pitch deck; video URL; non-exhibitor payment proof. Login-only form fields not inspected."
+        },
+        "requirements": {
+          "deck": "English PDF under2MB.",
+          "video": "90seconds; product/solution/business strategy, not a reused marketing video; YouTube/Drive link.",
+          "final_pitch": "5minutes plus3minutes Q&A; PowerPoint/Keynote due June1 17:00 GMT+8."
+        },
+        "attendance": {
+          "final": "Physical Taiwan June4; absence forfeits eligibility and fee."
+        },
+        "award": {
+          "edition": "2026 only",
+          "grand": "USD10,000 cash incltax plus KPMG consulting/programme, 2027 booth and exposure. Current PDF package valuation USD40,000; older HTML USD30,000, neither all cash.",
+          "other_cash": "Applied Ventures USD3,000; Plug&Play USD5,000; Taiwania USD10,000. Okinawa JPY200,000 prize plus JPY300,000 travel subsidy.",
+          "noncash": "GPU compute credits, accelerator consultation/exhibition resources; sponsor terms vary.",
+          "payout": "Domestic10%/international20% withholding; receipt and USD-account details by June30; TWD conversion allowed.",
+          "equity": "No equity requirement identified in contest rules."
+        },
+        "expense_rules": {
+          "cash": "No general cash-prize expenditure schedule found; unrestricted use not proven. Okinawa travel cash specifically supports exhibitions.",
+          "fees": "Taiwan NT40,000; non-TCA-members NT42,000 inclVAT; overseas USD1,350 plus bank charges. Exhibitors exempt; booth costs separate."
+        },
+        "deadlines": {
+          "application": "2026-01-08 12:00 through2026-05-05 23:59 GMT+8; closed.",
+          "next": "Unknown."
+        },
+        "unresolved": [
+          "Exact login form fields; future dates/terms; sponsor benefit agreements."
+        ],
+        "sources": [
+          {
+            "url": "https://innovex.computex.biz/show/pitch.aspx",
+            "kind": "official_source_read",
+            "checked_at": "2026-10-12",
+            "role": "Live contest overview"
+          },
+          {
+            "url": "https://www.innovex.com.tw/en/menu/EB0FD9FDE212BF10D0636733C6861689/info.html",
+            "kind": "official_source_read",
+            "checked_at": "2026-10-12",
+            "role": "Initial regulations"
+          },
+          {
+            "url": "https://innovex.computex.biz/2026/files/InnoVEX_2026_PitchContestRegulations_EN.pdf",
+            "kind": "official_source_read",
+            "checked_at": "2026-10-12",
+            "role": "Expanded official eleven-page regulations"
+          }
+        ],
+        "id": "tw-innovex-pitch",
+        "name": "InnoVEX Pitch Contest",
+        "official_url": "https://innovex.computex.biz/show/pitch.aspx",
+        "checked_at": "2026-10-12",
+        "note_markdown": "Research only. Owner eligibility and participation have not been confirmed. See the dated structured evidence below."
+      },
+      "award_components": [
+        {
+          "kind": "cash",
+          "detail": "2026 closed edition grand cash component; package valuation is not all cash.",
+          "evidence_state": "verified_historical",
+          "edition": 2026,
+          "checked_on": "2026-10-12",
+          "source_urls": [
+            "https://innovex.computex.biz/show/pitch.aspx",
+            "https://www.innovex.com.tw/en/menu/EB0FD9FDE212BF10D0636733C6861689/info.html",
+            "https://innovex.computex.biz/2026/files/InnoVEX_2026_PitchContestRegulations_EN.pdf"
+          ],
+          "amount": {
+            "value": 10000,
+            "currency": "USD"
+          },
+          "amount_basis": "per_recipient",
+          "pool_role": "unknown"
+        },
+        {
+          "kind": "services",
+          "detail": "2026 consulting/booth and sponsor support; no numeric aggregation or assumed award stacking.",
+          "evidence_state": "verified_historical",
+          "edition": 2026,
+          "checked_on": "2026-10-12",
+          "source_urls": [
+            "https://innovex.computex.biz/show/pitch.aspx",
+            "https://www.innovex.com.tw/en/menu/EB0FD9FDE212BF10D0636733C6861689/info.html",
+            "https://innovex.computex.biz/2026/files/InnoVEX_2026_PitchContestRegulations_EN.pdf"
+          ],
+          "amount": null,
+          "amount_basis": "unknown",
+          "pool_role": "unknown"
+        },
+        {
+          "kind": "participant_cost",
+          "detail": "2026 non-exhibitors: Taiwan TWD40,000 or TWD42,000 incl VAT for non-members; overseas USD1,350 plus charges. Exhibitors exempt; booth costs separate.",
+          "evidence_state": "verified_historical",
+          "edition": 2026,
+          "checked_on": "2026-10-12",
+          "source_urls": [
+            "https://innovex.computex.biz/show/pitch.aspx",
+            "https://www.innovex.com.tw/en/menu/EB0FD9FDE212BF10D0636733C6861689/info.html",
+            "https://innovex.computex.biz/2026/files/InnoVEX_2026_PitchContestRegulations_EN.pdf"
+          ],
+          "amount": null,
+          "amount_basis": "unknown",
+          "pool_role": "unknown",
+          "scope": "track",
+          "track_id": "non_exhibitors",
+          "payment_required": true,
+          "cost_stage": "application_fee"
+        }
+      ],
+      "history": [],
+      "unconsumed_fields": [
+        "checked_at",
+        "edition_status",
+        "name",
+        "official_url",
+        "team_minimum"
+      ],
+      "review_complete": true,
+      "manual_review": {
+        "checked_on": "2026-10-12",
+        "protocol": "Reviewed new-only append; no old-record headline replacement. Undated terms were not assigned a fabricated 2026 edition.",
+        "coverage": "Source-material coverage and portal gaps retained; complete verified form bindings not claimed.",
+        "planner_used": false,
+        "additional_fields_reviewed": [
+          "checked_at",
+          "edition_status",
+          "name",
+          "official_url",
+          "team_minimum"
+        ]
+      }
+    },
+    "tw-startup-world-cup": {
+      "raw_findings": {
+        "edition_status": "Hsinchu June6 and Kaohsiung July23–24,2026 have passed. No next Taiwan application cutoff verified.",
+        "team_minimum": {
+          "people": null,
+          "evidence": "No numeric team minimum in reviewed general rules; legal entity required."
+        },
+        "eligibility": {
+          "entity": "Registered legal startup, not solely an idea/individual project; registration need not be US.",
+          "location": "Applications accepted regardless of location; any sector/stage/funding amount.",
+          "age": "18+ for ordinary competition."
+        },
+        "application_fields": {
+          "observed": "English, one-session submission. Exact embedded form fields unavailable.",
+          "deck_topics": [
+            "problem",
+            "solution",
+            "product",
+            "business model",
+            "market",
+            "competition",
+            "growth",
+            "traction",
+            "financials",
+            "team",
+            "funding status"
+          ]
+        },
+        "requirements": {
+          "video": "Optional generalFAQ; not verified as mandatory for Taiwan.",
+          "MVP": "No explicit universal MVP rule found; must be legal startup.",
+          "diligence": "Investment requires incorporation records, corporate/equity records and IP assignments; further documents possible."
+        },
+        "attendance": {
+          "regional": "Selected finalists pitch onsite; regional instructions follow selection.",
+          "global": "Silicon Valley finale; up to2 event tickets, organizer excludes flights/hotels.",
+          "pitch": "Global4minutes plus2minutesQ&A; regional timing unverified."
+        },
+        "award": {
+          "type": "Conditional investment, not grant/prize cash.",
+          "maximum": 1000000,
+          "currency": "USD",
+          "terms": "Equity or convertible note; due diligence and separate investment agreements; organizer may decline investment.",
+          "regional": "Regional prizes discretionary, no Taiwan amount verified."
+        },
+        "expense_rules": {
+          "cost": "Application free; optional exhibition booths payable. Travel/hotel primarily applicant responsibility.",
+          "investment": "Use-of-proceeds restrictions, valuation, equity percentage and note repayment terms unknown.",
+          "tax": "Recipient responsible for applicable prize taxes."
+        },
+        "deadlines": {
+          "events": "Hsinchu2026-06-06; Kaohsiung2026-07-23/24. Event dates are not application deadlines.",
+          "application": "Current/next Taiwan cutoff unknown."
+        },
+        "unresolved": [
+          "Regional current intake and precise form; investment economics; local finalist costs.",
+          "FAQ/social-sharing appears promotional; terms describe X-based registration/scoring. Resolve before submitting."
+        ],
+        "sources": [
+          {
+            "url": "https://www.startupworldcup.io/hsinchu-taiwan-2026",
+            "kind": "official_source_read",
+            "checked_at": "2026-10-12",
+            "role": "Hsinchu event"
+          },
+          {
+            "url": "https://www.startupworldcup.io/kaohsiung-taiwan-2026",
+            "kind": "official_source_read",
+            "checked_at": "2026-10-12",
+            "role": "Kaohsiung event"
+          },
+          {
+            "url": "https://www.startupworldcup.io/hsinchu-taiwan-app-2026",
+            "kind": "official_source_read",
+            "checked_at": "2026-10-12",
+            "role": "Application instructions"
+          },
+          {
+            "url": "https://www.startupworldcup.io/faq",
+            "kind": "official_source_read",
+            "checked_at": "2026-10-12",
+            "role": "Programme FAQ"
+          },
+          {
+            "url": "https://www.startupworldcup.io/terms-and-conditions",
+            "kind": "official_source_read",
+            "checked_at": "2026-10-12",
+            "role": "Binding competition/investment terms"
+          }
+        ],
+        "id": "tw-startup-world-cup",
+        "name": "Startup World Cup — Taiwan regionals",
+        "official_url": "https://www.startupworldcup.io/hsinchu-taiwan-2026",
+        "checked_at": "2026-10-12",
+        "note_markdown": "Research only. Owner eligibility and participation have not been confirmed. See the dated structured evidence below."
+      },
+      "award_components": [
+        {
+          "kind": "investment",
+          "detail": "Global final up to USD1m conditional equity/convertible investment, not Taiwan cash; due diligence and agreement required.",
+          "evidence_state": "assessment",
+          "edition": null,
+          "checked_on": "2026-10-12",
+          "source_urls": [
+            "https://www.startupworldcup.io/hsinchu-taiwan-2026",
+            "https://www.startupworldcup.io/kaohsiung-taiwan-2026",
+            "https://www.startupworldcup.io/hsinchu-taiwan-app-2026",
+            "https://www.startupworldcup.io/faq",
+            "https://www.startupworldcup.io/terms-and-conditions"
+          ],
+          "amount": {
+            "maximum": 1000000,
+            "currency": "USD"
+          },
+          "amount_basis": "up_to",
+          "pool_role": "unknown"
+        }
+      ],
+      "history": [],
+      "unconsumed_fields": [
+        "checked_at",
+        "edition_status",
+        "name",
+        "official_url",
+        "team_minimum"
+      ],
+      "review_complete": true,
+      "manual_review": {
+        "checked_on": "2026-10-12",
+        "protocol": "Reviewed new-only append; no old-record headline replacement. Undated terms were not assigned a fabricated 2026 edition.",
+        "coverage": "Source-material coverage and portal gaps retained; complete verified form bindings not claimed.",
+        "planner_used": false,
+        "additional_fields_reviewed": [
+          "checked_at",
+          "edition_status",
+          "name",
+          "official_url",
+          "team_minimum"
+        ]
+      }
+    },
+    "tw-smesa-new-venture-award": {
+      "raw_findings": {
+        "edition_status": "25th2026 intake closed; next edition unannounced.",
+        "team_minimum": {
+          "people": null,
+          "evidence": "Company-level award; no numeric personnel minimum found."
+        },
+        "eligibility": {
+          "entity": "Taiwan registered SME established on/after2018-06-01; foreign-company Taiwan branches excluded.",
+          "product": "Self-developed innovative commercialized product/technology/process/service.",
+          "revenue": "2025 turnover nonzero; commercialization evidence needed.",
+          "software": "Innovative services category explicitly includes SaaS, data, algorithms, cloud/security, fintech. Defense/military recommendations excluded despite broader technology-category examples.",
+          "nationality": "No founder nationality/residency rule verified."
+        },
+        "application_fields": {
+          "observed": "Online uploads; company/operating strategy; tax filing and commercialization documents. Exact logged-in fields unavailable."
+        },
+        "requirements": {
+          "evidence": "Sales invoice, business contract, orders or customer data; income-tax return by main or supplement deadline.",
+          "review": "Written assessment and on-site company presentation/tour.",
+          "MVP_video": "Commercialization exceeds idea stage; standalone video requirement unverified."
+        },
+        "attendance": {
+          "review": "On-site company visit; dates unknown."
+        },
+        "award": {
+          "type": "Recognition and market/industry resources.",
+          "cash": null,
+          "benefits": "National credibility, media marketing exposure, investor/industry links and market opportunities.",
+          "equity_repayment": "No sourced award equity or repayment condition."
+        },
+        "expense_rules": {
+          "fees": "Free online application per Taipei government source.",
+          "expenses": "No reimbursable project-budget schedule identified; cash benefit unverified."
+        },
+        "deadlines": {
+          "application": "2026-04-01 10:00 to2026-06-01 17:00; timezone not explicit.",
+          "supplement": "2026-06-08 12:00; not a new-application cutoff.",
+          "next": "Unknown."
+        },
+        "unresolved": [
+          "Complete downloadable rules could not be retrieved; login form not inspected.",
+          "Owner company age, revenue and SME qualification not presumed; future eligibility may differ."
+        ],
+        "sources": [
+          {
+            "url": "https://startup.sme.gov.tw/startupaward/",
+            "kind": "official_source_read",
+            "checked_at": "2026-10-12",
+            "role": "Primary2026 eligibility/procedure"
+          },
+          {
+            "url": "https://startup.sme.gov.tw/sitaiwan/Home/activity/3605",
+            "kind": "official_source_read",
+            "checked_at": "2026-10-12",
+            "role": "Official resources/closed status"
+          },
+          {
+            "url": "https://www.industry-incentive.taipei/news_detail/449",
+            "kind": "official_source_read",
+            "checked_at": "2026-10-12",
+            "role": "Government free-application confirmation"
+          },
+          {
+            "url": "https://startup.sme.gov.tw/startupaward/home/member",
+            "kind": "unavailable",
+            "checked_at": "2026-10-12",
+            "role": "Login-only form"
+          }
+        ],
+        "id": "tw-smesa-new-venture-award",
+        "name": "SMESA New Venture Award (New Business Award)",
+        "official_url": "https://startup.sme.gov.tw/startupaward/",
+        "checked_at": "2026-10-12",
+        "note_markdown": "Research only. Owner eligibility and participation have not been confirmed. See the dated structured evidence below."
+      },
+      "award_components": [
+        {
+          "kind": "services",
+          "detail": "Programme services/incubation/resource access, not a cash grant. Original award fields retain their specific benefits, edition scope, costs and uncertainties; no numeric amount is implied by this classification.",
+          "evidence_state": "verified_historical",
+          "edition": 2026,
+          "checked_on": "2026-10-12",
+          "source_urls": [
+            "https://startup.sme.gov.tw/startupaward/",
+            "https://startup.sme.gov.tw/sitaiwan/Home/activity/3605",
+            "https://www.industry-incentive.taipei/news_detail/449"
+          ],
+          "amount": null,
+          "amount_basis": "unknown",
+          "pool_role": "unknown"
+        }
+      ],
+      "history": [],
+      "unconsumed_fields": [
+        "checked_at",
+        "edition_status",
+        "name",
+        "official_url",
+        "team_minimum"
+      ],
+      "review_complete": true,
+      "manual_review": {
+        "checked_on": "2026-10-12",
+        "protocol": "Reviewed new-only append; no old-record headline replacement. Undated terms were not assigned a fabricated 2026 edition.",
+        "coverage": "Source-material coverage and portal gaps retained; complete verified form bindings not claimed.",
+        "planner_used": false,
+        "additional_fields_reviewed": [
+          "checked_at",
+          "edition_status",
+          "name",
+          "official_url",
+          "team_minimum"
+        ]
+      }
+    },
+    "tw-best-ai-awards": {
+      "raw_findings": {
+        "edition_status": "2026 closed; finals2026-04-25 completed. No2027dates verified.",
+        "team_minimum": {
+          "people": 1,
+          "maximum": 8,
+          "evidence": "Lowest valid route is international company1–8; domesticcompany2–8; eligibility differs.",
+          "branches": [
+            {
+              "name": "Domestic corporate and startup/SME",
+              "people": 2,
+              "maximum": 8,
+              "unit": "people"
+            },
+            {
+              "name": "International companies",
+              "people": 1,
+              "maximum": 8,
+              "unit": "people"
+            },
+            {
+              "name": "Domestic/international students",
+              "people": 1,
+              "maximum": 8,
+              "unit": "people",
+              "eligibility": "Current student requirements apply."
+            }
+          ]
+        },
+        "eligibility": {
+          "domestic": "Operating Taiwan company; startup within8years or qualifyingSME.",
+          "international": "Registered foreign/overseas-invested enterprise and nonROC participant nationality; excludes mainland/HK/Macao entities/persons and controlled third-region companies.",
+          "topic": "AI applications/services; choose one category/one work.",
+          "LinkedIn": "At least1member has registered AI talent/technical expertise."
+        },
+        "application_fields": {
+          "observed": "Registered members; signed consent PDF, work description Word, bonus-evidence PDF, LinkedIn evidence, registration certificate; foreign nationality evidence for international route."
+        },
+        "requirements": {
+          "video": "3minute unlistedYouTube work-introduction URL.",
+          "files": "Consent/evidence PDFs under2MB; Word description under10MB.",
+          "pitch": "Final6minute presentation plus7minuteQ&A.",
+          "restriction": "Chinese-developed software/hardware prohibited; truthful original work; no member changes after cutoff."
+        },
+        "attendance": {
+          "preliminary": "Remote document review, no attendance.",
+          "final": "Taipei Nangang Exhibition Center2,2026-04-25; international finalists must travel.",
+          "international_support": "Two return flights and3hotel nights, April24–27 perFAQ."
+        },
+        "award": {
+          "edition": "2026",
+          "currency": "TWD",
+          "company_cash": [
+            1000000,
+            700000,
+            500000,
+            200000
+          ],
+          "follow_on": "If independently approved for A+ grant, top3 increased10%/honorablemention5%; exposure and investor matchmaking.",
+          "withholding": "Foreign20%, ROCindividual/company10%; required receipt documents.",
+          "repayment": "Rule violations can trigger prize recovery; no award equity requirement found."
+        },
+        "expense_rules": {
+          "cash": "Not an expense-reimbursement scheme in reviewed rules; allowed-spending schedule unverified.",
+          "fees": "No explicit application-fee statement found; do not assert free."
+        },
+        "deadlines": {
+          "application": "2026-03-16 17:00; uploads before16:59:59. Timezone not expressly stated.",
+          "next": "Unknown."
+        },
+        "unresolved": [
+          "Exact live portal fields and annex contents not fully inspected.",
+          "Future terms, payout timing and fee status; domestic two-person eligibility not solo."
+        ],
+        "sources": [
+          {
+            "url": "https://bestaiawards.tca.org.tw/",
+            "kind": "official_source_read",
+            "checked_at": "2026-10-12",
+            "role": "CurrentFAQ/team/documents"
+          },
+          {
+            "url": "https://bestaiawards.tca.org.tw/index.php?act=article&code=list&ids=4",
+            "kind": "official_source_read",
+            "checked_at": "2026-10-12",
+            "role": "Detailed rules/award/pitch"
+          },
+          {
+            "url": "https://bestaiawards.tca.org.tw/index.php?act=article&code=list&ids=7",
+            "kind": "official_source_read",
+            "checked_at": "2026-10-12",
+            "role": "Tax/travel/bonusFAQ"
+          },
+          {
+            "url": "https://bestaiawards.tca.org.tw/index.php?act=article&code=detail&ids=129",
+            "kind": "official_source_read",
+            "checked_at": "2026-10-12",
+            "role": "Official2026 dates"
+          }
+        ],
+        "id": "tw-best-ai-awards",
+        "name": "Best AI Awards — AI application category",
+        "official_url": "https://bestaiawards.tca.org.tw/",
+        "checked_at": "2026-10-12",
+        "note_markdown": "Research only. Owner eligibility and participation have not been confirmed. See the dated structured evidence below.",
+        "team_requirements": [
+          {
+            "track_id": "Domestic corporate and startup/SME",
+            "unit": "people",
+            "scope": "track",
+            "minimum": 2,
+            "maximum": 8,
+            "evidence_state": "verified_historical",
+            "edition": 2026,
+            "checked_on": "2026-10-12",
+            "source_urls": [
+              "https://bestaiawards.tca.org.tw/"
+            ],
+            "detail": "2026 route-specific personnel rule; applicant qualifications differ. Next-edition rules unannounced."
+          },
+          {
+            "track_id": "International companies",
+            "unit": "people",
+            "scope": "track",
+            "minimum": 1,
+            "maximum": 8,
+            "evidence_state": "verified_historical",
+            "edition": 2026,
+            "checked_on": "2026-10-12",
+            "source_urls": [
+              "https://bestaiawards.tca.org.tw/"
+            ],
+            "detail": "2026 route-specific personnel rule; applicant qualifications differ. Next-edition rules unannounced."
+          },
+          {
+            "track_id": "Domestic/international students",
+            "unit": "people",
+            "scope": "track",
+            "minimum": 1,
+            "maximum": 8,
+            "evidence_state": "verified_historical",
+            "edition": 2026,
+            "checked_on": "2026-10-12",
+            "source_urls": [
+              "https://bestaiawards.tca.org.tw/"
+            ],
+            "detail": "2026 route-specific personnel rule; applicant qualifications differ. Next-edition rules unannounced."
+          }
+        ]
+      },
+      "award_components": [
+        {
+          "kind": "cash",
+          "detail": "2026 company-track tier awards; no promise for a future intake or aggregation.",
+          "evidence_state": "verified_historical",
+          "edition": 2026,
+          "checked_on": "2026-10-12",
+          "source_urls": [
+            "https://bestaiawards.tca.org.tw/",
+            "https://bestaiawards.tca.org.tw/index.php?act=article&code=list&ids=4",
+            "https://bestaiawards.tca.org.tw/index.php?act=article&code=list&ids=7",
+            "https://bestaiawards.tca.org.tw/index.php?act=article&code=detail&ids=129"
+          ],
+          "amount": {
+            "tiers": [
+              1000000,
+              700000,
+              500000,
+              200000
+            ],
+            "currency": "TWD"
+          },
+          "amount_basis": "per_team",
+          "pool_role": "unknown",
+          "scope": "track",
+          "track_id": "company_tracks"
+        }
+      ],
+      "history": [],
+      "unconsumed_fields": [
+        "checked_at",
+        "edition_status",
+        "name",
+        "official_url",
+        "team_minimum"
+      ],
+      "review_complete": true,
+      "manual_review": {
+        "checked_on": "2026-10-12",
+        "protocol": "Reviewed new-only append; no old-record headline replacement. Undated terms were not assigned a fabricated 2026 edition.",
+        "coverage": "Source-material coverage and portal gaps retained; complete verified form bindings not claimed.",
+        "planner_used": false,
+        "additional_fields_reviewed": [
+          "checked_at",
+          "edition_status",
+          "name",
+          "official_url",
+          "team_minimum"
+        ]
+      }
+    },
+    "tw-startupterrace-residency": {
+      "raw_findings": {
+        "id": "tw-startupterrace-residency",
+        "name": "Startup Terrace Residency and Incubation",
+        "official_url": "https://startupterrace.sme.gov.tw/en/cp.aspx?n=1677",
+        "checked_at": "2026-10-12",
+        "edition_status": "Live 2026 guidance; December 2025 amended guide and attached August 2024 standard agreement. Current notices and the signed final agreement control amendments; annual application window and vacancies unverified.",
+        "team_minimum": {
+          "personnel_minimum": null,
+          "evidence": "No explicit minimum personnel count established. Unknown does not certify solo eligibility."
+        },
+        "application_fields": {
+          "required_documents": [
+            "Residency application form",
+            "Declaration",
+            "Registration certificate or company/business name-and-scope reservation",
+            "Proposal; certain project or short-term routes may substitute slides"
+          ],
+          "verified_fields": [
+            "Applicant name, addresses, telephone, registration number and date",
+            "Responsible person identity/passport, birthdate, gender and email",
+            "Contact details, capital, previous revenue and employee count",
+            "Company, technology, team, business strategy and model summaries (200-word limits)",
+            "Awards, accelerator recommendation, cloud provider and industry",
+            "Space, seats, member count, period, usage plan, signatures and seals"
+          ],
+          "proposal": "Team biographies, three-year goals, R&D, target market, marketing, finances and support needs.",
+          "declaration": "Tax, credit, legal issues, related supported entities, institutional investors, parent company, profitability and other enterprise roles."
+        },
+        "eligibility": {
+          "company": "Domestic or foreign startup under eight years; biotechnology/pharma under ten. Paid-in capital below TWD100m OR fewer than 200 employees.",
+          "pre_incorporation": "Relevant teams may apply for coworking with name/business-scope reservation evidence; finish incorporation within six months after signing.",
+          "fields": "AI/software explicitly listed; AIoT, digital content and professional services also included.",
+          "personnel": "Office capacity 5–6 is a space recommendation, not a minimum team.",
+          "nationality": "Foreign companies accepted; citizenship restriction not established.",
+          "branch": "Virtual route only for foreign companies without a registered Taiwan branch/subsidiary. Linkou has its own qualifications."
+        },
+        "requirements": {
+          "mvp_video": "No universal MVP/video requirement established in residency documents.",
+          "pitch": "Proposal and review meeting required; Kaohsiung presentation format/time unverified. Linkou key-sector route requires written and PPT reviews.",
+          "disclosure": "Compliance and IP declarations; false statements may terminate residency or recover support."
+        },
+        "attendance": {
+          "physical": "Guideline permits termination if monthly attendance stays below 50% after intervention; workday-based calculation. Move in within 30 days and cooperate with activities.",
+          "duration": "Ordinary startup residency about one to three years; short term under three months; virtual under one year in the guide."
+        },
+        "award": {
+          "type": "Paid incubation/services; no verified universal grant or subsidy",
+          "cash_amount": null,
+          "currency": "TWD",
+          "rates": "Kaohsiung coworking 3,600 per seat/month; small office24,200, medium44,000, large66,000 per month, tax included.",
+          "services": "Basic utilities, professional guidance, accelerator referrals and matchmaking.",
+          "equity": "No general residency equity condition established.",
+          "fees": "Contract fees apply; discounts depend on project/contract.",
+          "virtual": "Guide:12,000 annually; early withdrawal nonrefundable; eligible foreign-company route only."
+        },
+        "expense_rules": {
+          "benefit": "Workspace/services rather than an unrestricted cash award.",
+          "deposit": "Attached agreement: two months of original professional fees, with short-term/virtual exceptions; refund depends on outstanding balances and property condition.",
+          "contract": "Other charges as notified. Withdrawal notice30 days (short term10); restore space/change registration address. Attached agreement stipulates late fees of1% monthly fee per overdue day; confirm current signed terms."
+        },
+        "deadlines": {
+          "intake": "Annual public notice controls. Full occupancy leads to waiting list; no current cutoff verified.",
+          "warning": "Published guidance does not prove admissions currently open."
+        },
+        "unresolved": [
+          "Current admission window, vacancies and applicant-specific concessions unverified.",
+          "December2025 guide and August2024 agreement differ in vintage; confirm current signed terms.",
+          "No numeric minimum personnel specified; do not certify solo eligibility.",
+          "Paid incubation offers support, not free funding; recurring cost and attendance deserve assessment."
+        ],
+        "sources": [
+          {
+            "url": "https://startupterrace.sme.gov.tw/en/cp.aspx?n=1677",
+            "kind": "official_source_read",
+            "checked_at": "2026-10-12",
+            "detail": "Kaohsiung eligibility, fees and workflow; page updated2026-10-06."
+          },
+          {
+            "url": "https://wimpservice-ws.hamastar.com.tw/Download.ashx?n=KDExNC4xMilTdGFydHVwIFRlcnJhY2UgS2FvaHNpdW5nIEFwcGxpY2F0aW9uIEd1aWRlIGZvciBSZXNpZGVuY3lfRU5HX0ZJTi5wZGY%3D&u=L0ZTMDEvRmlsZVBhdGgvNDkzL3JlbGZpbGUvMTE2MTgvNDU0L2ZlZmQ1OGQ5LWM5NGUtNDhkYi04ZmJjLTIxMjA1MDNhMWNkOC5wZGY%3D",
+            "kind": "official_source_read",
+            "checked_at": "2026-10-12",
+            "detail": "43-page December2025 amended guide; forms, proposal, attendance and fees read."
+          },
+          {
+            "url": "https://wimpservice-ws.hamastar.com.tw/Download.ashx?n=KDIwMjRBdWcpVGhlIFJlc2lkZW5jZSBBZ3JlZW1lbnQgb2YgU3RhcnR1cCBUZXJyYWNlIEthb2hzaXVuZyhGSU4pLnBkZg%3D%3D&u=L0ZTMDEvRmlsZVBhdGgvNDkyL3JlbGZpbGUvMTE2MTgvNDU0L2U2MTY2ZGNhLTdjY2ItNDc3Ny04MGZkLTc5ZWUyMjBiOTVlOC5wZGY%3D",
+            "kind": "official_source_read",
+            "checked_at": "2026-10-12",
+            "detail": "13-page August2024 agreement; deposit, refund, late payment and withdrawal reviewed; final signed terms unknown."
+          },
+          {
+            "url": "https://startupterrace.sme.gov.tw/en/cp.aspx?n=1676",
+            "kind": "official_source_read",
+            "checked_at": "2026-10-12",
+            "detail": "Linkou alternative with distinct reviews/rates; counted within one family."
+          }
+        ],
+        "note_markdown": "# Startup Terrace Residency and Incubation\n\nChecked October12,2026. Current Kaohsiung guidance and December2025 amended application guide support a real AI/software incubation route, including coworking for teams completing incorporation.\n\nPaid workspace and professional services are the benefit, rather than guaranteed cash. Linkou is an alternative within one family. See the structured application fields, fees, contract obligations and uncertainties."
+      },
+      "award_components": [
+        {
+          "kind": "services",
+          "detail": "Programme services/incubation/resource access, not a cash grant. Original award fields retain their specific benefits, edition scope, costs and uncertainties; no numeric amount is implied by this classification.",
+          "evidence_state": "assessment",
+          "edition": null,
+          "checked_on": "2026-10-12",
+          "source_urls": [
+            "https://startupterrace.sme.gov.tw/en/cp.aspx?n=1677",
+            "https://wimpservice-ws.hamastar.com.tw/Download.ashx?n=KDExNC4xMilTdGFydHVwIFRlcnJhY2UgS2FvaHNpdW5nIEFwcGxpY2F0aW9uIEd1aWRlIGZvciBSZXNpZGVuY3lfRU5HX0ZJTi5wZGY%3D&u=L0ZTMDEvRmlsZVBhdGgvNDkzL3JlbGZpbGUvMTE2MTgvNDU0L2ZlZmQ1OGQ5LWM5NGUtNDhkYi04ZmJjLTIxMjA1MDNhMWNkOC5wZGY%3D",
+            "https://wimpservice-ws.hamastar.com.tw/Download.ashx?n=KDIwMjRBdWcpVGhlIFJlc2lkZW5jZSBBZ3JlZW1lbnQgb2YgU3RhcnR1cCBUZXJyYWNlIEthb2hzaXVuZyhGSU4pLnBkZg%3D%3D&u=L0ZTMDEvRmlsZVBhdGgvNDkyL3JlbGZpbGUvMTE2MTgvNDU0L2U2MTY2ZGNhLTdjY2ItNDc3Ny04MGZkLTc5ZWUyMjBiOTVlOC5wZGY%3D",
+            "https://startupterrace.sme.gov.tw/en/cp.aspx?n=1676"
+          ],
+          "amount": null,
+          "amount_basis": "unknown",
+          "pool_role": "unknown"
+        },
+        {
+          "kind": "participant_cost",
+          "detail": "Kaohsiung paid coworking TWD3,600 per seat/month, deposit and contract conditions; older agreement qualifications retained.",
+          "evidence_state": "assessment",
+          "edition": null,
+          "checked_on": "2026-10-12",
+          "source_urls": [
+            "https://startupterrace.sme.gov.tw/en/cp.aspx?n=1677",
+            "https://wimpservice-ws.hamastar.com.tw/Download.ashx?n=KDExNC4xMilTdGFydHVwIFRlcnJhY2UgS2FvaHNpdW5nIEFwcGxpY2F0aW9uIEd1aWRlIGZvciBSZXNpZGVuY3lfRU5HX0ZJTi5wZGY%3D&u=L0ZTMDEvRmlsZVBhdGgvNDkzL3JlbGZpbGUvMTE2MTgvNDU0L2ZlZmQ1OGQ5LWM5NGUtNDhkYi04ZmJjLTIxMjA1MDNhMWNkOC5wZGY%3D",
+            "https://wimpservice-ws.hamastar.com.tw/Download.ashx?n=KDIwMjRBdWcpVGhlIFJlc2lkZW5jZSBBZ3JlZW1lbnQgb2YgU3RhcnR1cCBUZXJyYWNlIEthb2hzaXVuZyhGSU4pLnBkZg%3D%3D&u=L0ZTMDEvRmlsZVBhdGgvNDkyL3JlbGZpbGUvMTE2MTgvNDU0L2U2MTY2ZGNhLTdjY2ItNDc3Ny04MGZkLTc5ZWUyMjBiOTVlOC5wZGY%3D",
+            "https://startupterrace.sme.gov.tw/en/cp.aspx?n=1676"
+          ],
+          "amount": null,
+          "amount_basis": "unknown",
+          "pool_role": "unknown",
+          "payment_required": true,
+          "cost_stage": "programme_fee",
+          "scope": "programme"
+        }
+      ],
+      "history": [],
+      "unconsumed_fields": [
+        "checked_at",
+        "edition_status",
+        "name",
+        "official_url",
+        "team_minimum"
+      ],
+      "review_complete": true,
+      "manual_review": {
+        "checked_on": "2026-10-12",
+        "protocol": "Reviewed new-only append; no old-record headline replacement. Undated terms were not assigned a fabricated 2026 edition.",
+        "coverage": "Source-material coverage and portal gaps retained; complete verified form bindings not claimed.",
+        "planner_used": false,
+        "additional_fields_reviewed": [
+          "checked_at",
+          "edition_status",
+          "name",
+          "official_url",
+          "team_minimum"
+        ]
+      }
+    },
+    "tw-hsinchu-smart-sandbox": {
+      "raw_findings": {
+        "edition_status": "2026 professional solving intake open by official indexed extension; full live announcement fetch unavailable.",
+        "team_minimum": {
+          "people": 1,
+          "maximum": 5,
+          "evidence": "Professional solving teams1–5; not minimum3."
+        },
+        "eligibility": {
+          "tracks": "Students: Taiwan-school enrollment. Company: registeredentity and members/employment evidence. Social: general individuals/NPO/others, cross-organization teams.",
+          "location": "County civic challenge, not a verified Hsinchu residence requirement. Citizenship restriction unverified."
+        },
+        "application_fields": {
+          "observed": "Online team/qualification registration with phone OTP; report and attachments. Exact logged in fields uninspected."
+        },
+        "requirements": {
+          "report": "PDF/ODF/Office under30 MB; supplemental total100 MB; larger video via accessible cloud link.",
+          "content": "Civic need, AI/data solution, prototype/validation.",
+          "AI": "AI tools permitted with human responsibility; disclosure specifics require final recheck."
+        },
+        "attendance": {
+          "final": "Required Demo Day;10 minute pitch plus5 minuteQ&A. TentativeNovember25; own demo equipment and mentor participation."
+        },
+        "award": {
+          "type": "Cash only student/social tracks; companyrecognition/possible later SBIR scoring, not promised grant.",
+          "currency": "TWD",
+          "amounts": [
+            100000,
+            60000,
+            20000
+          ],
+          "payout": "After accepted claim/tax/receipt documents, expected14 workingdays; statutory withholding.",
+          "noncash": "Gold teams ASUS AI accelerator per later official indexed announcement.",
+          "equity": "No award equity requirement identified."
+        },
+        "expense_rules": {
+          "cash": "No prize spend schedule found; travel/equipment reimbursement unverified.",
+          "fees": "Fee status unknown; account requirement is not fee evidence."
+        },
+        "deadlines": {
+          "application": "OriginallyAugust21–October7; official indexed announcement extends to2026-10-16 17:00. Explicittimezone not found.",
+          "later": "Originalschedule finalreportNovember18, Demo DayNovember25; extension may change intermediate dates."
+        },
+        "unresolved": [
+          "Extension visible in official search index but direct page retrieval failed; reconfirm before acting.",
+          "Fees, nationality, final schedule and complete form; cash depends on social/student route."
+        ],
+        "sources": [
+          {
+            "url": "https://ws.hcshb.gov.tw/Download.ashx?n=MjAyNiDmlrDnq7nnuKPmmbrmhafmspnnm5LlibXmlrDoqIjnlavnq7bos73nsKHnq6AucGRm&u=LzAwMS9VcGxvYWQvNDExL3JlbGZpbGUvOTI5MS8xMDk4MTcvMzBlNTc5ZTUtMDUxOS00MTMyLWJjM2YtYjE5MGY0MGY1MzRlLnBkZg%3D%3D",
+            "role": "Official22page rules",
+            "kind": "official_source_read",
+            "checked_at": "2026-10-12"
+          },
+          {
+            "url": "https://smartsandbox.hsinchu.gov.tw/",
+            "role": "Current indexed extension and AIcard announcement",
+            "kind": "official_index",
+            "checked_at": "2026-10-12"
+          },
+          {
+            "url": "https://smartsandbox.hsinchu.gov.tw/home/pagehowtoplay.html",
+            "role": "Official indexed route/stage guidance",
+            "kind": "official_index",
+            "checked_at": "2026-10-12"
+          },
+          {
+            "url": "https://smartsandbox.hsinchu.gov.tw/home/pagesmartsand.html",
+            "role": "Official indexed submission limits",
+            "kind": "official_index",
+            "checked_at": "2026-10-12"
+          }
+        ],
+        "id": "tw-hsinchu-smart-sandbox",
+        "name": "Hsinchu County Smart Sandbox Innovation Competition",
+        "official_url": "https://smartsandbox.hsinchu.gov.tw/",
+        "checked_at": "2026-10-12",
+        "note_markdown": "Research-only programme facts. No owner eligibility, intent, account or submission inferred.",
+        "index_evidence": {
+          "url": "https://smartsandbox.hsinchu.gov.tw/",
+          "evidence_kind": "official_index",
+          "observed_date": "2026-10-12",
+          "live_checked_at": null,
+          "query": "\"智慧沙盒\" \"10月16\" site:hsinchu.gov.tw",
+          "excerpt": "獎項再加碼！徵件延長到10/16 17:00！",
+          "retrieval_qualification": "This excerpt appeared in an official-domain search result. Direct open of the programme homepage failed. It is not a verified live-page read. A later narrowly quoted search returned unrelated results and provided no additional confirmation.",
+          "original_deadline_evidence": {
+            "source": "Official 2026 Hsinchu County Smart Sandbox competition regulations, 22-page government PDF",
+            "page": 17,
+            "original_application_window": "2026-08-21 through 2026-10-07",
+            "qualification": "Original timetable is tentative and says later official website announcements prevail. October 16 in the original timetable is finalist announcement, not the original submission cutoff. The later indexed extension is separate evidence."
+          },
+          "award_branch_evidence": {
+            "pages": [
+              4,
+              5,
+              7
+            ],
+            "social_and_student_groups": "Each group: gold TWD100000, silver TWD60000, bronze TWD20000. Total across both groups TWD360000.",
+            "company_group": "Explicitly excluded from cash-prize distribution; company innovation recognition/trophy/certificate, and possible scoring benefit on a separate future local SBIR application, subject to its own rules.",
+            "team_size": "Professional-solving stage: 1–5 people per team across the defined groups.",
+            "owner_qualification": "No owner eligibility or social/company route classification assumed."
+          },
+          "excerpt_english_operator_reviewed": "Awards expanded; submissions extended to October 16 at 17:00."
+        },
+        "current_award_coverage_review": "Cash tiers and company exclusion are verified in the original 2026 government rules. Latest indexed expanded-award notice could not be read live; current amendment details remain unresolved. Do not certify a promised current payout."
+      },
+      "award_components": [
+        {
+          "kind": "cash",
+          "detail": "2026 social and student groups each have gold/silver/bronze awards. Company group explicitly gets no cash; no stacking or pool aggregation.",
+          "evidence_state": "verified_historical",
+          "edition": 2026,
+          "checked_on": "2026-10-12",
+          "source_urls": [
+            "https://ws.hcshb.gov.tw/Download.ashx?n=MjAyNiDmlrDnq7nnuKPmmbrmhafmspnnm5LlibXmlrDoqIjnlavnq7bos73nsKHnq6AucGRm&u=LzAwMS9VcGxvYWQvNDExL3JlbGZpbGUvOTI5MS8xMDk4MTcvMzBlNTc5ZTUtMDUxOS00MTMyLWJjM2YtYjE5MGY0MGY1MzRlLnBkZg%3D%3D",
+            "https://smartsandbox.hsinchu.gov.tw/",
+            "https://smartsandbox.hsinchu.gov.tw/home/pagehowtoplay.html",
+            "https://smartsandbox.hsinchu.gov.tw/home/pagesmartsand.html"
+          ],
+          "amount": {
+            "tiers": [
+              100000,
+              60000,
+              20000
+            ],
+            "currency": "TWD"
+          },
+          "amount_basis": "per_team",
+          "pool_role": "unknown",
+          "scope": "track",
+          "track_id": "social_or_student"
+        },
+        {
+          "kind": "services",
+          "detail": "Company track recognition; further local-SBIR scoring subject to separate rules.",
+          "evidence_state": "verified_historical",
+          "edition": 2026,
+          "checked_on": "2026-10-12",
+          "source_urls": [
+            "https://ws.hcshb.gov.tw/Download.ashx?n=MjAyNiDmlrDnq7nnuKPmmbrmhafmspnnm5LlibXmlrDoqIjnlavnq7bos73nsKHnq6AucGRm&u=LzAwMS9VcGxvYWQvNDExL3JlbGZpbGUvOTI5MS8xMDk4MTcvMzBlNTc5ZTUtMDUxOS00MTMyLWJjM2YtYjE5MGY0MGY1MzRlLnBkZg%3D%3D",
+            "https://smartsandbox.hsinchu.gov.tw/",
+            "https://smartsandbox.hsinchu.gov.tw/home/pagehowtoplay.html",
+            "https://smartsandbox.hsinchu.gov.tw/home/pagesmartsand.html"
+          ],
+          "amount": null,
+          "amount_basis": "unknown",
+          "pool_role": "unknown",
+          "scope": "track",
+          "track_id": "company"
+        },
+        {
+          "kind": "unknown",
+          "detail": "Indexed announcement advertises ASUS AI accelerator bonus; exact device/service terms not independently established.",
+          "evidence_state": "unresolved",
+          "edition": null,
+          "checked_on": "2026-10-12",
+          "source_urls": [
+            "https://smartsandbox.hsinchu.gov.tw/"
+          ],
+          "amount": null,
+          "amount_basis": "unknown",
+          "pool_role": "unknown"
+        }
+      ],
+      "history": [],
+      "unconsumed_fields": [
+        "checked_at",
+        "current_award_coverage_review",
+        "edition_status",
+        "index_evidence",
+        "name",
+        "official_url",
+        "team_minimum"
+      ],
+      "review_complete": true,
+      "manual_review": {
+        "checked_on": "2026-10-12",
+        "protocol": "Reviewed new-only append; no old-record headline replacement. Undated terms were not assigned a fabricated 2026 edition.",
+        "coverage": "Source-material coverage and portal gaps retained; complete verified form bindings not claimed.",
+        "planner_used": false,
+        "additional_fields_reviewed": [
+          "checked_at",
+          "current_award_coverage_review",
+          "edition_status",
+          "index_evidence",
+          "name",
+          "official_url",
+          "team_minimum"
+        ]
+      }
+    },
+    "tw-taoyuan-local-sbir": {
+      "raw_findings": {
+        "edition_status": "115/2026 deadline passed; official portal lists September2026 grant recipients. No2027call verified.",
+        "team_minimum": {
+          "people": null,
+          "company_count": 1,
+          "evidence": "No personnel minimum identified; small-company insurance alternatives exist. Optionaljoint route2 companies, not2 people."
+        },
+        "eligibility": {
+          "entity": "Operating domestic registered company/limited partnership/business satisfyingSME limits: capital≤TWD100m or fewer200 employees.",
+          "locality": "Execution workplace within city; local worksite evidence required, third party public-space inspection site disallowed. Do not infer general founder residency or citizenship.",
+          "exclusions": "Branches, PRC investment, arrears/material violations and duplicate funded work excluded; one case per company/responsibleperson/year; twice funded within5 years cannot reapply."
+        },
+        "application_fields": {
+          "observed": "Basic company/project data; self-check, application, registrations, research staff insurance,2025profit/tax and latest401 VAT, national/local no-arrears checks, consent, local worksite proof and programme survey.",
+          "conditional": "Factory proof if applicable; incubator/tariff evidence optional; joint agreements for joint route.",
+          "portal": "Guide: qualification PDFs≤50 MB; proposal Word≤50 MB; success screen/email confirms receipt."
+        },
+        "requirements": {
+          "project": "Innovative R&D, electronic ICT or innovative services; technical targets, schedule/checkpoints, budget and commercialization plan.",
+          "pitch": "PI attends review/presents written-review responses; maximum3 attendees is not team minimum.",
+          "video_MVP": "No mandatory video or existing MVP identified."
+        },
+        "attendance": {
+          "review": "PI reviewpresentation; remote availability unverified. Actual city workplace subject to inspection."
+        },
+        "award": {
+          "type": "Conditional matched R&D subsidy, notinvestment/prize.",
+          "maximum": 1000000,
+          "currency": "TWD",
+          "rate": "≤50%; applicant balance self-financed.",
+          "duration": "6–10 months; approved extension≤1 month.",
+          "payout": "First installment aftercontract; later claims/audit per contract.",
+          "equity_repayment": "No equity term identified; violations/duplicates canrevoke subsidy."
+        },
+        "expense_rules": {
+          "allowed": "R&D payroll, consumables/materials, equipmentuse/maintenance, technology/IP introduction andcontract research; detailed Annex D controls.",
+          "restrictions": "Only approved project spending; ordinary marketing/rent not listed eligible.",
+          "fees": "No explicit application fee verified; do not assert free."
+        },
+        "deadlines": {
+          "application": "2026-06-01 12:00; explicit timezone unverified.",
+          "next": "Unannounced."
+        },
+        "unresolved": [
+          "Detailed annex accounting/payout contract not fully inspected; exact portal memberfields unverified.",
+          "Locality/insurance conditions require applicant-specific check; support not guaranteed."
+        ],
+        "sources": [
+          {
+            "url": "https://invest.tycg.gov.tw/cp.aspx?n=848",
+            "role": "City 2026 overview/deadline/current domain",
+            "kind": "official_source_read",
+            "checked_at": "2026-10-12"
+          },
+          {
+            "url": "https://ws.tycg.gov.tw/Download.ashx?n=MTE15bm0U0JJUueUs%2Biri%2BmgiOefpS5wZGY%3D&u=LzAwMS9VcGxvYWQvMTgvcmVsZmlsZS84MTU4LzE1My9jNWFlOGI1Zi1jZGYyLTQyY2EtOGUwMC1kYTU3NGY3ZDM5NmEucGRm",
+            "role": "Official nine-page 2026 guidelines",
+            "kind": "official_source_read",
+            "checked_at": "2026-10-12"
+          },
+          {
+            "url": "https://ws.tycg.gov.tw/Download.ashx?n=MTE15bm05qGD5ZySU0JJUl%2Fnt5rkuIroqIjnlavnrqHnkIbns7vntbHmk43kvZzmlZnlrbgucGRm&u=LzAwMS9VcGxvYWQvMTgvcmVsZmlsZS84MTU4LzE1My8wZDlmZmI4Yy00Zjg3LTRlNGMtYWMxYy1hZjcwOGM4NzZkNWMucGRm",
+            "role": "Official nine-page portal guide",
+            "kind": "official_source_read",
+            "checked_at": "2026-10-12"
+          },
+          {
+            "url": "https://taoyuan-sbir.tycg.gov.tw/",
+            "role": "New officialportal and awarded 2026 status",
+            "kind": "official_source_read",
+            "checked_at": "2026-10-12"
+          }
+        ],
+        "id": "tw-taoyuan-local-sbir",
+        "name": "Taoyuan Local SBIR — single-company route",
+        "official_url": "https://invest.tycg.gov.tw/cp.aspx?n=848",
+        "checked_at": "2026-10-12",
+        "note_markdown": "Research-only programme facts. No owner eligibility, intent, account or submission inferred."
+      },
+      "award_components": [
+        {
+          "kind": "restricted_cash",
+          "detail": "2026 closed intake: single-company matched R&D subsidy up to TWD1m and 50% of approved project cost; future terms unannounced.",
+          "evidence_state": "verified_historical",
+          "edition": 2026,
+          "checked_on": "2026-10-12",
+          "source_urls": [
+            "https://invest.tycg.gov.tw/cp.aspx?n=848",
+            "https://ws.tycg.gov.tw/Download.ashx?n=MTE15bm0U0JJUueUs%2Biri%2BmgiOefpS5wZGY%3D&u=LzAwMS9VcGxvYWQvMTgvcmVsZmlsZS84MTU4LzE1My9jNWFlOGI1Zi1jZGYyLTQyY2EtOGUwMC1kYTU3NGY3ZDM5NmEucGRm",
+            "https://ws.tycg.gov.tw/Download.ashx?n=MTE15bm05qGD5ZySU0JJUl%2Fnt5rkuIroqIjnlavnrqHnkIbns7vntbHmk43kvZzmlZnlrbgucGRm&u=LzAwMS9VcGxvYWQvMTgvcmVsZmlsZS84MTU4LzE1My8wZDlmZmI4Yy00Zjg3LTRlNGMtYWMxYy1hZjcwOGM4NzZkNWMucGRm",
+            "https://taoyuan-sbir.tycg.gov.tw/"
+          ],
+          "amount": {
+            "maximum": 1000000,
+            "currency": "TWD"
+          },
+          "amount_basis": "up_to",
+          "pool_role": "unknown",
+          "scope": "programme",
+          "restricted_uses": {
+            "allowed": "R&D payroll, consumables/materials, equipmentuse/maintenance, technology/IP introduction andcontract research; detailed Annex D controls.",
+            "restrictions": "Only approved project spending; ordinary marketing/rent not listed eligible.",
+            "fees": "No explicit application fee verified; do not assert free."
+          }
+        }
+      ],
+      "history": [],
+      "unconsumed_fields": [
+        "checked_at",
+        "edition_status",
+        "name",
+        "official_url",
+        "team_minimum"
+      ],
+      "review_complete": true,
+      "manual_review": {
+        "checked_on": "2026-10-12",
+        "protocol": "Reviewed new-only append; no old-record headline replacement. Undated terms were not assigned a fabricated 2026 edition.",
+        "coverage": "Source-material coverage and portal gaps retained; complete verified form bindings not claimed.",
+        "planner_used": false,
+        "additional_fields_reviewed": [
+          "checked_at",
+          "edition_status",
+          "name",
+          "official_url",
+          "team_minimum"
+        ]
+      }
     }
   }
 }
