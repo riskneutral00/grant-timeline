@@ -10478,5 +10478,2135 @@
         ]
       }
     }
+  },
+  {
+    "fit_reason": "Female decision-maker; Taiwan SME under8 years; at least one non-founder full-time employee.",
+    "team_min": null,
+    "team_max": null,
+    "prize": "In-kind six-month training, mentoring, capital and international introductions. No guaranteed investment or cash award.",
+    "id": "tw-women-entrepreneurship-academy",
+    "name": "Taiwan Women Entrepreneurship Academy",
+    "type": "accelerator",
+    "country": "TW",
+    "organizer": "MOEA SMESA; Sun Yat-Sen Management Education Foundation",
+    "url": "https://www.sme.gov.tw/women/article-women-3303-20002",
+    "source_url": "https://www.sme.gov.tw/women/files/20001/64A4E0F7-9DAD-4182-9BAD-7C4309E27547",
+    "status": "planning",
+    "deadline": null,
+    "summary": "Selective Taiwan academy helping female-led technology startups improve pitches, raise capital and expand internationally. Checked2026-10-12; historical deadlines retained in audit; next intake unannounced.",
+    "fit": "want",
+    "funding_kind": "noncash",
+    "fee_status": "unknown",
+    "application_cycle": {
+      "label": "Next intake unannounced; historical evidence retained",
+      "programme_name": "Taiwan Women Entrepreneurship Academy",
+      "status": "planning",
+      "announcement_status": "unannounced",
+      "opens_on": null,
+      "deadline": null,
+      "deadline_time": null,
+      "timezone": null,
+      "source_url": "https://www.sme.gov.tw/women/files/20001/64A4E0F7-9DAD-4182-9BAD-7C4309E27547",
+      "checked_at": "2026-10-12",
+      "history": [
+        {
+          "label": "2026 intake (closed)",
+          "programme_name": "Taiwan Women Entrepreneurship Academy",
+          "status": "closed",
+          "announcement_status": "announced",
+          "opens_on": null,
+          "deadline": "2026-04-08",
+          "deadline_time": "17:00",
+          "timezone": null,
+          "source_url": "https://www.sme.gov.tw/women/files/20001/64A4E0F7-9DAD-4182-9BAD-7C4309E27547",
+          "checked_at": "2026-10-12"
+        }
+      ],
+      "date_evidence_kind": "official_source_read",
+      "research": {
+        "as_of": "2026-10-12",
+        "status": "mixed",
+        "limits": "Past edition/family verified; next application window unannounced. Detailed audit retains eligibility, benefit and public-form gaps.",
+        "evidence": [
+          {
+            "url": "https://www.sme.gov.tw/women/files/20001/64A4E0F7-9DAD-4182-9BAD-7C4309E27547",
+            "kind": "official_source_read"
+          },
+          {
+            "url": "https://www.moea.gov.tw/MNS/populace/news/News.aspx?kind=1&menu_id=40&news_id=122165",
+            "kind": "official_source_read"
+          }
+        ]
+      }
+    },
+    "first_seen": "2026-10-12",
+    "last_checked": "2026-10-12",
+    "deadline_time": null,
+    "deadline_timezone": null,
+    "deadline_source_url": null
+  },
+  {
+    "fit_reason": "ROC-national female decision-maker; Taiwan SME;2025 average insured employees at least10 plus capital/revenue and financial thresholds.",
+    "team_min": null,
+    "team_max": null,
+    "prize": "Recognition, trophy/certificate, published award profile, mentors, capital/international introductions and alumni network. Government cross-notice describes preferential credit guarantees up to 95% and additional guarantee limit e.g. TWD5m; these are financing guarantees, not cash grants.",
+    "id": "tw-women-entrepreneur-awards",
+    "name": "SMESA Women Entrepreneur Awards",
+    "type": "competition",
+    "country": "TW",
+    "organizer": "MOEA SMESA; Sun Yat-Sen Management Education Foundation",
+    "url": "https://www.sme.gov.tw/women/list-women-3266",
+    "source_url": "https://www.sme.gov.tw/women_en/article-women_en-3295-20396",
+    "status": "planning",
+    "deadline": null,
+    "summary": "Annual recognition and business support for female leaders of innovative Taiwan SMEs; no verified cash grant. Checked2026-10-12; historical deadlines retained in audit; next intake unannounced.",
+    "fit": "want",
+    "funding_kind": "noncash",
+    "fee_status": "unknown",
+    "application_cycle": {
+      "label": "Next intake unannounced; historical evidence retained",
+      "programme_name": "SMESA Women Entrepreneur Awards",
+      "status": "planning",
+      "announcement_status": "unannounced",
+      "opens_on": null,
+      "deadline": null,
+      "deadline_time": null,
+      "timezone": null,
+      "source_url": "https://www.sme.gov.tw/women_en/article-women_en-3295-20396",
+      "checked_at": "2026-10-12",
+      "history": [
+        {
+          "label": "15th edition2026 intake (closed)",
+          "programme_name": "SMESA Women Entrepreneur Awards",
+          "status": "closed",
+          "announcement_status": "announced",
+          "opens_on": null,
+          "deadline": "2026-06-01",
+          "deadline_time": "17:00",
+          "timezone": null,
+          "source_url": "https://www.sme.gov.tw/women_en/article-women_en-3295-20396",
+          "checked_at": "2026-10-12"
+        }
+      ],
+      "date_evidence_kind": "official_source_read",
+      "research": {
+        "as_of": "2026-10-12",
+        "status": "mixed",
+        "limits": "Past edition/family verified; next application window unannounced. Detailed audit retains eligibility, benefit and public-form gaps.",
+        "evidence": [
+          {
+            "url": "https://www.sme.gov.tw/women_en/article-women_en-3295-20396",
+            "kind": "official_source_read"
+          },
+          {
+            "url": "https://competition.sysme.org.tw/",
+            "kind": "official_source_read"
+          },
+          {
+            "url": "https://kh-sbir.kcg.gov.tw/News_Content.aspx?n=37D9047C953FA59B&s=79C9E91F1C3D8784&sms=909C4A010E96755E",
+            "kind": "official_source_read"
+          },
+          {
+            "url": "https://competition.sysme.org.tw/_Image/DefaultVisitor/%E5%8F%83%E9%81%B8%E5%B0%8D%E8%B1%A1%E8%88%87%E8%B3%87%E6%A0%BC.png?v=5",
+            "kind": "official_source_read"
+          }
+        ]
+      }
+    },
+    "first_seen": "2026-10-12",
+    "last_checked": "2026-10-12",
+    "deadline_time": null,
+    "deadline_timezone": null,
+    "deadline_source_url": null
+  },
+  {
+    "fit_reason": "Female leader aged16–35; Taiwan business aged1–8 years; two representatives required for training.",
+    "team_min": 2,
+    "team_max": null,
+    "prize": "TWD2m total competition pool: first TWD600k, second400k, third300k, seven others100k each. Top-ten initial100k is included in those totals. Mentoring/workshops. Related Garden of Hope mutual-support branch accepts first-to-third-edition initial shortlisted companies: two TWD150k awards, TWD300k pool; June30 noon cutoff, October–December2026 execution. Not counted separately.",
+    "id": "tw-standard-chartered-wie",
+    "name": "Standard Chartered Women in Entrepreneurship Award Taiwan",
+    "type": "competition",
+    "country": "TW",
+    "organizer": "Standard Chartered Foundation/Bank; Garden of Hope Foundation; Impact Hub Taipei",
+    "url": "https://wiegoh.tw/",
+    "source_url": "https://wiegoh.tw/",
+    "status": "planning",
+    "deadline": null,
+    "summary": "Taiwan competition combining cash awards, training and mentoring for female business leaders aged16–35. Checked2026-10-12; historical deadlines retained in audit; next intake unannounced.",
+    "fit": "want",
+    "funding_kind": "cash",
+    "fee_status": "unknown",
+    "application_cycle": {
+      "label": "Next intake unannounced; historical evidence retained",
+      "programme_name": "Standard Chartered Women in Entrepreneurship Award Taiwan",
+      "status": "planning",
+      "announcement_status": "unannounced",
+      "opens_on": null,
+      "deadline": null,
+      "deadline_time": null,
+      "timezone": null,
+      "source_url": "https://wiegoh.tw/",
+      "checked_at": "2026-10-12",
+      "history": [
+        {
+          "label": "Fourth edition2026 intake (closed)",
+          "programme_name": "Standard Chartered Women in Entrepreneurship Award Taiwan",
+          "status": "closed",
+          "announcement_status": "announced",
+          "opens_on": "2026-03-04",
+          "deadline": "2026-04-20",
+          "deadline_time": "12:00",
+          "timezone": null,
+          "source_url": "https://wiegoh.tw/",
+          "checked_at": "2026-10-12"
+        }
+      ],
+      "date_evidence_kind": "official_source_read",
+      "research": {
+        "as_of": "2026-10-12",
+        "status": "mixed",
+        "limits": "Past edition/family verified; next application window unannounced. Detailed audit retains eligibility, benefit and public-form gaps.",
+        "evidence": [
+          {
+            "url": "https://wiegoh.tw/",
+            "kind": "official_source_read"
+          },
+          {
+            "url": "https://wiegoh.tw/2026/news/new2.html",
+            "kind": "official_source_read"
+          }
+        ]
+      }
+    },
+    "first_seen": "2026-10-12",
+    "last_checked": "2026-10-12",
+    "deadline_time": null,
+    "deadline_timezone": null,
+    "deadline_source_url": null
+  },
+  {
+    "fit_reason": "Seed impact startup; woman decision-maker OR product/model addressing women’s welfare; institutional recommendation or partner cohort.",
+    "team_min": null,
+    "team_max": null,
+    "prize": "Equity investment, not prize grant: three Queen selections TWD1m each; one Goddess selection TWD2m; totalTWD5m; same startup winning both may receive TWD3m. Advice, finance and business support.",
+    "id": "tw-o-bank-we-win",
+    "name": "O-Bank WE Win Innovative Women Competition",
+    "type": "investment",
+    "country": "TW",
+    "organizer": "O-Bank and accelerator/recommending partners",
+    "url": "https://www.o-bank.com/web/event/CM_20231231/index.html",
+    "source_url": "https://www.cna.com.tw/business/chinese/429070",
+    "status": "planning",
+    "deadline": null,
+    "summary": "Bank-organized impact startup competition with negotiated equity investment; first final planned for March2027. Recommendation intake dates remain unverified.",
+    "fit": "want",
+    "funding_kind": "equity",
+    "fee_status": "unknown",
+    "application_cycle": {
+      "label": "Next intake unannounced; historical evidence retained",
+      "programme_name": "O-Bank WE Win Innovative Women Competition",
+      "status": "planning",
+      "announcement_status": "unannounced",
+      "opens_on": null,
+      "deadline": null,
+      "deadline_time": null,
+      "timezone": null,
+      "source_url": "https://www.cna.com.tw/business/chinese/429070",
+      "checked_at": "2026-10-12",
+      "history": [
+        {
+          "label": "First edition announced2026; final planned March2027",
+          "programme_name": "O-Bank WE Win Innovative Women Competition",
+          "status": "planning",
+          "announcement_status": "announced",
+          "opens_on": null,
+          "deadline": null,
+          "deadline_time": null,
+          "timezone": null,
+          "source_url": "https://www.cna.com.tw/business/chinese/429070",
+          "checked_at": "2026-10-12"
+        }
+      ],
+      "date_evidence_kind": "recorded",
+      "research": {
+        "as_of": "2026-10-12",
+        "status": "mixed",
+        "limits": "Past edition/family verified; next application window unannounced. Detailed audit retains eligibility, benefit and public-form gaps. September30 recommendation date appeared only in a search-indexed official campaign whose current body differs. It is retained in raw audit only, excluded from dated history and not represented as live checked source.",
+        "evidence": [
+          {
+            "url": "https://www.cna.com.tw/business/chinese/429070",
+            "kind": "official_source_read"
+          },
+          {
+            "url": "https://www.o-bank.com/web/event/CM_20231231/index.html",
+            "kind": "official_source_read"
+          }
+        ]
+      }
+    },
+    "first_seen": "2026-10-12",
+    "last_checked": "2026-10-12",
+    "deadline_time": null,
+    "deadline_timezone": null,
+    "deadline_source_url": null
+  },
+  {
+    "fit_reason": "Economically disadvantaged new-resident and Taiwan women; current cohort conditions unannounced.",
+    "team_min": null,
+    "team_max": null,
+    "prize": "Entrepreneurship courses/consultation and competitively selected startup cash subsidies. Provider verifies actual subsidy mechanism; individual amount/currency schedule unknown. Aggregate historical spending is not a per-applicant award.",
+    "id": "tw-new-women-accelerator",
+    "name": "New Women Entrepreneurship Accelerator",
+    "type": "accelerator",
+    "country": "TW",
+    "organizer": "Foundation for Women's Rights Promotion and Development",
+    "url": "https://www.wrp.org.tw/OnePage.aspx?id=139&mid=38",
+    "source_url": "https://www.wrp.org.tw/OnePage.aspx?id=139&mid=38",
+    "status": "planning",
+    "deadline": null,
+    "summary": "Women-focused entrepreneurship training, advice and competitive startup subsidies for economically disadvantaged participants. Checked2026-10-12; historical deadlines retained in audit; next intake unannounced.",
+    "fit": "want",
+    "funding_kind": "mixed",
+    "fee_status": "unknown",
+    "application_cycle": {
+      "label": "Next intake unannounced; historical evidence retained",
+      "programme_name": "New Women Entrepreneurship Accelerator",
+      "status": "planning",
+      "announcement_status": "unannounced",
+      "opens_on": null,
+      "deadline": null,
+      "deadline_time": null,
+      "timezone": null,
+      "source_url": "https://www.wrp.org.tw/OnePage.aspx?id=139&mid=38",
+      "checked_at": "2026-10-12",
+      "history": [
+        {
+          "label": "Established programme; no verified current intake dates",
+          "programme_name": "New Women Entrepreneurship Accelerator",
+          "status": "planning",
+          "announcement_status": "unverified",
+          "opens_on": null,
+          "deadline": null,
+          "deadline_time": null,
+          "timezone": null,
+          "source_url": "https://www.wrp.org.tw/OnePage.aspx?id=139&mid=38",
+          "checked_at": "2026-10-12"
+        }
+      ],
+      "date_evidence_kind": "recorded",
+      "research": {
+        "as_of": "2026-10-12",
+        "status": "mixed",
+        "limits": "Past edition/family verified; next application window unannounced. Detailed audit retains eligibility, benefit and public-form gaps.",
+        "evidence": [
+          {
+            "url": "https://www.wrp.org.tw/OnePage.aspx?id=139&mid=38",
+            "kind": "official_source_read"
+          },
+          {
+            "url": "https://www.hsinchu.gov.tw/News_Content.aspx?n=153&s=250458",
+            "kind": "official_source_read"
+          },
+          {
+            "url": "https://www.powerofwomen.org.tw/",
+            "kind": "official_source_read"
+          }
+        ]
+      }
+    },
+    "first_seen": "2026-10-12",
+    "last_checked": "2026-10-12",
+    "deadline_time": null,
+    "deadline_timezone": null,
+    "deadline_source_url": null
+  },
+  {
+    "fit_reason": "2–5 participants; at least half eligible students, recent graduates or full-time researchers; faculty recommender. Company-award stage needs incorporation and TWD500k team capital. Inclusion records discovery; applicant eligibility is unconfirmed.",
+    "team_min": 2,
+    "team_max": 5,
+    "prize": "2026 published terms: staged TWD10,000 +50,000 +200,000 implementation incentives; outstanding teams may additionally receive TWD1,000,000 company fund subject to incorporation and audited TWD500,000 team capital contribution.",
+    "id": "tw-fiti",
+    "name": "FITI — From IP to IPO Innovation and Entrepreneurship Incentive Program",
+    "type": "competition",
+    "country": "TW",
+    "organizer": "NSTC; NIAR Science and Technology Policy Research and Information Center",
+    "url": "https://fiti.stpi.niar.org.tw/",
+    "source_url": "https://fiti.stpi.niar.org.tw/global/87a2381e2f3a494288dc67d9b8e8f621",
+    "status": "planning",
+    "deadline": null,
+    "deadline_time": null,
+    "deadline_timezone": null,
+    "deadline_source_url": null,
+    "summary": "Academic technology commercialisation training and awards; 2026 second intake closed, next intake unannounced.",
+    "fit": "want",
+    "funding_kind": "mixed",
+    "fee_status": "unknown",
+    "first_seen": "2026-10-12",
+    "last_checked": "2026-10-12",
+    "application_cycle": {
+      "label": "Next intake unannounced; 2026 intake closed",
+      "programme_name": "FITI — From IP to IPO Innovation and Entrepreneurship Incentive Program",
+      "status": "planning",
+      "announcement_status": "unannounced",
+      "opens_on": null,
+      "deadline": null,
+      "deadline_time": null,
+      "timezone": null,
+      "source_url": "https://fiti.stpi.niar.org.tw/",
+      "checked_at": "2026-10-12",
+      "history": [
+        {
+          "label": "2026 intake",
+          "programme_name": "FITI — From IP to IPO Innovation and Entrepreneurship Incentive Program",
+          "status": "closed",
+          "announcement_status": "announced",
+          "opens_on": null,
+          "deadline": "2026-06-24",
+          "deadline_time": null,
+          "timezone": null,
+          "source_url": "https://fiti.stpi.niar.org.tw/global/87a2381e2f3a494288dc67d9b8e8f621",
+          "checked_at": "2026-10-12",
+          "date_evidence_kind": "official_source_read"
+        }
+      ],
+      "date_evidence_kind": "official_source_read",
+      "research": {
+        "as_of": "2026-10-12",
+        "status": "mixed",
+        "limits": "No next edition verified. Current 2026-2 download package uses rules revised May 15, 2025; illustrative forms retain older FITI2024 codes. Team investment is a company-fund condition, not an entry fee or state equity purchase. No complete public authenticated application view. Detailed travel reimbursement not established.",
+        "evidence": [
+          {
+            "url": "https://fiti.stpi.niar.org.tw/global/87a2381e2f3a494288dc67d9b8e8f621",
+            "kind": "official_source_read"
+          },
+          {
+            "url": "https://fiti.stpi.niar.org.tw/global/ada0f26cd24d4b95ba3f0f1bf6b8d302",
+            "kind": "official_source_read"
+          },
+          {
+            "url": "https://fiti.stpi.niar.org.tw/global/fileDownload/b74f7301afd74a499329bf7dbafc50ef",
+            "kind": "official_source_read"
+          },
+          {
+            "url": "https://fiti.stpi.niar.org.tw/global/fileDownload/bd52e99b090b4d0fa5e0cbb29fca81c3",
+            "kind": "official_source_read"
+          },
+          {
+            "url": "https://fiti.stpi.narl.org.tw/global/fileDownload/5914e1f26dff4db3a4da50e8f4bf90be",
+            "kind": "official_source_read"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "fit_reason": "3–5 enrolled university/graduate students, domestic or foreign; additional advisers optional; copyright assignment required. Inclusion records discovery; applicant eligibility is unconfirmed.",
+    "team_min": 3,
+    "team_max": null,
+    "prize": "2026 team cash: TWD200,000 /100,000 /50,000.",
+    "id": "tw-atcc",
+    "name": "ATCC National College Business Case Competition",
+    "type": "competition",
+    "country": "TW",
+    "organizer": "ATONA International",
+    "url": "https://atcc.co/atcc/",
+    "source_url": "https://atcc.co/atcc/",
+    "status": "planning",
+    "deadline": null,
+    "deadline_time": null,
+    "deadline_timezone": null,
+    "deadline_source_url": null,
+    "summary": "Student business-case competition; 2026 closed. Student limit: 3–5 students; advisers are additional (maximum not established). Advisers optional; organizer allows more than one and no numerical adviser maximum was verified. Record team_max is null because the student ceiling is not a verified whole-team ceiling.",
+    "fit": "want",
+    "funding_kind": "cash",
+    "fee_status": "none",
+    "first_seen": "2026-10-12",
+    "last_checked": "2026-10-12",
+    "application_cycle": {
+      "label": "Next intake unannounced; 2026 intake closed",
+      "programme_name": "ATCC National College Business Case Competition",
+      "status": "planning",
+      "announcement_status": "unannounced",
+      "opens_on": null,
+      "deadline": null,
+      "deadline_time": null,
+      "timezone": null,
+      "source_url": "https://atcc.co/atcc/",
+      "checked_at": "2026-10-12",
+      "history": [
+        {
+          "label": "2026 intake",
+          "programme_name": "ATCC National College Business Case Competition",
+          "status": "closed",
+          "announcement_status": "announced",
+          "opens_on": null,
+          "deadline": "2026-04-14",
+          "deadline_time": "12:00:00",
+          "timezone": null,
+          "source_url": "https://atcc.co/atcc/",
+          "checked_at": "2026-10-12",
+          "date_evidence_kind": "official_source_read"
+        }
+      ],
+      "date_evidence_kind": "official_source_read",
+      "research": {
+        "as_of": "2026-10-12",
+        "status": "mixed",
+        "limits": "Next edition unknown; no tax/expense schedule verified. ATONA identity appears in official circulation/search evidence; its separate cases page direct read failed.",
+        "evidence": [
+          {
+            "url": "https://atcc.co/atcc/",
+            "kind": "official_source_read"
+          },
+          {
+            "url": "https://atona.com.tw/cases/886",
+            "kind": "unavailable"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "fit_reason": "2–5 Taiwan-college students with optional additional teachers; nationality unrestricted; AI-use disclosure required. Inclusion records discovery; applicant eligibility is unconfirmed.",
+    "team_min": 2,
+    "team_max": null,
+    "prize": "2026 per track: TWD16,000 /13,000 /10,000; five TWD2,000 merit awards.",
+    "id": "tw-ai-digital-trade-students",
+    "name": "National University AI Digital Trade Innovation Application Competition",
+    "type": "competition",
+    "country": "TW",
+    "organizer": "Importers and Exporters Association of Taipei; Jiaye Information; Chihlee University",
+    "url": "https://ai-trade-competition.zeabur.app/",
+    "source_url": "https://ai-trade-competition.zeabur.app/downloads/2026-AI%E6%95%B8%E4%BD%8D%E8%B2%BF%E6%98%93%E5%89%B5%E6%96%B0%E6%87%89%E7%94%A8%E7%AB%B6%E8%B3%BD-%E7%AB%B6%E8%B3%BD%E8%BE%A6%E6%B3%95.pdf",
+    "status": "planning",
+    "deadline": null,
+    "deadline_time": null,
+    "deadline_timezone": null,
+    "deadline_source_url": null,
+    "summary": "Student AI trade proposals; registration closed. Student limit: 2–5 students; advisers are additional (maximum 2). One or two optional teachers; they are additional to the student team. Record team_max is null because the student ceiling is not a verified whole-team ceiling.",
+    "fit": "want",
+    "funding_kind": "cash",
+    "fee_status": "none",
+    "first_seen": "2026-10-12",
+    "last_checked": "2026-10-12",
+    "application_cycle": {
+      "label": "Next intake unannounced; 2026 intake closed",
+      "programme_name": "National University AI Digital Trade Innovation Application Competition",
+      "status": "planning",
+      "announcement_status": "unannounced",
+      "opens_on": null,
+      "deadline": null,
+      "deadline_time": null,
+      "timezone": null,
+      "source_url": "https://ai-trade-competition.zeabur.app/",
+      "checked_at": "2026-10-12",
+      "history": [
+        {
+          "label": "2026 intake",
+          "programme_name": "National University AI Digital Trade Innovation Application Competition",
+          "status": "closed",
+          "announcement_status": "announced",
+          "opens_on": null,
+          "deadline": "2026-09-30",
+          "deadline_time": null,
+          "timezone": null,
+          "source_url": "https://ai-trade-competition.zeabur.app/downloads/2026-AI%E6%95%B8%E4%BD%8D%E8%B2%BF%E6%98%93%E5%89%B5%E6%96%B0%E6%87%89%E7%94%A8%E7%AB%B6%E8%B3%BD-%E7%AB%B6%E8%B3%BD%E8%BE%A6%E6%B3%95.pdf",
+          "checked_at": "2026-10-12",
+          "date_evidence_kind": "official_source_read"
+        }
+      ],
+      "date_evidence_kind": "official_source_read",
+      "research": {
+        "as_of": "2026-10-12",
+        "status": "mixed",
+        "limits": "Organizer homepage/short registration link unavailable. School-authored notice corroborates eligibility/free entry; competition PDF identified organizer. Next edition unknown.",
+        "evidence": [
+          {
+            "url": "https://ai-trade-competition.zeabur.app/downloads/2026-AI%E6%95%B8%E4%BD%8D%E8%B2%BF%E6%98%93%E5%89%B5%E6%96%B0%E6%87%89%E7%94%A8%E7%AB%B6%E8%B3%BD-%E7%AB%B6%E8%B3%BD%E8%BE%A6%E6%B3%95.pdf",
+            "kind": "official_source_read"
+          },
+          {
+            "url": "https://im.thu.edu.tw/upload/im/news_upload/1784010987-1151002644_64_di.pdf",
+            "kind": "official_source_read"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "fit_reason": "3–6 formally enrolled students, at least half college; adviser wording differs across sections. Announced 2026 call links to a stale 2024 form. Inclusion records discovery; applicant eligibility is unconfirmed.",
+    "team_min": 3,
+    "team_max": null,
+    "prize": "2026 per track TWD10,000 /8,000 /6,000; three merit awards TWD2,000 each.",
+    "id": "tw-csu-student-entrepreneurship",
+    "name": "Cheng Shiu National College Student Creativity and Entrepreneurship Competition",
+    "type": "competition",
+    "country": "TW",
+    "organizer": "Cheng Shiu University",
+    "url": "https://ba.csu.edu.tw/p/406-1110-30309,r22.php?Lang=zh-tw",
+    "source_url": "https://ba.csu.edu.tw/p/406-1110-30309,r22.php?Lang=zh-tw",
+    "status": "open",
+    "deadline": "2026-11-06",
+    "deadline_time": null,
+    "deadline_timezone": null,
+    "deadline_source_url": null,
+    "summary": "Open to November 6, 2026; national student startup proposals, explicitly including AI, SDGs and USR. Student limit: 3–6 students; advisers are additional (maximum 2). Detailed qualification makes one or two advisers optional; introduction describes them as included. Preserve this inconsistency rather than increase the student minimum. Record team_max is null because the student ceiling is not a verified whole-team ceiling.",
+    "fit": "want",
+    "funding_kind": "cash",
+    "fee_status": "none",
+    "first_seen": "2026-10-12",
+    "last_checked": "2026-10-12",
+    "application_cycle": {
+      "label": "2026 announced intake; portal operation unconfirmed",
+      "programme_name": "Cheng Shiu National College Student Creativity and Entrepreneurship Competition",
+      "status": "open",
+      "announcement_status": "announced",
+      "opens_on": null,
+      "deadline": "2026-11-06",
+      "deadline_time": null,
+      "timezone": null,
+      "source_url": "https://ba.csu.edu.tw/p/406-1110-30309,r22.php?Lang=zh-tw",
+      "checked_at": "2026-10-12",
+      "history": [
+        {
+          "label": "2026 intake",
+          "programme_name": "Cheng Shiu National College Student Creativity and Entrepreneurship Competition",
+          "status": "open",
+          "announcement_status": "announced",
+          "opens_on": null,
+          "deadline": "2026-11-06",
+          "deadline_time": null,
+          "timezone": null,
+          "source_url": "https://ba.csu.edu.tw/p/406-1110-30309,r22.php?Lang=zh-tw",
+          "checked_at": "2026-10-12",
+          "date_evidence_kind": "official_source_read"
+        }
+      ],
+      "date_evidence_kind": "official_source_read",
+      "research": {
+        "as_of": "2026-10-12",
+        "status": "mixed",
+        "limits": "Detailed online form not inspected; account not created. Advisor mandatory/optional wording inconsistent; preserve detail and confirm if applying. Award tax/transport costs/payment mechanics not fully stated. Organizer's current homepage says 2026 intake through November 6, but its linked registration view still displays 2024 dates/categories. Operational 2026 entry not confirmed; do not submit through a stale form.",
+        "evidence": [
+          {
+            "url": "https://ba.csu.edu.tw/p/406-1110-30309,r22.php?Lang=zh-tw",
+            "kind": "official_source_read"
+          },
+          {
+            "url": "https://rd.hdut.edu.tw/p/406-1007-26239,r383.php?Lang=zh-tw",
+            "kind": "official_source_read"
+          },
+          {
+            "url": "https://rd.hdut.edu.tw/app/index.php?Action=downloadfile&file=WVhSMFlXTm9MelE1TDNCMFlWOHlOREU0TTE4Mk5qQTBOelU1WHpNeU1UY3pMbkJrWmc9PQ==&fname=WW54RPOKIC44TXMPVS04JGWTZSB4TSB114FG40YS41GDWWTS34TS24DGDGOOZWCDRKCCGDMPDGPODCGDIGNK40XSECICUS3500VXOO50WSB4WXDG14SSQKECWWXW45XX00LKTXHGDCHCPO20ECFCCGHCUT35PKSSUSB445EGYSOKROUWICCCUTZXHC1034LKQOJG50KKFGJCTWYSXT51LKA0QK30RKEG20GGFCEGWWPONP1544VWOKJGSTTWVX14OPB0OKYSNPIDML44KPB001DGOOKKYWQKRKCCGDLPA4B054WSFCJGOO25USB0HGMPGGJD44B0LKZWXWFGB010CDXXWW40CCNLEDNOB024TWDGUS35OPMOGGWSGGNPDDRKZW30YSSWFGOORKFCIC44HDHH44POXTGDIGJGKKWS54A0A1A1",
+            "kind": "official_source_read"
+          },
+          {
+            "url": "https://www.ceoic.com.tw/bmcsu/bmcsuec/main.php?site_id=95",
+            "kind": "official_source_read"
+          },
+          {
+            "url": "https://www.ceoic.com.tw/bmcsu/bmcsuec/main.php?activity_id=1&func=show_activity_content_sign&mod=activity&site_id=95",
+            "kind": "official_source_read"
+          },
+          {
+            "url": "https://www.ceoic.com.tw/bmcsu/bmcsuec/main.php?func=readFile&mod=tiny_mce4&path=%2Futf8%2Fmodules%2Fadv_custom_page%2F95%2Ffile%2F2026%25E5%2589%25B5%25E6%25A5%25AD%25E5%258F%258A%25E5%2589%25B5%25E6%2584%258F%25E7%25AB%25B6%25E8%25B3%25BD%25E6%25B4%25BB%25E5%258B%2595%25E8%25A8%2588%25E7%2595%25AB%25E6%259B%25B8_20261120%25E5%2585%25AC%25E5%2591%258A%25E7%2589%2588_V3.pdf",
+            "kind": "official_source_read"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "fit_reason": "Current college students, at most six, plus required advisers; minimum student count unverified. Inclusion records discovery; applicant eligibility is unconfirmed.",
+    "team_min": null,
+    "team_max": null,
+    "prize": "2026 per track TWD20,000 /15,000 /10,000; three merit TWD5,000 awards; possible subsequent incubation assistance not guaranteed cash.",
+    "id": "tw-stust-super-pitch",
+    "name": "Southern Taiwan University National Super Pitch Show",
+    "type": "competition",
+    "country": "TW",
+    "organizer": "Southern Taiwan University of Science and Technology",
+    "url": "https://ieih.stust.edu.tw/contest/index.php?cm_id=24",
+    "source_url": "https://bic.chihlee.edu.tw/p/404-1044-127373.php?Lang=zh-tw",
+    "status": "planning",
+    "deadline": null,
+    "deadline_time": null,
+    "deadline_timezone": null,
+    "deadline_source_url": null,
+    "summary": "2026 first national Super Pitch Show closed; student concept/business pitches with software/services eligible. Student maximum: six; minimum unstated; advisers are additional (maximum 2). Rules require advising professor(s), at most two; student lower limit unstated. Advisers additional to students. Record team_max is null because the student ceiling is not a verified whole-team ceiling.",
+    "fit": "want",
+    "funding_kind": "cash",
+    "fee_status": "unknown",
+    "first_seen": "2026-10-12",
+    "last_checked": "2026-10-12",
+    "application_cycle": {
+      "label": "Next intake unannounced; 2026 intake closed",
+      "programme_name": "Southern Taiwan University National Super Pitch Show",
+      "status": "planning",
+      "announcement_status": "unannounced",
+      "opens_on": null,
+      "deadline": null,
+      "deadline_time": null,
+      "timezone": null,
+      "source_url": "https://ieih.stust.edu.tw/contest/index.php?cm_id=24",
+      "checked_at": "2026-10-12",
+      "history": [
+        {
+          "label": "2026 intake",
+          "programme_name": "Southern Taiwan University National Super Pitch Show",
+          "status": "closed",
+          "announcement_status": "announced",
+          "opens_on": null,
+          "deadline": "2026-04-07",
+          "deadline_time": "17:00:00",
+          "timezone": null,
+          "source_url": "https://bic.chihlee.edu.tw/p/404-1044-127373.php?Lang=zh-tw",
+          "checked_at": "2026-10-12",
+          "date_evidence_kind": "official_source_read"
+        }
+      ],
+      "date_evidence_kind": "official_source_read",
+      "research": {
+        "as_of": "2026-10-12",
+        "status": "mixed",
+        "limits": "Main contest page was an unreadable shell; full organizer-authored package read on another official university host. Illustrative registration screenshot retains prior-year title. No next cycle, explicit lower team limit or entry fee verified.",
+        "evidence": [
+          {
+            "url": "https://bic.chihlee.edu.tw/p/404-1044-127373.php?Lang=zh-tw",
+            "kind": "official_source_read"
+          },
+          {
+            "url": "https://bic.chihlee.edu.tw/app/index.php?Action=downloadfile&file=WVhSMFlXTm9MekV5TDNCMFlWODVNVEUzT0Y4ME5URTFOVGc1WHpBMU9UTXpMbkJrWmc9PQ==&fname=0054ROB0RKSSTXHHEDXS54ICQODGGDA1SSB040ICNPQL00B5WSJCFCB4FGOOTTQKZTPODD00JCB054WSRKXSIC30WXTW35HCTXJDXWB0WSB001A4DG0020USSS40NPYXFGNO50SXVWB425GGB0MO40ICMLGDMLA4NK30ECTWOOKKRODGWWWS1505DGB04124TWB4FHNP2024CGMKMLXTRORKYSNK30DGQOPOKLUSYWXWFD15GGJCIGGDOO30JD25PKUWGG3500GDQP4434TS0154SS54PKSW&cg=5593",
+            "kind": "official_source_read"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "fit_reason": "Worldwide college students or separate high-school track; at most six students and two advisers; minimum unverified; English track excludes native English speakers. Inclusion records discovery; applicant eligibility is unconfirmed.",
+    "team_min": null,
+    "team_max": null,
+    "prize": "2026 per category: first TWD3,000, second TWD2,000, three third-place awards TWD1,000; certificates for additional selected teams.",
+    "id": "tw-chihlee-new-venture-cup",
+    "name": "Chihlee New Venture Cup — Creativity, Innovation and Entrepreneurship Planning Competition",
+    "type": "competition",
+    "country": "TW",
+    "organizer": "Chihlee University of Technology Business Technology Applications Department",
+    "url": "https://ca100.chihlee.edu.tw/",
+    "source_url": "https://hkhs.hcc.edu.tw/p/406-1015-557702,r1619.php",
+    "status": "planning",
+    "deadline": null,
+    "deadline_time": null,
+    "deadline_timezone": null,
+    "deadline_source_url": null,
+    "summary": "Taiwan-administered student business/App/cloud planning contest; 2026 registration closed, finalist files still due October 21. Student maximum: six; minimum unstated; advisers are additional (maximum 2). Published ceiling eight total consists of six students plus two advisers; minimum student/adviser count unstated. Record team_max is null because the student ceiling is not a verified whole-team ceiling.",
+    "fit": "want",
+    "funding_kind": "cash",
+    "fee_status": "unknown",
+    "first_seen": "2026-10-12",
+    "last_checked": "2026-10-12",
+    "application_cycle": {
+      "label": "Next intake unannounced; 2026 intake closed",
+      "programme_name": "Chihlee New Venture Cup — Creativity, Innovation and Entrepreneurship Planning Competition",
+      "status": "planning",
+      "announcement_status": "unannounced",
+      "opens_on": null,
+      "deadline": null,
+      "deadline_time": null,
+      "timezone": null,
+      "source_url": "https://ca100.chihlee.edu.tw/",
+      "checked_at": "2026-10-12",
+      "history": [
+        {
+          "label": "2026 intake",
+          "programme_name": "Chihlee New Venture Cup — Creativity, Innovation and Entrepreneurship Planning Competition",
+          "status": "closed",
+          "announcement_status": "announced",
+          "opens_on": null,
+          "deadline": "2026-09-30",
+          "deadline_time": "23:59:00",
+          "timezone": null,
+          "source_url": "https://hkhs.hcc.edu.tw/p/406-1015-557702,r1619.php",
+          "checked_at": "2026-10-12",
+          "date_evidence_kind": "official_source_read"
+        }
+      ],
+      "date_evidence_kind": "official_source_read",
+      "research": {
+        "as_of": "2026-10-12",
+        "status": "mixed",
+        "limits": "Minimum student number unspecified; account/form not submitted. Fee/transport/payment unknown; award ceremony attendance versus overseas video exception needs clarification. Only Taiwan-run family counted; globally open eligibility is not a global franchise regional round. No next edition verified.",
+        "evidence": [
+          {
+            "url": "https://hkhs.hcc.edu.tw/p/406-1015-557702,r1619.php",
+            "kind": "official_source_read"
+          },
+          {
+            "url": "https://hkhs.hcc.edu.tw/app/index.php?Action=downloadfile&file=WVhSMFlXTm9MelE1TDNCMFlWODBOVFE0TlRKZk9UTTJNalkyTVY4NE5EQXdNQzV3WkdZPQ==&fname=0054ROB0RKSSTXHHEDXS54ICQODGGDA1SSB040ICNPQL00B5WSJCGH54QOHGVWQK44POHD15DGB0A0WSMOXSUW35OPNOGCGC21XT04B5YSUS3050SSTSKLOKLOPO55ZXLOPOUWJGVWB4WSICWSRKUS35QPXTWWSSSSNKYSUWDGTS1050YWQOUT05HC04B4XWTWB4A0NPWSA0CGMK00GDJGA5LKB0JCDG20KKXWGHUSCCFDXXLOEGRO14PKMOGDIGFGUW4010UTIDWWA5OKUS45FGCCOKROSWNO00ZTIHHC1035MOVWHCKOKKWSICXSICGGRLROSSNK20JGVSGGPOUWWXLO44DDZXPKNONO34VWPK35YSSTMOUSKKIHXTTWTSFC30NKPOOOHGNO50ZTCCA510GGPOMOYSQOB430NPFGROFHNOIHXT3050KPYWLKPOWSGGUWGHWWTS450124FGDHJG&cg=73",
+            "kind": "official_source_read"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "fit_reason": "Age18–45; at least one Yilan resident, employee or student; student and existing-product improvement routes. Inclusion records discovery; applicant eligibility is unconfirmed.",
+    "team_min": null,
+    "team_max": null,
+    "prize": "Student cash awards (2026 amounts not verified); social-track product-improvement support/services, not unrestricted cash.",
+    "id": "tw-yilan-new-entrepreneurship",
+    "name": "Yilan New Entrepreneurship Competition",
+    "country": "TW",
+    "type": "competition",
+    "organizer": "Yilan County Government / National Ilan University",
+    "url": "https://iiic.niu.edu.tw/p/406-1067-71078,r1276.php",
+    "source_url": "https://iiic.niu.edu.tw/p/406-1067-71078,r1276.php",
+    "summary": "2026 fifth edition closed April 27; June final completed. Next call unannounced. Population restriction: Youth ages 18–45; at least one member resident, employed or studying in Yilan; student and social tracks.",
+    "status": "planning",
+    "deadline": null,
+    "deadline_time": null,
+    "deadline_timezone": null,
+    "deadline_source_url": null,
+    "fit": "want",
+    "funding_kind": "mixed",
+    "fee_status": "unknown",
+    "first_seen": "2026-10-12",
+    "last_checked": "2026-10-12",
+    "application_cycle": {
+      "label": "Next intake unannounced",
+      "programme_name": "Yilan New Entrepreneurship Competition",
+      "status": "planning",
+      "announcement_status": "unverified",
+      "opens_on": null,
+      "deadline": null,
+      "deadline_time": null,
+      "timezone": null,
+      "source_url": "https://iiic.niu.edu.tw/p/406-1067-71078,r1276.php",
+      "checked_at": "2026-10-12",
+      "history": [
+        {
+          "label": "2026 closed application intake",
+          "programme_name": "Yilan New Entrepreneurship Competition",
+          "status": "closed",
+          "announcement_status": "announced",
+          "opens_on": null,
+          "deadline": "2026-04-27",
+          "deadline_time": "17:00:00",
+          "timezone": null,
+          "source_url": "https://iiic.niu.edu.tw/p/406-1067-71078,r1276.php",
+          "checked_at": "2026-10-12"
+        }
+      ],
+      "research": {
+        "as_of": "2026-10-12",
+        "status": "mixed",
+        "limits": "2026 fifth edition closed April 27; June final completed. Next call unannounced. Public guide coverage and portal gaps are retained in the detailed audit; applicant qualification is unverified.",
+        "evidence": [
+          {
+            "url": "https://iiic.niu.edu.tw/p/406-1067-71078,r1276.php",
+            "kind": "official_source_read"
+          },
+          {
+            "url": "https://iiic.niu.edu.tw/p/406-1067-71179,r1275.php",
+            "kind": "official_source_read"
+          },
+          {
+            "url": "https://www.e-land.gov.tw/News_Content.aspx?n=11419&s=400405",
+            "kind": "official_source_read"
+          },
+          {
+            "url": "https://reurl.cc/nlGN21",
+            "kind": "unavailable"
+          }
+        ]
+      },
+      "date_evidence_kind": "official_source_read"
+    }
+  },
+  {
+    "fit_reason": "Registered unlisted Taiwan startup or overseas startup with real Taiwan operations; no verified universal youth-age restriction. Inclusion records discovery; applicant eligibility is unconfirmed.",
+    "team_min": null,
+    "team_max": null,
+    "prize": "2026 cash TWD400k/140k/60k; finalist coaching and three-month VC support. Investment not guaranteed.",
+    "id": "tw-newtaipei-venturestar",
+    "name": "New Taipei VentureStar Startup Challenge",
+    "country": "TW",
+    "type": "competition",
+    "organizer": "New Taipei City Youth Department / Taiwan Venture Capital Association",
+    "url": "https://ntpc-venturestar.com.tw/",
+    "source_url": "https://ntpc-venturestar.com.tw/",
+    "summary": "2026 initial applications closed May31; current October29 final is not a new application round. Next call unannounced. Population restriction: Registered unlisted Taiwan startups or overseas startups with actual Taiwan operations; no verified youth age limit.",
+    "status": "planning",
+    "deadline": null,
+    "deadline_time": null,
+    "deadline_timezone": null,
+    "deadline_source_url": null,
+    "fit": "want",
+    "funding_kind": "mixed",
+    "fee_status": "none",
+    "first_seen": "2026-10-12",
+    "last_checked": "2026-10-12",
+    "application_cycle": {
+      "label": "Next intake unannounced",
+      "programme_name": "New Taipei VentureStar Startup Challenge",
+      "status": "planning",
+      "announcement_status": "unverified",
+      "opens_on": null,
+      "deadline": null,
+      "deadline_time": null,
+      "timezone": null,
+      "source_url": "https://ntpc-venturestar.com.tw/",
+      "checked_at": "2026-10-12",
+      "history": [
+        {
+          "label": "2026 closed application intake",
+          "programme_name": "New Taipei VentureStar Startup Challenge",
+          "status": "closed",
+          "announcement_status": "announced",
+          "opens_on": null,
+          "deadline": "2026-05-31",
+          "deadline_time": null,
+          "timezone": null,
+          "source_url": "https://www.youth.ntpc.gov.tw/youth/ch/app/news/view?id=104&module=headnews&serno=041b34f3-a895-45fe-9c46-03fec9948fa5",
+          "checked_at": "2026-10-12"
+        }
+      ],
+      "research": {
+        "as_of": "2026-10-12",
+        "status": "mixed",
+        "limits": "2026 initial applications closed May31; current October29 final is not a new application round. Next call unannounced. Public guide coverage and portal gaps are retained in the detailed audit; applicant qualification is unverified.",
+        "evidence": [
+          {
+            "url": "https://ntpc-venturestar.com.tw/",
+            "kind": "official_source_read"
+          },
+          {
+            "url": "https://www.youth.ntpc.gov.tw/youth/ch/app/news/view?id=104&module=headnews&serno=041b34f3-a895-45fe-9c46-03fec9948fa5",
+            "kind": "official_source_read"
+          },
+          {
+            "url": "https://startup.sme.gov.tw/api/viewer/event_detail.php?id=7924",
+            "kind": "official_source_read"
+          },
+          {
+            "url": "https://tvca.oen.tw/events/3J265tPnaYE8VYAp7vFbkCaH897",
+            "kind": "official_source_read"
+          },
+          {
+            "url": "https://drive.google.com/file/d/1Sx18ZWIhu9uT035qZmJKrYnfj7JmPk7g/view",
+            "kind": "unavailable"
+          }
+        ]
+      },
+      "date_evidence_kind": "official_source_read"
+    }
+  },
+  {
+    "fit_reason": "2–5 enrolled high-school/vocational/college/graduate students; optional teacher; operable agent prototype required for final. Inclusion records discovery; applicant eligibility is unconfirmed.",
+    "team_min": 2,
+    "team_max": 5,
+    "prize": "2026 cash per track TWD25k/15k/10k and five merit awards5k; two tracks share total 150k.",
+    "id": "tw-napai-agentic-ai",
+    "name": "NAPAI Agentic AI Campus Innovation Competition",
+    "country": "TW",
+    "type": "competition",
+    "organizer": "MOE NAPAI / National Central University / National Taipei University",
+    "url": "https://napaincu.github.io/aaic2026/",
+    "source_url": "https://napaincu.github.io/aaic2026/",
+    "summary": "2026 live site accepts initial registration and proposals to October16 23:59; older September11 registration notice superseded. Timezone unstated. Population restriction: Currently enrolled high-school/vocational-school and college/graduate students; cross-school/discipline teams allowed.",
+    "status": "open",
+    "deadline": "2026-10-16",
+    "deadline_time": null,
+    "deadline_timezone": null,
+    "deadline_source_url": null,
+    "fit": "want",
+    "funding_kind": "cash",
+    "fee_status": "unknown",
+    "first_seen": "2026-10-12",
+    "last_checked": "2026-10-12",
+    "application_cycle": {
+      "label": "2026 current initial intake",
+      "programme_name": "NAPAI Agentic AI Campus Innovation Competition",
+      "status": "open",
+      "announcement_status": "announced",
+      "opens_on": null,
+      "deadline": "2026-10-16",
+      "deadline_time": "23:59:00",
+      "timezone": null,
+      "source_url": "https://napaincu.github.io/aaic2026/",
+      "checked_at": "2026-10-12",
+      "history": [],
+      "research": {
+        "as_of": "2026-10-12",
+        "status": "mixed",
+        "limits": "2026 live site accepts initial registration and proposals to October16 23:59; older September11 registration notice superseded. Timezone unstated. Public guide coverage and portal gaps are retained in the detailed audit; applicant qualification is unverified.",
+        "evidence": [
+          {
+            "url": "https://napaincu.github.io/aaic2026/",
+            "kind": "official_source_read"
+          },
+          {
+            "url": "https://napaincu.github.io/aaic2026/rules/competition-rules-zh.pdf",
+            "kind": "official_source_read"
+          },
+          {
+            "url": "https://newboe.chc.edu.tw/posts_show/83026",
+            "kind": "official_source_read"
+          },
+          {
+            "url": "https://aicp.ntpu.ai/c/napai-agentic-ai-innovation-2026",
+            "kind": "official_source_read"
+          }
+        ]
+      },
+      "date_evidence_kind": "official_source_read"
+    }
+  },
+  {
+    "fit_reason": "At least two school pupils and one teacher, three people overall; student bounds2–4 and teacher bounds1–2; grade-specific tracks and hardware costs. Inclusion records discovery; applicant eligibility is unconfirmed.",
+    "team_min": 3,
+    "team_max": null,
+    "prize": "Certificates and TWD500–3,000 vouchers or equivalent gifts; conditional enterprise prizes, not unrestricted cash.",
+    "id": "tw-start-ai-smartcar",
+    "name": "START! AI Smart Car National Competition",
+    "country": "TW",
+    "type": "competition",
+    "organizer": "National Taiwan Normal University / New Taipei City Education Department",
+    "url": "https://sites.google.com/a/go.pymhs.tyc.edu.tw/startlearning/",
+    "source_url": "https://sites.google.com/a/go.pymhs.tyc.edu.tw/startlearning/",
+    "summary": "2026 seventh edition initial intake closed February12 noon; March21 final completed. Next call unannounced. Population restriction: Elementary, junior-high and high-school students according to track/grade; requires 1–2 supervising teachers. Required composition includes at least 2 student competitors and 1 supervising teacher: at least 3 people overall. Student upper bound 4 is not a whole-team maximum.",
+    "status": "planning",
+    "deadline": null,
+    "deadline_time": null,
+    "deadline_timezone": null,
+    "deadline_source_url": null,
+    "fit": "want",
+    "funding_kind": "noncash",
+    "fee_status": "unknown",
+    "first_seen": "2026-10-12",
+    "last_checked": "2026-10-12",
+    "application_cycle": {
+      "label": "Next intake unannounced",
+      "programme_name": "START! AI Smart Car National Competition",
+      "status": "planning",
+      "announcement_status": "unverified",
+      "opens_on": null,
+      "deadline": null,
+      "deadline_time": null,
+      "timezone": null,
+      "source_url": "https://sites.google.com/a/go.pymhs.tyc.edu.tw/startlearning/",
+      "checked_at": "2026-10-12",
+      "history": [
+        {
+          "label": "2026 closed application intake",
+          "programme_name": "START! AI Smart Car National Competition",
+          "status": "closed",
+          "announcement_status": "announced",
+          "opens_on": null,
+          "deadline": "2026-02-12",
+          "deadline_time": "12:00:00",
+          "timezone": null,
+          "source_url": "https://www.dkes.tyc.edu.tw/uploads/neilmfdcms/types1/2file/file/3814_1_376735100e_1140113938_attach2.pdf",
+          "checked_at": "2026-10-12"
+        }
+      ],
+      "research": {
+        "as_of": "2026-10-12",
+        "status": "mixed",
+        "limits": "2026 seventh edition initial intake closed February12 noon; March21 final completed. Next call unannounced. Public guide coverage and portal gaps are retained in the detailed audit; applicant qualification is unverified.",
+        "evidence": [
+          {
+            "url": "https://sites.google.com/a/go.pymhs.tyc.edu.tw/startlearning/",
+            "kind": "official_source_read"
+          },
+          {
+            "url": "https://www.dkes.tyc.edu.tw/uploads/neilmfdcms/types1/2file/file/3814_1_376735100e_1140113938_attach2.pdf",
+            "kind": "official_source_read"
+          },
+          {
+            "url": "https://www.yjjh.tp.edu.tw/news/2026-start-ai%E6%99%BA%E6%85%A7%E5%B0%8F%E8%BB%8A%E7%AB%B6%E8%B3%BD/",
+            "kind": "official_source_read"
+          }
+        ]
+      },
+      "date_evidence_kind": "official_source_read"
+    }
+  },
+  {
+    "fit_reason": "Audited AI-game route:2–6 same-school high-school/vocational or college students; under18 guardian consent. Whole-family personnel minimum unverified. Inclusion records discovery; applicant eligibility is unconfirmed.",
+    "team_min": null,
+    "team_max": null,
+    "prize": "2026 AIgame-design cash per education group:TWD12k champion/5k runner-up; certificates and exhibit.",
+    "id": "tw-ccce-national-creative",
+    "name": "CCCE National Science-Art and Esports Competition — AI Game Design route",
+    "country": "TW",
+    "type": "competition",
+    "organizer": "Kaohsiung Education Bureau / Chinese Culture Education Association / Chinese Virtual Sports Association",
+    "url": "https://www.cccedu.org/",
+    "source_url": "https://www.cccedu.org/",
+    "summary": "2026 registration closed September30; registered teams submit preliminary work October8–23 and final December12–13. Next initial call unannounced. Population restriction: Audited AI game-design route:high-school/vocational and college/graduate students,2–6fromsame school. Other CCCE track eligibility not covered. The overall CCCE family minimum remains unknown; only the selected AI game-design route is verified at 2–6 students.",
+    "status": "planning",
+    "deadline": null,
+    "deadline_time": null,
+    "deadline_timezone": null,
+    "deadline_source_url": null,
+    "fit": "want",
+    "funding_kind": "cash",
+    "fee_status": "unknown",
+    "first_seen": "2026-10-12",
+    "last_checked": "2026-10-12",
+    "application_cycle": {
+      "label": "Next intake unannounced",
+      "programme_name": "CCCE National Science-Art and Esports Competition — AI Game Design route",
+      "status": "planning",
+      "announcement_status": "unverified",
+      "opens_on": null,
+      "deadline": null,
+      "deadline_time": null,
+      "timezone": null,
+      "source_url": "https://www.cccedu.org/",
+      "checked_at": "2026-10-12",
+      "history": [
+        {
+          "label": "2026 closed application intake",
+          "programme_name": "CCCE National Science-Art and Esports Competition — AI Game Design route",
+          "status": "closed",
+          "announcement_status": "announced",
+          "opens_on": null,
+          "deadline": "2026-09-30",
+          "deadline_time": null,
+          "timezone": null,
+          "source_url": "https://newboe.chc.edu.tw/download/2026_CCCE%E5%85%A8%E5%9C%8B%E7%A7%91%E8%97%9D%E9%9B%BB%E7%AB%B6%E5%A4%A7%E8%B3%BD%E6%AF%94%E8%B3%BD%E8%BE%A6%E6%B3%95_AI%E9%81%8A%E6%88%B2%E8%A8%AD%E8%A8%88.pdf/83100",
+          "checked_at": "2026-10-12"
+        }
+      ],
+      "research": {
+        "as_of": "2026-10-12",
+        "status": "mixed",
+        "limits": "2026 registration closed September30; registered teams submit preliminary work October8–23 and final December12–13. Next initial call unannounced. Public guide coverage and portal gaps are retained in the detailed audit; applicant qualification is unverified.",
+        "evidence": [
+          {
+            "url": "https://newboe.chc.edu.tw/download/2026_CCCE%E5%85%A8%E5%9C%8B%E7%A7%91%E8%97%9D%E9%9B%BB%E7%AB%B6%E5%A4%A7%E8%B3%BD%E6%AF%94%E8%B3%BD%E8%BE%A6%E6%B3%95_AI%E9%81%8A%E6%88%B2%E8%A8%AD%E8%A8%88.pdf/83100",
+            "kind": "official_source_read"
+          },
+          {
+            "url": "https://www.tcjhs.tn.edu.tw/modules/school/index.php?content_id=494&department_id=3&from_op=school_page_show&page_id=23&type=news&zone_id=0",
+            "kind": "official_source_read"
+          },
+          {
+            "url": "https://www.cccedu.org/",
+            "kind": "unavailable"
+          }
+        ]
+      },
+      "date_evidence_kind": "official_source_read"
+    }
+  },
+  {
+    "fit_reason": "New Taipei school-nominated high-school/vocational students, at most five plus two teachers; one full-time teacher required. Workshop wording does not establish student minimum. Inclusion records discovery; applicant eligibility is unconfirmed.",
+    "team_min": null,
+    "team_max": null,
+    "prize": "2026 vouchers:practice 30k/10k/5k; concept 10k/5k/2.5k; selected practice teams TWD 5k material support.",
+    "id": "tw-newtaipei-highschool-ai-startup",
+    "name": "New Taipei High-School AI StartUp Entrepreneurship Challenge",
+    "country": "TW",
+    "type": "competition",
+    "organizer": "New Taipei City Education Department / Taishan High School",
+    "url": "https://www.chshs.ntpc.edu.tw/p/406-1000-14237,r158.php",
+    "source_url": "https://www.chshs.ntpc.edu.tw/p/406-1000-14237,r158.php",
+    "summary": "2026 entry closed March25; May pitch and July final finished. Next call unannounced. Population restriction: New Taipei public/private general/vocational high-school students; teacher-supervised school-nominated teams. Overall people minimum unknown: workshop requires at least 2 attendees, but does not explicitly say both must be students; at least 1 formal teacher is required.",
+    "status": "planning",
+    "deadline": null,
+    "deadline_time": null,
+    "deadline_timezone": null,
+    "deadline_source_url": null,
+    "fit": "want",
+    "funding_kind": "mixed",
+    "fee_status": "unknown",
+    "first_seen": "2026-10-12",
+    "last_checked": "2026-10-12",
+    "application_cycle": {
+      "label": "Next intake unannounced",
+      "programme_name": "New Taipei High-School AI StartUp Entrepreneurship Challenge",
+      "status": "planning",
+      "announcement_status": "unverified",
+      "opens_on": null,
+      "deadline": null,
+      "deadline_time": null,
+      "timezone": null,
+      "source_url": "https://www.chshs.ntpc.edu.tw/p/406-1000-14237,r158.php",
+      "checked_at": "2026-10-12",
+      "history": [
+        {
+          "label": "2026 closed application intake",
+          "programme_name": "New Taipei High-School AI StartUp Entrepreneurship Challenge",
+          "status": "closed",
+          "announcement_status": "announced",
+          "opens_on": null,
+          "deadline": "2026-03-25",
+          "deadline_time": "17:00:00",
+          "timezone": null,
+          "source_url": "https://www.chshs.ntpc.edu.tw/p/406-1000-14237,r158.php",
+          "checked_at": "2026-10-12"
+        }
+      ],
+      "research": {
+        "as_of": "2026-10-12",
+        "status": "mixed",
+        "limits": "2026 entry closed March25; May pitch and July final finished. Next call unannounced. Public guide coverage and portal gaps are retained in the detailed audit; applicant qualification is unverified.",
+        "evidence": [
+          {
+            "url": "https://www.chshs.ntpc.edu.tw/p/406-1000-14237,r158.php",
+            "kind": "official_source_read"
+          },
+          {
+            "url": "https://www.lit.edu.tw/wp-content/uploads/2026/06/115010005229_1_04678213-4a4a-435a-a47c-62d16ef0da09_12085591_2026AIStartUp%E5%89%B5%E6%A5%AD%E6%8C%91%E6%88%B0%E8%B3%BD%E7%AC%AC%E4%B8%89%E9%9A%8E%E6%AE%B5%E6%B5%81%E7%A8%8B%EF%BC%88%E8%82%B2%E6%88%90%E4%B8%AD%E5%BF%83%EF%BC%89.pdf",
+            "kind": "unavailable"
+          }
+        ]
+      },
+      "date_evidence_kind": "official_source_read"
+    }
+  },
+  {
+    "fit_reason": "Registered Taiwan cultural-content company with ROC-national representative aged20+; full courses, review and closing report required. Inclusion records discovery; applicant eligibility is unconfirmed.",
+    "team_min": null,
+    "team_max": null,
+    "prize": "Business and financial coaching, investor Demo Day; contingent incentive cash amount unannounced. No guaranteed investment.",
+    "id": "tw-taicca-cultural-accelerator",
+    "name": "TAICCA Cultural Entrepreneurship Accelerator",
+    "country": "TW",
+    "type": "accelerator",
+    "organizer": "Taiwan Creative Content Agency",
+    "url": "https://school.taicca.tw/accelerator/apply",
+    "source_url": "https://school.taicca.tw/accelerator/apply",
+    "summary": "The seventh 2026 cohort closed May 22; training runs July–November. Next intake unannounced.",
+    "status": "planning",
+    "deadline": null,
+    "deadline_time": null,
+    "deadline_timezone": null,
+    "deadline_source_url": null,
+    "fit": "want",
+    "funding_kind": "mixed",
+    "fee_status": "unknown",
+    "first_seen": "2026-10-12",
+    "last_checked": "2026-10-12",
+    "application_cycle": {
+      "label": "Next intake unannounced",
+      "programme_name": "TAICCA Cultural Entrepreneurship Accelerator",
+      "status": "planning",
+      "announcement_status": "unverified",
+      "opens_on": null,
+      "deadline": null,
+      "deadline_time": null,
+      "timezone": null,
+      "source_url": "https://school.taicca.tw/accelerator/apply",
+      "checked_at": "2026-10-12",
+      "history": [
+        {
+          "label": "2026 closed intake",
+          "programme_name": "TAICCA Cultural Entrepreneurship Accelerator",
+          "status": "closed",
+          "announcement_status": "announced",
+          "deadline": "2026-05-22",
+          "deadline_time": "17:00:00",
+          "timezone": "Asia/Taipei",
+          "source_url": "https://school.taicca.tw/accelerator/apply",
+          "checked_at": "2026-10-12",
+          "opens_on": null
+        }
+      ],
+      "research": {
+        "as_of": "2026-10-12",
+        "status": "mixed",
+        "limits": "The seventh 2026 cohort closed May 22; training runs July–November. Next intake unannounced. Public guide coverage and portal gaps are retained in the detailed audit; applicant qualification is unverified.",
+        "evidence": [
+          {
+            "url": "https://school.taicca.tw/accelerator/apply",
+            "kind": "official_source_read"
+          },
+          {
+            "url": "https://taicca.tw/latest_news/plan_bulletin/detail/404",
+            "kind": "official_source_read"
+          },
+          {
+            "url": "https://school.taicca.tw/accelerator",
+            "kind": "official_source_read"
+          },
+          {
+            "url": "https://startup.sme.gov.tw/api/viewer/event_detail.php?id=7986",
+            "kind": "official_source_read"
+          },
+          {
+            "url": "https://course.taicca.tw/",
+            "kind": "unavailable"
+          }
+        ]
+      },
+      "date_evidence_kind": "official_source_read"
+    }
+  },
+  {
+    "fit_reason": "Registered domestic for-profit producer or operator with finished immersive content or operating venue; matched project budget and revenue sharing required. Inclusion records discovery; applicant eligibility is unconfirmed.",
+    "team_min": null,
+    "team_max": null,
+    "prize": "Historical 2026 support: up to 50% of total project cost, capped at TWD5m for content or TWD6m for venues; revenue sharing of 30%, 20% or 10%, capped at the support amount.",
+    "id": "tw-taicca-culturetech-commercial-validation",
+    "name": "TAICCA Cultural-Tech Content Commercial Validation Support",
+    "country": "TW",
+    "type": "grant",
+    "organizer": "Taiwan Creative Content Agency",
+    "url": "https://taicca.tw/latest_news/plan_bulletin/detail/408",
+    "source_url": "https://taicca.tw/latest_news/plan_bulletin/detail/408",
+    "summary": "The 2026 call closed June 9, with selections announced July 31. Existing projects may operate into 2027; new applications are closed.",
+    "status": "planning",
+    "deadline": null,
+    "deadline_time": null,
+    "deadline_timezone": null,
+    "deadline_source_url": null,
+    "fit": "want",
+    "funding_kind": "mixed",
+    "fee_status": "unknown",
+    "first_seen": "2026-10-12",
+    "last_checked": "2026-10-12",
+    "application_cycle": {
+      "label": "Next intake unannounced",
+      "programme_name": "TAICCA Cultural-Tech Content Commercial Validation Support",
+      "status": "planning",
+      "announcement_status": "unverified",
+      "opens_on": null,
+      "deadline": null,
+      "deadline_time": null,
+      "timezone": null,
+      "source_url": "https://taicca.tw/latest_news/plan_bulletin/detail/408",
+      "checked_at": "2026-10-12",
+      "history": [
+        {
+          "label": "2026 closed intake",
+          "programme_name": "TAICCA Cultural-Tech Content Commercial Validation Support",
+          "status": "closed",
+          "announcement_status": "announced",
+          "deadline": "2026-06-09",
+          "deadline_time": "17:00:00",
+          "timezone": null,
+          "source_url": "https://taicca.tw/latest_news/plan_bulletin/detail/408",
+          "checked_at": "2026-10-12",
+          "opens_on": null
+        }
+      ],
+      "research": {
+        "as_of": "2026-10-12",
+        "status": "mixed",
+        "limits": "The 2026 call closed June 9, with selections announced July 31. Existing projects may operate into 2027; new applications are closed. Public guide coverage and portal gaps are retained in the detailed audit; applicant qualification is unverified.",
+        "evidence": [
+          {
+            "url": "https://taicca.tw/latest_news/plan_bulletin/detail/408",
+            "kind": "official_source_read"
+          },
+          {
+            "url": "https://taicca.tw/latest_news/plan_bulletin/detail/445",
+            "kind": "official_source_read"
+          },
+          {
+            "url": "https://drive.google.com/file/d/1JXy9wwU2TES46nzGo9CgPJh0UQzP5-An/view?usp=drive_link",
+            "kind": "unavailable"
+          },
+          {
+            "url": "https://docs.google.com/document/d/1YcymEFijWc59K-BWDB0Y9HHUUcBtpB2mM3hUx8bGkuE/edit?tab=t.0",
+            "kind": "unavailable"
+          }
+        ]
+      },
+      "date_evidence_kind": "official_source_read"
+    }
+  },
+  {
+    "fit_reason": "Individual students aged17–24, high-school senior or above; free training; selected optional overseas delegates face refundable TWD10k deposit. Inclusion records discovery; applicant eligibility is unconfirmed.",
+    "team_min": 1,
+    "team_max": null,
+    "prize": "Free entrepreneurship training and mentoring; no stipend or travel allowance. Selected overseas delegates pay a refundable TWD10,000 deposit; hardship scholarship amount unknown.",
+    "id": "tw-epoch-yef",
+    "name": "Epoch Young Entrepreneurs of the Future (YEF)",
+    "country": "TW",
+    "type": "accelerator",
+    "organizer": "Epoch Foundation / Epoch School",
+    "url": "https://school.epoch.org.tw/apply_entrepreneur",
+    "source_url": "https://school.epoch.org.tw/apply_entrepreneur",
+    "summary": "The 2027 programme is preannounced. The homepage lists opening November 1, 2026; the current form only registers interest. Closing date unannounced.",
+    "status": "planning",
+    "deadline": null,
+    "deadline_time": null,
+    "deadline_timezone": null,
+    "deadline_source_url": null,
+    "fit": "want",
+    "funding_kind": "noncash",
+    "fee_status": "none",
+    "first_seen": "2026-10-12",
+    "last_checked": "2026-10-12",
+    "application_cycle": {
+      "label": "2027 programme preannounced",
+      "programme_name": "Epoch Young Entrepreneurs of the Future (YEF)",
+      "status": "planning",
+      "announcement_status": "announced",
+      "opens_on": "2026-11-01",
+      "deadline": null,
+      "deadline_time": null,
+      "timezone": null,
+      "source_url": "https://school.epoch.org.tw/apply_entrepreneur",
+      "checked_at": "2026-10-12",
+      "history": [],
+      "research": {
+        "as_of": "2026-10-12",
+        "status": "mixed",
+        "limits": "The 2027 programme is preannounced. The homepage lists opening November 1, 2026; the current form only registers interest. Closing date unannounced. Public guide coverage and portal gaps are retained in the detailed audit; applicant qualification is unverified.",
+        "evidence": [
+          {
+            "url": "https://school.epoch.org.tw/apply_entrepreneur",
+            "kind": "official_source_read"
+          },
+          {
+            "url": "https://school.epoch.org.tw/faq",
+            "kind": "official_source_read"
+          },
+          {
+            "url": "https://school.epoch.org.tw/",
+            "kind": "official_source_read"
+          },
+          {
+            "url": "https://docs.google.com/forms/d/e/1FAIpQLSc4j7NbTqOSdvd-OFE0D41NmomzV-aR0CHgdpL3rJ1jRk_cew/viewform",
+            "kind": "official_source_read"
+          },
+          {
+            "url": "https://epoch-cloudeep.s3.ap-northeast-1.amazonaws.com/images/apply/school_apply_entrepreneur_desktop_1.png",
+            "kind": "official_source_read"
+          },
+          {
+            "url": "https://epoch-cloudeep.s3.ap-northeast-1.amazonaws.com/images/apply/school_apply_entrepreneur_desktop_2.png",
+            "kind": "official_source_read"
+          }
+        ]
+      },
+      "date_evidence_kind": "official_source_read"
+    }
+  },
+  {
+    "fit_reason": "2–5 adults aged18+; separate student track18–30; Taiwan ID or foreign residence proof; registered units subject to age condition. Inclusion records discovery; applicant eligibility is unconfirmed.",
+    "team_min": 2,
+    "team_max": 5,
+    "prize": "Historical 2026 cash: social track TWD160k/100k/50k/30k; student track TWD100k/60k/30k/20k. Mentoring and conditional Carnegie course places.",
+    "id": "tw-yunus-foundation-innovation-award",
+    "name": "Taiwan Yunus Social Business Innovation Award",
+    "country": "TW",
+    "type": "competition",
+    "organizer": "Foundation for Yunus Social Business Taiwan",
+    "url": "https://www.yunustw.org/",
+    "source_url": "https://www.ntin.edu.tw/upload_data/news/51204/%E3%80%8C%E7%AC%AC%E5%85%AD%E5%B1%86%E5%8F%B0%E7%81%A3%E5%B0%A4%E5%8A%AA%E6%96%AF%E5%89%B5%E6%96%B0%E7%8D%8E%E3%80%8D%E7%AB%B6%E8%B3%BD%E8%BE%A6%E6%B3%95.pdf",
+    "summary": "The sixth 2026 edition closed May 31. Original rules provisionally scheduled the final September 12; next intake unannounced.",
+    "status": "planning",
+    "deadline": null,
+    "deadline_time": null,
+    "deadline_timezone": null,
+    "deadline_source_url": null,
+    "fit": "want",
+    "funding_kind": "mixed",
+    "fee_status": "unknown",
+    "first_seen": "2026-10-12",
+    "last_checked": "2026-10-12",
+    "application_cycle": {
+      "label": "Next intake unannounced",
+      "programme_name": "Taiwan Yunus Social Business Innovation Award",
+      "status": "planning",
+      "announcement_status": "unverified",
+      "opens_on": null,
+      "deadline": null,
+      "deadline_time": null,
+      "timezone": null,
+      "source_url": "https://www.yunustw.org/",
+      "checked_at": "2026-10-12",
+      "history": [
+        {
+          "label": "2026 closed intake",
+          "programme_name": "Taiwan Yunus Social Business Innovation Award",
+          "status": "closed",
+          "announcement_status": "announced",
+          "deadline": "2026-05-31",
+          "deadline_time": "23:59:00",
+          "timezone": null,
+          "source_url": "https://www.ntin.edu.tw/upload_data/news/51204/%E3%80%8C%E7%AC%AC%E5%85%AD%E5%B1%86%E5%8F%B0%E7%81%A3%E5%B0%A4%E5%8A%AA%E6%96%AF%E5%89%B5%E6%96%B0%E7%8D%8E%E3%80%8D%E7%AB%B6%E8%B3%BD%E8%BE%A6%E6%B3%95.pdf",
+          "checked_at": "2026-10-12",
+          "opens_on": null
+        }
+      ],
+      "research": {
+        "as_of": "2026-10-12",
+        "status": "mixed",
+        "limits": "The sixth 2026 edition closed May 31. Original rules provisionally scheduled the final September 12; next intake unannounced. Public guide coverage and portal gaps are retained in the detailed audit; applicant qualification is unverified.",
+        "evidence": [
+          {
+            "url": "https://www.ntin.edu.tw/upload_data/news/51204/%E3%80%8C%E7%AC%AC%E5%85%AD%E5%B1%86%E5%8F%B0%E7%81%A3%E5%B0%A4%E5%8A%AA%E6%96%AF%E5%89%B5%E6%96%B0%E7%8D%8E%E3%80%8D%E7%AB%B6%E8%B3%BD%E8%BE%A6%E6%B3%95.pdf",
+            "kind": "official_source_read"
+          },
+          {
+            "url": "https://www.ntin.edu.tw/News_detail.aspx?id=51204",
+            "kind": "official_source_read"
+          },
+          {
+            "url": "https://www.cgu.edu.tw/cii/Subject/Detail/76595?nodeId=7224",
+            "kind": "official_source_read"
+          },
+          {
+            "url": "https://www.yunustw.org/",
+            "kind": "unavailable"
+          },
+          {
+            "url": "https://forms.gle/Ax9J3oX8bV6vFhPd6",
+            "kind": "unavailable"
+          }
+        ]
+      },
+      "date_evidence_kind": "official_source_read"
+    }
+  },
+  {
+    "fit_reason": "3–6 people aged15+, at least half45 or younger; enterprise proposal addresses Taoyuan; post-award tasks and staged payment. Inclusion records discovery; applicant eligibility is unconfirmed.",
+    "team_min": 3,
+    "team_max": 6,
+    "prize": "Historical 2026 enterprise cash TWD150k/100k/50k/20k; top three can earn an extra TWD50k through specified tasks. Impact track TWD10k; mentoring and certification support.",
+    "id": "tw-taoyuan-ncu-yunus-prize",
+    "name": "Taoyuan Social Enterprise Startup Competition / NCU Yunus Prize",
+    "country": "TW",
+    "type": "competition",
+    "organizer": "Taoyuan Youth Affairs / Social Enterprise Centre; National Central University",
+    "url": "https://sbc.mgt.ncu.edu.tw/yunusprize/",
+    "source_url": "https://se.wda.gov.tw/Uploads/File/%E5%B0%A4%E5%8A%AA%E6%96%AF%E7%B0%A1%E7%AB%A0.pdf",
+    "summary": "The 11th 2026 edition closed June 22 at noon. Existing finalist and award obligations continue into November; next intake unannounced.",
+    "status": "planning",
+    "deadline": null,
+    "deadline_time": null,
+    "deadline_timezone": null,
+    "deadline_source_url": null,
+    "fit": "want",
+    "funding_kind": "mixed",
+    "fee_status": "unknown",
+    "first_seen": "2026-10-12",
+    "last_checked": "2026-10-12",
+    "application_cycle": {
+      "label": "Next intake unannounced",
+      "programme_name": "Taoyuan Social Enterprise Startup Competition / NCU Yunus Prize",
+      "status": "planning",
+      "announcement_status": "unverified",
+      "opens_on": null,
+      "deadline": null,
+      "deadline_time": null,
+      "timezone": null,
+      "source_url": "https://sbc.mgt.ncu.edu.tw/yunusprize/",
+      "checked_at": "2026-10-12",
+      "history": [
+        {
+          "label": "2026 closed intake",
+          "programme_name": "Taoyuan Social Enterprise Startup Competition / NCU Yunus Prize",
+          "status": "closed",
+          "announcement_status": "announced",
+          "deadline": "2026-06-22",
+          "deadline_time": "12:00:00",
+          "timezone": null,
+          "source_url": "https://se.wda.gov.tw/Uploads/File/%E5%B0%A4%E5%8A%AA%E6%96%AF%E7%B0%A1%E7%AB%A0.pdf",
+          "checked_at": "2026-10-12",
+          "opens_on": null
+        }
+      ],
+      "research": {
+        "as_of": "2026-10-12",
+        "status": "mixed",
+        "limits": "The 11th 2026 edition closed June 22 at noon. Existing finalist and award obligations continue into November; next intake unannounced. Public guide coverage and portal gaps are retained in the detailed audit; applicant qualification is unverified.",
+        "evidence": [
+          {
+            "url": "https://se.wda.gov.tw/Uploads/File/%E5%B0%A4%E5%8A%AA%E6%96%AF%E7%B0%A1%E7%AB%A0.pdf",
+            "kind": "official_source_read"
+          },
+          {
+            "url": "https://sbc.mgt.ncu.edu.tw/yunusprize/",
+            "kind": "official_source_read"
+          },
+          {
+            "url": "https://sbc.mgt.ncu.edu.tw/yunusprize_downloads/",
+            "kind": "official_source_read"
+          },
+          {
+            "url": "https://startup.sme.gov.tw/sitaiwan/Home/activity/3637",
+            "kind": "official_source_read"
+          },
+          {
+            "url": "https://forms.gle/2BusdXz7Kb8HGCwy5",
+            "kind": "unavailable"
+          }
+        ]
+      },
+      "date_evidence_kind": "official_source_read"
+    }
+  },
+  {
+    "fit_reason": "All ages/nationalities; individual, community and school tracks; younger school pupils need teacher; restricted Taiwan community project funds. Inclusion records discovery; applicant eligibility is unconfirmed.",
+    "team_min": 1,
+    "team_max": null,
+    "prize": "Historical 2026 project funding: individual up to TWD200k, community up to TWD500k, school up to TWD150k; selected first-time applicants can receive TWD10k starter awards.",
+    "id": "tw-sinyi-community-one",
+    "name": "Sinyi Community One Action Grants",
+    "country": "TW",
+    "type": "grant",
+    "organizer": "Sinyi Realty",
+    "url": "https://www.taiwan4718.tw/landingpage2026/",
+    "source_url": "https://www.taiwan4718.tw/upload/2026_event.pdf",
+    "summary": "The 2026 call closed April 30 at 17:00. Awarded projects continue into 2027; next intake unannounced.",
+    "status": "planning",
+    "deadline": null,
+    "deadline_time": null,
+    "deadline_timezone": null,
+    "deadline_source_url": null,
+    "fit": "want",
+    "funding_kind": "cash",
+    "fee_status": "unknown",
+    "first_seen": "2026-10-12",
+    "last_checked": "2026-10-12",
+    "application_cycle": {
+      "label": "Next intake unannounced",
+      "programme_name": "Sinyi Community One Action Grants",
+      "status": "planning",
+      "announcement_status": "unverified",
+      "opens_on": null,
+      "deadline": null,
+      "deadline_time": null,
+      "timezone": null,
+      "source_url": "https://www.taiwan4718.tw/landingpage2026/",
+      "checked_at": "2026-10-12",
+      "history": [
+        {
+          "label": "2026 closed intake",
+          "programme_name": "Sinyi Community One Action Grants",
+          "status": "closed",
+          "announcement_status": "announced",
+          "deadline": "2026-04-30",
+          "deadline_time": "17:00:00",
+          "timezone": null,
+          "source_url": "https://www.taiwan4718.tw/upload/2026_event.pdf",
+          "checked_at": "2026-10-12",
+          "opens_on": null
+        }
+      ],
+      "research": {
+        "as_of": "2026-10-12",
+        "status": "mixed",
+        "limits": "The 2026 call closed April 30 at 17:00. Awarded projects continue into 2027; next intake unannounced. Public guide coverage and portal gaps are retained in the detailed audit; applicant qualification is unverified.",
+        "evidence": [
+          {
+            "url": "https://www.taiwan4718.tw/landingpage2026/",
+            "kind": "official_source_read"
+          },
+          {
+            "url": "https://www.taiwan4718.tw/upload/2026_event.pdf",
+            "kind": "official_source_read"
+          },
+          {
+            "url": "https://www.taiwan4718.tw/plan_reg.php",
+            "kind": "unavailable"
+          }
+        ]
+      },
+      "date_evidence_kind": "official_source_read"
+    }
+  },
+  {
+    "fit_reason": "Foreign AI-related startups; robotics/smart-city solutions preferred. Entry through pitch contest; a separate invitation-only AI talent route is grouped in this family.",
+    "team_min": null,
+    "team_max": null,
+    "prize": "Partial round-trip airfare, accommodation support, customised Taiwan business trip, corporate/investor matching and free one-on-one consultation. Exact caps/currency, reimbursable duration and participant count unknown; no verified cash prize/equity investment.",
+    "id": "tw-teh-global-ai-startup",
+    "name": "Taipei Entrepreneurs Hub Global AI+ Startup Pitch and Landing Programme",
+    "type": "competition",
+    "country": "TW",
+    "organizer": "Taipei City Government; Taipei Entrepreneurs Hub",
+    "url": "https://www.startup.taipei/index_en.php",
+    "source_url": "https://drive.google.com/file/d/1vkPGUmFc3q920RVIpI2mp0zt_K0AYj-f/view",
+    "status": "planning",
+    "deadline": null,
+    "deadline_time": null,
+    "deadline_timezone": null,
+    "deadline_source_url": null,
+    "summary": "Foreign-founder AI startup selection with supported Taipei business trip, Demo Day, custom matching and consultations.2026 intake closed; next edition unannounced.",
+    "fit": "want",
+    "funding_kind": "mixed",
+    "fee_status": "unknown",
+    "first_seen": "2026-10-12",
+    "last_checked": "2026-10-12",
+    "application_cycle": {
+      "label": "Next startup intake unannounced",
+      "programme_name": "Taipei Entrepreneurs Hub Global AI+ Startup Pitch and Landing Programme",
+      "status": "planning",
+      "announcement_status": "unannounced",
+      "opens_on": null,
+      "deadline": null,
+      "deadline_time": null,
+      "timezone": null,
+      "source_url": "https://drive.google.com/file/d/1vkPGUmFc3q920RVIpI2mp0zt_K0AYj-f/view",
+      "checked_at": "2026-10-12",
+      "history": [
+        {
+          "label": "2026 intake (closed)",
+          "programme_name": "Taipei Entrepreneurs Hub Global AI+ Startup Pitch and Landing Programme",
+          "status": "closed",
+          "announcement_status": "announced",
+          "opens_on": "2026-05-04",
+          "deadline": "2026-06-30",
+          "deadline_time": null,
+          "timezone": null,
+          "source_url": "https://drive.google.com/file/d/1vkPGUmFc3q920RVIpI2mp0zt_K0AYj-f/view",
+          "checked_at": "2026-10-12"
+        }
+      ],
+      "date_evidence_kind": "official_source_read",
+      "research": {
+        "as_of": "2026-10-12",
+        "status": "mixed",
+        "limits": "Travel/hotel caps, expenses and contract terms unknown. Public closed form does not expose actual fields. Precise legal-entity/nationality/team conditions absent from deck.",
+        "evidence": [
+          {
+            "url": "https://www.startup.taipei/index_en.php",
+            "kind": "official_source_read"
+          },
+          {
+            "url": "https://www.linkedin.com/posts/taipeientrepreneurs_teh-taipeientrepreneurshub-innovex2026-activity-7477288516163391488-OS92",
+            "kind": "official_source_read"
+          },
+          {
+            "url": "https://drive.google.com/file/d/1vkPGUmFc3q920RVIpI2mp0zt_K0AYj-f/view",
+            "kind": "official_source_read"
+          },
+          {
+            "url": "https://docs.google.com/forms/d/e/1FAIpQLSfYaltaLlMRVWuyPcgY0mfPKexu4GXqEUBsNN89xPzHSVh5Qg/closedform",
+            "kind": "official_source_read"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "fit_reason": "Non-Taiwanese foreign-law startups within8 years, biomedical within10; prototype, technical capability or innovative model and Taiwan collaboration interest. Civilian AI/software route only.",
+    "team_min": null,
+    "team_max": null,
+    "prize": "Legal/business advice, one-to-one matching, incubator/prototyping resources and exhibition/event opportunities. Official2025 call: one round-trip airfare subsidy per team, Asia up toUSD800, SouthAmericaUSD2,000, other regionsUSD1,600.2026 airfare amounts/accommodation not verified.",
+    "id": "tw-startupterrace-soft-landing",
+    "name": "Startup Terrace Foreign Startup Soft-Landing Programme",
+    "type": "accelerator",
+    "country": "TW",
+    "organizer": "MOEA SMESA; Startup Terrace Project Office; Taipei Computer Association and programme partners",
+    "url": "https://startupterrace.sme.gov.tw/en/cp.aspx?n=1675",
+    "source_url": "https://startupterrace.sme.gov.tw/en/cp.aspx?n=1675",
+    "status": "planning",
+    "deadline": null,
+    "deadline_time": null,
+    "deadline_timezone": null,
+    "deadline_source_url": null,
+    "summary": "Selective short Taiwan market-entry programme explicitly for non-Taiwanese startups.2026 foreignAI cohort selected; next startup intake unannounced.2025 airfare support is historical, not promised2026.",
+    "fit": "want",
+    "funding_kind": "mixed",
+    "fee_status": "unknown",
+    "first_seen": "2026-10-12",
+    "last_checked": "2026-10-12",
+    "application_cycle": {
+      "label": "Next startup intake unannounced",
+      "programme_name": "Startup Terrace Foreign Startup Soft-Landing Programme",
+      "status": "planning",
+      "announcement_status": "unannounced",
+      "opens_on": null,
+      "deadline": null,
+      "deadline_time": null,
+      "timezone": null,
+      "source_url": "https://startupterrace.sme.gov.tw/en/cp.aspx?n=1675",
+      "checked_at": "2026-10-12",
+      "history": [],
+      "date_evidence_kind": "last_known",
+      "research": {
+        "as_of": "2026-10-12",
+        "status": "mixed",
+        "limits": "Current intake, exact2026 costs/subsidies and contract unknown. Actual current application fields unavailable. Foreign-law eligibility and prototype alternatives verified; solo eligibility not certified.",
+        "evidence": [
+          {
+            "url": "https://startupterrace.sme.gov.tw/en/cp.aspx?n=1675",
+            "kind": "official_source_read"
+          },
+          {
+            "url": "https://startupterrace.sme.gov.tw/en/News_Content.aspx?n=1698&s=15609",
+            "kind": "official_source_read"
+          },
+          {
+            "url": "https://startupterrace.sme.gov.tw/en/News_Content.aspx?n=1698&s=14559",
+            "kind": "official_source_read"
+          },
+          {
+            "url": "https://docs.google.com/forms/d/e/1FAIpQLScgfhvNmL4Na-Dbzkt4RVUH0qSI0q_dR693-ZGSPyrqM9UIRg/closedform",
+            "kind": "official_source_read"
+          },
+          {
+            "url": "https://seminars.tca.org.tw/D10w00164.aspx",
+            "kind": "official_source_read"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "fit_reason": "Foreign professionals/entrepreneurs, families and international graduates; specific immigration/work authorisation remains separate.",
+    "team_min": null,
+    "team_max": null,
+    "prize": "Noncash visa/work/residence procedural help, housing/banking/education/tax/insurance guidance, specialist consultations and recruitment/community connections.2026 official provider newsletter explicitly includes foreign-founder relocation assistance. No cash, airfare/hotel stipend, equity or guaranteed job/investment.",
+    "id": "tw-talent-taiwan-relocation",
+    "name": "Talent Taiwan Foreign Professional and Entrepreneur Relocation Support",
+    "type": "startup-benefits",
+    "country": "TW",
+    "organizer": "National Development Council; International Talent Taiwan Office",
+    "url": "https://talent.nat.gov.tw/en",
+    "source_url": "https://www.ndc.gov.tw/en/nc_8455_37509",
+    "status": "rolling",
+    "deadline": null,
+    "deadline_time": null,
+    "deadline_timezone": null,
+    "deadline_source_url": null,
+    "summary": "National service family explicitly attracting foreign professionals and entrepreneurs toTaiwan, with bilingual helpdesk and relocation/legal/accounting/recruitment guidance. Services, not visa award or cash grant.",
+    "fit": "want",
+    "funding_kind": "noncash",
+    "fee_status": "unknown",
+    "first_seen": "2026-10-12",
+    "last_checked": "2026-10-12",
+    "application_cycle": {
+      "label": "Ongoing services; appointment-specific availability",
+      "programme_name": "Talent Taiwan Foreign Professional and Entrepreneur Relocation Support",
+      "status": "rolling",
+      "announcement_status": "announced",
+      "opens_on": null,
+      "deadline": null,
+      "deadline_time": null,
+      "timezone": null,
+      "source_url": "https://www.ndc.gov.tw/en/nc_8455_37509",
+      "checked_at": "2026-10-12",
+      "history": [],
+      "date_evidence_kind": "last_known",
+      "research": {
+        "as_of": "2026-10-12",
+        "status": "mixed",
+        "limits": "Official site body/form fields unavailable via public reads. General helpdesk/specialist fees and current appointment conditions unknown. Assistance does not establish visa eligibility or pay relocation costs.",
+        "evidence": [
+          {
+            "url": "https://www.ndc.gov.tw/en/nc_8455_37509",
+            "kind": "official_index"
+          },
+          {
+            "url": "https://www.ndc.gov.tw/News_Content7.aspx?n=3E6699ADB0BE3855&s=BDF55603A98845D2",
+            "kind": "official_index"
+          },
+          {
+            "url": "https://talenttaiwan.substack.com/p/launching-in-taiwan-soft-landing",
+            "kind": "official_source_read"
+          },
+          {
+            "url": "https://communitycenter.org.tw/talent-taiwan-a-one-stop-resource-for-international-professionals/",
+            "kind": "official_source_read"
+          },
+          {
+            "url": "https://talent.nat.gov.tw/en/help-desk",
+            "kind": "official_shell_only"
+          },
+          {
+            "url": "https://careers.talent.nat.gov.tw/en/for-employers",
+            "kind": "official_source_read"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "fit_reason": "Foreign overseas scholars/researchers with Taiwan-related social-science or humanities research; people currently teaching, studying or researching in Taiwan excluded; physical3–12month stay. Inclusion records discovery; applicant eligibility is unconfirmed.",
+    "team_min": 1,
+    "team_max": null,
+    "prize": "Currently published standing benefits; no separate 2028 benefit amendment verified. Monthly TWD 60,000 senior academic/research ranks or TWD 50,000 other eligible ranks. Paid at beginning of month. Direct economy round-trip reimbursed against ticket/payment evidence; regional caps: Northeast/Southeast Asia TWD 35 k, Europe/West Asia 60 k, North America 55 k, Central/South America 75 k, Africa 90 k, Oceania 65 k. Accident death TWD 1 m, accident-injury medical TWD 50 k per detailed rules; general introduction's insurance summary less precise.",
+    "id": "tw-mofa-taiwan-fellowship",
+    "name": "MOFA Taiwan Fellowship",
+    "type": "grant",
+    "country": "TW",
+    "organizer": "Ministry of Foreign Affairs; National Central Library Center for Chinese Studies",
+    "url": "https://taiwanfellowship.ncl.edu.tw/eng/about.aspx",
+    "source_url": "https://taiwanfellowship.ncl.edu.tw/eng/apply01.aspx",
+    "status": "upcoming",
+    "deadline": "2027-06-30",
+    "deadline_time": null,
+    "deadline_timezone": null,
+    "deadline_source_url": null,
+    "summary": "Explicit foreign-researcher funded Taiwan residency. Official application page announces 2028 fellowship intake May 1–June 30, 2027; 2027 award selection intake already closed. Social-science/humanities research, not a general startup relocation grant.",
+    "fit": "want",
+    "funding_kind": "mixed",
+    "fee_status": "unknown",
+    "first_seen": "2026-10-12",
+    "last_checked": "2026-10-12",
+    "application_cycle": {
+      "label": "2028 fellowship — applications May–June 2027",
+      "programme_name": "MOFA Taiwan Fellowship",
+      "status": "upcoming",
+      "announcement_status": "announced",
+      "opens_on": "2027-05-01",
+      "deadline": "2027-06-30",
+      "deadline_time": null,
+      "timezone": null,
+      "source_url": "https://taiwanfellowship.ncl.edu.tw/eng/apply01.aspx",
+      "checked_at": "2026-10-12",
+      "history": [
+        {
+          "label": "2027 fellowship application (closed)",
+          "programme_name": "MOFA Taiwan Fellowship",
+          "status": "closed",
+          "announcement_status": "announced",
+          "opens_on": "2026-05-01",
+          "deadline": "2026-06-30",
+          "deadline_time": null,
+          "timezone": null,
+          "source_url": "https://taiwanfellowship.ncl.edu.tw/eng/about.aspx",
+          "checked_at": "2026-10-12",
+          "date_evidence_kind": "official_source_read"
+        }
+      ],
+      "date_evidence_kind": "official_source_read",
+      "research": {
+        "as_of": "2026-10-12",
+        "status": "mixed",
+        "limits": "Academic/topic/residence restrictions make ordinary software-founder eligibility unproven; owner not assessed. No detailed public live application form or definitive 2028 benefit amendment; award amounts are currently published standing rules, not a promise all 2028 terms unchanged. Insurance covers accidents, not comprehensive family medical support; IP and separate entry fee unresolved.",
+        "evidence": [
+          {
+            "url": "https://en.mofa.gov.tw/cp.aspx?n=1326",
+            "kind": "official_source_read"
+          },
+          {
+            "url": "https://taiwanfellowship.ncl.edu.tw/eng/about.aspx",
+            "kind": "official_source_read"
+          },
+          {
+            "url": "https://taiwanfellowship.ncl.edu.tw/eng/about_02.aspx",
+            "kind": "official_source_read"
+          },
+          {
+            "url": "https://taiwanfellowship.ncl.edu.tw/eng/about_03.aspx",
+            "kind": "official_source_read"
+          },
+          {
+            "url": "https://taiwanfellowship.ncl.edu.tw/eng/apply.aspx",
+            "kind": "official_source_read"
+          },
+          {
+            "url": "https://taiwanfellowship.ncl.edu.tw/eng/apply01.aspx",
+            "kind": "official_source_read"
+          },
+          {
+            "url": "https://taiwanfellowship.ncl.edu.tw/eng/news_detail.aspx?sn=2527",
+            "kind": "official_source_read"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "fit_reason": "Invited professionals from allied/friendly developing partner countries through Taiwan overseas missions; course-specific experience and English proficiency; return-home duties. Inclusion records discovery; applicant eligibility is unconfirmed.",
+    "team_min": 1,
+    "team_max": null,
+    "prize": "Selected participants' registration, direct economy airfare, arranged room, breakfast/lunch, insurance and TWD 700/day allowance covered. In-kind support, not startup capital or equity. Insurance excludes chronic illness. Unavoidable stopover accommodation against receipts <=USD 150/night, <=USD 450/round trip; arranged stay up to three unavoidable delay days.",
+    "id": "tw-icdf-professional-workshops",
+    "name": "TaiwanICDF Professional Workshops — International Human Resource Training Fellowship",
+    "type": "grant",
+    "country": "TW",
+    "organizer": "Taiwan International Cooperation and Development Fund",
+    "url": "https://www.icdf.org.tw/wSite/ct?ctNode=31559&mp=2&xItem=5595",
+    "source_url": "https://www.icdf.org.tw/wSite/ct?ctNode=31559&mp=2&xItem=5595",
+    "status": "planning",
+    "deadline": null,
+    "deadline_time": null,
+    "deadline_timezone": null,
+    "deadline_source_url": null,
+    "summary": "Explicit inbound professional training for allied/friendly developing partner countries; funded travel/room/meals and TWD 700/day. Invitation through Taiwan overseas missions required; one workshop family, not thirteen programme additions.",
+    "fit": "want",
+    "funding_kind": "mixed",
+    "fee_status": "none",
+    "first_seen": "2026-10-12",
+    "last_checked": "2026-10-12",
+    "application_cycle": {
+      "label": "2026 schedule published; next eligible intake unverified",
+      "programme_name": "TaiwanICDF Professional Workshops — International Human Resource Training Fellowship",
+      "status": "planning",
+      "announcement_status": "unannounced",
+      "opens_on": null,
+      "deadline": null,
+      "deadline_time": null,
+      "timezone": null,
+      "source_url": "https://www.icdf.org.tw/wSite/ct?ctNode=31559&mp=2&xItem=5595",
+      "checked_at": "2026-10-12",
+      "history": [
+        {
+          "label": "2026 SME/smart-parks workshop entry (closed)",
+          "programme_name": "TaiwanICDF Professional Workshops — International Human Resource Training Fellowship",
+          "status": "closed",
+          "announcement_status": "announced",
+          "opens_on": null,
+          "deadline": "2026-05-04",
+          "deadline_time": null,
+          "timezone": null,
+          "source_url": "https://www.icdf.org.tw/wSite/DownloadFile?file=f1772595168718.pdf&realname=06+%E8%8B%B1%E6%96%87%E7%B0%A1%E4%BB%8B-%E4%B8%AD%E5%B0%8F%E4%BC%81%E6%A5%AD%E6%B5%B7%E5%A4%96%E6%8B%93%E9%8A%B7%E6%96%B0%E6%A8%A1%E5%BC%8F%E7%AD%96%E7%95%A5%E7%A0%94%E7%BF%92%E7%8F%AD.pdf&type=attach",
+          "checked_at": "2026-10-12",
+          "date_evidence_kind": "official_source_read"
+        },
+        {
+          "label": "2026 AI smart healthcare II workshop entry (closed)",
+          "programme_name": "TaiwanICDF Professional Workshops — International Human Resource Training Fellowship",
+          "status": "closed",
+          "announcement_status": "announced",
+          "opens_on": null,
+          "deadline": "2026-09-07",
+          "deadline_time": null,
+          "timezone": null,
+          "source_url": "https://www.icdf.org.tw/wSite/DownloadFile?file=f1770091914506.pdf&realname=13.+%E6%99%BA%E6%85%A7%E9%86%AB%E7%99%82AI%E9%81%8B%E7%94%A8%E7%A0%94%E7%BF%92%E7%8F%AD+II+-%E9%81%A0%E8%B7%9D%E9%86%AB%E7%99%82%E5%9F%BA%E7%A4%8E%E5%BB%BA%E8%A8%AD%E5%8F%8AAI%E6%95%88%E7%9B%8A%E5%88%86%E6%9E%90+%E8%8B%B1%E6%96%87+(2).pdf&type=attach",
+          "checked_at": "2026-10-12",
+          "date_evidence_kind": "official_source_read"
+        }
+      ],
+      "date_evidence_kind": "official_source_read",
+      "research": {
+        "as_of": "2026-10-12",
+        "status": "mixed",
+        "limits": "Invitation and partner-country/course-specific professional restrictions; owner qualification unknown. Blank application and exact target-country list unavailable in read sources. Remaining course-specific rule packages not individually audited; no claim every course fits software. No explicit IP allocation for participant output or allowance payment schedule; confirm if later applying.",
+        "evidence": [
+          {
+            "url": "https://www.icdf.org.tw/wSite/ct?ctNode=31559&mp=2&xItem=5595",
+            "kind": "official_source_read"
+          },
+          {
+            "url": "https://www.icdf.org.tw/wSite/ct?ctNode=31314&mp=1&xItem=5132",
+            "kind": "official_source_read"
+          },
+          {
+            "url": "https://www.icdf.org.tw/wSite/DownloadFile?file=f1779787657947.pdf&realname=Fellowship+for+Participants(2026).pdf&type=attach",
+            "kind": "official_source_read"
+          },
+          {
+            "url": "https://www.icdf.org.tw/wSite/DownloadFile?file=f1772595168718.pdf&realname=06+%E8%8B%B1%E6%96%87%E7%B0%A1%E4%BB%8B-%E4%B8%AD%E5%B0%8F%E4%BC%81%E6%A5%AD%E6%B5%B7%E5%A4%96%E6%8B%93%E9%8A%B7%E6%96%B0%E6%A8%A1%E5%BC%8F%E7%AD%96%E7%95%A5%E7%A0%94%E7%BF%92%E7%8F%AD.pdf&type=attach",
+            "kind": "official_source_read"
+          },
+          {
+            "url": "https://www.icdf.org.tw/wSite/DownloadFile?file=f1770091914506.pdf&realname=13.+%E6%99%BA%E6%85%A7%E9%86%AB%E7%99%82AI%E9%81%8B%E7%94%A8%E7%A0%94%E7%BF%92%E7%8F%AD+II+-%E9%81%A0%E8%B7%9D%E9%86%AB%E7%99%82%E5%9F%BA%E7%A4%8E%E5%BB%BA%E8%A8%AD%E5%8F%8AAI%E6%95%88%E7%9B%8A%E5%88%86%E6%9E%90+%E8%8B%B1%E6%96%87+(2).pdf&type=attach",
+            "kind": "official_source_read"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "fit_reason": "Foreign students enrolled at overseas universities through completion; Mainland China/Hong Kong/Macau nationality or enrolment excluded;28–90day Taiwan research and substantial personal costs. Inclusion records discovery; applicant eligibility is unconfirmed.",
+    "team_min": 1,
+    "team_max": null,
+    "prize": "TWD 1,000/day for 28–90 days, maximum TWD 90,000 individual allowance. Host institution pays monthly; first payment within 30 working days, no advance. No overlapping Taiwan government funding. Programme cap 600 interns is cohort quota, not team maximum.",
+    "id": "tw-nstc-iipp",
+    "name": "NSTC International Internship Pilot Program (IIPP)",
+    "type": "grant",
+    "country": "TW",
+    "organizer": "National Science and Technology Council; NIAR/STPI",
+    "url": "https://iipp.stpi.niar.org.tw/",
+    "source_url": "https://iipp.stpi.niar.org.tw/",
+    "status": "planning",
+    "deadline": null,
+    "deadline_time": null,
+    "deadline_timezone": null,
+    "deadline_source_url": null,
+    "summary": "Explicit foreign-talent recruitment into Taiwan research and future careers. Student-only overseas-enrolment route with TWD 1,000/day, not an employed-founder relocation fellowship. All 2026 entry/matching deadlines closed.",
+    "fit": "want",
+    "funding_kind": "cash",
+    "fee_status": "unknown",
+    "first_seen": "2026-10-12",
+    "last_checked": "2026-10-12",
+    "application_cycle": {
+      "label": "2026 foreign-student research intake closed; next intake unannounced",
+      "programme_name": "NSTC International Internship Pilot Program (IIPP)",
+      "status": "planning",
+      "announcement_status": "unannounced",
+      "opens_on": null,
+      "deadline": null,
+      "deadline_time": null,
+      "timezone": null,
+      "source_url": "https://iipp.stpi.niar.org.tw/",
+      "checked_at": "2026-10-12",
+      "history": [
+        {
+          "label": "2026 matching application tranche1 (closed)",
+          "programme_name": "NSTC International Internship Pilot Program (IIPP)",
+          "status": "closed",
+          "announcement_status": "announced",
+          "opens_on": null,
+          "deadline": "2026-02-13",
+          "deadline_time": null,
+          "timezone": null,
+          "source_url": "https://iipp.stpi.niar.org.tw/faq",
+          "checked_at": "2026-10-12",
+          "date_evidence_kind": "official_source_read"
+        },
+        {
+          "label": "2026 matching application tranche2 (closed)",
+          "programme_name": "NSTC International Internship Pilot Program (IIPP)",
+          "status": "closed",
+          "announcement_status": "announced",
+          "opens_on": null,
+          "deadline": "2026-04-15",
+          "deadline_time": null,
+          "timezone": null,
+          "source_url": "https://iipp.stpi.niar.org.tw/faq",
+          "checked_at": "2026-10-12",
+          "date_evidence_kind": "official_source_read"
+        },
+        {
+          "label": "2026 matching application tranche3 (closed)",
+          "programme_name": "NSTC International Internship Pilot Program (IIPP)",
+          "status": "closed",
+          "announcement_status": "announced",
+          "opens_on": null,
+          "deadline": "2026-07-15",
+          "deadline_time": null,
+          "timezone": null,
+          "source_url": "https://iipp.stpi.niar.org.tw/faq",
+          "checked_at": "2026-10-12",
+          "date_evidence_kind": "official_source_read"
+        }
+      ],
+      "date_evidence_kind": "official_source_read",
+      "research": {
+        "as_of": "2026-10-12",
+        "status": "mixed",
+        "limits": "Foreign-student only, not ordinary foreign-worker/founder programme; owner eligibility unknown. Legacy iipp.tw failed; verified currentNIARdomain. Publicpage mixes prior-year and currentrules; 2025 rolling/September 15 deadline discarded. Authenticated form not inspected. Exact software placements/host cost/IP terms vary and not asserted; no next call verified.",
+        "evidence": [
+          {
+            "url": "https://iipp.stpi.niar.org.tw/",
+            "kind": "official_source_read"
+          },
+          {
+            "url": "https://iipp.stpi.niar.org.tw/program",
+            "kind": "official_source_read"
+          },
+          {
+            "url": "https://iipp.stpi.niar.org.tw/faq",
+            "kind": "official_source_read"
+          },
+          {
+            "url": "https://iipp.stpi.niar.org.tw/applicant",
+            "kind": "official_source_read"
+          },
+          {
+            "url": "https://iipp.stpi.niar.org.tw/account/toReg",
+            "kind": "official_source_read"
+          }
+        ]
+      }
+    }
   }
 ]
