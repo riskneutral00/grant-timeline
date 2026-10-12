@@ -15550,5 +15550,2941 @@
       },
       "date_evidence_kind": "recorded"
     }
+  },
+  {
+    "fit_reason": "business or relocation support: MVP and proprietary solution fitting GX, manufacturing, food/agritech or physical AI; one representative and backup contact.  Applicant eligibility unconfirmed.",
+    "team_min": null,
+    "team_max": null,
+    "prize": "Mentoring, interpretation, corporate/VC matching, PoC facilitation and possible TechGALA booth; no cash award verified.",
+    "id": "jp-aichi-landing-pad",
+    "name": "Aichi Landing Pad",
+    "country": "JP",
+    "type": "accelerator",
+    "organizer": "Aichi Prefecture / ABeam Consulting / STATION Ai",
+    "url": "https://aichi-landing-pad.agorize.com/en/challenges/edition-2026-winter",
+    "source_url": "https://aichi-landing-pad.agorize.com/en/challenges/edition-2026-winter",
+    "summary": "Overseas startup matching with Aichi manufacturers; 2026 winter applications closed, mandatory December stay.",
+    "status": "planning",
+    "deadline": null,
+    "deadline_time": null,
+    "deadline_timezone": null,
+    "deadline_source_url": null,
+    "fit": "want",
+    "funding_kind": "noncash",
+    "fee_status": "unknown",
+    "first_seen": "2026-10-12",
+    "last_checked": "2026-10-12",
+    "application_cycle": {
+      "label": "Next intake unannounced; source edition qualified in audit",
+      "programme_name": "Aichi Landing Pad",
+      "status": "planning",
+      "announcement_status": "unverified",
+      "opens_on": null,
+      "deadline": null,
+      "deadline_time": null,
+      "timezone": null,
+      "source_url": "https://aichi-landing-pad.agorize.com/en/challenges/edition-2026-winter",
+      "checked_at": "2026-10-12",
+      "history": [
+        {
+          "label": "Closed source edition",
+          "programme_name": "Aichi Landing Pad",
+          "status": "closed",
+          "announcement_status": "announced",
+          "opens_on": "2026-08-10",
+          "deadline": "2026-10-05",
+          "deadline_time": null,
+          "timezone": null,
+          "source_url": "https://aichi-landing-pad.agorize.com/en/challenges/edition-2026-winter",
+          "checked_at": "2026-10-12"
+        }
+      ],
+      "date_evidence_kind": "official_source_read",
+      "research": {
+        "as_of": "2026-10-12",
+        "status": "mixed",
+        "limits": "Only listed official public material inspected. Applicant eligibility and current authenticated form/contract remain unverified.",
+        "evidence": [
+          {
+            "url": "https://aichi-landing-pad.agorize.com/en/challenges/edition-2026-winter",
+            "kind": "official_source_read"
+          },
+          {
+            "url": "https://aichi-landing-pad.agorize.com/en/challenges/edition-2026-winter/pages/faq?lang=en",
+            "kind": "official_source_read"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "fit_reason": "business or relocation support: Overseas corporation without Japanese corporation; unlisted; launched/tested product, expansion/team capacity and business English. Representative decision-maker with replacement cover.  Applicant eligibility unconfirmed.",
+    "team_min": null,
+    "team_max": null,
+    "prize": "Free lectures, mentoring, pitches and Tokyo corporate/VC matching; no guaranteed investment.",
+    "id": "jp-xhub-tokyo-inbound",
+    "name": "X-HUB TOKYO Inbound Program",
+    "country": "JP",
+    "type": "accelerator",
+    "organizer": "Tokyo Metropolitan Government / Deloitte Tohmatsu",
+    "url": "https://www.x-hub-tokyo.metro.tokyo.lg.jp/inbound_program",
+    "source_url": "https://www.x-hub-tokyo.metro.tokyo.lg.jp/inbound_program",
+    "summary": "Tokyo entry mentoring and matching for overseas mobility/cleantech companies; 2026 intake closed.",
+    "status": "planning",
+    "deadline": null,
+    "deadline_time": null,
+    "deadline_timezone": null,
+    "deadline_source_url": null,
+    "fit": "want",
+    "funding_kind": "noncash",
+    "fee_status": "none",
+    "first_seen": "2026-10-12",
+    "last_checked": "2026-10-12",
+    "application_cycle": {
+      "label": "Next intake unannounced; source edition qualified in audit",
+      "programme_name": "X-HUB TOKYO Inbound Program",
+      "status": "planning",
+      "announcement_status": "unverified",
+      "opens_on": null,
+      "deadline": null,
+      "deadline_time": null,
+      "timezone": null,
+      "source_url": "https://www.x-hub-tokyo.metro.tokyo.lg.jp/inbound_program",
+      "checked_at": "2026-10-12",
+      "history": [
+        {
+          "label": "Closed source edition",
+          "programme_name": "X-HUB TOKYO Inbound Program",
+          "status": "closed",
+          "announcement_status": "announced",
+          "opens_on": "2026-06-17",
+          "deadline": "2026-07-31",
+          "deadline_time": "17:00:00",
+          "timezone": "Asia/Tokyo",
+          "source_url": "https://www.x-hub-tokyo.metro.tokyo.lg.jp/inbound_program",
+          "checked_at": "2026-10-12"
+        }
+      ],
+      "date_evidence_kind": "official_source_read",
+      "research": {
+        "as_of": "2026-10-12",
+        "status": "mixed",
+        "limits": "Only listed official public material inspected. Applicant eligibility and current authenticated form/contract remain unverified.",
+        "evidence": [
+          {
+            "url": "https://www.x-hub-tokyo.metro.tokyo.lg.jp/inbound_program",
+            "kind": "official_source_read"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "fit_reason": "business or relocation support: Financial providers including fintech startups addressing Tokyo resident/business needs; domestic and overseas applications.  Applicant eligibility unconfirmed.",
+    "team_min": null,
+    "team_max": null,
+    "prize": "Current 2026 Sustainability category offers recognition; no cash verified for that category. Closed 2026 Innovation category references JPY 10 million / 5 million / 3 million and first-round support; not transferable to Sustainability.",
+    "id": "jp-tokyo-financial-award",
+    "name": "Tokyo Financial Award",
+    "country": "JP",
+    "type": "competition",
+    "organizer": "Tokyo Metropolitan Government",
+    "url": "https://www.finaward.metro.tokyo.lg.jp/en/financial-innovation/",
+    "source_url": "https://www.finaward.metro.tokyo.lg.jp/en/financial-innovation/",
+    "summary": "Tokyo financial award: sustainability category currently open; financial innovation category closed. Track awards differ.",
+    "status": "open",
+    "deadline": "2026-10-30",
+    "deadline_time": "23:59",
+    "deadline_timezone": "Asia/Tokyo",
+    "deadline_source_url": "https://www.finaward.metro.tokyo.lg.jp/en/esg/",
+    "fit": "want",
+    "funding_kind": "mixed",
+    "fee_status": "unknown",
+    "first_seen": "2026-10-12",
+    "last_checked": "2026-10-12",
+    "application_cycle": {
+      "label": "2026 Sustainability category; innovation closed",
+      "programme_name": "Tokyo Financial Award",
+      "status": "open",
+      "announcement_status": "announced",
+      "opens_on": null,
+      "deadline": "2026-10-30",
+      "deadline_time": "23:59",
+      "timezone": "Asia/Tokyo",
+      "source_url": "https://www.finaward.metro.tokyo.lg.jp/en/esg/",
+      "checked_at": "2026-10-12",
+      "history": [],
+      "date_evidence_kind": "official_source_read",
+      "research": {
+        "as_of": "2026-10-12",
+        "status": "mixed",
+        "limits": "Only listed official public material inspected. Applicant eligibility and current authenticated form/contract remain unverified.",
+        "evidence": [
+          {
+            "url": "https://www.finaward.metro.tokyo.lg.jp/en/financial-innovation/",
+            "kind": "official_source_read"
+          },
+          {
+            "url": "https://www.finaward.metro.tokyo.lg.jp/en/",
+            "kind": "official_source_read"
+          },
+          {
+            "url": "https://www.finaward.metro.tokyo.lg.jp/en/esg/",
+            "kind": "official_source_read"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "fit_reason": "business or relocation support: Foreign/foreign-affiliated companies establishing or expanding Japan bases; JETRO approval and service conditions. Individual entrepreneurs excluded from described special investment-project visa measure.  Applicant eligibility unconfirmed.",
+    "team_min": null,
+    "team_max": null,
+    "prize": "Bilingual specialist advice and market/legal/labour information; approved temporary office free for up to 50 business days, while some services are chargeable.",
+    "id": "jp-jetro-ibsc",
+    "name": "JETRO Invest Japan Business Support Center",
+    "country": "JP",
+    "type": "startup-benefits",
+    "organizer": "Japan External Trade Organization",
+    "url": "https://www.jetro.go.jp/en/invest/jetros_support/ibsc/",
+    "source_url": "https://www.jetro.go.jp/en/invest/jetros_support/ibsc/",
+    "summary": "Approved foreign companies receive Japan establishment and expansion advice and temporary offices.",
+    "status": "rolling",
+    "deadline": null,
+    "deadline_time": null,
+    "deadline_timezone": null,
+    "deadline_source_url": null,
+    "fit": "want",
+    "funding_kind": "noncash",
+    "fee_status": "unknown",
+    "first_seen": "2026-10-12",
+    "last_checked": "2026-10-12",
+    "application_cycle": {
+      "label": "Next intake unannounced; source edition qualified in audit",
+      "programme_name": "JETRO Invest Japan Business Support Center",
+      "status": "rolling",
+      "announcement_status": "announced",
+      "opens_on": null,
+      "deadline": null,
+      "deadline_time": null,
+      "timezone": null,
+      "source_url": "https://www.jetro.go.jp/en/invest/jetros_support/ibsc/",
+      "checked_at": "2026-10-12",
+      "history": [],
+      "date_evidence_kind": "official_source_read",
+      "research": {
+        "as_of": "2026-10-12",
+        "status": "mixed",
+        "limits": "Only listed official public material inspected. Applicant eligibility and current authenticated form/contract remain unverified.",
+        "evidence": [
+          {
+            "url": "https://www.jetro.go.jp/en/invest/jetros_support/ibsc/",
+            "kind": "official_source_read"
+          },
+          {
+            "url": "https://www.jetro.go.jp/en/invest/jetros_support/",
+            "kind": "official_source_read"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "fit_reason": "business or relocation support: Overseas startups/companies; collaboration scope and matching approval, not automatic funding.  Applicant eligibility unconfirmed.",
+    "team_min": null,
+    "team_max": null,
+    "prize": "Company introduction, partner finder, arranged meetings and pitch/event information; Japan-entry referral, no cash/investment promise.",
+    "id": "jp-jetro-jbridge",
+    "name": "JETRO J-Bridge Japan Collaboration Support",
+    "country": "JP",
+    "type": "startup-benefits",
+    "organizer": "JETRO",
+    "url": "https://www.jetro.go.jp/philippines/accelerateinnovation.html",
+    "source_url": "https://www.jetro.go.jp/philippines/accelerateinnovation.html",
+    "summary": "Foreign organisations connect with Japanese firms for digital/green technical and business partnerships.",
+    "status": "rolling",
+    "deadline": null,
+    "deadline_time": null,
+    "deadline_timezone": null,
+    "deadline_source_url": null,
+    "fit": "want",
+    "funding_kind": "noncash",
+    "fee_status": "unknown",
+    "first_seen": "2026-10-12",
+    "last_checked": "2026-10-12",
+    "application_cycle": {
+      "label": "Next intake unannounced; source edition qualified in audit",
+      "programme_name": "JETRO J-Bridge Japan Collaboration Support",
+      "status": "rolling",
+      "announcement_status": "announced",
+      "opens_on": null,
+      "deadline": null,
+      "deadline_time": null,
+      "timezone": null,
+      "source_url": "https://www.jetro.go.jp/philippines/accelerateinnovation.html",
+      "checked_at": "2026-10-12",
+      "history": [],
+      "date_evidence_kind": "official_source_read",
+      "research": {
+        "as_of": "2026-10-12",
+        "status": "mixed",
+        "limits": "Only listed official public material inspected. Applicant eligibility and current authenticated form/contract remain unverified.",
+        "evidence": [
+          {
+            "url": "https://www.jetro.go.jp/philippines/accelerateinnovation.html",
+            "kind": "official_source_read"
+          },
+          {
+            "url": "https://www.jetro.go.jp/en/j-bridge/",
+            "kind": "official_source_read"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "fit_reason": "business or relocation support: Overseas deep-tech companies entering Tokyo; AI/data/cyber/software routes alongside other technologies; full conditions uninspected.  Applicant eligibility unconfirmed.",
+    "team_min": null,
+    "team_max": null,
+    "prize": "Up to JPY 100 million over three years; subsidy rates step from 80% to 40%, with consultancy, public relations and matching support.",
+    "id": "jp-deeptech-tokyo-launchpad",
+    "name": "Deep Tech Tokyo Launchpad",
+    "country": "JP",
+    "type": "grant",
+    "organizer": "Tokyo Metropolitan Government",
+    "url": "https://www.investtokyo.metro.tokyo.lg.jp/en/oursupports/deep-tech-tokyo-launchpad.html",
+    "source_url": "https://www.investtokyo.metro.tokyo.lg.jp/en/oursupports/deep-tech-tokyo-launchpad.html",
+    "summary": "Overseas deep-tech Tokyo establishment funding and SME collaboration; 2026 intake closed.",
+    "status": "planning",
+    "deadline": null,
+    "deadline_time": null,
+    "deadline_timezone": null,
+    "deadline_source_url": null,
+    "fit": "want",
+    "funding_kind": "mixed",
+    "fee_status": "unknown",
+    "first_seen": "2026-10-12",
+    "last_checked": "2026-10-12",
+    "application_cycle": {
+      "label": "Next intake unannounced; source edition qualified in audit",
+      "programme_name": "Deep Tech Tokyo Launchpad",
+      "status": "planning",
+      "announcement_status": "unverified",
+      "opens_on": null,
+      "deadline": null,
+      "deadline_time": null,
+      "timezone": null,
+      "source_url": "https://www.investtokyo.metro.tokyo.lg.jp/en/oursupports/deep-tech-tokyo-launchpad.html",
+      "checked_at": "2026-10-12",
+      "history": [
+        {
+          "label": "Closed source edition",
+          "programme_name": "Deep Tech Tokyo Launchpad",
+          "status": "closed",
+          "announcement_status": "announced",
+          "opens_on": "2026-05-14",
+          "deadline": "2026-09-30",
+          "deadline_time": null,
+          "timezone": null,
+          "source_url": "https://www.investtokyo.metro.tokyo.lg.jp/en/oursupports/deep-tech-tokyo-launchpad.html",
+          "checked_at": "2026-10-12"
+        }
+      ],
+      "date_evidence_kind": "official_source_read",
+      "research": {
+        "as_of": "2026-10-12",
+        "status": "mixed",
+        "limits": "Only listed official public material inspected. Applicant eligibility and current authenticated form/contract remain unverified.",
+        "evidence": [
+          {
+            "url": "https://www.investtokyo.metro.tokyo.lg.jp/en/oursupports/deep-tech-tokyo-launchpad.html",
+            "kind": "official_source_read"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "fit_reason": "business or relocation support: Foreign GX businesses establishing Japanese entity in Tokyo; special-zone and detailed selection rules require confirmation.  Applicant eligibility unconfirmed.",
+    "team_min": null,
+    "team_max": null,
+    "prize": "Published annual caps JPY 50 million / 34 million / 25 million / 16 million, at eligible-cost rates 100% / two-thirds / half / one-third. Not an aggregated guaranteed payment.",
+    "id": "jp-tokyo-gx-foreign-entry",
+    "name": "Tokyo GX Foreign Company Market Entry Support",
+    "country": "JP",
+    "type": "grant",
+    "organizer": "Tokyo Metropolitan Government",
+    "url": "https://www.investtokyo.metro.tokyo.lg.jp/en/oursupports/gx-subsidy.html",
+    "source_url": "https://www.investtokyo.metro.tokyo.lg.jp/en/oursupports/gx-subsidy.html",
+    "summary": "Foreign green-transformation Tokyo entity entry subsidy plus localization support; intake unverified.",
+    "status": "planning",
+    "deadline": null,
+    "deadline_time": null,
+    "deadline_timezone": null,
+    "deadline_source_url": null,
+    "fit": "want",
+    "funding_kind": "mixed",
+    "fee_status": "unknown",
+    "first_seen": "2026-10-12",
+    "last_checked": "2026-10-12",
+    "application_cycle": {
+      "label": "Next intake unannounced; source edition qualified in audit",
+      "programme_name": "Tokyo GX Foreign Company Market Entry Support",
+      "status": "planning",
+      "announcement_status": "unverified",
+      "opens_on": null,
+      "deadline": null,
+      "deadline_time": null,
+      "timezone": null,
+      "source_url": "https://www.investtokyo.metro.tokyo.lg.jp/en/oursupports/gx-subsidy.html",
+      "checked_at": "2026-10-12",
+      "history": [],
+      "date_evidence_kind": "official_source_read",
+      "research": {
+        "as_of": "2026-10-12",
+        "status": "mixed",
+        "limits": "Only listed official public material inspected. Applicant eligibility and current authenticated form/contract remain unverified.",
+        "evidence": [
+          {
+            "url": "https://www.investtokyo.metro.tokyo.lg.jp/en/oursupports/gx-subsidy.html",
+            "kind": "official_source_read"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "fit_reason": "business or relocation support: Foreign companies establishing or expanding in Tokyo; special-zone firms may receive specialist support.  Applicant eligibility unconfirmed.",
+    "team_min": null,
+    "team_max": null,
+    "prize": "Business concierge, specialist consultations and exchange; overall city support advertised free; outside professional charges unverified.",
+    "id": "jp-business-development-center-tokyo",
+    "name": "Business Development Center Tokyo Foreign Business Concierge",
+    "country": "JP",
+    "type": "startup-benefits",
+    "organizer": "Tokyo Metropolitan Government",
+    "url": "https://www.investtokyo.metro.tokyo.lg.jp/en/oursupports/bdc-tokyo/index.html",
+    "source_url": "https://www.investtokyo.metro.tokyo.lg.jp/en/oursupports/bdc-tokyo/index.html",
+    "summary": "Tailored Tokyo foreign-company business and lifestyle support, consultation and matching.",
+    "status": "rolling",
+    "deadline": null,
+    "deadline_time": null,
+    "deadline_timezone": null,
+    "deadline_source_url": null,
+    "fit": "want",
+    "funding_kind": "noncash",
+    "fee_status": "unknown",
+    "first_seen": "2026-10-12",
+    "last_checked": "2026-10-12",
+    "application_cycle": {
+      "label": "Next intake unannounced; source edition qualified in audit",
+      "programme_name": "Business Development Center Tokyo Foreign Business Concierge",
+      "status": "rolling",
+      "announcement_status": "announced",
+      "opens_on": null,
+      "deadline": null,
+      "deadline_time": null,
+      "timezone": null,
+      "source_url": "https://www.investtokyo.metro.tokyo.lg.jp/en/oursupports/bdc-tokyo/index.html",
+      "checked_at": "2026-10-12",
+      "history": [],
+      "date_evidence_kind": "official_source_read",
+      "research": {
+        "as_of": "2026-10-12",
+        "status": "mixed",
+        "limits": "Only listed official public material inspected. Applicant eligibility and current authenticated form/contract remain unverified.",
+        "evidence": [
+          {
+            "url": "https://www.investtokyo.metro.tokyo.lg.jp/en/oursupports/bdc-tokyo/index.html",
+            "kind": "official_source_read"
+          },
+          {
+            "url": "https://www.investtokyo.metro.tokyo.lg.jp/en/oursupports/index.html",
+            "kind": "official_source_read"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "fit_reason": "business or relocation support: Overseas startups younger than ten years willing to establish an Osaka base; companies with offices elsewhere in Japan may also apply.  Applicant eligibility unconfirmed.",
+    "team_min": null,
+    "team_max": null,
+    "prize": "Individual business/legal advice, administrative referrals and corporate matching; no grant/equity promise.",
+    "id": "jp-osaka-springboard",
+    "name": "Osaka Springboard International Startup Market Entry Support",
+    "country": "JP",
+    "type": "accelerator",
+    "organizer": "Osaka Innovation Hub / Osaka Business Development Agency",
+    "url": "https://osaka-startup.com/program/springboard/en/",
+    "source_url": "https://osaka-startup.com/program/springboard/en/",
+    "summary": "Current overseas-startup legal/business consultation and Japanese corporate matching.",
+    "status": "rolling",
+    "deadline": null,
+    "deadline_time": null,
+    "deadline_timezone": null,
+    "deadline_source_url": null,
+    "fit": "want",
+    "funding_kind": "noncash",
+    "fee_status": "unknown",
+    "first_seen": "2026-10-12",
+    "last_checked": "2026-10-12",
+    "application_cycle": {
+      "label": "Next intake unannounced; source edition qualified in audit",
+      "programme_name": "Osaka Springboard International Startup Market Entry Support",
+      "status": "rolling",
+      "announcement_status": "announced",
+      "opens_on": null,
+      "deadline": null,
+      "deadline_time": null,
+      "timezone": null,
+      "source_url": "https://osaka-startup.com/program/springboard/en/",
+      "checked_at": "2026-10-12",
+      "history": [],
+      "date_evidence_kind": "official_source_read",
+      "research": {
+        "as_of": "2026-10-12",
+        "status": "mixed",
+        "limits": "Only listed official public material inspected. Applicant eligibility and current authenticated form/contract remain unverified.",
+        "evidence": [
+          {
+            "url": "https://osaka-startup.com/program/springboard/en/",
+            "kind": "official_source_read"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "fit_reason": "business or relocation support: Interview before registration; Osaka head/branch setup through an O-BIC supporting service provider; foreign capital ratio at least one-third.  Applicant eligibility unconfirmed.",
+    "team_min": null,
+    "team_max": null,
+    "prize": "Up to JPY 100,000 for supporting service-provider professional compensation.",
+    "id": "jp-obic-registration-support",
+    "name": "O-BIC Foreign Company Registration Cost Subsidy",
+    "country": "JP",
+    "type": "grant",
+    "organizer": "Osaka Business and Investment Center",
+    "url": "https://o-bic.net/e/incentive/",
+    "source_url": "https://o-bic.net/e/incentive/",
+    "summary": "Approved foreign company Osaka registration services reimbursement; no founder-team count gate.",
+    "status": "planning",
+    "deadline": null,
+    "deadline_time": null,
+    "deadline_timezone": null,
+    "deadline_source_url": null,
+    "fit": "want",
+    "funding_kind": "cash",
+    "fee_status": "unknown",
+    "first_seen": "2026-10-12",
+    "last_checked": "2026-10-12",
+    "application_cycle": {
+      "label": "Next intake unannounced; source edition qualified in audit",
+      "programme_name": "O-BIC Foreign Company Registration Cost Subsidy",
+      "status": "planning",
+      "announcement_status": "unverified",
+      "opens_on": null,
+      "deadline": null,
+      "deadline_time": null,
+      "timezone": null,
+      "source_url": "https://o-bic.net/e/incentive/",
+      "checked_at": "2026-10-12",
+      "history": [],
+      "date_evidence_kind": "official_source_read",
+      "research": {
+        "as_of": "2026-10-12",
+        "status": "mixed",
+        "limits": "Only listed official public material inspected. Applicant eligibility and current authenticated form/contract remain unverified.",
+        "evidence": [
+          {
+            "url": "https://o-bic.net/e/incentive/",
+            "kind": "official_source_read"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "fit_reason": "business or relocation support: Foreign-affiliated headquarters functions; at least 50 square metres and five regular/equivalent operating workers at the base, with council certification. Workforce is not application team size.  Applicant eligibility unconfirmed.",
+    "team_min": null,
+    "team_max": null,
+    "prize": "Acquisition: 5% with workforce-dependent caps JPY 15–100 million. Lease: one-third of 24 months' rent with caps JPY 10–60 million.",
+    "id": "jp-osaka-foreign-hq-location-grant",
+    "name": "Osaka Foreign-Affiliated Headquarters Location Subsidy",
+    "country": "JP",
+    "type": "grant",
+    "organizer": "Osaka Prefecture",
+    "url": "https://www.pref.osaka.lg.jp/o110030/ritchi/treatment/hojogaiyou_gaishi.html",
+    "source_url": "https://www.pref.osaka.lg.jp/o110030/ritchi/treatment/hojogaiyou_gaishi.html",
+    "summary": "Foreign-affiliated Osaka headquarters property support with minimum operating workforce; not contest team minimum.",
+    "status": "planning",
+    "deadline": null,
+    "deadline_time": null,
+    "deadline_timezone": null,
+    "deadline_source_url": null,
+    "fit": "want",
+    "funding_kind": "cash",
+    "fee_status": "unknown",
+    "first_seen": "2026-10-12",
+    "last_checked": "2026-10-12",
+    "application_cycle": {
+      "label": "Next intake unannounced; source edition qualified in audit",
+      "programme_name": "Osaka Foreign-Affiliated Headquarters Location Subsidy",
+      "status": "planning",
+      "announcement_status": "unverified",
+      "opens_on": null,
+      "deadline": null,
+      "deadline_time": null,
+      "timezone": null,
+      "source_url": "https://www.pref.osaka.lg.jp/o110030/ritchi/treatment/hojogaiyou_gaishi.html",
+      "checked_at": "2026-10-12",
+      "history": [],
+      "date_evidence_kind": "official_source_read",
+      "research": {
+        "as_of": "2026-10-12",
+        "status": "mixed",
+        "limits": "Only listed official public material inspected. Applicant eligibility and current authenticated form/contract remain unverified.",
+        "evidence": [
+          {
+            "url": "https://www.pref.osaka.lg.jp/o110030/ritchi/treatment/hojogaiyou_gaishi.html",
+            "kind": "official_source_read"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "fit_reason": "business or relocation support: Entrepreneurial scientists and researchers developing innovative technology; exact team, entity and selection requirements need current guidelines.  Applicant eligibility unconfirmed.",
+    "team_min": null,
+    "team_max": null,
+    "prize": "Up to JPY 10 million funding, coaching, investor introductions and laboratory access; no investment guarantee.",
+    "id": "jp-oist-innovation-accelerator",
+    "name": "OIST Innovation Accelerator",
+    "country": "JP",
+    "type": "accelerator",
+    "organizer": "Okinawa Institute of Science and Technology",
+    "url": "https://www.oist.jp/innovation/accelerator-startup-support-innovation",
+    "source_url": "https://www.oist.jp/innovation/accelerator-startup-support-innovation",
+    "summary": "Global science/technology venture ten-month Okinawa residency and R&D/traction support.",
+    "status": "planning",
+    "deadline": null,
+    "deadline_time": null,
+    "deadline_timezone": null,
+    "deadline_source_url": null,
+    "fit": "want",
+    "funding_kind": "mixed",
+    "fee_status": "unknown",
+    "first_seen": "2026-10-12",
+    "last_checked": "2026-10-12",
+    "application_cycle": {
+      "label": "Next intake unannounced; source edition qualified in audit",
+      "programme_name": "OIST Innovation Accelerator",
+      "status": "planning",
+      "announcement_status": "unverified",
+      "opens_on": null,
+      "deadline": null,
+      "deadline_time": null,
+      "timezone": null,
+      "source_url": "https://www.oist.jp/innovation/accelerator-startup-support-innovation",
+      "checked_at": "2026-10-12",
+      "history": [],
+      "date_evidence_kind": "official_source_read",
+      "research": {
+        "as_of": "2026-10-12",
+        "status": "mixed",
+        "limits": "Only listed official public material inspected. Applicant eligibility and current authenticated form/contract remain unverified.",
+        "evidence": [
+          {
+            "url": "https://www.oist.jp/innovation/accelerator-startup-support-innovation",
+            "kind": "official_source_read"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "fit_reason": "research or professional: Non-Japanese PhD researcher aged 45 or under, born in 1981 or later; full-time home-country employment, return-home commitment, no Japanese stays beyond short visits, host acceptance and English/Japanese ability.  Applicant eligibility unconfirmed.",
+    "team_min": null,
+    "team_max": null,
+    "prize": "2027 fellowship: JPY 220,000 per month, JPY 120,000 arrival fund, economy return airfare, insurance and study visit.",
+    "id": "jp-matsumae-research-fellowship",
+    "name": "Matsumae International Foundation Research Fellowship",
+    "country": "JP",
+    "type": "grant",
+    "organizer": "Matsumae International Foundation",
+    "url": "https://www.mif-japan.org/en/fellowship/announcement/?hl=en",
+    "source_url": "https://www.mif-japan.org/en/fellowship/announcement/?hl=en",
+    "summary": "Foreign PhD researchers receive six-month Japan research/living support; 2027 award call closed.",
+    "status": "planning",
+    "deadline": null,
+    "deadline_time": null,
+    "deadline_timezone": null,
+    "deadline_source_url": null,
+    "fit": "want",
+    "funding_kind": "mixed",
+    "fee_status": "unknown",
+    "first_seen": "2026-10-12",
+    "last_checked": "2026-10-12",
+    "application_cycle": {
+      "label": "Next intake unannounced; source edition qualified in audit",
+      "programme_name": "Matsumae International Foundation Research Fellowship",
+      "status": "planning",
+      "announcement_status": "unverified",
+      "opens_on": null,
+      "deadline": null,
+      "deadline_time": null,
+      "timezone": null,
+      "source_url": "https://www.mif-japan.org/en/fellowship/announcement/?hl=en",
+      "checked_at": "2026-10-12",
+      "history": [
+        {
+          "label": "Closed source edition",
+          "programme_name": "Matsumae International Foundation Research Fellowship",
+          "status": "closed",
+          "announcement_status": "announced",
+          "opens_on": "2026-06-01",
+          "deadline": "2026-06-30",
+          "deadline_time": null,
+          "timezone": "Asia/Tokyo",
+          "source_url": "https://www.mif-japan.org/en/fellowship/announcement/?hl=en",
+          "checked_at": "2026-10-12"
+        }
+      ],
+      "date_evidence_kind": "official_source_read",
+      "research": {
+        "as_of": "2026-10-12",
+        "status": "mixed",
+        "limits": "Only listed official public material inspected. Applicant eligibility and current authenticated form/contract remain unverified.",
+        "evidence": [
+          {
+            "url": "https://www.mif-japan.org/en/fellowship/announcement/?hl=en",
+            "kind": "official_source_read"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "fit_reason": "research or professional: Foreign pre/postdoctoral scholars. Standard, short-term and summer categories have different degree, region and stage restrictions; Japanese host/institution application required. Exact applicable category must be checked.  Applicant eligibility unconfirmed.",
+    "team_min": null,
+    "team_max": null,
+    "prize": "Research fellowship support; exact current stipend and travel terms not verified in linked full guidance.",
+    "id": "jp-jsps-postdoctoral-fellowships",
+    "name": "JSPS Postdoctoral Fellowships for Research in Japan",
+    "country": "JP",
+    "type": "grant",
+    "organizer": "Japan Society for the Promotion of Science",
+    "url": "https://www.jsps.go.jp/english/e-fellow/",
+    "source_url": "https://www.jsps.go.jp/english/e-fellow/",
+    "summary": "Host-led Japan collaborative research for foreign early-career scholars; regional/term tracks grouped.",
+    "status": "planning",
+    "deadline": null,
+    "deadline_time": null,
+    "deadline_timezone": null,
+    "deadline_source_url": null,
+    "fit": "want",
+    "funding_kind": "cash",
+    "fee_status": "unknown",
+    "first_seen": "2026-10-12",
+    "last_checked": "2026-10-12",
+    "application_cycle": {
+      "label": "Next intake unannounced; source edition qualified in audit",
+      "programme_name": "JSPS Postdoctoral Fellowships for Research in Japan",
+      "status": "planning",
+      "announcement_status": "unverified",
+      "opens_on": null,
+      "deadline": null,
+      "deadline_time": null,
+      "timezone": null,
+      "source_url": "https://www.jsps.go.jp/english/e-fellow/",
+      "checked_at": "2026-10-12",
+      "history": [
+        {
+          "label": "Closed source edition",
+          "programme_name": "JSPS Postdoctoral Fellowships for Research in Japan",
+          "status": "closed",
+          "announcement_status": "announced",
+          "opens_on": null,
+          "deadline": "2026-09-25",
+          "deadline_time": "17:00:00",
+          "timezone": "Asia/Tokyo",
+          "source_url": "https://www.jsps.go.jp/english/e-fellow/",
+          "checked_at": "2026-10-12"
+        }
+      ],
+      "date_evidence_kind": "official_source_read",
+      "research": {
+        "as_of": "2026-10-12",
+        "status": "mixed",
+        "limits": "Only listed official public material inspected. Applicant eligibility and current authenticated form/contract remain unverified.",
+        "evidence": [
+          {
+            "url": "https://www.jsps.go.jp/english/e-fellow/",
+            "kind": "official_source_read"
+          },
+          {
+            "url": "https://www.jsps.go.jp/j-fellow/j-fellow_14/31_boshuyoko.html",
+            "kind": "official_source_read"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "fit_reason": "research or professional: Overseas researchers with strong research achievements, invited through a Japanese host. Exact rank, region and term restrictions require category guidelines.  Applicant eligibility unconfirmed.",
+    "team_min": null,
+    "team_max": null,
+    "prize": "Research invitation fellowship; exact stipend and travel benefits not verified from overview.",
+    "id": "jp-jsps-invitational-fellowships",
+    "name": "JSPS Invitational Fellowships for Research in Japan",
+    "country": "JP",
+    "type": "grant",
+    "organizer": "Japan Society for the Promotion of Science",
+    "url": "https://www.jsps.go.jp/english/e-inv/",
+    "source_url": "https://www.jsps.go.jp/english/e-inv/",
+    "summary": "Senior overseas scholars invited for Japan research collaboration and academic exchange.",
+    "status": "planning",
+    "deadline": null,
+    "deadline_time": null,
+    "deadline_timezone": null,
+    "deadline_source_url": null,
+    "fit": "want",
+    "funding_kind": "cash",
+    "fee_status": "unknown",
+    "first_seen": "2026-10-12",
+    "last_checked": "2026-10-12",
+    "application_cycle": {
+      "label": "Next intake unannounced; source edition qualified in audit",
+      "programme_name": "JSPS Invitational Fellowships for Research in Japan",
+      "status": "planning",
+      "announcement_status": "unverified",
+      "opens_on": null,
+      "deadline": null,
+      "deadline_time": null,
+      "timezone": null,
+      "source_url": "https://www.jsps.go.jp/english/e-inv/",
+      "checked_at": "2026-10-12",
+      "history": [],
+      "date_evidence_kind": "official_source_read",
+      "research": {
+        "as_of": "2026-10-12",
+        "status": "mixed",
+        "limits": "Only listed official public material inspected. Applicant eligibility and current authenticated form/contract remain unverified.",
+        "evidence": [
+          {
+            "url": "https://www.jsps.go.jp/english/e-inv/",
+            "kind": "official_source_read"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "fit_reason": "business or relocation support: Launched product or service, live demonstration capacity, Japanese pilot fit and business English. Overseas startups are the primary population, but headquarters outside Japan is not mandatory.  Applicant eligibility unconfirmed.",
+    "team_min": null,
+    "team_max": null,
+    "prize": "2027: five-day mentoring, investor and corporate matching, exhibits and possible pilot support. About three pilots are conditional selections; JETRO-designated travel support is conditional, not universal cash.",
+    "id": "jp-creative-tech-shibuya",
+    "name": "Creative Tech Shibuya",
+    "country": "JP",
+    "type": "accelerator",
+    "organizer": "Shibuya City / Shibuya Startup Support",
+    "url": "https://www.shibuya-startup-support.jp/topics/call-for-applications-creative-tech-shibuya-2027",
+    "source_url": "https://www.shibuya-startup-support.jp/topics/call-for-applications-creative-tech-shibuya-2027",
+    "summary": "Free creative technology residency and pilot matching in Shibuya; participants normally pay travel and accommodation.",
+    "status": "open",
+    "deadline": "2026-11-09",
+    "deadline_time": "23:59",
+    "deadline_timezone": "Asia/Tokyo",
+    "deadline_source_url": "https://www.shibuya-startup-support.jp/topics/call-for-applications-creative-tech-shibuya-2027",
+    "fit": "want",
+    "funding_kind": "noncash",
+    "fee_status": "none",
+    "first_seen": "2026-10-12",
+    "last_checked": "2026-10-12",
+    "application_cycle": {
+      "label": "Creative Tech Shibuya 2027",
+      "programme_name": "Creative Tech Shibuya",
+      "status": "open",
+      "announcement_status": "announced",
+      "opens_on": null,
+      "deadline": "2026-11-09",
+      "deadline_time": "23:59",
+      "timezone": "Asia/Tokyo",
+      "source_url": "https://www.shibuya-startup-support.jp/topics/call-for-applications-creative-tech-shibuya-2027",
+      "checked_at": "2026-10-12",
+      "history": [],
+      "date_evidence_kind": "official_source_read",
+      "research": {
+        "as_of": "2026-10-12",
+        "status": "mixed",
+        "limits": "Only listed official public material inspected. Applicant eligibility and current authenticated form/contract remain unverified.",
+        "evidence": [
+          {
+            "url": "https://www.shibuya-startup-support.jp/topics/call-for-applications-creative-tech-shibuya-2027",
+            "kind": "official_source_read"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "fit_reason": "business or relocation support: Non-Japanese doctoral candidate at a university with, or entering, RIKEN's joint graduate school agreement. Research supervision and university procedures required.  Applicant eligibility unconfirmed.",
+    "team_min": null,
+    "team_max": null,
+    "prize": "Living allowance JPY 5,200 per day; on-campus housing or actual off-campus rent up to JPY 70,000 per month, for a maximum of three years.",
+    "id": "jp-riken-international-program-associate",
+    "name": "RIKEN International Program Associate",
+    "country": "JP",
+    "type": "grant",
+    "organizer": "RIKEN",
+    "url": "https://www.riken.jp/en/careers/programs/ipa/",
+    "source_url": "https://www.riken.jp/en/careers/programs/ipa/",
+    "summary": "Japan-based doctoral research support through a partner graduate school and RIKEN host; not a startup grant.",
+    "status": "planning",
+    "deadline": null,
+    "deadline_time": null,
+    "deadline_timezone": null,
+    "deadline_source_url": null,
+    "fit": "want",
+    "funding_kind": "mixed",
+    "fee_status": "unknown",
+    "first_seen": "2026-10-12",
+    "last_checked": "2026-10-12",
+    "application_cycle": {
+      "label": "Next intake unannounced; source edition qualified in audit",
+      "programme_name": "RIKEN International Program Associate",
+      "status": "planning",
+      "announcement_status": "unverified",
+      "opens_on": null,
+      "deadline": null,
+      "deadline_time": null,
+      "timezone": null,
+      "source_url": "https://www.riken.jp/en/careers/programs/ipa/",
+      "checked_at": "2026-10-12",
+      "history": [],
+      "date_evidence_kind": "official_source_read",
+      "research": {
+        "as_of": "2026-10-12",
+        "status": "mixed",
+        "limits": "Only listed official public material inspected. Applicant eligibility and current authenticated form/contract remain unverified.",
+        "evidence": [
+          {
+            "url": "https://www.riken.jp/en/careers/programs/ipa/",
+            "kind": "official_source_read"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "fit_reason": "education or study: International students nominated through embassy or approved university. Category-specific age, education, nationality, language and academic rules apply; current country and university guidelines control.  Applicant eligibility unconfirmed.",
+    "team_min": null,
+    "team_max": null,
+    "prize": "Category-dependent scholarship stipend, tuition exemption and travel support under published guidance. Exact applicable current stipend and airfare conditions require the selected category's guidelines.",
+    "id": "jp-mext-government-scholarship",
+    "name": "Japanese Government MEXT Scholarship",
+    "country": "JP",
+    "type": "grant",
+    "organizer": "Ministry of Education, Culture, Sports, Science and Technology / JASSO official portal",
+    "url": "https://www.studyinjapan.go.jp/en/planning/scholarships/mext-scholarships/",
+    "source_url": "https://www.studyinjapan.go.jp/en/planning/scholarships/mext-scholarships/",
+    "summary": "Government scholarship for international study in Japan; seven study categories and two nomination routes grouped as one family.",
+    "status": "planning",
+    "deadline": null,
+    "deadline_time": null,
+    "deadline_timezone": null,
+    "deadline_source_url": null,
+    "fit": "want",
+    "funding_kind": "mixed",
+    "fee_status": "unknown",
+    "first_seen": "2026-10-12",
+    "last_checked": "2026-10-12",
+    "application_cycle": {
+      "label": "Next intake unannounced; source edition qualified in audit",
+      "programme_name": "Japanese Government MEXT Scholarship",
+      "status": "planning",
+      "announcement_status": "unverified",
+      "opens_on": null,
+      "deadline": null,
+      "deadline_time": null,
+      "timezone": null,
+      "source_url": "https://www.studyinjapan.go.jp/en/planning/scholarships/mext-scholarships/",
+      "checked_at": "2026-10-12",
+      "history": [],
+      "date_evidence_kind": "official_source_read",
+      "research": {
+        "as_of": "2026-10-12",
+        "status": "mixed",
+        "limits": "Only listed official public material inspected. Applicant eligibility and current authenticated form/contract remain unverified.",
+        "evidence": [
+          {
+            "url": "https://www.studyinjapan.go.jp/en/planning/scholarships/mext-scholarships/",
+            "kind": "official_source_read"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "fit_reason": "education or study: Last two years of undergraduate study, master's study or recent graduation from qualifying institutions in Japan or overseas. Research unit fit and institutional approval apply; PhD applicants are not the target population.  Applicant eligibility unconfirmed.",
+    "team_min": null,
+    "team_max": null,
+    "prize": "JPY 2,400 per working day plus programme travel, accommodation and visa assistance. Family expenses and all personal expenses are not presumed covered.",
+    "id": "jp-oist-research-internship",
+    "name": "OIST Research Internship",
+    "country": "JP",
+    "type": "grant",
+    "organizer": "Okinawa Institute of Science and Technology",
+    "url": "https://www.oist.jp/admissions/research-internship/apply-research-internship",
+    "source_url": "https://www.oist.jp/admissions/research-internship/apply-research-internship",
+    "summary": "Four-to-six-month research internship in Okinawa for eligible undergraduate/master's students or recent graduates.",
+    "status": "open",
+    "deadline": "2026-10-15",
+    "deadline_time": "23:59",
+    "deadline_timezone": "Asia/Tokyo",
+    "deadline_source_url": "https://www.oist.jp/admissions/research-internship/apply-research-internship",
+    "fit": "want",
+    "funding_kind": "mixed",
+    "fee_status": "unknown",
+    "first_seen": "2026-10-12",
+    "last_checked": "2026-10-12",
+    "application_cycle": {
+      "label": "Spring 2027 internship",
+      "programme_name": "OIST Research Internship",
+      "status": "open",
+      "announcement_status": "announced",
+      "opens_on": null,
+      "deadline": "2026-10-15",
+      "deadline_time": "23:59",
+      "timezone": "Asia/Tokyo",
+      "source_url": "https://www.oist.jp/admissions/research-internship/apply-research-internship",
+      "checked_at": "2026-10-12",
+      "history": [],
+      "date_evidence_kind": "official_source_read",
+      "research": {
+        "as_of": "2026-10-12",
+        "status": "mixed",
+        "limits": "Only listed official public material inspected. Applicant eligibility and current authenticated form/contract remain unverified.",
+        "evidence": [
+          {
+            "url": "https://www.oist.jp/admissions/research-internship/apply-research-internship",
+            "kind": "official_source_read"
+          },
+          {
+            "url": "https://www.oist.jp/admissions/research-internship/program-description",
+            "kind": "official_source_read"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "fit_reason": "research or professional: Overseas doctoral candidates or established Japanese studies researchers with host affiliation. Undergraduate/master's study and natural science, medicine or engineering projects excluded. Southeast Asia is routed to the related ASEAN category, grouped here.  Applicant eligibility unconfirmed.",
+    "team_min": null,
+    "team_max": null,
+    "prize": "2027 long-term researcher stipend JPY 400,000 per month; doctoral JPY 310,000 per month; short-term researcher JPY 17,000 per day. Category-specific airfare, insurance and allowances are conditional, not an aggregate cash prize.",
+    "id": "jp-japan-foundation-japanese-studies-fellowship",
+    "name": "Japan Foundation Japanese Studies Fellowship",
+    "country": "JP",
+    "type": "grant",
+    "organizer": "Japan Foundation",
+    "url": "https://www.jpf.go.jp/e/program/intel.html",
+    "source_url": "https://www.jpf.go.jp/e/program/intel.html",
+    "summary": "Japanese studies research residency; natural sciences, engineering and industry skill training are excluded.",
+    "status": "open",
+    "deadline": "2026-12-01",
+    "deadline_time": null,
+    "deadline_timezone": null,
+    "deadline_source_url": null,
+    "fit": "want",
+    "funding_kind": "mixed",
+    "fee_status": "unknown",
+    "first_seen": "2026-10-12",
+    "last_checked": "2026-10-12",
+    "application_cycle": {
+      "label": "FY2027 fellowship; applicant-specific deadline clock",
+      "programme_name": "Japan Foundation Japanese Studies Fellowship",
+      "status": "open",
+      "announcement_status": "announced",
+      "opens_on": null,
+      "deadline": "2026-12-01",
+      "deadline_time": null,
+      "timezone": null,
+      "source_url": "https://www.jpf.go.jp/e/program/intel.html",
+      "checked_at": "2026-10-12",
+      "history": [],
+      "date_evidence_kind": "official_source_read",
+      "research": {
+        "as_of": "2026-10-12",
+        "status": "mixed",
+        "limits": "Only listed official public material inspected. Applicant eligibility and current authenticated form/contract remain unverified.",
+        "evidence": [
+          {
+            "url": "https://www.jpf.go.jp/e/program/intel.html",
+            "kind": "official_source_read"
+          },
+          {
+            "url": "https://www.jpf.go.jp/e/program/dl/intel/pdf/RJS-FW2027_e.pdf",
+            "kind": "official_source_read"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "fit_reason": "business or relocation support: Startup from EU or Horizon Europe associated country, PIC registration, TRL 7 or higher, market-ready product and required business/funding readiness. Not globally open to every nationality.  Applicant eligibility unconfirmed.",
+    "team_min": null,
+    "team_max": null,
+    "prize": "2026 participation free; mentoring and corporate matching, plus EUR 2,200 subgrant for eligible immersion travel/accommodation. No automatic investment.",
+    "id": "jp-calling2scale-gunma",
+    "name": "Calling2Scale Gunma Gateway to Japan",
+    "country": "JP",
+    "type": "accelerator",
+    "organizer": "EIT Global Outreach / Gunma Prefecture",
+    "url": "https://www.go-eit.eu/calling2scale-gunma-gateway-to-japan/",
+    "source_url": "https://www.go-eit.eu/calling2scale-gunma-gateway-to-japan/",
+    "summary": "European technology startup market-entry programme with a Gunma immersion and conditional travel subgrant.",
+    "status": "planning",
+    "deadline": null,
+    "deadline_time": null,
+    "deadline_timezone": null,
+    "deadline_source_url": null,
+    "fit": "want",
+    "funding_kind": "mixed",
+    "fee_status": "none",
+    "first_seen": "2026-10-12",
+    "last_checked": "2026-10-12",
+    "application_cycle": {
+      "label": "Next intake unannounced; source edition qualified in audit",
+      "programme_name": "Calling2Scale Gunma Gateway to Japan",
+      "status": "planning",
+      "announcement_status": "unverified",
+      "opens_on": null,
+      "deadline": null,
+      "deadline_time": null,
+      "timezone": null,
+      "source_url": "https://www.go-eit.eu/calling2scale-gunma-gateway-to-japan/",
+      "checked_at": "2026-10-12",
+      "history": [
+        {
+          "label": "2026 closed application call",
+          "programme_name": "Calling2Scale Gunma Gateway to Japan",
+          "status": "closed",
+          "announcement_status": "announced",
+          "opens_on": "2026-08-03",
+          "deadline": "2026-09-03",
+          "deadline_time": null,
+          "timezone": null,
+          "source_url": "https://www.go-eit.eu/calling2scale-gunma-gateway-to-japan/",
+          "checked_at": "2026-10-12"
+        }
+      ],
+      "date_evidence_kind": "official_source_read",
+      "research": {
+        "as_of": "2026-10-12",
+        "status": "mixed",
+        "limits": "Only listed official public material inspected. Applicant eligibility and current authenticated form/contract remain unverified.",
+        "evidence": [
+          {
+            "url": "https://www.go-eit.eu/calling2scale-gunma-gateway-to-japan/",
+            "kind": "official_source_read"
+          },
+          {
+            "url": "https://www.pref.gunma.jp/page/744540.html",
+            "kind": "official_source_read"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "fit_reason": "business or relocation support: Foreign-law corporation in asset management or FinTech; prior BDCT/Tokyo consultation and approved establishment required. Continue operations for two fiscal years after establishment year.  Applicant eligibility unconfirmed.",
+    "team_min": null,
+    "team_max": null,
+    "prize": "FY2026 first year: half eligible expenses, cap JPY 12.5 million for licensed asset managers or JPY 7.5 million for other asset managers/FinTech. Second/third-year category caps JPY 20 million or JPY 15 million; no automatic sum or universal award.",
+    "id": "jp-tokyo-foreign-financial-establishment-subsidy",
+    "name": "Tokyo Overseas Financial Corporation Establishment and Support Subsidy",
+    "country": "JP",
+    "type": "grant",
+    "organizer": "Tokyo Metropolitan Government",
+    "url": "https://www.sangyo-rodo.metro.tokyo.lg.jp/gfct/initiatives/nurturing-players/attract-company/establishment-subsidy-eng",
+    "source_url": "https://www.sangyo-rodo.metro.tokyo.lg.jp/gfct/initiatives/nurturing-players/attract-company/establishment-subsidy-eng",
+    "summary": "Restricted reimbursement for foreign FinTech or asset-management companies establishing Tokyo operations.",
+    "status": "open",
+    "deadline": "2026-12-25",
+    "deadline_time": null,
+    "deadline_timezone": null,
+    "deadline_source_url": null,
+    "fit": "want",
+    "funding_kind": "cash",
+    "fee_status": "unknown",
+    "first_seen": "2026-10-12",
+    "last_checked": "2026-10-12",
+    "application_cycle": {
+      "label": "FY2026 application; in-principle cutoff",
+      "programme_name": "Tokyo Overseas Financial Corporation Establishment and Support Subsidy",
+      "status": "open",
+      "announcement_status": "announced",
+      "opens_on": null,
+      "deadline": "2026-12-25",
+      "deadline_time": null,
+      "timezone": null,
+      "source_url": "https://www.sangyo-rodo.metro.tokyo.lg.jp/gfct/initiatives/nurturing-players/attract-company/establishment-subsidy-eng",
+      "checked_at": "2026-10-12",
+      "history": [],
+      "date_evidence_kind": "official_source_read",
+      "research": {
+        "as_of": "2026-10-12",
+        "status": "mixed",
+        "limits": "Only listed official public material inspected. Applicant eligibility and current authenticated form/contract remain unverified.",
+        "evidence": [
+          {
+            "url": "https://www.sangyo-rodo.metro.tokyo.lg.jp/gfct/initiatives/nurturing-players/attract-company/establishment-subsidy-eng",
+            "kind": "official_source_read"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "fit_reason": "business or relocation support: Governor-approved FinTech or asset-management-related business; at least two years' headquarters-country business record, no Osaka base at prior consultation, approved contracts after consultation.  Applicant eligibility unconfirmed.",
+    "team_min": null,
+    "team_max": null,
+    "prize": "Preliminary survey subsidy up to JPY 1.1 million; establishment subsidy half eligible expenses up to JPY 10 million. Separate conditional categories, not guaranteed combined cash.",
+    "id": "jp-osaka-foreign-financial-base-subsidy",
+    "name": "Osaka Foreign Financial Company Base Establishment Subsidy",
+    "country": "JP",
+    "type": "grant",
+    "organizer": "Osaka Prefecture / Osaka City",
+    "url": "https://www.investosaka.jp/eng/market/privilege.html",
+    "source_url": "https://www.investosaka.jp/eng/market/privilege.html",
+    "summary": "Approved foreign financial/FinTech preliminary-survey and Osaka establishment cost subsidies.",
+    "status": "planning",
+    "deadline": null,
+    "deadline_time": null,
+    "deadline_timezone": null,
+    "deadline_source_url": null,
+    "fit": "want",
+    "funding_kind": "cash",
+    "fee_status": "unknown",
+    "first_seen": "2026-10-12",
+    "last_checked": "2026-10-12",
+    "application_cycle": {
+      "label": "Next intake unannounced; source edition qualified in audit",
+      "programme_name": "Osaka Foreign Financial Company Base Establishment Subsidy",
+      "status": "planning",
+      "announcement_status": "unverified",
+      "opens_on": null,
+      "deadline": null,
+      "deadline_time": null,
+      "timezone": null,
+      "source_url": "https://www.investosaka.jp/eng/market/privilege.html",
+      "checked_at": "2026-10-12",
+      "history": [],
+      "date_evidence_kind": "official_source_read",
+      "research": {
+        "as_of": "2026-10-12",
+        "status": "mixed",
+        "limits": "Only listed official public material inspected. Applicant eligibility and current authenticated form/contract remain unverified.",
+        "evidence": [
+          {
+            "url": "https://www.investosaka.jp/eng/market/privilege.html",
+            "kind": "official_source_read"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "fit_reason": "business or relocation support: Japan or overseas incorporated startup/SME; startups generally unlisted and no more than ten years old, with possible exceptions. Technology must be test-ready with a substantive energy connection; pure concepts/basic research excluded. No Japanese subsidiary required.  Applicant eligibility unconfirmed.",
+    "team_min": null,
+    "team_max": null,
+    "prize": "FY2026 approved project support up to JPY 2 million including taxes/charges; possible additional JPY 1 million only for substantive OIST research/core-facility collaboration. Validation coordination and conditional resource access, not guaranteed facilities, payment or investment.",
+    "id": "jp-oist-energy-testbed-validation",
+    "name": "OIST Sustainable Energy Testbed Validation Program",
+    "country": "JP",
+    "type": "grant",
+    "organizer": "Okinawa Institute of Science and Technology",
+    "url": "https://groups.oist.jp/innovation/event/call-applications-oist-sustainable-energy-testbed-validation-program",
+    "source_url": "https://groups.oist.jp/innovation/event/call-applications-oist-sustainable-energy-testbed-validation-program",
+    "summary": "Current Okinawa energy-technology validation call, including energy software and data; project support is contractual and conditional.",
+    "status": "open",
+    "deadline": "2026-10-28",
+    "deadline_time": "17:00",
+    "deadline_timezone": "Asia/Tokyo",
+    "deadline_source_url": "https://groups.oist.jp/innovation/event/call-applications-oist-sustainable-energy-testbed-validation-program",
+    "fit": "want",
+    "funding_kind": "mixed",
+    "fee_status": "unknown",
+    "first_seen": "2026-10-12",
+    "last_checked": "2026-10-12",
+    "application_cycle": {
+      "label": "FY2026 pilot validation call",
+      "programme_name": "OIST Sustainable Energy Testbed Validation Program",
+      "status": "open",
+      "announcement_status": "announced",
+      "opens_on": "2026-10-09",
+      "deadline": "2026-10-28",
+      "deadline_time": "17:00",
+      "timezone": "Asia/Tokyo",
+      "source_url": "https://groups.oist.jp/innovation/event/call-applications-oist-sustainable-energy-testbed-validation-program",
+      "checked_at": "2026-10-12",
+      "history": [],
+      "date_evidence_kind": "official_source_read",
+      "research": {
+        "as_of": "2026-10-12",
+        "status": "mixed",
+        "limits": "Only listed official public material inspected. Applicant eligibility and current authenticated form/contract remain unverified.",
+        "evidence": [
+          {
+            "url": "https://groups.oist.jp/innovation/event/call-applications-oist-sustainable-energy-testbed-validation-program",
+            "kind": "official_source_read"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "fit_reason": "education or study: OECD/DAC-listed nationality excluding China; currently residing outside Japan. Generally age 18–39 on August 24, 2026, final-year university student or graduate, Japanese N3/B1 or adequate English. Prior FY2016–2025 participants excluded; career-change applicants may qualify.  Applicant eligibility unconfirmed.",
+    "team_min": null,
+    "team_max": null,
+    "prize": "2026 in-person allowance JPY 3,000 per stay day, economy return airfare, insurance, training, housing/utilities and commuting support. Online route JPY 1,000-equivalent per activity day after completion, plus equipment; not employment salary or startup capital.",
+    "id": "jp-meti-japan-internship",
+    "name": "METI Japan Internship Program",
+    "country": "JP",
+    "type": "grant",
+    "organizer": "Ministry of Economy, Trade and Industry / Pasona JIP Office",
+    "url": "https://www.internshipprogram.go.jp/english/intern/index.html?id=step1",
+    "source_url": "https://www.internshipprogram.go.jp/english/intern/index.html?id=step1",
+    "summary": "Foreign professional placement with Japanese SMEs; 2026 intake closed. In-person and online routes grouped once.",
+    "status": "planning",
+    "deadline": null,
+    "deadline_time": null,
+    "deadline_timezone": null,
+    "deadline_source_url": null,
+    "fit": "want",
+    "funding_kind": "mixed",
+    "fee_status": "unknown",
+    "first_seen": "2026-10-12",
+    "last_checked": "2026-10-12",
+    "application_cycle": {
+      "label": "Next intake unannounced; source edition qualified in audit",
+      "programme_name": "METI Japan Internship Program",
+      "status": "planning",
+      "announcement_status": "unverified",
+      "opens_on": null,
+      "deadline": null,
+      "deadline_time": null,
+      "timezone": null,
+      "source_url": "https://www.internshipprogram.go.jp/english/intern/index.html?id=step1",
+      "checked_at": "2026-10-12",
+      "history": [
+        {
+          "label": "FY2026 intake closed",
+          "programme_name": "METI Japan Internship Program",
+          "status": "closed",
+          "announcement_status": "announced",
+          "opens_on": null,
+          "deadline": "2026-06-30",
+          "deadline_time": null,
+          "timezone": "Asia/Tokyo",
+          "source_url": "https://www.internshipprogram.go.jp/english/intern/index.html?id=step1",
+          "checked_at": "2026-10-12"
+        }
+      ],
+      "date_evidence_kind": "official_source_read",
+      "research": {
+        "as_of": "2026-10-12",
+        "status": "mixed",
+        "limits": "Only listed official public material inspected. Applicant eligibility and current authenticated form/contract remain unverified.",
+        "evidence": [
+          {
+            "url": "https://www.internshipprogram.go.jp/english/intern/index.html?id=step1",
+            "kind": "official_source_read"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "fit_reason": "education or study: Eligible EU/Single Market Programme SME-pillar citizenship and university enrolment there; fourth official study year through final PhD year. Enrolled until at least late June 2026, fluent English and able to devote eight months. Computer science explicitly included.  Applicant eligibility unconfirmed.",
+    "team_min": null,
+    "team_max": null,
+    "prize": "2026–27 base EUR 8,200 for compulsory programme, including insurance; optional Eyes on Japan group assignment adds EUR 1,000. Host housing and Japanese training provided. Insurance arranged by centre deducted from grant, not extra cash.",
+    "id": "jp-vulcanus-industrial-training",
+    "name": "Vulcanus in Japan",
+    "country": "JP",
+    "type": "grant",
+    "organizer": "EU-Japan Centre for Industrial Cooperation / European Commission / METI",
+    "url": "https://www.eu-japan.eu/events/vulcanus-japan",
+    "source_url": "https://www.eu-japan.eu/events/vulcanus-japan",
+    "summary": "EU/associated-country engineering and STEM student traineeship in Japan; 2026–27 call closed.",
+    "status": "planning",
+    "deadline": null,
+    "deadline_time": null,
+    "deadline_timezone": null,
+    "deadline_source_url": null,
+    "fit": "want",
+    "funding_kind": "mixed",
+    "fee_status": "unknown",
+    "first_seen": "2026-10-12",
+    "last_checked": "2026-10-12",
+    "application_cycle": {
+      "label": "Next intake unannounced; source edition qualified in audit",
+      "programme_name": "Vulcanus in Japan",
+      "status": "planning",
+      "announcement_status": "unverified",
+      "opens_on": null,
+      "deadline": null,
+      "deadline_time": null,
+      "timezone": null,
+      "source_url": "https://www.eu-japan.eu/events/vulcanus-japan",
+      "checked_at": "2026-10-12",
+      "history": [
+        {
+          "label": "2026–2027 student call, closed",
+          "programme_name": "Vulcanus in Japan",
+          "status": "closed",
+          "announcement_status": "announced",
+          "opens_on": "2025-11-03",
+          "deadline": "2026-01-20",
+          "deadline_time": "23:00",
+          "timezone": "Europe/Brussels",
+          "source_url": "https://www.eu-japan.eu/events/vulcanus-japan",
+          "checked_at": "2026-10-12"
+        }
+      ],
+      "date_evidence_kind": "official_source_read",
+      "research": {
+        "as_of": "2026-10-12",
+        "status": "mixed",
+        "limits": "Only listed official public material inspected. Applicant eligibility and current authenticated form/contract remain unverified.",
+        "evidence": [
+          {
+            "url": "https://www.eu-japan.eu/events/vulcanus-japan",
+            "kind": "official_source_read"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "fit_reason": "education or study: Audited Bangladesh route: citizen, below 40 on April 1, 2027, bachelor's/16 years education and specified grades; confirmed eligible civil-service, central-bank, judicial or legislative official with at least two years' experience. English/IELTS and controlling-authority permission required; prior/concurrent scholarship exclusions.  Applicant eligibility unconfirmed.",
+    "team_min": null,
+    "team_max": null,
+    "prize": "Accepted fellows receive tuition, return airfare, arrival/accommodation allowances, monthly scholarship, insurance and specified book/shipping/travel support. Exact current cash rates unverified; not founder capital.",
+    "id": "jp-jds-human-resource-scholarship",
+    "name": "Japan JDS Human Resource Development Scholarship",
+    "country": "JP",
+    "type": "grant",
+    "organizer": "Government of Japan / JICA / Japan International Cooperation Center",
+    "url": "https://jds-scholarship.org/country/bangladesh/",
+    "source_url": "https://jds-scholarship.org/country/bangladesh/",
+    "summary": "Japan postgraduate scholarship for eligible foreign public-sector personnel; current Bangladesh 2027–28 route open, country rules differ.",
+    "status": "open",
+    "deadline": null,
+    "deadline_time": null,
+    "deadline_timezone": null,
+    "deadline_source_url": null,
+    "fit": "want",
+    "funding_kind": "mixed",
+    "fee_status": "unknown",
+    "first_seen": "2026-10-12",
+    "last_checked": "2026-10-12",
+    "application_cycle": {
+      "label": "Bangladesh 2027–28 route open; country-specific deadlines",
+      "programme_name": "Japan JDS Human Resource Development Scholarship",
+      "status": "open",
+      "announcement_status": "announced",
+      "opens_on": null,
+      "deadline": null,
+      "deadline_time": null,
+      "timezone": null,
+      "source_url": "https://jds-scholarship.org/country/bangladesh/",
+      "checked_at": "2026-10-12",
+      "history": [],
+      "date_evidence_kind": "official_source_read",
+      "research": {
+        "as_of": "2026-10-12",
+        "status": "mixed",
+        "limits": "Only listed official public material inspected. Applicant eligibility and current authenticated form/contract remain unverified.",
+        "evidence": [
+          {
+            "url": "https://jds-scholarship.org/country/bangladesh/",
+            "kind": "official_source_read"
+          },
+          {
+            "url": "https://jds-scholarship.org/studentlife/jds-support.html",
+            "kind": "official_source_read"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "fit_reason": "business or relocation support: Foreign entrepreneurs/technology startups establishing in Thailand. Current checklist: Thai-registered company in targeted industries, founder holds at least 25%, personal bank savings over THB600,000; form requires three-month deposit history. Age/nationality exclusions and team bounds unverified.  Applicant eligibility unconfirmed.",
+    "team_min": null,
+    "team_max": null,
+    "prize": "Paid incubation: one-year coworking in six locations, legal/company-registration consultation, investor meetups, visa support; conditional USD25,000 Google Cloud credits for verified startups. No cash award or guaranteed investment.",
+    "id": "th-tdpk-global-startup",
+    "name": "True Digital Park Global Startup Program",
+    "type": "accelerator",
+    "country": "TH",
+    "organizer": "True Digital Park",
+    "url": "https://www.truedigitalpark.com/business-service/global-startup-program",
+    "source_url": "https://www.truedigitalpark.com/business-service/global-startup-program",
+    "deadline": null,
+    "status": "planning",
+    "summary": "Paid incubation: one-year coworking in six locations, legal/company-registration consultation, investor meetups, visa support; conditional USD25,000 Google Cloud credits for verified startups. No cash award or guaranteed investment. Live undated service/form; no published next closing date. Two-year Smart S entitlement advertised, subject to actual government approval.",
+    "fit": "want",
+    "funding_kind": "noncash",
+    "fee_status": "required",
+    "first_seen": "2026-10-12",
+    "last_checked": "2026-10-12",
+    "deadline_time": null,
+    "deadline_timezone": null,
+    "deadline_source_url": null,
+    "application_cycle": {
+      "label": "Next intake unverified; audited source edition qualified",
+      "programme_name": "True Digital Park Global Startup Program",
+      "status": "planning",
+      "announcement_status": "unverified",
+      "opens_on": null,
+      "deadline": null,
+      "deadline_time": null,
+      "timezone": null,
+      "source_url": "https://www.truedigitalpark.com/business-service/global-startup-program",
+      "checked_at": "2026-10-12",
+      "history": [],
+      "date_evidence_kind": "official_source_read",
+      "research": {
+        "as_of": "2026-10-12",
+        "status": "mixed",
+        "limits": "Public rules read; current authenticated forms, signed contracts and owner eligibility not certified. Live undated service/form; no published next closing date. Two-year Smart S entitlement advertised, subject to actual government approval.",
+        "evidence": [
+          {
+            "url": "https://www.truedigitalpark.com/business-service/global-startup-program",
+            "kind": "official_source_read"
+          },
+          {
+            "url": "https://www.truedigitalpark.com/en/recommended/business/Global-Startup-Program/50",
+            "kind": "official_source_read"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "fit_reason": "business or relocation support: Explicit recruitment of overseas and Thai AgriFoodTech/F&B startups. Scalable innovative product/model; incubation ideas and accelerator established products differ. Entity/nationality/age/team bounds unverified.  Applicant eligibility unconfirmed.",
+    "team_min": null,
+    "team_max": null,
+    "prize": "Mentors, coworking, corporate PoC/matching and investor access; selected participation-expense grant. Same FAQ states both up to THB200,000 and THB250,000: cap conflicts; not a guaranteed award. No equity for participation per homepage.",
+    "id": "th-space-f",
+    "name": "SPACE-F FoodTech Incubator and Accelerator",
+    "type": "accelerator",
+    "country": "TH",
+    "organizer": "Thai Union / NIA / Mahidol University / SPACE-F partners",
+    "url": "https://www.space-f.co/contact-us",
+    "source_url": "https://www.space-f.co/contact-us",
+    "deadline": null,
+    "status": "planning",
+    "summary": "Official organiser guidance targets Thai and overseas foodtech startups. Incubator/accelerator mentoring and conditional participation support; no current intake deadline verified. Reported2026 Batch7 cutoff is not independently corroborated.",
+    "fit": "want",
+    "funding_kind": "mixed",
+    "fee_status": "none",
+    "first_seen": "2026-10-12",
+    "last_checked": "2026-10-12",
+    "deadline_time": null,
+    "deadline_timezone": null,
+    "deadline_source_url": null,
+    "application_cycle": {
+      "label": "Next intake unverified; audited source edition qualified",
+      "programme_name": "SPACE-F FoodTech Incubator and Accelerator",
+      "status": "planning",
+      "announcement_status": "unverified",
+      "opens_on": null,
+      "deadline": null,
+      "deadline_time": null,
+      "timezone": null,
+      "source_url": "https://www.space-f.co/contact-us",
+      "checked_at": "2026-10-12",
+      "history": [
+        {
+          "label": "Reported Batch7 2026 cutoff; official date not independently corroborated",
+          "programme_name": "SPACE-F FoodTech Incubator and Accelerator",
+          "status": "planning",
+          "announcement_status": "unverified",
+          "opens_on": null,
+          "deadline": null,
+          "deadline_time": null,
+          "timezone": null,
+          "source_url": "https://www.space-f.co/contact-us",
+          "checked_at": "2026-10-12"
+        }
+      ],
+      "date_evidence_kind": "official_source_read",
+      "research": {
+        "as_of": "2026-10-12",
+        "status": "mixed",
+        "limits": "Current official programme/FAQ benefits and foreign recruitment read. Reported Batch7 February28,2026 cutoff not independently corroborated; Facebook returns login/block shell. No next intake verified.",
+        "evidence": [
+          {
+            "url": "https://www.space-f.co/contact-us",
+            "kind": "official_source_read"
+          },
+          {
+            "url": "https://www.space-f.co/",
+            "kind": "official_source_read"
+          },
+          {
+            "url": "https://www.facebook.com/spaceffoodtech/posts/applications-are-open-join-space-f-batch-7-scale-your-foodtech-globally-ready-to/1434127492054529/",
+            "kind": "official_shell_only"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "fit_reason": "business or relocation support: Foreign-based production with a Thailand Film Office permit, overseas-origin funds and an incorporated, licensed Thai coordination company. Qualifying Thai spend around THB50million is required: narrative says exceeding50million, while rate table starts at50million. TV commercials excluded; threshold edge needs confirmation.  Applicant eligibility unconfirmed.",
+    "team_min": null,
+    "team_max": null,
+    "prize": "Cash reimbursement:15% for THB50–100million qualifying spend, capped25% including extras;20% for THB100–150million, capped30%;25% above150million, capped30%. Extras: Thai personnel5%, tourism5%, designated provinces3%, Thai postproduction3%. Annual budget availability applies.",
+    "id": "th-foreign-film-incentive",
+    "name": "Thailand Foreign Film Production Incentive Measures",
+    "type": "grant",
+    "country": "TH",
+    "organizer": "Thailand Film Office / Department of Tourism",
+    "url": "https://tfo.dot.go.th/incentive-measures/",
+    "source_url": "https://tfo.dot.go.th/incentive-measures/",
+    "deadline": null,
+    "status": "planning",
+    "summary": "Cash reimbursement:15% for THB50–100million qualifying spend, capped25% including extras;20% for THB100–150million, capped30%;25% above150million, capped30%. Extras: Thai personnel5%, tourism5%, designated provinces3%, Thai postproduction3%. Annual budget availability applies. Live2025 guidelines and2026 documentation. Start shooting within120 days of approval, with one discretionary90-day extension. ICM2 within120 days after completion below THB1billion spend,150 days above. Guideline requires minimum one-year application/payout gap; simplified website timing differs. No calendar intake cutoff.",
+    "fit": "want",
+    "funding_kind": "cash",
+    "fee_status": "unknown",
+    "first_seen": "2026-10-12",
+    "last_checked": "2026-10-12",
+    "deadline_time": null,
+    "deadline_timezone": null,
+    "deadline_source_url": null,
+    "application_cycle": {
+      "label": "Next intake unverified; audited source edition qualified",
+      "programme_name": "Thailand Foreign Film Production Incentive Measures",
+      "status": "planning",
+      "announcement_status": "unverified",
+      "opens_on": null,
+      "deadline": null,
+      "deadline_time": null,
+      "timezone": null,
+      "source_url": "https://tfo.dot.go.th/incentive-measures/",
+      "checked_at": "2026-10-12",
+      "history": [],
+      "date_evidence_kind": "official_source_read",
+      "research": {
+        "as_of": "2026-10-12",
+        "status": "mixed",
+        "limits": "Public rules read; current authenticated forms, signed contracts and owner eligibility not certified. Live2025 guidelines and2026 documentation. Start shooting within120 days of approval, with one discretionary90-day extension. ICM2 within120 days after completion below THB1billion spend,150 days above. Guideline requires minimum one-year application/payout gap; simplified website timing differs. No calendar intake cutoff.",
+        "evidence": [
+          {
+            "url": "https://tfo.dot.go.th/incentive-measures/",
+            "kind": "official_source_read"
+          },
+          {
+            "url": "https://tfo.dot.go.th/incentive-measures/process/",
+            "kind": "official_source_read"
+          },
+          {
+            "url": "https://tfo.dot.go.th/incentive-measures/application-form/",
+            "kind": "official_source_read"
+          },
+          {
+            "url": "https://tfo.dot.go.th/wp-content/uploads/2025/03/Thailand-Incentive-Measures-Guidelines.pdf",
+            "kind": "official_source_read"
+          },
+          {
+            "url": "https://tfo.dot.go.th/wp-content/uploads/2024/10/ICM1-2025-Edit.pdf",
+            "kind": "official_source_read"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "fit_reason": "education or study: Foreign-passport holders admitted to or studying in their first semester of a Chula master or doctoral degree. Departments may impose additional conditions. No numerical age cap verified. Individual student scholarship; no founder/company eligibility inferred.  Applicant eligibility unconfirmed.",
+    "team_min": null,
+    "team_max": null,
+    "prize": "2026 formal rules cover tuition at the Thai-student rate and THB16,000 monthly, up to two years for master/three for PhD. Airfare per journey at actual cost capped THB17,000 Southeast Asia,24,000 other Asia,40,000 Europe/Oceania/Africa or60,000 Americas. Department support for foreign-fee differences/special fees is optional.",
+    "id": "th-chula-link",
+    "name": "Chula LINK International Graduate Scholarship",
+    "type": "grant",
+    "country": "TH",
+    "organizer": "Chulalongkorn University",
+    "url": "https://www.chula.ac.th/en/news/298837/",
+    "source_url": "https://www.chula.ac.th/en/news/298837/",
+    "deadline": null,
+    "status": "planning",
+    "summary": "2026 formal rules cover tuition at the Thai-student rate and THB16,000 monthly, up to two years for master/three for PhD. Airfare per journey at actual cost capped THB17,000 Southeast Asia,24,000 other Asia,40,000 Europe/Oceania/Africa or60,000 Americas. Department support for foreign-fee differences/special fees is optional. 2026 call March20–May24 closed. Formal rules published May2026 do not establish a new intake. Next call unannounced.",
+    "fit": "want",
+    "funding_kind": "mixed",
+    "fee_status": "unknown",
+    "first_seen": "2026-10-12",
+    "last_checked": "2026-10-12",
+    "deadline_time": null,
+    "deadline_timezone": null,
+    "deadline_source_url": null,
+    "application_cycle": {
+      "label": "Next intake unverified; audited source edition qualified",
+      "programme_name": "Chula LINK International Graduate Scholarship",
+      "status": "planning",
+      "announcement_status": "unverified",
+      "opens_on": null,
+      "deadline": null,
+      "deadline_time": null,
+      "timezone": null,
+      "source_url": "https://www.chula.ac.th/en/news/298837/",
+      "checked_at": "2026-10-12",
+      "history": [
+        {
+          "label": "Audited closed source edition",
+          "programme_name": "Chula LINK International Graduate Scholarship",
+          "status": "closed",
+          "announcement_status": "announced",
+          "opens_on": null,
+          "deadline": "2026-05-24",
+          "deadline_time": null,
+          "timezone": null,
+          "source_url": "https://www.chula.ac.th/en/news/298837/",
+          "checked_at": "2026-10-12"
+        }
+      ],
+      "date_evidence_kind": "official_source_read",
+      "research": {
+        "as_of": "2026-10-12",
+        "status": "mixed",
+        "limits": "Public rules read; current authenticated forms, signed contracts and owner eligibility not certified. 2026 call March20–May24 closed. Formal rules published May2026 do not establish a new intake. Next call unannounced.",
+        "evidence": [
+          {
+            "url": "https://www.chula.ac.th/en/news/298837/",
+            "kind": "official_source_read"
+          },
+          {
+            "url": "https://web-cdn.chula.ac.th/web-dev/2026/04/69-05-ประกาศทุน-Chula-LINK.pdf",
+            "kind": "official_source_read"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "fit_reason": "research or professional: Foreign or Thai journalists employed by an international or English-language news organization in Thailand or abroad, with at least one year of journalism experience, good English and employer permission. Non-Thai citizens receive the larger stipend. No numerical age limit verified.  Applicant eligibility unconfirmed.",
+    "team_min": null,
+    "team_max": null,
+    "prize": "2027 non-Thai stipend THB30,000 monthly after withholding tax; Thai stipend THB15,000. Tuition/course/training fees up to THB60,000 and university activities/excursions up to THB30,000 per person, paid directly to university units. Workspace, temporary staff card, library, WiFi and sports facilities.",
+    "id": "th-chula-media",
+    "name": "Chula Media Fellowships",
+    "type": "grant",
+    "country": "TH",
+    "organizer": "Chulalongkorn University Communication Center",
+    "url": "https://www.chula.ac.th/en/news/428071/",
+    "source_url": "https://www.chula.ac.th/en/news/428071/",
+    "deadline": "2026-11-15",
+    "status": "open",
+    "summary": "2027 non-Thai stipend THB30,000 monthly after withholding tax; Thai stipend THB15,000. Tuition/course/training fees up to THB60,000 and university activities/excursions up to THB30,000 per person, paid directly to university units. Workspace, temporary staff card, library, WiFi and sports facilities. Apply by November15,2026, or earlier announced closure. No clock/timezone published. Announced October1,2026; currently announced2027 intake.",
+    "fit": "want",
+    "funding_kind": "mixed",
+    "fee_status": "unknown",
+    "first_seen": "2026-10-12",
+    "last_checked": "2026-10-12",
+    "deadline_time": null,
+    "deadline_timezone": null,
+    "deadline_source_url": null,
+    "application_cycle": {
+      "label": "Announced next intake",
+      "programme_name": "Chula Media Fellowships",
+      "status": "open",
+      "announcement_status": "announced",
+      "opens_on": null,
+      "deadline": "2026-11-15",
+      "deadline_time": null,
+      "timezone": null,
+      "source_url": "https://www.chula.ac.th/en/news/428071/",
+      "checked_at": "2026-10-12",
+      "history": [],
+      "date_evidence_kind": "official_source_read",
+      "research": {
+        "as_of": "2026-10-12",
+        "status": "mixed",
+        "limits": "Public rules read; current authenticated forms, signed contracts and owner eligibility not certified. Apply by November15,2026, or earlier announced closure. No clock/timezone published. Announced October1,2026; currently announced2027 intake.",
+        "evidence": [
+          {
+            "url": "https://www.chula.ac.th/en/news/428071/",
+            "kind": "official_source_read"
+          },
+          {
+            "url": "https://web-cdn.chula.ac.th/web-dev/2026/10/EN_Announcement-for-Chula-Media-Fellowships-2027.pdf",
+            "kind": "official_source_read"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "fit_reason": "research or professional: Non-Thai citizens employed by a reputable university/institution throughout the fellowship, with strong English and institutional permission. Professional track requires≥3 years in library/information work. Research track requires a terminal degree and a strong Thai/Southeast Asian studies publication record.  Applicant eligibility unconfirmed.",
+    "team_min": null,
+    "team_max": null,
+    "prize": "THB230,000 total gross, subject to15% withholding tax. Two instalments: after arrival/administration and after completed work/final report. The stipend covers travel, visa, insurance and onsite costs; these are not separate allowances.",
+    "id": "th-chula-global-library",
+    "name": "Chula-Global Library Visiting Fellowship",
+    "type": "grant",
+    "country": "TH",
+    "organizer": "Chulalongkorn University Office of Academic Resources",
+    "url": "https://www.car.chula.ac.th/pdf2.php?id=43",
+    "source_url": "https://www.car.chula.ac.th/pdf2.php?id=43",
+    "deadline": null,
+    "status": "planning",
+    "summary": "THB230,000 total gross, subject to15% withholding tax. Two instalments: after arrival/administration and after completed work/final report. The stipend covers travel, visa, insurance and onsite costs; these are not separate allowances. Closed December31,2025 at23:59 Thailand local time. One fellowship place, not a team-size rule. Next intake unannounced.",
+    "fit": "want",
+    "funding_kind": "cash",
+    "fee_status": "unknown",
+    "first_seen": "2026-10-12",
+    "last_checked": "2026-10-12",
+    "deadline_time": null,
+    "deadline_timezone": null,
+    "deadline_source_url": null,
+    "application_cycle": {
+      "label": "Next intake unverified; audited source edition qualified",
+      "programme_name": "Chula-Global Library Visiting Fellowship",
+      "status": "planning",
+      "announcement_status": "unverified",
+      "opens_on": null,
+      "deadline": null,
+      "deadline_time": null,
+      "timezone": null,
+      "source_url": "https://www.car.chula.ac.th/pdf2.php?id=43",
+      "checked_at": "2026-10-12",
+      "history": [
+        {
+          "label": "Audited closed source edition",
+          "programme_name": "Chula-Global Library Visiting Fellowship",
+          "status": "closed",
+          "announcement_status": "announced",
+          "opens_on": null,
+          "deadline": "2025-12-31",
+          "deadline_time": "23:59",
+          "timezone": "Asia/Bangkok",
+          "source_url": "https://www.car.chula.ac.th/pdf2.php?id=43",
+          "checked_at": "2026-10-12"
+        }
+      ],
+      "date_evidence_kind": "official_source_read",
+      "research": {
+        "as_of": "2026-10-12",
+        "status": "mixed",
+        "limits": "Public rules read; current authenticated forms, signed contracts and owner eligibility not certified. Closed December31,2025 at23:59 Thailand local time. One fellowship place, not a team-size rule. Next intake unannounced.",
+        "evidence": [
+          {
+            "url": "https://www.car.chula.ac.th/pdf2.php?id=43",
+            "kind": "official_source_read"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "fit_reason": "education or study: Non-Thai graduate applicants with excellent academics, preferably top20% of class, meeting SIIT master/PhD admission rules. Two strong recommendations using official professional emails, at least one academic referee; good health/conduct; no other scholarship. Age cap unknown.  Applicant eligibility unconfirmed.",
+    "team_min": null,
+    "team_max": null,
+    "prize": "January2027 TypeB support: THB10,000 monthly living allowance; economy airfare actual≤20,000; miscellaneous visa/one graduation English test expenses≤10,000; health/accident insurance. Published PDF coverage item1 is incomplete even on visual inspection: tuition entitlement cannot be established; no missing benefit invented.",
+    "id": "th-siit-efs",
+    "name": "SIIT Excellent Foreign Students Graduate Scholarships",
+    "type": "grant",
+    "country": "TH",
+    "organizer": "Sirindhorn International Institute of Technology / Sirindhorn Technology Scholarship Fund",
+    "url": "https://admissions.siit.tu.ac.th/admission_box/siit-graduate-scholarships/",
+    "source_url": "https://admissions.siit.tu.ac.th/admission_box/siit-graduate-scholarships/",
+    "deadline": null,
+    "status": "planning",
+    "summary": "January2027 TypeB support: THB10,000 monthly living allowance; economy airfare actual≤20,000; miscellaneous visa/one graduation English test expenses≤10,000; health/accident insurance. Published PDF coverage item1 is incomplete even on visual inspection: tuition entitlement cannot be established; no missing benefit invented. January2027 intake applications September1–30,2026 closed. Results October30, acceptance October30–November8 apply to selected candidates only. Next new intake unannounced.",
+    "fit": "want",
+    "funding_kind": "mixed",
+    "fee_status": "unknown",
+    "first_seen": "2026-10-12",
+    "last_checked": "2026-10-12",
+    "deadline_time": null,
+    "deadline_timezone": null,
+    "deadline_source_url": null,
+    "application_cycle": {
+      "label": "Next intake unverified; audited source edition qualified",
+      "programme_name": "SIIT Excellent Foreign Students Graduate Scholarships",
+      "status": "planning",
+      "announcement_status": "unverified",
+      "opens_on": null,
+      "deadline": null,
+      "deadline_time": null,
+      "timezone": null,
+      "source_url": "https://admissions.siit.tu.ac.th/admission_box/siit-graduate-scholarships/",
+      "checked_at": "2026-10-12",
+      "history": [
+        {
+          "label": "Audited closed source edition",
+          "programme_name": "SIIT Excellent Foreign Students Graduate Scholarships",
+          "status": "closed",
+          "announcement_status": "announced",
+          "opens_on": null,
+          "deadline": "2026-09-30",
+          "deadline_time": null,
+          "timezone": null,
+          "source_url": "https://admissions.siit.tu.ac.th/admission_box/siit-graduate-scholarships/",
+          "checked_at": "2026-10-12"
+        }
+      ],
+      "date_evidence_kind": "official_source_read",
+      "research": {
+        "as_of": "2026-10-12",
+        "status": "mixed",
+        "limits": "Public rules read; current authenticated forms, signed contracts and owner eligibility not certified. January2027 intake applications September1–30,2026 closed. Results October30, acceptance October30–November8 apply to selected candidates only. Next new intake unannounced.",
+        "evidence": [
+          {
+            "url": "https://admissions.siit.tu.ac.th/admission_box/siit-graduate-scholarships/",
+            "kind": "official_source_read"
+          },
+          {
+            "url": "https://admissions.siit.tu.ac.th/wp-content/uploads/2026/08/EFS-Announcement-2_2026-Type-B.pdf",
+            "kind": "official_source_read"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "fit_reason": "education or study: ASEAN/GMS nationals, including China Yunnan and Guangxi; age≤40; bachelor degree for master, bachelor and master for PhD; English requirements. Regional list can include Thai nationals, so this is mixed foreign/domestic recruitment, with explicit international-student arrival support.  Applicant eligibility unconfirmed.",
+    "team_min": null,
+    "team_max": null,
+    "prize": "Graduate funding programme; exact2026 tuition, stipend and caps not established from the inspected main body. Historical2024 amounts are not treated as current.",
+    "id": "th-kku-asean-gms",
+    "name": "Khon Kaen University ASEAN-GMS Personnel Scholarship",
+    "type": "grant",
+    "country": "TH",
+    "organizer": "Khon Kaen University",
+    "url": "https://iad.kku.ac.th/asean_gms_scholarship/",
+    "source_url": "https://iad.kku.ac.th/asean_gms_scholarship/",
+    "deadline": null,
+    "status": "planning",
+    "summary": "Graduate funding programme; exact2026 tuition, stipend and caps not established from the inspected main body. Historical2024 amounts are not treated as current. 2026 award phase confirmed. April3,2026 was the selected-candidate acceptance/conditions deadline. Original applicant cutoff unverified; next intake unannounced.",
+    "fit": "want",
+    "funding_kind": "unknown",
+    "fee_status": "unknown",
+    "first_seen": "2026-10-12",
+    "last_checked": "2026-10-12",
+    "deadline_time": null,
+    "deadline_timezone": null,
+    "deadline_source_url": null,
+    "application_cycle": {
+      "label": "Next intake unverified; audited source edition qualified",
+      "programme_name": "Khon Kaen University ASEAN-GMS Personnel Scholarship",
+      "status": "planning",
+      "announcement_status": "unverified",
+      "opens_on": null,
+      "deadline": null,
+      "deadline_time": null,
+      "timezone": null,
+      "source_url": "https://iad.kku.ac.th/asean_gms_scholarship/",
+      "checked_at": "2026-10-12",
+      "history": [],
+      "date_evidence_kind": "official_source_read",
+      "research": {
+        "as_of": "2026-10-12",
+        "status": "mixed",
+        "limits": "Public rules read; current authenticated forms, signed contracts and owner eligibility not certified. 2026 award phase confirmed. April3,2026 was the selected-candidate acceptance/conditions deadline. Original applicant cutoff unverified; next intake unannounced.",
+        "evidence": [
+          {
+            "url": "https://iad.kku.ac.th/asean_gms_scholarship/",
+            "kind": "official_source_read"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "fit_reason": "education or study: International graduate students admitted to specified strategic fields: business administration, international logistics/supply chain, materials innovation for sustainability. Master applicants need an accredited bachelor degree with GPA≥3.00; doctoral applicants need a master degree with GPA≥3.50; certificates certified in their country of origin. English test within two years: TOEFL iBT72/ITP543, IELTS6, CU-TEP70, MFU-TEP60 or TOEIC785. Exact passport exclusions/age cap unstated.  Applicant eligibility unconfirmed.",
+    "team_min": null,
+    "team_max": null,
+    "prize": "Tuition fees only for the approved degree programme. Despite the title Partial Scholarships, the formal text does not give a percentage or numerical cap. No living stipend, travel or startup grant verified.",
+    "id": "th-mfu-international-partial",
+    "name": "Mae Fah Luang International Graduate Partial Scholarships",
+    "type": "grant",
+    "country": "TH",
+    "organizer": "Mae Fah Luang University",
+    "url": "https://en.mfu.ac.th/en-news/en-news-detail/detail/News/38394.html",
+    "source_url": "https://en.mfu.ac.th/en-news/en-news-detail/detail/News/38394.html",
+    "deadline": null,
+    "status": "planning",
+    "summary": "Tuition fees only for the approved degree programme. Despite the title Partial Scholarships, the formal text does not give a percentage or numerical cap. No living stipend, travel or startup grant verified. 2026 application closed March31,2026; award announcement May2026. Governing announcement December30,2025. No verified2027 successor.",
+    "fit": "want",
+    "funding_kind": "noncash",
+    "fee_status": "unknown",
+    "first_seen": "2026-10-12",
+    "last_checked": "2026-10-12",
+    "deadline_time": null,
+    "deadline_timezone": null,
+    "deadline_source_url": null,
+    "application_cycle": {
+      "label": "Next intake unverified; audited source edition qualified",
+      "programme_name": "Mae Fah Luang International Graduate Partial Scholarships",
+      "status": "planning",
+      "announcement_status": "unverified",
+      "opens_on": null,
+      "deadline": null,
+      "deadline_time": null,
+      "timezone": null,
+      "source_url": "https://en.mfu.ac.th/en-news/en-news-detail/detail/News/38394.html",
+      "checked_at": "2026-10-12",
+      "history": [
+        {
+          "label": "Audited closed source edition",
+          "programme_name": "Mae Fah Luang International Graduate Partial Scholarships",
+          "status": "closed",
+          "announcement_status": "announced",
+          "opens_on": null,
+          "deadline": "2026-03-31",
+          "deadline_time": null,
+          "timezone": null,
+          "source_url": "https://en.mfu.ac.th/en-news/en-news-detail/detail/News/38394.html",
+          "checked_at": "2026-10-12"
+        }
+      ],
+      "date_evidence_kind": "official_source_read",
+      "research": {
+        "as_of": "2026-10-12",
+        "status": "mixed",
+        "limits": "Public rules read; current authenticated forms, signed contracts and owner eligibility not certified. 2026 application closed March31,2026; award announcement May2026. Governing announcement December30,2025. No verified2027 successor.",
+        "evidence": [
+          {
+            "url": "https://en.mfu.ac.th/en-news/en-news-detail/detail/News/38394.html",
+            "kind": "official_source_read"
+          },
+          {
+            "url": "https://drive.google.com/file/d/17bJF5jNfnWH5fOL1SLsW15_khrb_CQ03/view",
+            "kind": "official_source_read"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "fit_reason": "education or study: Non-Thai bachelor/master students, excluding Laos, Cambodia, Myanmar and Vietnam. Programme English standard and nomination by KMUTT faculty/institute/office. Ten annual scholarships per degree are cohort slots, not team size.  Applicant eligibility unconfirmed.",
+    "team_min": null,
+    "team_max": null,
+    "prize": "2024 continuing rules: actual tuition/credit/thesis-exam fees; bachelor THB8,000/master10,000 monthly for12 payments/year; equipment10,000/year; inpatient insurance1,800 and accident500/year. Approval can cover all or only some items.2026 results establish operation, not a new call.",
+    "id": "th-kmutt-kisp",
+    "name": "KMUTT International Scholarships Program (KISP)",
+    "type": "grant",
+    "country": "TH",
+    "organizer": "King Mongkut’s University of Technology Thonburi",
+    "url": "https://www.kmutt.ac.th/sfa/scholarships/kmutt-international-scholarship-program-kisp/?lang=en",
+    "source_url": "https://www.kmutt.ac.th/sfa/scholarships/kmutt-international-scholarship-program-kisp/?lang=en",
+    "deadline": null,
+    "status": "planning",
+    "summary": "2024 continuing rules: actual tuition/credit/thesis-exam fees; bachelor THB8,000/master10,000 monthly for12 payments/year; equipment10,000/year; inpatient insurance1,800 and accident500/year. Approval can cover all or only some items.2026 results establish operation, not a new call. 2026 semester-one scholarship results announced June19. No verified next application cutoff. Governing rules2024 effective from2023 semester two.",
+    "fit": "want",
+    "funding_kind": "mixed",
+    "fee_status": "unknown",
+    "first_seen": "2026-10-12",
+    "last_checked": "2026-10-12",
+    "deadline_time": null,
+    "deadline_timezone": null,
+    "deadline_source_url": null,
+    "application_cycle": {
+      "label": "Next intake unverified; audited source edition qualified",
+      "programme_name": "KMUTT International Scholarships Program (KISP)",
+      "status": "planning",
+      "announcement_status": "unverified",
+      "opens_on": null,
+      "deadline": null,
+      "deadline_time": null,
+      "timezone": null,
+      "source_url": "https://www.kmutt.ac.th/sfa/scholarships/kmutt-international-scholarship-program-kisp/?lang=en",
+      "checked_at": "2026-10-12",
+      "history": [],
+      "date_evidence_kind": "official_source_read",
+      "research": {
+        "as_of": "2026-10-12",
+        "status": "mixed",
+        "limits": "Public rules read; current authenticated forms, signed contracts and owner eligibility not certified. 2026 semester-one scholarship results announced June19. No verified next application cutoff. Governing rules2024 effective from2023 semester two.",
+        "evidence": [
+          {
+            "url": "https://www.kmutt.ac.th/sfa/scholarships/kmutt-international-scholarship-program-kisp/?lang=en",
+            "kind": "official_source_read"
+          },
+          {
+            "url": "https://www.kmutt.ac.th/sfa/wp-content/uploads/sites/8/2024/10/Announcement-KISP-Scholarship-2567-2.pdf",
+            "kind": "official_source_read"
+          },
+          {
+            "url": "https://www.kmutt.ac.th/sfa/news-activities-en/19062026/?lang=en",
+            "kind": "official_source_read"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "fit_reason": "education or study: Laos, Cambodia, Myanmar or Vietnam nationals applying for bachelor/master degrees, meeting programme English rules and nominated by a KMUTT unit. Four annual scholarships per degree. Age/residency caps unknown.  Applicant eligibility unconfirmed.",
+    "team_min": null,
+    "team_max": null,
+    "prize": "Actual tuition/credit/thesis-exam fees; bachelor THB8,000/master10,000 monthly; equipment10,000/year; inpatient insurance1,800 plus accident500/year. All or some items may be approved.",
+    "id": "th-kmutt-multi-intellectual",
+    "name": "KMUTT Multi-intellectuals Scholarship",
+    "type": "grant",
+    "country": "TH",
+    "organizer": "King Mongkut’s University of Technology Thonburi",
+    "url": "https://www.kmutt.ac.th/sfa/wp-content/uploads/sites/8/2024/10/Announcement-Multi-intellectuals-Scholarship-2567.pdf",
+    "source_url": "https://www.kmutt.ac.th/sfa/wp-content/uploads/sites/8/2024/10/Announcement-Multi-intellectuals-Scholarship-2567.pdf",
+    "deadline": null,
+    "status": "planning",
+    "summary": "Actual tuition/credit/thesis-exam fees; bachelor THB8,000/master10,000 monthly; equipment10,000/year; inpatient insurance1,800 plus accident500/year. All or some items may be approved. Continuing2024 rules and2026 results refer to MIS. Next application cutoff unverified.",
+    "fit": "want",
+    "funding_kind": "mixed",
+    "fee_status": "unknown",
+    "first_seen": "2026-10-12",
+    "last_checked": "2026-10-12",
+    "deadline_time": null,
+    "deadline_timezone": null,
+    "deadline_source_url": null,
+    "application_cycle": {
+      "label": "Next intake unverified; audited source edition qualified",
+      "programme_name": "KMUTT Multi-intellectuals Scholarship",
+      "status": "planning",
+      "announcement_status": "unverified",
+      "opens_on": null,
+      "deadline": null,
+      "deadline_time": null,
+      "timezone": null,
+      "source_url": "https://www.kmutt.ac.th/sfa/wp-content/uploads/sites/8/2024/10/Announcement-Multi-intellectuals-Scholarship-2567.pdf",
+      "checked_at": "2026-10-12",
+      "history": [],
+      "date_evidence_kind": "official_source_read",
+      "research": {
+        "as_of": "2026-10-12",
+        "status": "mixed",
+        "limits": "Public rules read; current authenticated forms, signed contracts and owner eligibility not certified. Continuing2024 rules and2026 results refer to MIS. Next application cutoff unverified.",
+        "evidence": [
+          {
+            "url": "https://www.kmutt.ac.th/sfa/wp-content/uploads/sites/8/2024/10/Announcement-Multi-intellectuals-Scholarship-2567.pdf",
+            "kind": "official_source_read"
+          },
+          {
+            "url": "https://www.kmutt.ac.th/sfa/scholarships-for-international-students/?lang=en",
+            "kind": "official_source_read"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "fit_reason": "education or study: Master/PhD staff or student applicants from Laos, Cambodia, Myanmar, Vietnam and China Yunnan province. Exact age, nomination, residency and admission gates not established.  Applicant eligibility unconfirmed.",
+    "team_min": null,
+    "team_max": null,
+    "prize": "Linked terms: tuition≤THB60,000/year, credit fees≤80,000/year, accommodation≤3,000/month, TA/RA salary60,000/year,50% thesis-defence fees and insurance2,300/year. Website insurance2,500 Year/Month text conflicts; linked PDF qualified.",
+    "id": "th-kmutt-gms",
+    "name": "KMUTT Greater Mekong Sub-region Country Scholarship",
+    "type": "grant",
+    "country": "TH",
+    "organizer": "King Mongkut’s University of Technology Thonburi",
+    "url": "https://www.kmutt.ac.th/sfa/scholarships-for-international-students/?lang=en",
+    "source_url": "https://www.kmutt.ac.th/sfa/scholarships-for-international-students/?lang=en",
+    "deadline": null,
+    "status": "planning",
+    "summary": "Linked terms: tuition≤THB60,000/year, credit fees≤80,000/year, accommodation≤3,000/month, TA/RA salary60,000/year,50% thesis-defence fees and insurance2,300/year. Website insurance2,500 Year/Month text conflicts; linked PDF qualified. Live undated guidance and terms uploaded2024; no exact2026/2027 intake confirmed.",
+    "fit": "want",
+    "funding_kind": "mixed",
+    "fee_status": "unknown",
+    "first_seen": "2026-10-12",
+    "last_checked": "2026-10-12",
+    "deadline_time": null,
+    "deadline_timezone": null,
+    "deadline_source_url": null,
+    "application_cycle": {
+      "label": "Next intake unverified; audited source edition qualified",
+      "programme_name": "KMUTT Greater Mekong Sub-region Country Scholarship",
+      "status": "planning",
+      "announcement_status": "unverified",
+      "opens_on": null,
+      "deadline": null,
+      "deadline_time": null,
+      "timezone": null,
+      "source_url": "https://www.kmutt.ac.th/sfa/scholarships-for-international-students/?lang=en",
+      "checked_at": "2026-10-12",
+      "history": [],
+      "date_evidence_kind": "official_source_read",
+      "research": {
+        "as_of": "2026-10-12",
+        "status": "mixed",
+        "limits": "Public rules read; current authenticated forms, signed contracts and owner eligibility not certified. Live undated guidance and terms uploaded2024; no exact2026/2027 intake confirmed.",
+        "evidence": [
+          {
+            "url": "https://www.kmutt.ac.th/sfa/scholarships-for-international-students/?lang=en",
+            "kind": "official_source_read"
+          },
+          {
+            "url": "https://www.kmutt.ac.th/sfa/wp-content/uploads/sites/8/2024/10/GMS-condition.pdf",
+            "kind": "official_source_read"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "fit_reason": "education or study: Non-Thai students with strong design/creative portfolio and academics. Page gives grade10–12 GPAX≥3.00 and English IELTS5/TOEFLiBT61/CU-TEP61/CEFRB2/TOEIC785/RMIT5/Duolingo100. Graduate equivalencies need confirmation.  Applicant eligibility unconfirmed.",
+    "team_min": null,
+    "team_max": null,
+    "prize": "One100% tuition and four50% tuition awards advertised. Undergraduate architecture/design/communication/MIDI entrepreneurship and graduate Design and Planning. No cash living award verified.",
+    "id": "th-kmutt-pisp-design",
+    "name": "KMUTT Presidential International Scholarship Program (PISP)—Design",
+    "type": "grant",
+    "country": "TH",
+    "organizer": "KMUTT School of Architecture and Design",
+    "url": "https://soad.kmutt.ac.th/pisp-scholarships-are-now-open-for-international-applicants-for-the-august-2027-intake-undergraduate-and-graduate-programs/",
+    "source_url": "https://soad.kmutt.ac.th/pisp-scholarships-are-now-open-for-international-applicants-for-the-august-2027-intake-undergraduate-and-graduate-programs/",
+    "deadline": "2026-11-30",
+    "status": "open",
+    "summary": "One100% tuition and four50% tuition awards advertised. Undergraduate architecture/design/communication/MIDI entrepreneurship and graduate Design and Planning. No cash living award verified. Current August2027 intake: register by November30,2026; aptitude test/interview December14. Clock/timezone not published.",
+    "fit": "want",
+    "funding_kind": "noncash",
+    "fee_status": "unknown",
+    "first_seen": "2026-10-12",
+    "last_checked": "2026-10-12",
+    "deadline_time": null,
+    "deadline_timezone": null,
+    "deadline_source_url": null,
+    "application_cycle": {
+      "label": "Announced next intake",
+      "programme_name": "KMUTT Presidential International Scholarship Program (PISP)—Design",
+      "status": "open",
+      "announcement_status": "announced",
+      "opens_on": null,
+      "deadline": "2026-11-30",
+      "deadline_time": null,
+      "timezone": null,
+      "source_url": "https://soad.kmutt.ac.th/pisp-scholarships-are-now-open-for-international-applicants-for-the-august-2027-intake-undergraduate-and-graduate-programs/",
+      "checked_at": "2026-10-12",
+      "history": [],
+      "date_evidence_kind": "official_source_read",
+      "research": {
+        "as_of": "2026-10-12",
+        "status": "mixed",
+        "limits": "Public rules read; current authenticated forms, signed contracts and owner eligibility not certified. Current August2027 intake: register by November30,2026; aptitude test/interview December14. Clock/timezone not published.",
+        "evidence": [
+          {
+            "url": "https://soad.kmutt.ac.th/pisp-scholarships-are-now-open-for-international-applicants-for-the-august-2027-intake-undergraduate-and-graduate-programs/",
+            "kind": "official_source_read"
+          },
+          {
+            "url": "https://soad.kmutt.ac.th/pisp-scholarship-august-2027-intake/",
+            "kind": "official_source_read"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "fit_reason": "research or professional: Foreign professors/researchers with h-index≥10 for STEM/medicine or≥5 for social sciences, humanities, business and related fields. KMITL host must have no overdue project and at most three active projects. Age cap unknown.  Applicant eligibility unconfirmed.",
+    "team_min": null,
+    "team_max": null,
+    "prize": "Revised2025 inbound project budget≤THB450,000, or≤500,000 with block/module teaching. Round-trip actual travel up to business-class rates, daily1,200, lodging≤2,500/day; teaching≤1,500/hour for20–45 hours. Project budget is not an individual unrestricted cash award.",
+    "id": "th-kmitl-academic-melting-pot",
+    "name": "KMITL Academic Melting Pot—Inbound Foreign Researchers",
+    "type": "grant",
+    "country": "TH",
+    "organizer": "King Mongkut’s Institute of Technology Ladkrabang",
+    "url": "https://oia.kmitl.ac.th/scholarship-for-researcher-amp/",
+    "source_url": "https://oia.kmitl.ac.th/scholarship-for-researcher-amp/",
+    "deadline": null,
+    "status": "planning",
+    "summary": "Revised2025 inbound project budget≤THB450,000, or≤500,000 with block/module teaching. Round-trip actual travel up to business-class rates, daily1,200, lodging≤2,500/day; teaching≤1,500/hour for20–45 hours. Project budget is not an individual unrestricted cash award. Live guidance with revised February2025 terms. No current deadline or guaranteed rolling approval established.",
+    "fit": "want",
+    "funding_kind": "mixed",
+    "fee_status": "unknown",
+    "first_seen": "2026-10-12",
+    "last_checked": "2026-10-12",
+    "deadline_time": null,
+    "deadline_timezone": null,
+    "deadline_source_url": null,
+    "application_cycle": {
+      "label": "Next intake unverified; audited source edition qualified",
+      "programme_name": "KMITL Academic Melting Pot—Inbound Foreign Researchers",
+      "status": "planning",
+      "announcement_status": "unverified",
+      "opens_on": null,
+      "deadline": null,
+      "deadline_time": null,
+      "timezone": null,
+      "source_url": "https://oia.kmitl.ac.th/scholarship-for-researcher-amp/",
+      "checked_at": "2026-10-12",
+      "history": [],
+      "date_evidence_kind": "official_source_read",
+      "research": {
+        "as_of": "2026-10-12",
+        "status": "mixed",
+        "limits": "Public rules read; current authenticated forms, signed contracts and owner eligibility not certified. Live guidance with revised February2025 terms. No current deadline or guaranteed rolling approval established.",
+        "evidence": [
+          {
+            "url": "https://oia.kmitl.ac.th/scholarship-for-researcher-amp/",
+            "kind": "official_source_read"
+          },
+          {
+            "url": "https://oia.kmitl.ac.th/wp-content/uploads/2025/02/Revised-21022025-Academic-Melting-Pot-disbursement-EN.pdf",
+            "kind": "official_source_read"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "fit_reason": "education or study: Foreign graduate students whose first degree was obtained abroad, applying to PSU Faculty of Science in2026. Bachelor/master prerequisites, health and English IELTS5/TOEFLiBT61 or listed alternatives within two years. Full master award requires first-author Q1/Q2 paper, partner-university link or completed PSU research internship.  Applicant eligibility unconfirmed.",
+    "team_min": null,
+    "team_max": null,
+    "prize": "2026 four full master awards: tuition THB56,000/semester up to four, stipend8,000/month up to24. Partial three master/two PhD awards: tuition56,000/semester up to four/six and double-room rent9,000/semester. Award levels are one family.",
+    "id": "th-psu-foreign-graduate-science",
+    "name": "PSU Faculty of Science Foreign Graduate Scholarships",
+    "type": "grant",
+    "country": "TH",
+    "organizer": "Prince of Songkla University Faculty of Science",
+    "url": "https://graduate.sci.psu.ac.th/index.php/en/scholarships-for-foreign",
+    "source_url": "https://graduate.sci.psu.ac.th/index.php/en/scholarships-for-foreign",
+    "deadline": null,
+    "status": "planning",
+    "summary": "2026 four full master awards: tuition THB56,000/semester up to four, stipend8,000/month up to24. Partial three master/two PhD awards: tuition56,000/semester up to four/six and double-room rent9,000/semester. Award levels are one family. April1–30 or July1–31,2026 applications closed; second round conditional on unused first-round slots. November studies do not reopen applications. Next unknown.",
+    "fit": "want",
+    "funding_kind": "mixed",
+    "fee_status": "unknown",
+    "first_seen": "2026-10-12",
+    "last_checked": "2026-10-12",
+    "deadline_time": null,
+    "deadline_timezone": null,
+    "deadline_source_url": null,
+    "application_cycle": {
+      "label": "Next intake unverified; audited source edition qualified",
+      "programme_name": "PSU Faculty of Science Foreign Graduate Scholarships",
+      "status": "planning",
+      "announcement_status": "unverified",
+      "opens_on": null,
+      "deadline": null,
+      "deadline_time": null,
+      "timezone": null,
+      "source_url": "https://graduate.sci.psu.ac.th/index.php/en/scholarships-for-foreign",
+      "checked_at": "2026-10-12",
+      "history": [
+        {
+          "label": "Audited closed source edition",
+          "programme_name": "PSU Faculty of Science Foreign Graduate Scholarships",
+          "status": "closed",
+          "announcement_status": "announced",
+          "opens_on": null,
+          "deadline": "2026-07-31",
+          "deadline_time": null,
+          "timezone": null,
+          "source_url": "https://graduate.sci.psu.ac.th/index.php/en/scholarships-for-foreign",
+          "checked_at": "2026-10-12"
+        }
+      ],
+      "date_evidence_kind": "official_source_read",
+      "research": {
+        "as_of": "2026-10-12",
+        "status": "mixed",
+        "limits": "Public rules read; current authenticated forms, signed contracts and owner eligibility not certified. April1–30 or July1–31,2026 applications closed; second round conditional on unused first-round slots. November studies do not reopen applications. Next unknown.",
+        "evidence": [
+          {
+            "url": "https://graduate.sci.psu.ac.th/index.php/en/scholarships-for-foreign",
+            "kind": "official_source_read"
+          },
+          {
+            "url": "https://graduate.sci.psu.ac.th/images/document/scholarships%20for%20foreign/Signed_The%202026%20Scholarships%20for%20Foreign%20Graduate%20Students.pdf",
+            "kind": "official_source_read"
+          },
+          {
+            "url": "https://graduate.sci.psu.ac.th/images/document/scholarships%20for%20foreign/Application%20form%20Foreign%20Students2026.pdf",
+            "kind": "official_source_read"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "fit_reason": "education or study: Current undergraduate/graduate students at overseas universities, any field, last-semester GPA≥3.25, English test within two years at TOEIC600/iBT60/CBT150/IELTS5.5, good health, home-university and PSU-host/topic confirmation. Foreign-university targeting; nationality exclusions unstated.  Applicant eligibility unconfirmed.",
+    "team_min": null,
+    "team_max": null,
+    "prize": "THB20,000 partial award; maximum20 scholarships is cohort size. May support airfare, accommodation, living, insurance, passport and visa costs. Not fully funded.",
+    "id": "th-psu-eila-inbound-internship",
+    "name": "PSU EILA International Internship Inbound Scholarship",
+    "type": "grant",
+    "country": "TH",
+    "organizer": "Prince of Songkla University Education and Innovative Learning Academy",
+    "url": "https://eila.psu.ac.th/scholarship2026-psu-inbound-2026/",
+    "source_url": "https://eila.psu.ac.th/scholarship2026-psu-inbound-2026/",
+    "deadline": null,
+    "status": "planning",
+    "summary": "THB20,000 partial award; maximum20 scholarships is cohort size. May support airfare, accommodation, living, insurance, passport and visa costs. Not fully funded. Faculty2026 deadline July20 closed. University quota rules do not prove a2027 call.",
+    "fit": "want",
+    "funding_kind": "cash",
+    "fee_status": "unknown",
+    "first_seen": "2026-10-12",
+    "last_checked": "2026-10-12",
+    "deadline_time": null,
+    "deadline_timezone": null,
+    "deadline_source_url": null,
+    "application_cycle": {
+      "label": "Next intake unverified; audited source edition qualified",
+      "programme_name": "PSU EILA International Internship Inbound Scholarship",
+      "status": "planning",
+      "announcement_status": "unverified",
+      "opens_on": null,
+      "deadline": null,
+      "deadline_time": null,
+      "timezone": null,
+      "source_url": "https://eila.psu.ac.th/scholarship2026-psu-inbound-2026/",
+      "checked_at": "2026-10-12",
+      "history": [
+        {
+          "label": "Audited closed source edition",
+          "programme_name": "PSU EILA International Internship Inbound Scholarship",
+          "status": "closed",
+          "announcement_status": "announced",
+          "opens_on": null,
+          "deadline": "2026-07-20",
+          "deadline_time": null,
+          "timezone": null,
+          "source_url": "https://eila.psu.ac.th/scholarship2026-psu-inbound-2026/",
+          "checked_at": "2026-10-12"
+        }
+      ],
+      "date_evidence_kind": "official_source_read",
+      "research": {
+        "as_of": "2026-10-12",
+        "status": "mixed",
+        "limits": "Public rules read; current authenticated forms, signed contracts and owner eligibility not certified. Faculty2026 deadline July20 closed. University quota rules do not prove a2027 call.",
+        "evidence": [
+          {
+            "url": "https://eila.psu.ac.th/scholarship2026-psu-inbound-2026/",
+            "kind": "official_source_read"
+          },
+          {
+            "url": "https://asea-uninet.org/scholarship-opportunity-eila-international-internship-program-2026-at-prince-of-songkla-university-psu-thailand/",
+            "kind": "official_source_read"
+          },
+          {
+            "url": "https://asea-uninet.org/wp-content/uploads/Eng-call-EILA-Inbound-Internship-2026.pdf",
+            "kind": "official_source_read"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "fit_reason": "education or study: Eligible foreign country/territory and central-government focal-point nomination; age≤45, bachelor and/or related professional experience, English, good health and not pregnant under official rules. Relevant government work preferred. No owner eligibility inferred.  Applicant eligibility unconfirmed.",
+    "team_min": null,
+    "team_max": null,
+    "prize": "Revised2026 full support: tuition, monthly living THB7,000 and lodging7,000 or9,000; settlement6,000; books10,000/year; approved thesis fieldwork≤20,000 and printing12,000 or independent-study8,000. Airfare/visa/insurance depend on country support category; non-ODA other countries receive tuition only.",
+    "id": "th-tica-tipp",
+    "name": "TICA Thailand International Postgraduate Programme (TIPP)",
+    "type": "grant",
+    "country": "TH",
+    "organizer": "Thailand International Cooperation Agency / Ministry of Foreign Affairs",
+    "url": "https://tica-thaigov.mfa.go.th/en/content/tipp-2027",
+    "source_url": "https://tica-thaigov.mfa.go.th/en/content/tipp-2027",
+    "deadline": null,
+    "status": "planning",
+    "summary": "Revised2026 full support: tuition, monthly living THB7,000 and lodging7,000 or9,000; settlement6,000; books10,000/year; approved thesis fieldwork≤20,000 and printing12,000 or independent-study8,000. Airfare/visa/insurance depend on country support category; non-ODA other countries receive tuition only. 2026 applications closed February23. URL slug tipp-2027 contains a TIPP2026 body, not a verified2027 call. All22 courses grouped once.",
+    "fit": "want",
+    "funding_kind": "mixed",
+    "fee_status": "unknown",
+    "first_seen": "2026-10-12",
+    "last_checked": "2026-10-12",
+    "deadline_time": null,
+    "deadline_timezone": null,
+    "deadline_source_url": null,
+    "application_cycle": {
+      "label": "Next intake unverified; audited source edition qualified",
+      "programme_name": "TICA Thailand International Postgraduate Programme (TIPP)",
+      "status": "planning",
+      "announcement_status": "unverified",
+      "opens_on": null,
+      "deadline": null,
+      "deadline_time": null,
+      "timezone": null,
+      "source_url": "https://tica-thaigov.mfa.go.th/en/content/tipp-2027",
+      "checked_at": "2026-10-12",
+      "history": [
+        {
+          "label": "Audited closed source edition",
+          "programme_name": "TICA Thailand International Postgraduate Programme (TIPP)",
+          "status": "closed",
+          "announcement_status": "announced",
+          "opens_on": null,
+          "deadline": "2026-02-23",
+          "deadline_time": null,
+          "timezone": null,
+          "source_url": "https://tica-thaigov.mfa.go.th/en/content/tipp-2027",
+          "checked_at": "2026-10-12"
+        }
+      ],
+      "date_evidence_kind": "official_source_read",
+      "research": {
+        "as_of": "2026-10-12",
+        "status": "mixed",
+        "limits": "Public rules read; current authenticated forms, signed contracts and owner eligibility not certified. 2026 applications closed February23. URL slug tipp-2027 contains a TIPP2026 body, not a verified2027 call. All22 courses grouped once.",
+        "evidence": [
+          {
+            "url": "https://tica-thaigov.mfa.go.th/en/content/tipp-2027",
+            "kind": "official_source_read"
+          },
+          {
+            "url": "https://tica-thaigov.mfa.go.th/en/page/tipp?menu=5f47a8fdeb55bf72c678a615",
+            "kind": "official_source_read"
+          },
+          {
+            "url": "https://image.mfa.go.th/mfa/0/GH2PYnujXi/เอกสาร/Guidelines_for_TIPP_2026_2.pdf",
+            "kind": "official_source_read"
+          },
+          {
+            "url": "https://tica-thaigov.mfa.go.th/en/page/list-of-eligible-countries-for-tipp?menu=605b13d42a9d1e3f537649e2",
+            "kind": "official_source_read"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "fit_reason": "research or professional: Eligible foreign country/territory with central-government nomination; relevant officer/agent, preferably government, degree/experience, English, health and not pregnant under official rules. Age below50 recommended rather than universal hard cap. Female nominations encouraged.  Applicant eligibility unconfirmed.",
+    "team_min": null,
+    "team_max": null,
+    "prize": "Full-support category: training/tuition fees, economy airfare, Thai visa reimbursement, designated lodging, meal allowance in THB at an unstated rate, social programme, insurance and airport transfer. Non-ODA other-country category covers tuition/training fees only.",
+    "id": "th-tica-aitc",
+    "name": "TICA Annual International Training Courses (AITC)",
+    "type": "grant",
+    "country": "TH",
+    "organizer": "Thailand International Cooperation Agency / Ministry of Foreign Affairs",
+    "url": "https://tica-thaigov.mfa.go.th/en/content/aitc-2026-calendar?menu=605b13f625179c1e6a0f5d74&page=5f4ddf7588a720370a799e12",
+    "source_url": "https://tica-thaigov.mfa.go.th/en/content/aitc-2026-calendar?menu=605b13f625179c1e6a0f5d74&page=5f4ddf7588a720370a799e12",
+    "deadline": null,
+    "status": "planning",
+    "summary": "Full-support category: training/tuition fees, economy airfare, Thai visa reimbursement, designated lodging, meal allowance in THB at an unstated rate, social programme, insurance and airport transfer. Non-ODA other-country category covers tuition/training fees only. Latest listed2026 deadline September11 closed. October/November training dates belong to existing selected cohorts. Next intake unannounced.",
+    "fit": "want",
+    "funding_kind": "mixed",
+    "fee_status": "unknown",
+    "first_seen": "2026-10-12",
+    "last_checked": "2026-10-12",
+    "deadline_time": null,
+    "deadline_timezone": null,
+    "deadline_source_url": null,
+    "application_cycle": {
+      "label": "Next intake unverified; audited source edition qualified",
+      "programme_name": "TICA Annual International Training Courses (AITC)",
+      "status": "planning",
+      "announcement_status": "unverified",
+      "opens_on": null,
+      "deadline": null,
+      "deadline_time": null,
+      "timezone": null,
+      "source_url": "https://tica-thaigov.mfa.go.th/en/content/aitc-2026-calendar?menu=605b13f625179c1e6a0f5d74&page=5f4ddf7588a720370a799e12",
+      "checked_at": "2026-10-12",
+      "history": [
+        {
+          "label": "Audited closed source edition",
+          "programme_name": "TICA Annual International Training Courses (AITC)",
+          "status": "closed",
+          "announcement_status": "announced",
+          "opens_on": null,
+          "deadline": "2026-09-11",
+          "deadline_time": null,
+          "timezone": null,
+          "source_url": "https://tica-thaigov.mfa.go.th/en/content/aitc-2026-calendar?menu=605b13f625179c1e6a0f5d74&page=5f4ddf7588a720370a799e12",
+          "checked_at": "2026-10-12"
+        }
+      ],
+      "date_evidence_kind": "official_source_read",
+      "research": {
+        "as_of": "2026-10-12",
+        "status": "mixed",
+        "limits": "Public rules read; current authenticated forms, signed contracts and owner eligibility not certified. Latest listed2026 deadline September11 closed. October/November training dates belong to existing selected cohorts. Next intake unannounced.",
+        "evidence": [
+          {
+            "url": "https://tica-thaigov.mfa.go.th/en/content/aitc-2026-calendar?menu=605b13f625179c1e6a0f5d74&page=5f4ddf7588a720370a799e12",
+            "kind": "official_source_read"
+          },
+          {
+            "url": "https://tica-thaigov.mfa.go.th/en/page/73806-guidelines-for-aitc?menu=605b14152beb3f1ce31e9822",
+            "kind": "official_source_read"
+          },
+          {
+            "url": "https://image.mfa.go.th/mfa/0/GH2PYnujXi/เอกสาร/Guidelines_for_AITC_2026_(revised).pdf",
+            "kind": "official_source_read"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "fit_reason": "education or study: Explicit regional recruitment from Thailand and other Asian countries, with an international research purpose; mixed population, not foreign-only. PhD requires bachelor/master GPAs≥3.5, IELTS6 or AIT EET6, two recommendations and proposal. King/Queen master routes seek first-master Asian applicants; GMS route has six-country thematic limits.  Applicant eligibility unconfirmed.",
+    "team_min": null,
+    "team_max": null,
+    "prize": "PhD tuition, registration, lodging and living package for41 months, approximately THB1.96million. Master package for22 months approximately THB1.10million, covering tuition, lodging and living. Not an unrestricted cash grant.",
+    "id": "th-ait-royal-thai-government",
+    "name": "AIT Royal Thai Government Scholarships",
+    "type": "grant",
+    "country": "TH",
+    "organizer": "Royal Thai Government / Asian Institute of Technology",
+    "url": "https://ait.ac.th/financial/royal-thai-government-scholarships/",
+    "source_url": "https://ait.ac.th/financial/royal-thai-government-scholarships/",
+    "deadline": "2027-03-31",
+    "status": "open",
+    "summary": "PhD tuition, registration, lodging and living package for41 months, approximately THB1.96million. Master package for22 months approximately THB1.10million, covering tuition, lodging and living. Not an unrestricted cash grant. Announced August2027 intake deadline March31,2027. Clock/timezone unspecified.",
+    "fit": "want",
+    "funding_kind": "mixed",
+    "fee_status": "unknown",
+    "first_seen": "2026-10-12",
+    "last_checked": "2026-10-12",
+    "deadline_time": null,
+    "deadline_timezone": null,
+    "deadline_source_url": null,
+    "application_cycle": {
+      "label": "Announced next intake",
+      "programme_name": "AIT Royal Thai Government Scholarships",
+      "status": "open",
+      "announcement_status": "announced",
+      "opens_on": null,
+      "deadline": "2027-03-31",
+      "deadline_time": null,
+      "timezone": null,
+      "source_url": "https://ait.ac.th/financial/royal-thai-government-scholarships/",
+      "checked_at": "2026-10-12",
+      "history": [],
+      "date_evidence_kind": "official_source_read",
+      "research": {
+        "as_of": "2026-10-12",
+        "status": "mixed",
+        "limits": "Public rules read; current authenticated forms, signed contracts and owner eligibility not certified. Announced August2027 intake deadline March31,2027. Clock/timezone unspecified.",
+        "evidence": [
+          {
+            "url": "https://ait.ac.th/financial/royal-thai-government-scholarships/",
+            "kind": "official_source_read"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "fit_reason": "education or study: International master/PhD applicants in2026. Excluded units: Siriraj/Ramathibodi Medicine, Environment/Resource Studies, Tropical Medicine, ICT, International College, Music, Management and medicine-led joint degrees. Master GPA≥3.25 and IELTS5; PhD master GPA≥3.50, IELTS6 and indexed paper; bachelor-entry PhD has separately listed conditions.  Applicant eligibility unconfirmed.",
+    "team_min": null,
+    "team_max": null,
+    "prize": "Master fixed tuition up to THB20,000/semester for four semesters; PhD25,000 for six, plus programme-funded excess/research/equipment/worksite fees. Central quota also THB10,000 monthly living. Direct fee support, not unrestricted startup capital.",
+    "id": "th-mahidol-international-postgraduate",
+    "name": "Mahidol Postgraduate Scholarships for International Students",
+    "type": "grant",
+    "country": "TH",
+    "organizer": "Mahidol University Faculty of Graduate Studies / participating programmes",
+    "url": "https://graduate.mahidol.ac.th/inter/?p=scholarship&scholarship=mahidol-postgraduate-scholarships-international-2026",
+    "source_url": "https://graduate.mahidol.ac.th/inter/?p=scholarship&scholarship=mahidol-postgraduate-scholarships-international-2026",
+    "deadline": null,
+    "status": "planning",
+    "summary": "Master fixed tuition up to THB20,000/semester for four semesters; PhD25,000 for six, plus programme-funded excess/research/equipment/worksite fees. Central quota also THB10,000 monthly living. Direct fee support, not unrestricted startup capital. 2026 final programme-quota nomination July8, central quota July3, closed. Next call unannounced.",
+    "fit": "want",
+    "funding_kind": "mixed",
+    "fee_status": "required",
+    "first_seen": "2026-10-12",
+    "last_checked": "2026-10-12",
+    "deadline_time": null,
+    "deadline_timezone": null,
+    "deadline_source_url": null,
+    "application_cycle": {
+      "label": "Next intake unverified; audited source edition qualified",
+      "programme_name": "Mahidol Postgraduate Scholarships for International Students",
+      "status": "planning",
+      "announcement_status": "unverified",
+      "opens_on": null,
+      "deadline": null,
+      "deadline_time": null,
+      "timezone": null,
+      "source_url": "https://graduate.mahidol.ac.th/inter/?p=scholarship&scholarship=mahidol-postgraduate-scholarships-international-2026",
+      "checked_at": "2026-10-12",
+      "history": [
+        {
+          "label": "Audited closed source edition",
+          "programme_name": "Mahidol Postgraduate Scholarships for International Students",
+          "status": "closed",
+          "announcement_status": "announced",
+          "opens_on": null,
+          "deadline": "2026-07-08",
+          "deadline_time": null,
+          "timezone": null,
+          "source_url": "https://graduate.mahidol.ac.th/inter/?p=scholarship&scholarship=mahidol-postgraduate-scholarships-international-2026",
+          "checked_at": "2026-10-12"
+        }
+      ],
+      "date_evidence_kind": "official_source_read",
+      "research": {
+        "as_of": "2026-10-12",
+        "status": "mixed",
+        "limits": "Public rules read; current authenticated forms, signed contracts and owner eligibility not certified. 2026 final programme-quota nomination July8, central quota July3, closed. Next call unannounced.",
+        "evidence": [
+          {
+            "url": "https://graduate.mahidol.ac.th/inter/?p=scholarship&scholarship=mahidol-postgraduate-scholarships-international-2026",
+            "kind": "official_source_read"
+          },
+          {
+            "url": "https://graduate.mahidol.ac.th/download/main/scholarships/pdf/MUGR-Scholarship2026.pdf",
+            "kind": "official_source_read"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "fit_reason": "education or study: Austrian nationals with completed bachelor degree or final-year status, English and good health; one programme at one participating Thai university. Exact age, residence and dual-nationality conditions unverified.  Applicant eligibility unconfirmed.",
+    "team_min": null,
+    "team_max": null,
+    "prize": "MHESI THB100,000 partial grant and host tuition support. Airfare, visa, monthly living/accommodation, books and insurance may be included subject to each host’s rules; not a universal guaranteed package.",
+    "id": "th-asea-uninet-austrian-thailand",
+    "name": "ASEA-UNINET Thailand Scholarships for Austrian Students",
+    "type": "grant",
+    "country": "TH",
+    "organizer": "MHESI / participating Thai universities / ASEA-UNINET",
+    "url": "https://en.mfu.ac.th/en-news/en-news-detail/detail/News/39623.html",
+    "source_url": "https://en.mfu.ac.th/en-news/en-news-detail/detail/News/39623.html",
+    "deadline": null,
+    "status": "planning",
+    "summary": "MHESI THB100,000 partial grant and host tuition support. Airfare, visa, monthly living/accommodation, books and insurance may be included subject to each host’s rules; not a universal guaranteed package. April9,2026 official university announcement. Exact current applicant cutoff absent from inspected body; no verified2027 call.",
+    "fit": "want",
+    "funding_kind": "mixed",
+    "fee_status": "unknown",
+    "first_seen": "2026-10-12",
+    "last_checked": "2026-10-12",
+    "deadline_time": null,
+    "deadline_timezone": null,
+    "deadline_source_url": null,
+    "application_cycle": {
+      "label": "Next intake unverified; audited source edition qualified",
+      "programme_name": "ASEA-UNINET Thailand Scholarships for Austrian Students",
+      "status": "planning",
+      "announcement_status": "unverified",
+      "opens_on": null,
+      "deadline": null,
+      "deadline_time": null,
+      "timezone": null,
+      "source_url": "https://en.mfu.ac.th/en-news/en-news-detail/detail/News/39623.html",
+      "checked_at": "2026-10-12",
+      "history": [],
+      "date_evidence_kind": "official_source_read",
+      "research": {
+        "as_of": "2026-10-12",
+        "status": "mixed",
+        "limits": "Public rules read; current authenticated forms, signed contracts and owner eligibility not certified. April9,2026 official university announcement. Exact current applicant cutoff absent from inspected body; no verified2027 call.",
+        "evidence": [
+          {
+            "url": "https://en.mfu.ac.th/en-news/en-news-detail/detail/News/39623.html",
+            "kind": "official_source_read"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "fit_reason": "business or relocation support: Business registered and operating in Singapore, at least30% ultimately held by Singapore citizens or permanent residents, MVP with customers/partners, seed funding or later and a solution fitting Thailand market needs. Foreign-company targeted, not foreign-passport-only. Team minimum/maximum, founder age and Thai incorporation requirements unknown.  Applicant eligibility unconfirmed.",
+    "team_min": null,
+    "team_max": null,
+    "prize": "Pitch polishing, guaranteed private corporate pitches, two private mentor sessions, market/business-regulation training, matched Thai corporate meetings and Bangkok demo-day exhibition booth. No cash award or automatic investment verified.",
+    "id": "th-gia-bangkok",
+    "name": "GIA Bangkok Acceleration Programme",
+    "type": "accelerator",
+    "country": "TH",
+    "organizer": "Enterprise Singapore / RISE Bangkok",
+    "url": "https://www.enterprisesg.gov.sg/grow-your-business/innovate-with-us/market-access-and-networks/global-innovation-alliance/gia/gia-bangkok",
+    "source_url": "https://www.enterprisesg.gov.sg/grow-your-business/innovate-with-us/market-access-and-networks/global-innovation-alliance/gia/gia-bangkok",
+    "deadline": null,
+    "status": "planning",
+    "summary": "Pitch polishing, guaranteed private corporate pitches, two private mentor sessions, market/business-regulation training, matched Thai corporate meetings and Bangkok demo-day exhibition booth. No cash award or automatic investment verified. 2026 FinTech cohort applications closed April10 at23:59 SGT/GMT+8. Programme dates April20–May29; next cohort unannounced.",
+    "fit": "want",
+    "funding_kind": "noncash",
+    "fee_status": "unknown",
+    "first_seen": "2026-10-12",
+    "last_checked": "2026-10-12",
+    "deadline_time": null,
+    "deadline_timezone": null,
+    "deadline_source_url": null,
+    "application_cycle": {
+      "label": "Next intake unverified; audited source edition qualified",
+      "programme_name": "GIA Bangkok Acceleration Programme",
+      "status": "planning",
+      "announcement_status": "unverified",
+      "opens_on": null,
+      "deadline": null,
+      "deadline_time": null,
+      "timezone": null,
+      "source_url": "https://www.enterprisesg.gov.sg/grow-your-business/innovate-with-us/market-access-and-networks/global-innovation-alliance/gia/gia-bangkok",
+      "checked_at": "2026-10-12",
+      "history": [
+        {
+          "label": "Audited closed source edition",
+          "programme_name": "GIA Bangkok Acceleration Programme",
+          "status": "closed",
+          "announcement_status": "announced",
+          "opens_on": null,
+          "deadline": "2026-04-10",
+          "deadline_time": "23:59",
+          "timezone": "Asia/Singapore",
+          "source_url": "https://www.enterprisesg.gov.sg/grow-your-business/innovate-with-us/market-access-and-networks/global-innovation-alliance/gia/gia-bangkok",
+          "checked_at": "2026-10-12"
+        }
+      ],
+      "date_evidence_kind": "official_source_read",
+      "research": {
+        "as_of": "2026-10-12",
+        "status": "mixed",
+        "limits": "Public rules read; current authenticated forms, signed contracts and owner eligibility not certified. 2026 FinTech cohort applications closed April10 at23:59 SGT/GMT+8. Programme dates April20–May29; next cohort unannounced.",
+        "evidence": [
+          {
+            "url": "https://www.enterprisesg.gov.sg/grow-your-business/innovate-with-us/market-access-and-networks/global-innovation-alliance/gia/gia-bangkok",
+            "kind": "official_source_read"
+          },
+          {
+            "url": "https://form.gov.sg/697724131bdf642e701714d1",
+            "kind": "official_source_read"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "fit_reason": "business or relocation support: International startups, Seed to Series B and TRL 8–9, with market-ready solutions and capacity to localize in Thailand. A Thai corporate partner is necessary for joint funding. Numerical personnel bounds, founder age, nationality exclusions, residence and Thai incorporation gates unknown.  Applicant eligibility unconfirmed.",
+    "team_min": null,
+    "team_max": null,
+    "prize": "Conditional matching grant up to THB5 million with a Thai partner for market validation/localization/pilots; corporate matching, landing support and showcase. Not an automatic unrestricted grant or guaranteed investment.",
+    "id": "th-corporate-spark",
+    "name": "Corporate SPARK",
+    "type": "accelerator",
+    "country": "TH",
+    "organizer": "National Innovation Agency (NIA)",
+    "url": "https://spark.nia.or.th/",
+    "source_url": "https://spark.nia.or.th/",
+    "deadline": null,
+    "status": "planning",
+    "summary": "Conditional matching grant up to THB5 million with a Thai partner for market validation/localization/pilots; corporate matching, landing support and showcase. Not an automatic unrestricted grant or guaranteed investment. Official call February9–March12,2026, closed. Homepage Apply Now is undated; no verified2027 reopening.",
+    "fit": "want",
+    "funding_kind": "mixed",
+    "fee_status": "unknown",
+    "first_seen": "2026-10-12",
+    "last_checked": "2026-10-12",
+    "deadline_time": null,
+    "deadline_timezone": null,
+    "deadline_source_url": null,
+    "application_cycle": {
+      "label": "Next intake unverified; audited source edition qualified",
+      "programme_name": "Corporate SPARK",
+      "status": "planning",
+      "announcement_status": "unverified",
+      "opens_on": null,
+      "deadline": null,
+      "deadline_time": null,
+      "timezone": null,
+      "source_url": "https://spark.nia.or.th/",
+      "checked_at": "2026-10-12",
+      "history": [
+        {
+          "label": "Audited closed source edition",
+          "programme_name": "Corporate SPARK",
+          "status": "closed",
+          "announcement_status": "announced",
+          "opens_on": null,
+          "deadline": "2026-03-12",
+          "deadline_time": null,
+          "timezone": null,
+          "source_url": "https://spark.nia.or.th/",
+          "checked_at": "2026-10-12"
+        }
+      ],
+      "date_evidence_kind": "official_source_read",
+      "research": {
+        "as_of": "2026-10-12",
+        "status": "mixed",
+        "limits": "Public rules read; current authenticated forms, signed contracts and owner eligibility not certified. Official call February9–March12,2026, closed. Homepage Apply Now is undated; no verified2027 reopening.",
+        "evidence": [
+          {
+            "url": "https://spark.nia.or.th/",
+            "kind": "official_source_read"
+          },
+          {
+            "url": "https://www.nia.or.th/event/detail/18052",
+            "kind": "official_source_read"
+          },
+          {
+            "url": "https://fininno.nia.or.th/manage_service/corporatecofunding/",
+            "kind": "official_source_read"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "fit_reason": "business or relocation support: Thai and foreign legally incorporated startups with usable products, users or revenue, scalable models and ASEAN expansion readiness. Entity jurisdiction, nationality, residence, age and personnel bounds unknown.  Applicant eligibility unconfirmed.",
+    "team_min": null,
+    "team_max": null,
+    "prize": "Six-month mentorship, corporate PoCs, networking and Demo Day; priority funding/showcase access. No automatic cash or investment.",
+    "id": "th-nia-global-startup-hub",
+    "name": "NIA Global Startup Hub",
+    "type": "accelerator",
+    "country": "TH",
+    "organizer": "NIA / Startup Thailand",
+    "url": "https://startupthailand.nia.or.th/ext/globalstartuphub/startup-thailand-2026-en.php",
+    "source_url": "https://startupthailand.nia.or.th/ext/globalstartuphub/startup-thailand-2026-en.php",
+    "deadline": null,
+    "status": "planning",
+    "summary": "Six-month mentorship, corporate PoCs, networking and Demo Day; priority funding/showcase access. No automatic cash or investment. February20–March15,2026 applications closed; programme April4–August31. Next intake unannounced.",
+    "fit": "want",
+    "funding_kind": "noncash",
+    "fee_status": "unknown",
+    "first_seen": "2026-10-12",
+    "last_checked": "2026-10-12",
+    "deadline_time": null,
+    "deadline_timezone": null,
+    "deadline_source_url": null,
+    "application_cycle": {
+      "label": "Next intake unverified; audited source edition qualified",
+      "programme_name": "NIA Global Startup Hub",
+      "status": "planning",
+      "announcement_status": "unverified",
+      "opens_on": null,
+      "deadline": null,
+      "deadline_time": null,
+      "timezone": null,
+      "source_url": "https://startupthailand.nia.or.th/ext/globalstartuphub/startup-thailand-2026-en.php",
+      "checked_at": "2026-10-12",
+      "history": [
+        {
+          "label": "Audited closed source edition",
+          "programme_name": "NIA Global Startup Hub",
+          "status": "closed",
+          "announcement_status": "announced",
+          "opens_on": null,
+          "deadline": "2026-03-15",
+          "deadline_time": null,
+          "timezone": null,
+          "source_url": "https://startupthailand.nia.or.th/ext/globalstartuphub/startup-thailand-2026-en.php",
+          "checked_at": "2026-10-12"
+        }
+      ],
+      "date_evidence_kind": "official_source_read",
+      "research": {
+        "as_of": "2026-10-12",
+        "status": "mixed",
+        "limits": "Public rules read; current authenticated forms, signed contracts and owner eligibility not certified. February20–March15,2026 applications closed; programme April4–August31. Next intake unannounced.",
+        "evidence": [
+          {
+            "url": "https://startupthailand.nia.or.th/ext/globalstartuphub/startup-thailand-2026-en.php",
+            "kind": "official_source_read"
+          }
+        ]
+      }
+    }
   }
 ]
