@@ -1,10 +1,14 @@
 {
+  "directory_resource_count": 1,
   "event_details_sha256": "42503bbd9e8d79331e21a6f7e3adba88cdce85ac46adb739e37e0b6c9cd61256",
+  "identity_hold_count": 1,
   "latest_record_review": "2026-10-12",
   "opportunities_sha256": "63b6f9f5b4c8a967ceb1aad056ae944de7412c1c167ea5fa61d28bb115b105b1",
   "potential_fit_count": 78,
   "programme_count": 80,
-  "public_revision": "83bb9d8060c704abe4c136b578e449d3840eea16cbb23c298a615f94c1613fa8",
-  "published_at": "2026-10-12T09:16:55.137587+00:00",
-  "schema_version": 1
+  "public_revision": "aae2f3cd6dc3408aa4692fdb5e8ca5b7ed9128251ab055834c9cfe8bf44d23d3",
+  "published_at": "2026-10-12T10:20:41.664491+00:00",
+  "record_count": 80,
+  "schema_version": 1,
+  "tracked_programme_count": 78
 }
