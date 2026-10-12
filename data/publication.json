@@ -1,10 +1,10 @@
 {
-  "event_details_sha256": "f6495a7be80917b4b27f30f5f96946d2ca889401991e1fcfba5c00e307c0dbb8",
-  "latest_record_review": "2026-10-07",
-  "opportunities_sha256": "86a896d566abb6f7fc0bdebfeaf597f159a4d099287394a60f24db5fe8469ca4",
-  "potential_fit_count": 49,
-  "programme_count": 69,
-  "public_revision": "490a879bb9c1ae7535ca3951ba6795c0e46e82a21c4fb86d41ef0180c88760f4",
-  "published_at": "2026-10-11T09:04:57.211620+00:00",
+  "event_details_sha256": "42503bbd9e8d79331e21a6f7e3adba88cdce85ac46adb739e37e0b6c9cd61256",
+  "latest_record_review": "2026-10-12",
+  "opportunities_sha256": "63b6f9f5b4c8a967ceb1aad056ae944de7412c1c167ea5fa61d28bb115b105b1",
+  "potential_fit_count": 78,
+  "programme_count": 80,
+  "public_revision": "83bb9d8060c704abe4c136b578e449d3840eea16cbb23c298a615f94c1613fa8",
+  "published_at": "2026-10-12T09:16:55.137587+00:00",
   "schema_version": 1
 }
