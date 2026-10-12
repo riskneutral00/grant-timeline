@@ -3,12 +3,12 @@
   "event_details_sha256": "42503bbd9e8d79331e21a6f7e3adba88cdce85ac46adb739e37e0b6c9cd61256",
   "identity_hold_count": 1,
   "latest_record_review": "2026-10-12",
-  "opportunities_sha256": "0e93b033414ff7a986f52fa786980eec26fca9f8af7444bbb392a961230031c6",
-  "potential_fit_count": 89,
-  "programme_count": 91,
-  "public_revision": "d10ff0db03b839f57cf9e510e14cab9f5a211b0f69b0bbada634225ead1c0a86",
-  "published_at": "2026-10-12T11:44:20.678770+00:00",
-  "record_count": 91,
+  "opportunities_sha256": "6626f64dc4348d8bcac29d393190f5497b9037246f3a068bc4a04d4ec072a01b",
+  "potential_fit_count": 100,
+  "programme_count": 102,
+  "public_revision": "77ad689e44dfb66279d471e8a3fa7c9e179067e0ed53d7caec0867e72c9c4999",
+  "published_at": "2026-10-12T12:47:37.929549+00:00",
+  "record_count": 102,
   "schema_version": 1,
-  "tracked_programme_count": 89
+  "tracked_programme_count": 100
 }

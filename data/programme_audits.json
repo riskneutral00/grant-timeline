@@ -58433,6 +58433,1288 @@
           "team_minimum"
         ]
       }
+    },
+    "tw-taccplus-create": {
+      "raw_findings": {
+        "id": "tw-taccplus-create",
+        "name": "TAcc+ Create Program",
+        "official_url": "https://sites.google.com/taccplus.com/taccpluscreate/create",
+        "checked_at": "2026-10-12",
+        "edition_status": "Verified2026 Batch10 closed; current programme guidance available. Next2027 intake unannounced.",
+        "team_minimum": {
+          "personnel_minimum": null,
+          "evidence": "No explicit numeric minimum found; unknown does not certify solo eligibility."
+        },
+        "application_fields": {
+          "visible": [
+            "Application motivation",
+            "Award history",
+            "PDF pitch deck",
+            "Supplementary business plan"
+          ],
+          "limitations": "Official call explains these items; live linked form inaccessible, remaining fields and image-only deck outline unverified."
+        },
+        "eligibility": {
+          "entity": "Domestic teams not yet incorporated, or companies established within eight years (2026 call: after February2018).",
+          "topics": "AI, health, green technology, space, drones, electronics and automotive components; catalogue recommendations use civilian software routes only.",
+          "nationality": "Domestic status required; exact founder nationality/residency definition unverified."
+        },
+        "requirements": {
+          "pitch": "PDF named2026 Create Batch10_company/team.pdf, business plan; written review then presentation.",
+          "mvp": "No universal existing MVP requirement found; purpose includes early customer validation."
+        },
+        "attendance": {
+          "location": "Taipei Social Innovation Lab; 2026 classes May–July, Thursday afternoons and Friday mornings. General FAQ says roughly four months, so specific2026 three-month schedule controls.",
+          "obligations": "80% course completion including makeups; orientation, Demo Day and promotional activities."
+        },
+        "award": {
+          "type": "In-kind education and coaching",
+          "cash_amount": null,
+          "currency": null,
+          "fee": "Free participation expressly stated.",
+          "equity": "No compulsory equity percentage verified; discussing cap tables is curriculum, not taking equity.",
+          "repayment": "No loan award."
+        },
+        "expense_rules": {
+          "costs": "Founder operating/travel costs not promised reimbursed. Submit company introduction/logo/deck/business plan/development plans. Services cannot be described as a cash prize."
+        },
+        "deadlines": {
+          "historical_close": "2026-03-27 23:59, extended current official call; older February28 social snippet superseded. Timezone unstated.",
+          "next_cycle": "No2027 application deadline."
+        },
+        "unresolved": [
+          "Exact form fields, institutional terms and equity/IP agreement unverified.",
+          "Domestic status must be checked for any applicant; no minimum three-person rule found."
+        ],
+        "sources": [
+          {
+            "url": "https://sites.google.com/taccplus.com/taccpluscreate/create",
+            "kind": "official_source_read",
+            "checked_at": "2026-10-12",
+            "detail": "Programme FAQ and free terms."
+          },
+          {
+            "url": "https://sites.google.com/taccplus.com/taccpluscreate/create/2026-create-batch-10-%E5%BE%B5%E4%BB%B6%E8%AA%AA%E6%98%8E",
+            "kind": "official_source_read",
+            "checked_at": "2026-10-12",
+            "detail": "2026 extended cutoff, eligibility, attachments and schedule."
+          }
+        ],
+        "note_markdown": "# TAcc+ Create Program\n\nChecked 2026-10-12. Useful early-stage AI/software customer-validation support without a published incorporation prerequisite; time commitment matters.\n\nIdentity: New family absent91; not Startup Terrace residency or NTU Accelerator. TAcc+ Create/Batch10 represented once.\n\nSee the structured audit for the application, support, costs and uncertainties."
+      },
+      "award_components": [
+        {
+          "kind": "services",
+          "detail": "Free customer-development training, coaching and CEO consultations; no guaranteed cash. Full conditional terms and edition limits are retained in raw findings.",
+          "evidence_state": "assessment",
+          "edition": null,
+          "checked_on": "2026-10-12",
+          "source_urls": [
+            "https://sites.google.com/taccplus.com/taccpluscreate/create",
+            "https://sites.google.com/taccplus.com/taccpluscreate/create/2026-create-batch-10-%E5%BE%B5%E4%BB%B6%E8%AA%AA%E6%98%8E"
+          ],
+          "amount": null,
+          "amount_basis": "unknown",
+          "pool_role": "unknown"
+        }
+      ],
+      "history": [],
+      "unconsumed_fields": [
+        "checked_at",
+        "edition_status",
+        "name",
+        "official_url",
+        "team_minimum"
+      ],
+      "review_complete": true,
+      "manual_review": {
+        "checked_on": "2026-10-12",
+        "planner_used": false,
+        "protocol": "Reviewed new-only append. Original worker facts and precise edition qualifiers preserved; no invented edition or amount aggregate.",
+        "coverage": "Review of available source materials, not full current authenticated form verification or applicant eligibility.",
+        "additional_fields_reviewed": [
+          "checked_at",
+          "edition_status",
+          "name",
+          "official_url",
+          "team_minimum"
+        ]
+      }
+    },
+    "tw-behealth-poc": {
+      "raw_findings": {
+        "id": "tw-behealth-poc",
+        "name": "BE Health Proof of Clinical Evidence Accelerator",
+        "official_url": "https://behealthventures.com/poc/",
+        "checked_at": "2026-10-12",
+        "edition_status": "Official2026 clinical cohort verified: recruitment December2025–January2026, kick-off March2026; mentorship March–August. Next intake unannounced.",
+        "team_minimum": {
+          "personnel_minimum": null,
+          "evidence": "No explicit numeric minimum found; unknown does not certify solo eligibility."
+        },
+        "application_fields": {
+          "route": "https://forms.gle/6JbJsQY3uqi67QUx5 redirects to sign-in; no private form accessed.",
+          "verified_fields": [],
+          "process": "Joint BE/hospital evaluation, selection and clinical milestones; exact deck/video/questions unknown."
+        },
+        "eligibility": {
+          "sector": "Digital health, medical AI and medical devices; hospital-specific match. International startups explicitly discussed.",
+          "entity": "Company/legal registration, founder residency/nationality and minimum personnel not stated in public guidance.",
+          "fit": "Requires genuine healthcare validation use case, not generic productivity software."
+        },
+        "requirements": {
+          "evidence": "Product demonstration, clinical/adoption discussion, milestone setting and Demo Day. Exact regulatory/MVP prerequisites remain unknown.",
+          "investment": "Potential investment requires separate due diligence: business, technology, finance, regulatory and legal."
+        },
+        "attendance": {
+          "mode": "Hospital engagements in Taiwan;20–24 weeks, about3–5 hours/week, full-time commitment not required. Remote substitutes and exact compulsory days unverified."
+        },
+        "award": {
+          "type": "Paid clinical validation/services",
+          "cash_amount": null,
+          "currency": "USD",
+          "fees": "Application/evaluation free; selected execution participants pay6,500.",
+          "value": "Organizer estimates35,000 service value,28,500 sponsored contribution; neither is cash paid to startup.",
+          "equity": "No guaranteed initial investment; any negotiated investment separate.",
+          "adoption": "Fee does not guarantee hospital adoption."
+        },
+        "expense_rules": {
+          "uses": "Fee supports hospital/corporate adoption assessment and execution, not unrestricted spending. Travel/trial costs, refunds and IP/data rights unknown."
+        },
+        "deadlines": {
+          "current": "2026 recruitment passed; timeline lacks exact closing day/time.",
+          "next_cycle": "Unannounced; do not invent2027dates."
+        },
+        "unresolved": [
+          "Login-only form questions and contractual cost/IP/refund terms unavailable.",
+          "Team minimum and legal-entity criteria unknown."
+        ],
+        "sources": [
+          {
+            "url": "https://behealthventures.com/poc/",
+            "kind": "official_source_read",
+            "checked_at": "2026-10-12",
+            "detail": "Current2026 guidance, FAQ, clinical timeline and fee."
+          },
+          {
+            "url": "https://behealthventures.com/",
+            "kind": "official_source_read",
+            "checked_at": "2026-10-12",
+            "detail": "Digital-health/AI focus and Taiwan hospital ecosystem."
+          },
+          {
+            "url": "https://forms.gle/6JbJsQY3uqi67QUx5",
+            "kind": "unavailable",
+            "checked_at": "2026-10-12",
+            "detail": "Sign-in gate; no login attempted."
+          }
+        ],
+        "note_markdown": "# BE Health Proof of Clinical Evidence Accelerator\n\nChecked 2026-10-12. Potentially valuable for clinical AI/digital-health solutions requiring hospital validation, with a substantial explicit cost.\n\nIdentity: New BE clinical-validation family; PoB/individual hospital cohorts not counted separately.\n\nSee the structured audit for the application, support, costs and uncertainties."
+      },
+      "award_components": [
+        {
+          "kind": "services",
+          "detail": "Hospital validation and business-adoption support; USD6,500 fee after selection, not a cash award. Full conditional terms and edition limits are retained in raw findings.",
+          "evidence_state": "assessment",
+          "edition": null,
+          "checked_on": "2026-10-12",
+          "source_urls": [
+            "https://behealthventures.com/poc/",
+            "https://behealthventures.com/"
+          ],
+          "amount": null,
+          "amount_basis": "unknown",
+          "pool_role": "unknown"
+        },
+        {
+          "kind": "participant_cost",
+          "detail": "Required participant cost; exact amount, stage, exclusions and refund terms are retained in raw findings.",
+          "evidence_state": "assessment",
+          "edition": null,
+          "checked_on": "2026-10-12",
+          "source_urls": [
+            "https://behealthventures.com/poc/",
+            "https://behealthventures.com/"
+          ],
+          "payment_required": true,
+          "cost_stage": "unknown",
+          "amount": null,
+          "amount_basis": "unknown",
+          "pool_role": "unknown"
+        }
+      ],
+      "history": [],
+      "unconsumed_fields": [
+        "checked_at",
+        "edition_status",
+        "name",
+        "official_url",
+        "team_minimum"
+      ],
+      "review_complete": true,
+      "manual_review": {
+        "checked_on": "2026-10-12",
+        "planner_used": false,
+        "protocol": "Reviewed new-only append. Original worker facts and precise edition qualifiers preserved; no invented edition or amount aggregate.",
+        "coverage": "Review of available source materials, not full current authenticated form verification or applicant eligibility.",
+        "additional_fields_reviewed": [
+          "checked_at",
+          "edition_status",
+          "name",
+          "official_url",
+          "team_minimum"
+        ]
+      }
+    },
+    "tw-startup101-capsule": {
+      "raw_findings": {
+        "id": "tw-startup101-capsule",
+        "name": "STARTUP101 Capsule Launcher",
+        "official_url": "https://www.startup101.biz/capsule-launcher",
+        "checked_at": "2026-10-12",
+        "edition_status": "2026 third edition launched April10; August Demo Day completed/current form closed. Current-family identity verified; next intake unannounced.",
+        "team_minimum": {
+          "personnel_minimum": null,
+          "evidence": "No explicit numeric minimum found; unknown does not certify solo eligibility."
+        },
+        "application_fields": {
+          "route": "Official2026 form now closed; detailed questions inaccessible.",
+          "verified_fields": []
+        },
+        "eligibility": {
+          "topics": "AI innovation, ESG value applications and smart manufacturing. Software examples include generative AI and no-code data tools.",
+          "entity": "Incorporation, nationality, residence, funding/age and personnel minimum not established from readable call."
+        },
+        "requirements": {
+          "evidence": "Technical/business potential, workshops, selection and pitch showcase. Exact MVP/deck/video/upload limits unavailable."
+        },
+        "attendance": {
+          "mode": "Taiwan-based closed-door matchmaking1–2 times/month and physical August Demo Day for eight finalists; exact compulsory attendance/remote options unknown."
+        },
+        "award": {
+          "type": "In-kind acceleration and contingent investor access",
+          "cash_amount": null,
+          "currency": null,
+          "equity": "No general guaranteed investment or stated mandatory equity.",
+          "special_route": "One female entrepreneur could advance in bank WE Win competition for up toTWD1m equity injection; special eligibility and separate selection, not a benefit promised to all.",
+          "fee": "Unknown; website does not establish free participation."
+        },
+        "expense_rules": {
+          "costs": "No general cash allowance or reimbursable expense schedule verified. Corporate pilot contracts/investment terms separate and unknown."
+        },
+        "deadlines": {
+          "current": "2026 form closed; exact application deadline not verified. August event is not a cutoff.",
+          "next_cycle": "Unannounced."
+        },
+        "unresolved": [
+          "Recruitment site needs JavaScript; public form closed; exact application fields and binding terms unavailable.",
+          "Fees, team minimum and company criteria unknown; no certified solo eligibility."
+        ],
+        "sources": [
+          {
+            "url": "https://www.startup101.biz/capsule-launcher",
+            "kind": "official_source_read",
+            "checked_at": "2026-10-12",
+            "detail": "Programme identity and2024first edition."
+          },
+          {
+            "url": "https://www.startup101.biz/post/startup101%E3%80%8C2026-capsule-launcher-%E6%96%B0%E5%89%B5%E9%8F%88%E7%B5%90%E8%A8%88%E7%95%AB%E3%80%8D%E6%AD%A3%E5%BC%8F%E4%B8%8A%E7%B7%9A%EF%BC%8C%E5%BC%B7%E5%8A%9B%E6%8B%9B%E5%8B%9F-ai-%E8%88%87-esg-%E6%BD%9B%E5%8A%9B%E6%96%B0%E5%89%B5",
+            "kind": "official_source_read",
+            "checked_at": "2026-10-12",
+            "detail": "2026 call and tangible resources; female equity route."
+          },
+          {
+            "url": "https://docs.google.com/forms/d/e/1FAIpQLSfqimDtYlDJLMUNayvhrqoGYKoBVsT0Am9QF7HkQs02Ye6UqA/closedform",
+            "kind": "official_source_read",
+            "checked_at": "2026-10-12",
+            "detail": "Actual application form closed."
+          },
+          {
+            "url": "https://capsule-launcher.sunsino.com.tw/",
+            "kind": "unavailable",
+            "checked_at": "2026-10-12",
+            "detail": "JavaScript-only shell; no bypass attempted."
+          }
+        ],
+        "note_markdown": "# STARTUP101 Capsule Launcher\n\nChecked 2026-10-12. Useful enterprise/VC access for a small AI or software business with a relevant solution; assess cost and cohort eligibility before applying.\n\nIdentity: Specific Launcher programme rather than generic Startup101 fund/provider, absent91. Earlier editions not extra records.\n\nSee the structured audit for the application, support, costs and uncertainties."
+      },
+      "award_components": [
+        {
+          "kind": "services",
+          "detail": "Corporate/VC introductions, workshops and Demo Day; special female-founder route offered a chance at TWD1m equity investment, not universal grant. Full conditional terms and edition limits are retained in raw findings.",
+          "evidence_state": "assessment",
+          "edition": null,
+          "checked_on": "2026-10-12",
+          "source_urls": [
+            "https://www.startup101.biz/capsule-launcher",
+            "https://www.startup101.biz/post/startup101%E3%80%8C2026-capsule-launcher-%E6%96%B0%E5%89%B5%E9%8F%88%E7%B5%90%E8%A8%88%E7%95%AB%E3%80%8D%E6%AD%A3%E5%BC%8F%E4%B8%8A%E7%B7%9A%EF%BC%8C%E5%BC%B7%E5%8A%9B%E6%8B%9B%E5%8B%9F-ai-%E8%88%87-esg-%E6%BD%9B%E5%8A%9B%E6%96%B0%E5%89%B5",
+            "https://docs.google.com/forms/d/e/1FAIpQLSfqimDtYlDJLMUNayvhrqoGYKoBVsT0Am9QF7HkQs02Ye6UqA/closedform"
+          ],
+          "amount": null,
+          "amount_basis": "unknown",
+          "pool_role": "unknown"
+        }
+      ],
+      "history": [],
+      "unconsumed_fields": [
+        "checked_at",
+        "edition_status",
+        "name",
+        "official_url",
+        "team_minimum"
+      ],
+      "review_complete": true,
+      "manual_review": {
+        "checked_on": "2026-10-12",
+        "planner_used": false,
+        "protocol": "Reviewed new-only append. Original worker facts and precise edition qualifiers preserved; no invented edition or amount aggregate.",
+        "coverage": "Review of available source materials, not full current authenticated form verification or applicant eligibility.",
+        "additional_fields_reviewed": [
+          "checked_at",
+          "edition_status",
+          "name",
+          "official_url",
+          "team_minimum"
+        ]
+      }
+    },
+    "tw-thub-sponsored-residency": {
+      "raw_findings": {
+        "id": "tw-thub-sponsored-residency",
+        "name": "Taipei t.Hub Government-Sponsored Coworking Residency",
+        "official_url": "https://doed.gov.taipei/News_Content.aspx?n=E6AB8A3B0931765D&s=369B0DD3D88B9B83&sms=7335C63E63BF46FA",
+        "checked_at": "2026-10-12",
+        "edition_status": "Verified2026 government sponsored-seat call: rolling until December31 subject to monthly quota; individuals explicitly eligible.",
+        "team_minimum": {
+          "personnel_minimum": 1,
+          "evidence": "Individuals explicitly accepted."
+        },
+        "application_fields": {
+          "form_fields": [
+            "Individual/team and establishment status",
+            "Company name/number/date",
+            "Responsible person/contact/address",
+            "Residency months, seats and member names",
+            "Past/current t.Hub residence"
+          ],
+          "documents": [
+            "Application",
+            "Operating plan with member list, core technology/business model and assistance sought",
+            "Registration approval or ID/passport for individual/team under establishment",
+            "Priority proof if claimed",
+            "Personal-data consent"
+          ],
+          "process": "Registered post plus electronic copy; possible interview. Contract within20days after approval."
+        },
+        "eligibility": {
+          "applicant": "Domestic/foreign individuals or teams under establishment/under eight years. Individuals one occupant; teams up to four.",
+          "priority": "Recent Taipei assistance recipients or foreign GoldCard/PASS/entrepreneur-visa holders receive priority, not universal prerequisite.",
+          "topic": "Innovative technology/application businesses; no company incorporation prerequisite for individual route."
+        },
+        "requirements": {
+          "mvp_video": "No universal MVP, video or pitch-deck requirement; operating plan unrestricted format/page count.",
+          "truthfulness": "Accurate data, lawful IP and compliance required."
+        },
+        "attendance": {
+          "mode": "Physical Neihu3rd-floor nonfixed desk; up to six months. Contract/use rules apply; no remote-only substitute."
+        },
+        "award": {
+          "type": "In-kind subsidized workspace",
+          "cash_amount": null,
+          "currency": "TWD",
+          "rent": "Waived; ten sponsored seats monthly, subject to approval.",
+          "deposit": "5,000 refundable without interest if no debt/damages.",
+          "equity": "No equity or loan term found.",
+          "other_fees": "Storage, meetings and office equipment charged separately."
+        },
+        "expense_rules": {
+          "restriction": "No business-registration address on this under-one-year route; no seat transfer/subletting or unused-month cash conversion. Team cannot split into individual applications to evade four-person cap.",
+          "repayment": "Improper splitting can trigger deposit forfeiture and retroactive4,000/seat/month rental charge before tax."
+        },
+        "deadlines": {
+          "current_close": "2026-12-31; rolling review, time/timezone unstated",
+          "quota": "Ten monthly seats; full quota stops intake. One application/year and six-month spacing from prior contract."
+        },
+        "unresolved": [
+          "Current vacancies and detailed signed contract attendance obligation require verification.",
+          "Sponsored coworking distinct from paid general t.Hub offices; do not imply all t.Hub space free."
+        ],
+        "sources": [
+          {
+            "url": "https://doed.gov.taipei/News_Content.aspx?n=E6AB8A3B0931765D&s=369B0DD3D88B9B83&sms=7335C63E63BF46FA",
+            "kind": "official_source_read",
+            "checked_at": "2026-10-12",
+            "detail": "Actual2026call and free sponsored-seat terms."
+          },
+          {
+            "url": "https://www-ws.gov.taipei/Download.ashx?icon=..pdf&n=5YWs5ZGKMTE15bm05bqmdC5IdWIg5YWx5Ym156m66ZaT6YCy6aeQ55Sz6KuL57Ch56ugKOWQq%2BeuoeeQhui%2BpuazlSkucGRm&u=LzAwMS9VcGxvYWQvMzAxL3JlbGZpbGUvNDEzNDEvOTUyOTA3OS80ODIwMWUxYS1mZjgwLTQ4OTEtYjRlMi1iY2YxYmNlNzI1ZDYucGRm",
+            "kind": "official_source_read",
+            "checked_at": "2026-10-12",
+            "detail": "19-page application, contract and rules; form/document requirements inspected."
+          },
+          {
+            "url": "https://www.t-hubtaipei.com/",
+            "kind": "official_source_read",
+            "checked_at": "2026-10-12",
+            "detail": "Taipei incubation services/current2026activity."
+          }
+        ],
+        "note_markdown": "# Taipei t.Hub Government-Sponsored Coworking Residency\n\nChecked 2026-10-12. Strong solo/two-person route for a founder needing Taipei workspace and incubator services, with clear deposit and quota.\n\nIdentity: New sponsored-seat programme, separate from Startup Terrace residency/provider. Indian T-Hub search results rejected as geographic namesake.\n\nSee the structured audit for the application, support, costs and uncertainties."
+      },
+      "award_components": [
+        {
+          "kind": "services",
+          "detail": "Seat rent waived for up to six months; ordinary member services; refundableTWD5,000 performance deposit. Not cash. Full conditional terms and edition limits are retained in raw findings.",
+          "evidence_state": "assessment",
+          "edition": null,
+          "checked_on": "2026-10-12",
+          "source_urls": [
+            "https://doed.gov.taipei/News_Content.aspx?n=E6AB8A3B0931765D&s=369B0DD3D88B9B83&sms=7335C63E63BF46FA",
+            "https://www-ws.gov.taipei/Download.ashx?icon=..pdf&n=5YWs5ZGKMTE15bm05bqmdC5IdWIg5YWx5Ym156m66ZaT6YCy6aeQ55Sz6KuL57Ch56ugKOWQq%2BeuoeeQhui%2BpuazlSkucGRm&u=LzAwMS9VcGxvYWQvMzAxL3JlbGZpbGUvNDEzNDEvOTUyOTA3OS80ODIwMWUxYS1mZjgwLTQ4OTEtYjRlMi1iY2YxYmNlNzI1ZDYucGRm",
+            "https://www.t-hubtaipei.com/"
+          ],
+          "amount": null,
+          "amount_basis": "unknown",
+          "pool_role": "unknown"
+        },
+        {
+          "kind": "participant_cost",
+          "detail": "Rent is waived, but a TWD5,000 refundable performance deposit is required; forfeiture and extra-service costs are separate. Not a free-of-all-costs promise.",
+          "evidence_state": "assessment",
+          "edition": null,
+          "checked_on": "2026-10-12",
+          "source_urls": [
+            "https://doed.gov.taipei/News_Content.aspx?n=E6AB8A3B0931765D&s=369B0DD3D88B9B83&sms=7335C63E63BF46FA",
+            "https://www-ws.gov.taipei/Download.ashx?icon=..pdf&n=5YWs5ZGKMTE15bm05bqmdC5IdWIg5YWx5Ym156m66ZaT6YCy6aeQ55Sz6KuL57Ch56ugKOWQq%2BeuoeeQhui%2BpuazlSkucGRm&u=LzAwMS9VcGxvYWQvMzAxL3JlbGZpbGUvNDEzNDEvOTUyOTA3OS80ODIwMWUxYS1mZjgwLTQ4OTEtYjRlMi1iY2YxYmNlNzI1ZDYucGRm",
+            "https://www.t-hubtaipei.com/"
+          ],
+          "payment_required": true,
+          "cost_stage": "performance_deposit",
+          "amount": {
+            "value": 5000,
+            "currency": "TWD"
+          },
+          "amount_basis": "per_recipient",
+          "pool_role": "unknown"
+        }
+      ],
+      "history": [],
+      "unconsumed_fields": [
+        "checked_at",
+        "edition_status",
+        "name",
+        "official_url",
+        "team_minimum"
+      ],
+      "review_complete": true,
+      "manual_review": {
+        "checked_on": "2026-10-12",
+        "planner_used": false,
+        "protocol": "Reviewed new-only append. Original worker facts and precise edition qualifiers preserved; no invented edition or amount aggregate.",
+        "coverage": "Review of available source materials, not full current authenticated form verification or applicant eligibility.",
+        "additional_fields_reviewed": [
+          "checked_at",
+          "edition_status",
+          "name",
+          "official_url",
+          "team_minimum"
+        ]
+      }
+    },
+    "tw-smesa-startup-empowerment": {
+      "raw_findings": {
+        "id": "tw-smesa-startup-empowerment",
+        "name": "SMESA Startup Empowerment for SME Upgrade and Transformation",
+        "official_url": "https://www.sme.gov.tw/article-tw-2814-14328",
+        "checked_at": "2026-10-12",
+        "edition_status": "Verified2026 application closed April15 17:00; delivery through November10. Next intake unannounced.",
+        "team_minimum": {
+          "personnel_minimum": null,
+          "evidence": "No explicit numeric minimum found; unknown does not certify solo eligibility."
+        },
+        "application_fields": {
+          "required": [
+            "Online proposal application",
+            "Project plan and pitch slides",
+            "Company registration and tax proof (new-company substitutes allowed)",
+            "Prior-government-project disclosure",
+            "Data consent",
+            "Cooperation intent letter mandatory for flagship, optional co-creation"
+          ],
+          "verified_fields": [
+            "Track/theme/name",
+            "Proposal and solution summaries each500Chinese characters",
+            "Target industry, expected improvement and business value",
+            "Company number/date/employees/address/capital/representative/contact",
+            "Adopting companies and uploads"
+          ],
+          "live_portal": "Public2026portal returned502; printed official form annex read."
+        },
+        "eligibility": {
+          "lead": "Domestic registered company/business/limited partnership, SME, established after2018-03-01. Foreign-enterprise Taiwan branches and mainland investment excluded.",
+          "partner": "Co-creation SME or flagship domestic registered business partner required. Numbers of companies are not personnel minima.",
+          "sector": "Civilian AI manufacturing, enterprise workflow, marketing/service and deep-tech adoption; defence/military topics excluded from recommendations."
+        },
+        "requirements": {
+          "delivery": "Choose one track: co-creation pilot then10–20 SME deployments; flagship one representative partner demonstration.",
+          "evidence": "Innovation, customer adoption, KPIs, implementation plan and industry collaboration.",
+          "pitch": "Physical review, maximumfive representatives INCLUDING lead company representative; maximum is not minimum."
+        },
+        "attendance": {
+          "mode": "Taiwan field implementation, physical pitch and mid/final reviews; monitoring/communications continue up to three years after closing."
+        },
+        "award": {
+          "type": "In-kind implementation/advisory support",
+          "cash_amount": null,
+          "currency": null,
+          "terms": "Services cannot be exchanged for money. No universal equity or loan published.",
+          "fee": "No clear applicant fee or matched cash expenditure rate verified."
+        },
+        "expense_rules": {
+          "limits": "Contract/operating budgets unverified; no guaranteed unrestricted payment. Must deliver outcomes and publish programme achievements. Government overlap/disclosure and partner consent required."
+        },
+        "deadlines": {
+          "historical_close": "2026-04-15 17:00, timezone unstated",
+          "execution": "Approval through2026-11-10; not application deadline",
+          "next_cycle": "Unannounced."
+        },
+        "unresolved": [
+          "Personnel minimum, applicant expenses and final service contract unknown.",
+          "Commercial delivery expectations substantial;10–20customer sites not a solo-friendly guarantee.",
+          "Published turnover/value targets are applicant performance goals, not awards."
+        ],
+        "sources": [
+          {
+            "url": "https://www.sme.gov.tw/article-tw-2814-14328",
+            "kind": "official_source_read",
+            "checked_at": "2026-10-12",
+            "detail": "SMESA2026call and domestic eligibility."
+          },
+          {
+            "url": "https://www.sme.gov.tw/files/14328/4499F3FE-17A6-40E1-8E1C-2C8D32FCDF23",
+            "kind": "official_source_read",
+            "checked_at": "2026-10-12",
+            "detail": "40-page official rules with actual forms; no cash conversion."
+          },
+          {
+            "url": "https://ntec.careernet.org.tw/empowerment2026",
+            "kind": "unavailable",
+            "checked_at": "2026-10-12",
+            "detail": "Publicportal502; no login attempted."
+          }
+        ],
+        "note_markdown": "# SMESA Startup Empowerment for SME Upgrade and Transformation\n\nChecked 2026-10-12. Useful mature software supplier route for Taiwan enterprise adoption; incorporation and partners required, substantial deployment obligations.\n\nIdentity: Distinct from baseline SBIR Cross-Domain R&D cash grant and ADI Digital Service Innovation: SMESA2026implementation/advisory programme with its own call/rules, not renamed cash subsidy.\n\nSee the structured audit for the application, support, costs and uncertainties."
+      },
+      "award_components": [
+        {
+          "kind": "services",
+          "detail": "Professional adoption/validation advice and market-expansion support; rules prohibit converting resources into cash. No verified grant cap. Full conditional terms and edition limits are retained in raw findings.",
+          "evidence_state": "assessment",
+          "edition": null,
+          "checked_on": "2026-10-12",
+          "source_urls": [
+            "https://www.sme.gov.tw/article-tw-2814-14328",
+            "https://www.sme.gov.tw/files/14328/4499F3FE-17A6-40E1-8E1C-2C8D32FCDF23"
+          ],
+          "amount": null,
+          "amount_basis": "unknown",
+          "pool_role": "unknown"
+        }
+      ],
+      "history": [],
+      "unconsumed_fields": [
+        "checked_at",
+        "edition_status",
+        "name",
+        "official_url",
+        "team_minimum"
+      ],
+      "review_complete": true,
+      "manual_review": {
+        "checked_on": "2026-10-12",
+        "planner_used": false,
+        "protocol": "Reviewed new-only append. Original worker facts and precise edition qualifiers preserved; no invented edition or amount aggregate.",
+        "coverage": "Review of available source materials, not full current authenticated form verification or applicant eligibility.",
+        "additional_fields_reviewed": [
+          "checked_at",
+          "edition_status",
+          "name",
+          "official_url",
+          "team_minimum"
+        ]
+      }
+    },
+    "tw-taichung-local-sbir": {
+      "raw_findings": {
+        "id": "tw-taichung-local-sbir",
+        "name": "Taichung City Local SBIR",
+        "official_url": "https://www.economic.taichung.gov.tw/16103/16153/16163/1717445/2764073/3273388/3273389/3274843/post",
+        "checked_at": "2026-10-12",
+        "edition_status": "2026 terms verified; intake closed. Next edition unannounced.",
+        "team_minimum": {
+          "people": null,
+          "company_count": 1,
+          "people_maximum": null,
+          "evidence": "Single-company route; no numerical R&D staff minimum identified. Applicant must document formal project staffing; no owner qualification inferred."
+        },
+        "application_fields": [
+          "Company name, founding date, ID, paid capital, responsible-person identity/date of birth, registered and contact addresses, employee count and factory status.",
+          "Project title, PI/contact/accountant telephone and email, dates and budget; industry, youth/new-company and policy-priority checkboxes.",
+          "Innovation/public summary, keywords, R&D method, checkpoints, staff CVs and budget; registration, tax, insurance, consent, undertakings, funding disclosures and conditional joint agreements. Paper originals and USB/PDF package required."
+        ],
+        "eligibility": [
+          "Domestic SME registered in Taichung; funded work must take place in Taichung.",
+          "SME paid capital up to TWD100m OR fewer than 200 employees. Branches and PRC-invested applicants excluded. Duplicate government funding, arrears and serious violations disqualify. Consecutive awards in 2024 and 2025 exclude a new 2026 award. Existing city projects need adequate additional research and finance capacity."
+        ],
+        "requirements": "Single-company route. Joint route requires two companies, not two people. Small firms below five employees have an insurance-evidence alternative; no numeric R&D personnel minimum verified. New innovative R&D, with accountable milestones. No mandatory application video or pre-existing MVP rule identified.",
+        "attendance": "PI or formal project R&D staff must present at review; closure presentation and inspection obligations apply. Progress and financial reports, on-site checks and three years of follow-up add work beyond filing.",
+        "award": {
+          "kind": "Matched R&D subsidy",
+          "currency": "TWD",
+          "individual_maximum": 1000000,
+          "terms": "Individual cap TWD1,000,000 and at most 50% of eligible project costs; optional joint route TWD2,000,000 total, TWD1,000,000 per company. Tariff-impact bonus remains inside the individual cap. Nine months, 2026-09-01 to 2027-05-31. 50% after contract, balance against approved closing costs. No equity purchase identified.",
+          "equity": "No equity purchase identified in read grant documents.",
+          "fee_status": "unknown"
+        },
+        "expense_rules": "Applicant finances the remainder and may need cash flow before reimbursement. Dedicated bank account, original vouchers and return of interest/unspent funds. R&D payroll generally <=60% of total budget; future hires <=30% of research person-months. R&D materials, equipment/software use and maintenance, technology/contract research and patent costs can qualify; generic equipment purchase is not automatically eligible. Reporting lateness incurs daily 0.1% of subsidy penalty.",
+        "deadlines": {
+          "historical_cycle": 2026,
+          "opens_on": "2026-05-25",
+          "stage": "Application",
+          "deadline": "2026-06-26",
+          "deadline_time": "12:00:00",
+          "timezone": null,
+          "qualification": "Historical closed deadline; published clock only where verified. No timezone inferred."
+        },
+        "unresolved": [
+          "Execution rules restrict foreign use but the printed clause omits its duration; clarify before funding globally distributed software.",
+          "Application fee not explicitly established; no equity provision found. Detailed cost treatment remains subject to approved contract.",
+          "Clock is published but timezone is not stated; no inferred conversion.",
+          "No 2027 call verified."
+        ],
+        "sources": [
+          {
+            "url": "https://www.economic.taichung.gov.tw/16103/16153/16163/1717445/2764073/3273388/3273389/3274843/post",
+            "role": "2026 application page",
+            "checked_at": "2026-10-12",
+            "kind": "official_source_read"
+          },
+          {
+            "url": "https://www.economic.taichung.gov.tw/media/1449350/01-115%E5%B9%B4%E5%BA%A6-%E7%94%B3%E8%AB%8B%E9%A0%88%E7%9F%A5.pdf",
+            "role": "23-page application rules",
+            "checked_at": "2026-10-12",
+            "kind": "official_source_read"
+          },
+          {
+            "url": "https://www.economic.taichung.gov.tw/media/1449352/03-115%E5%B9%B4%E5%BA%A6-%E8%A8%88%E7%95%AB%E6%9B%B8%E6%A0%BC%E5%BC%8F.pdf",
+            "role": "36-page proposal template; public application fields read",
+            "checked_at": "2026-10-12",
+            "kind": "official_source_read"
+          },
+          {
+            "url": "https://www.economic.taichung.gov.tw/media/1449353/04-115%E5%B9%B4%E5%BA%A6-%E5%9F%B7%E8%A1%8C%E8%A6%8F%E7%AF%84.pdf",
+            "role": "10-page execution rules",
+            "checked_at": "2026-10-12",
+            "kind": "official_source_read"
+          }
+        ],
+        "note_markdown": "# Taichung City Local SBIR\n\n2026 intake closed; next cycle unannounced. This is a matched R&D grant with a TWD 1 million individual ceiling, rather than unrestricted prize money.\n\nCivilian AI, ICT/security software and innovative service systems are eligible themes. Worth considering for new R&D if the company and execution location qualify; existing completed software alone does not establish a fundable project.\n\n**Eligibility and people.** Domestic SME registered in Taichung; funded work must take place in Taichung. SME paid capital up to TWD100m OR fewer than 200 employees. Branches and PRC-invested applicants excluded. Duplicate government funding, arrears and serious violations disqualify. Consecutive awards in 2024 and 2025 exclude a new 2026 award. Existing city projects need adequate additional research and finance capacity. Single-company route. Joint route requires two companies, not two people. Small firms below five employees have an insurance-evidence alternative; no numeric R&D personnel minimum verified. New innovative R&D, with accountable milestones. No mandatory application video or pre-existing MVP rule identified.\n\n**Application.** Company name, founding date, ID, paid capital, responsible-person identity/date of birth, registered and contact addresses, employee count and factory status. Project title, PI/contact/accountant telephone and email, dates and budget; industry, youth/new-company and policy-priority checkboxes. Innovation/public summary, keywords, R&D method, checkpoints, staff CVs and budget; registration, tax, insurance, consent, undertakings, funding disclosures and conditional joint agreements. Paper originals and USB/PDF package required.\n\n**Award and expenses.** Individual cap TWD1,000,000 and at most 50% of eligible project costs; optional joint route TWD2,000,000 total, TWD1,000,000 per company. Tariff-impact bonus remains inside the individual cap. Nine months, 2026-09-01 to 2027-05-31. 50% after contract, balance against approved closing costs. No equity purchase identified. Applicant finances the remainder and may need cash flow before reimbursement. Dedicated bank account, original vouchers and return of interest/unspent funds. R&D payroll generally <=60% of total budget; future hires <=30% of research person-months. R&D materials, equipment/software use and maintenance, technology/contract research and patent costs can qualify; generic equipment purchase is not automatically eligible. Reporting lateness incurs daily 0.1% of subsidy penalty.\n\n**Attendance.** PI or formal project R&D staff must present at review; closure presentation and inspection obligations apply. Progress and financial reports, on-site checks and three years of follow-up add work beyond filing.\n\n**Historical deadline.** 2026-06-26 at 12:00:00; timezone not verified. \n\n**Remaining questions.** Execution rules restrict foreign use but the printed clause omits its duration; clarify before funding globally distributed software. Application fee not explicitly established; no equity provision found. Detailed cost treatment remains subject to approved contract. Clock is published but timezone is not stated; no inferred conversion. No 2027 call verified.\n\n**Evidence coverage.** Read 2026 guidelines, proposal fields and execution provisions. The national map was a discovery aid; current city sources determine the historical deadline.\n\nSources:\n- [2026 application page](https://www.economic.taichung.gov.tw/16103/16153/16163/1717445/2764073/3273388/3273389/3274843/post)\n- [23-page application rules](https://www.economic.taichung.gov.tw/media/1449350/01-115%E5%B9%B4%E5%BA%A6-%E7%94%B3%E8%AB%8B%E9%A0%88%E7%9F%A5.pdf)\n- [36-page proposal template; public application fields read](https://www.economic.taichung.gov.tw/media/1449352/03-115%E5%B9%B4%E5%BA%A6-%E8%A8%88%E7%95%AB%E6%9B%B8%E6%A0%BC%E5%BC%8F.pdf)\n- [10-page execution rules](https://www.economic.taichung.gov.tw/media/1449353/04-115%E5%B9%B4%E5%BA%A6-%E5%9F%B7%E8%A1%8C%E8%A6%8F%E7%AF%84.pdf)\n"
+      },
+      "award_components": [
+        {
+          "kind": "restricted_cash",
+          "detail": "2026 individual grant: up to TWD 1,000,000; maximum 50% of eligible project cost, with contract and accounting obligations. Future-cycle terms unannounced. Full conditional terms and edition limits are retained in raw findings.",
+          "evidence_state": "assessment",
+          "edition": null,
+          "checked_on": "2026-10-12",
+          "source_urls": [
+            "https://www.economic.taichung.gov.tw/16103/16153/16163/1717445/2764073/3273388/3273389/3274843/post",
+            "https://www.economic.taichung.gov.tw/media/1449350/01-115%E5%B9%B4%E5%BA%A6-%E7%94%B3%E8%AB%8B%E9%A0%88%E7%9F%A5.pdf",
+            "https://www.economic.taichung.gov.tw/media/1449352/03-115%E5%B9%B4%E5%BA%A6-%E8%A8%88%E7%95%AB%E6%9B%B8%E6%A0%BC%E5%BC%8F.pdf",
+            "https://www.economic.taichung.gov.tw/media/1449353/04-115%E5%B9%B4%E5%BA%A6-%E5%9F%B7%E8%A1%8C%E8%A6%8F%E7%AF%84.pdf"
+          ],
+          "amount": null,
+          "amount_basis": "unknown",
+          "pool_role": "unknown"
+        }
+      ],
+      "history": [],
+      "unconsumed_fields": [
+        "checked_at",
+        "edition_status",
+        "name",
+        "official_url",
+        "team_minimum"
+      ],
+      "review_complete": true,
+      "manual_review": {
+        "checked_on": "2026-10-12",
+        "planner_used": false,
+        "protocol": "Reviewed new-only append. Original worker facts and precise edition qualifiers preserved; no invented edition or amount aggregate.",
+        "coverage": "Review of available source materials, not full current authenticated form verification or applicant eligibility.",
+        "additional_fields_reviewed": [
+          "checked_at",
+          "edition_status",
+          "name",
+          "official_url",
+          "team_minimum"
+        ]
+      }
+    },
+    "tw-tainan-local-sbir": {
+      "raw_findings": {
+        "id": "tw-tainan-local-sbir",
+        "name": "Tainan City Local SBIR",
+        "official_url": "https://economic.tainan.gov.tw/News_Content.aspx?n=5153&s=8808214",
+        "checked_at": "2026-10-12",
+        "edition_status": "2026 terms verified; intake closed. Next edition unannounced.",
+        "team_minimum": {
+          "people": null,
+          "company_count": 1,
+          "people_maximum": null,
+          "evidence": "Single-company route; no numerical R&D staff minimum identified. Applicant must document formal project staffing; no owner qualification inferred."
+        },
+        "application_fields": [
+          "Company ID/founding date, responsible-person identity/date of birth, paid capital/revenue/staff, registered/contact addresses and industry.",
+          "PI, contact and dedicated accountant phone/email/mobile, project dates, budget, innovation/IP/market, checkpoints, staff CVs, incubator and prior-funding disclosure.",
+          "Upload Chinese A4 proposal and qualification scans, including registration, listed tax-year report, national/local no-arrears documents issued after March 20, insurance evidence after February 2026, undertaking/recusal/consent forms. Online formal submission and receipt required; paper not accepted."
+        ],
+        "eligibility": [
+          "Domestic SME registered in Tainan with funded execution in Tainan.",
+          "Capital up to TWD100m OR fewer than 200 employees. Branches/PRC investment excluded; unfinished city grants and three or more previous city awards excluded. Qualification pack expressly permits under-five-employee alternatives. No founder citizenship or residence condition independently established beyond entity and staffing rules."
+        ],
+        "requirements": "Individual route is one company; optional joint route is two companies, not two people. AI proposals must describe algorithm/model. Innovative Design route requires 1–3 months of trial operations and economic-benefit verification; not a blanket requirement for every route. New R&D required. Rules prohibit Chinese software and Chinese IT outsourcing in funded work.",
+        "attendance": "Review presenter must be applicant employee listed in project R&D personnel; PI preferred, not strictly required. Advisors/outsourcers cannot substitute. Interim and final technical/accounting reports, closing review and inspection obligations apply.",
+        "award": {
+          "kind": "Matched R&D subsidy",
+          "currency": "TWD",
+          "individual_maximum": 1000000,
+          "terms": "TWD1,000,000 individual cap; <=50% total cost. Joint cap TWD2,000,000 with TWD1,000,000 per company. Nine-month project. Proposal dates 2026-09-01 to 2027-05-31. Initial 50% after contract, closing balance based on approved costs. No equity purchase provision found.",
+          "equity": "No equity purchase identified in read grant documents.",
+          "fee_status": "unknown"
+        },
+        "expense_rules": "Rules additionally require self-funded share greater than subsidy in every accounting category and normally below paid-up capital. Payroll <=60% total budget; advisers <=30% payroll; materials <=25%; equipment use/maintenance <=50%; technology and outsourced research combined <=50%. Excludes office equipment and VAT. Closing accounting report must be CPA-certified, paid by applicant outside project budget. Dedicated account and vouchers required; unused subsidy and interest returned.",
+        "deadlines": {
+          "historical_cycle": 2026,
+          "opens_on": "2026-03-20",
+          "stage": "Application",
+          "deadline": "2026-05-05",
+          "deadline_time": "11:59:59",
+          "timezone": null,
+          "qualification": "Historical closed deadline; published clock only where verified. No timezone inferred.",
+          "qualifications": [
+            "Submission before 11:59:59; system closes at noon."
+          ]
+        },
+        "unresolved": [
+          "2026 guidelines still request ROC113 (2024) tax report; do not silently replace with 2025. Confirm applicable portal guidance when next cycle opens.",
+          "Public templates read; live login portal was not entered. No mandatory video rule identified.",
+          "Application fee not explicit; CPA certification is a separate mandatory applicant expense.",
+          "Timezone unstated; cutoff 11:59:59, system closes noon. No 2027 call verified."
+        ],
+        "sources": [
+          {
+            "url": "https://economic.tainan.gov.tw/News_Content.aspx?n=5153&s=8808214",
+            "role": "2026 official announcement and downloadable application packages",
+            "checked_at": "2026-10-12",
+            "kind": "official_source_read"
+          },
+          {
+            "url": "https://w3fs.tainan.gov.tw/Download.ashx?u=LzAwMi9GUzAxLzIyL3JlbGZpbGUvMTAwODgvODgwODIxNC9jNWNmZGQzMC00YjA3LTQ4NGEtYTgyNy05OGVlZmZlNTI3YzYuemlw&n=MTE155Sz6KuL6ZqO5q61LeWAi%2bWIpeiIh%2bWFseWQjOeglOeZvOeUs%2biri%2baWh%2bS7ti56aXA%3d",
+            "role": "Official ZIP; guidelines/accounting PDF and individual-proposal/qualification DOCX read locally",
+            "checked_at": "2026-10-12",
+            "kind": "official_source_read"
+          }
+        ],
+        "note_markdown": "# Tainan City Local SBIR\n\n2026 intake closed; next cycle unannounced. This is a matched R&D grant with a TWD 1 million individual ceiling, rather than unrestricted prize money.\n\nExplicit AI, big-data, cloud and digital transformation support can fund a new commercial software research project. Administrative costs and restrictions make this a conditional company grant, rather than a quick solo prize.\n\n**Eligibility and people.** Domestic SME registered in Tainan with funded execution in Tainan. Capital up to TWD100m OR fewer than 200 employees. Branches/PRC investment excluded; unfinished city grants and three or more previous city awards excluded. Qualification pack expressly permits under-five-employee alternatives. No founder citizenship or residence condition independently established beyond entity and staffing rules. Individual route is one company; optional joint route is two companies, not two people. AI proposals must describe algorithm/model. Innovative Design route requires 1–3 months of trial operations and economic-benefit verification; not a blanket requirement for every route. New R&D required. Rules prohibit Chinese software and Chinese IT outsourcing in funded work.\n\n**Application.** Company ID/founding date, responsible-person identity/date of birth, paid capital/revenue/staff, registered/contact addresses and industry. PI, contact and dedicated accountant phone/email/mobile, project dates, budget, innovation/IP/market, checkpoints, staff CVs, incubator and prior-funding disclosure. Upload Chinese A4 proposal and qualification scans, including registration, listed tax-year report, national/local no-arrears documents issued after March 20, insurance evidence after February 2026, undertaking/recusal/consent forms. Online formal submission and receipt required; paper not accepted.\n\n**Award and expenses.** TWD1,000,000 individual cap; <=50% total cost. Joint cap TWD2,000,000 with TWD1,000,000 per company. Nine-month project. Proposal dates 2026-09-01 to 2027-05-31. Initial 50% after contract, closing balance based on approved costs. No equity purchase provision found. Rules additionally require self-funded share greater than subsidy in every accounting category and normally below paid-up capital. Payroll <=60% total budget; advisers <=30% payroll; materials <=25%; equipment use/maintenance <=50%; technology and outsourced research combined <=50%. Excludes office equipment and VAT. Closing accounting report must be CPA-certified, paid by applicant outside project budget. Dedicated account and vouchers required; unused subsidy and interest returned.\n\n**Attendance.** Review presenter must be applicant employee listed in project R&D personnel; PI preferred, not strictly required. Advisors/outsourcers cannot substitute. Interim and final technical/accounting reports, closing review and inspection obligations apply.\n\n**Historical deadline.** 2026-05-05 at 11:59:59; timezone not verified. \n\n**Remaining questions.** 2026 guidelines still request ROC113 (2024) tax report; do not silently replace with 2025. Confirm applicable portal guidance when next cycle opens. Public templates read; live login portal was not entered. No mandatory video rule identified. Application fee not explicit; CPA certification is a separate mandatory applicant expense. Timezone unstated; cutoff 11:59:59, system closes noon. No 2027 call verified.\n\n**Evidence coverage.** Current city package read locally after the public ZIP succeeded. The themed-alliance branch was not separately audited or counted.\n\nSources:\n- [2026 official announcement and downloadable application packages](https://economic.tainan.gov.tw/News_Content.aspx?n=5153&s=8808214)\n- [Official ZIP; guidelines/accounting PDF and individual-proposal/qualification DOCX read locally](https://w3fs.tainan.gov.tw/Download.ashx?u=LzAwMi9GUzAxLzIyL3JlbGZpbGUvMTAwODgvODgwODIxNC9jNWNmZGQzMC00YjA3LTQ4NGEtYTgyNy05OGVlZmZlNTI3YzYuemlw&n=MTE155Sz6KuL6ZqO5q61LeWAi%2bWIpeiIh%2bWFseWQjOeglOeZvOeUs%2biri%2baWh%2bS7ti56aXA%3d)\n"
+      },
+      "award_components": [
+        {
+          "kind": "restricted_cash",
+          "detail": "2026 individual grant: up to TWD 1,000,000; maximum 50% of eligible project cost, with contract and accounting obligations. Future-cycle terms unannounced. Full conditional terms and edition limits are retained in raw findings.",
+          "evidence_state": "assessment",
+          "edition": null,
+          "checked_on": "2026-10-12",
+          "source_urls": [
+            "https://economic.tainan.gov.tw/News_Content.aspx?n=5153&s=8808214",
+            "https://w3fs.tainan.gov.tw/Download.ashx?u=LzAwMi9GUzAxLzIyL3JlbGZpbGUvMTAwODgvODgwODIxNC9jNWNmZGQzMC00YjA3LTQ4NGEtYTgyNy05OGVlZmZlNTI3YzYuemlw&n=MTE155Sz6KuL6ZqO5q61LeWAi%2bWIpeiIh%2bWFseWQjOeglOeZvOeUs%2biri%2baWh%2bS7ti56aXA%3d"
+          ],
+          "amount": null,
+          "amount_basis": "unknown",
+          "pool_role": "unknown"
+        }
+      ],
+      "history": [],
+      "unconsumed_fields": [
+        "checked_at",
+        "edition_status",
+        "name",
+        "official_url",
+        "team_minimum"
+      ],
+      "review_complete": true,
+      "manual_review": {
+        "checked_on": "2026-10-12",
+        "planner_used": false,
+        "protocol": "Reviewed new-only append. Original worker facts and precise edition qualifiers preserved; no invented edition or amount aggregate.",
+        "coverage": "Review of available source materials, not full current authenticated form verification or applicant eligibility.",
+        "additional_fields_reviewed": [
+          "checked_at",
+          "edition_status",
+          "name",
+          "official_url",
+          "team_minimum"
+        ]
+      }
+    },
+    "tw-changhua-local-sbir": {
+      "raw_findings": {
+        "id": "tw-changhua-local-sbir",
+        "name": "Changhua County Local SBIR",
+        "official_url": "https://www.chcg.gov.tw/DTO/greenenergy/06service/service01_con.aspx?data_id=27965&topsn=4593",
+        "checked_at": "2026-10-12",
+        "edition_status": "2026 terms verified; intake closed. Next edition unannounced.",
+        "team_minimum": {
+          "people": null,
+          "company_count": 1,
+          "people_maximum": null,
+          "evidence": "Single-company route; no numerical R&D staff minimum identified. Applicant must document formal project staffing; no owner qualification inferred."
+        },
+        "application_fields": [
+          "Application/self-check, project innovation/method/market, milestones, R&D personnel and budget.",
+          "Four paper proposal copies plus Word/PDF, registration and conditional factory evidence, income/VAT/balance-sheet/P&L, national/local no-arrears and insurance evidence.",
+          "Individual consents, previous grants and conditional incubator/outsourcing/property-asset documents; optional joint agreement. Paper post/hand delivery then electronic copy via published Google form; form itself not opened."
+        ],
+        "eligibility": [
+          "Domestic SME registered in Changhua with funded execution in Changhua.",
+          "Capital <=TWD100m OR fewer than 200 employees. No PRC investment or branches. Arrears, significant violations and duplicate public-funded R&D excluded. One company/year; concurrent work needs sufficient staff and financial capacity. Consecutive funding in previous two years requires self-match >1.5 times subsidy."
+        ],
+        "requirements": "Single company eligible; optional joint route combines two companies. Under-five-employee declaration allowed. No numeric minimum of people found. New innovation with measurable deliverables; no mandatory video or MVP requirement verified.",
+        "attendance": "Technical review presentation, execution inspections and progress/final reporting; three-year follow-up. Exact presentation delegate rule not established in this audit.",
+        "award": {
+          "kind": "Matched R&D subsidy",
+          "currency": "TWD",
+          "individual_maximum": 1000000,
+          "terms": "Individual TWD1,000,000 cap and <=50% of cost; joint TWD2,000,000 total / TWD1,000,000 per company. Ten months with potential one-month extension; published contract dates 2026-08-01 to 2027-05-31. Half after contract and balance after accepted closure. No equity purchase identified.",
+          "equity": "No equity purchase identified in read grant documents.",
+          "fee_status": "unknown"
+        },
+        "expense_rules": "Self-match and working capital required. Dedicated bank account, ledger and original cost evidence; interest/unspent subsidy returned, violations can cause recovery. Payroll <=60% budget; future hires <=30% research person-months; formal employees, not ordinary temporary/part-time staff. Equipment use/maintenance combined cap TWD100,000. Technology/IP and contract research normally <=50% budget unless justified; patent filing may qualify, annual maintenance does not. Office supplies and VAT excluded.",
+        "deadlines": {
+          "historical_cycle": 2026,
+          "opens_on": "2026-04-01",
+          "stage": "Application",
+          "deadline": "2026-04-30",
+          "deadline_time": null,
+          "timezone": null,
+          "qualification": "Historical closed deadline; published clock only where verified. No timezone inferred."
+        },
+        "unresolved": [
+          "Separate proposal-template link failed; field overview comes from guidelines, not a claim to have opened that form.",
+          "No verified deadline clock or timezone; historical date only.",
+          "Application fee not explicit; no 2027 call verified."
+        ],
+        "sources": [
+          {
+            "url": "https://www.chcg.gov.tw/DTO/greenenergy/06service/service01_con.aspx?data_id=27965&topsn=4593",
+            "role": "2026 call and attachments",
+            "checked_at": "2026-10-12",
+            "kind": "official_source_read"
+          },
+          {
+            "url": "https://www.chcg.gov.tw/DTO/greenenergy/getFile.aspx?did=27965&file=2&file_id=552182&type=2",
+            "role": "19-page guidelines",
+            "checked_at": "2026-10-12",
+            "kind": "official_source_read"
+          },
+          {
+            "url": "https://www.chcg.gov.tw/DTO/greenenergy/getFile.aspx?did=27965&file=2&file_id=552187&type=2",
+            "role": "Four-page accounting annex",
+            "checked_at": "2026-10-12",
+            "kind": "official_source_read"
+          },
+          {
+            "url": "https://www.chcg.gov.tw/DTO/greenenergy/getFile.aspx?did=27965&file=2&file_id=574942&type=2",
+            "role": "Nine-page individual contract",
+            "checked_at": "2026-10-12",
+            "kind": "official_source_read"
+          }
+        ],
+        "note_markdown": "# Changhua County Local SBIR\n\n2026 intake closed; next cycle unannounced. This is a matched R&D grant with a TWD 1 million individual ceiling, rather than unrestricted prize money.\n\nExplicit software/knowledge platforms, systems, innovative services, cloud ICT and commercial open-data applications. Useful for original software R&D by a qualifying local small business.\n\n**Eligibility and people.** Domestic SME registered in Changhua with funded execution in Changhua. Capital <=TWD100m OR fewer than 200 employees. No PRC investment or branches. Arrears, significant violations and duplicate public-funded R&D excluded. One company/year; concurrent work needs sufficient staff and financial capacity. Consecutive funding in previous two years requires self-match >1.5 times subsidy. Single company eligible; optional joint route combines two companies. Under-five-employee declaration allowed. No numeric minimum of people found. New innovation with measurable deliverables; no mandatory video or MVP requirement verified.\n\n**Application.** Application/self-check, project innovation/method/market, milestones, R&D personnel and budget. Four paper proposal copies plus Word/PDF, registration and conditional factory evidence, income/VAT/balance-sheet/P&L, national/local no-arrears and insurance evidence. Individual consents, previous grants and conditional incubator/outsourcing/property-asset documents; optional joint agreement. Paper post/hand delivery then electronic copy via published Google form; form itself not opened.\n\n**Award and expenses.** Individual TWD1,000,000 cap and <=50% of cost; joint TWD2,000,000 total / TWD1,000,000 per company. Ten months with potential one-month extension; published contract dates 2026-08-01 to 2027-05-31. Half after contract and balance after accepted closure. No equity purchase identified. Self-match and working capital required. Dedicated bank account, ledger and original cost evidence; interest/unspent subsidy returned, violations can cause recovery. Payroll <=60% budget; future hires <=30% research person-months; formal employees, not ordinary temporary/part-time staff. Equipment use/maintenance combined cap TWD100,000. Technology/IP and contract research normally <=50% budget unless justified; patent filing may qualify, annual maintenance does not. Office supplies and VAT excluded.\n\n**Attendance.** Technical review presentation, execution inspections and progress/final reporting; three-year follow-up. Exact presentation delegate rule not established in this audit.\n\n**Historical deadline.** 2026-04-30; timezone not verified. \n\n**Remaining questions.** Separate proposal-template link failed; field overview comes from guidelines, not a claim to have opened that form. No verified deadline clock or timezone; historical date only. Application fee not explicit; no 2027 call verified.\n\n**Evidence coverage.** Independent county budget and intake, not a central SBIR phase. Application, accounting and contract sources establish substantive obligations.\n\nSources:\n- [2026 call and attachments](https://www.chcg.gov.tw/DTO/greenenergy/06service/service01_con.aspx?data_id=27965&topsn=4593)\n- [19-page guidelines](https://www.chcg.gov.tw/DTO/greenenergy/getFile.aspx?did=27965&file=2&file_id=552182&type=2)\n- [Four-page accounting annex](https://www.chcg.gov.tw/DTO/greenenergy/getFile.aspx?did=27965&file=2&file_id=552187&type=2)\n- [Nine-page individual contract](https://www.chcg.gov.tw/DTO/greenenergy/getFile.aspx?did=27965&file=2&file_id=574942&type=2)\n"
+      },
+      "award_components": [
+        {
+          "kind": "restricted_cash",
+          "detail": "2026 individual grant: up to TWD 1,000,000; maximum 50% of eligible project cost, with contract and accounting obligations. Future-cycle terms unannounced. Full conditional terms and edition limits are retained in raw findings.",
+          "evidence_state": "assessment",
+          "edition": null,
+          "checked_on": "2026-10-12",
+          "source_urls": [
+            "https://www.chcg.gov.tw/DTO/greenenergy/06service/service01_con.aspx?data_id=27965&topsn=4593",
+            "https://www.chcg.gov.tw/DTO/greenenergy/getFile.aspx?did=27965&file=2&file_id=552182&type=2",
+            "https://www.chcg.gov.tw/DTO/greenenergy/getFile.aspx?did=27965&file=2&file_id=552187&type=2",
+            "https://www.chcg.gov.tw/DTO/greenenergy/getFile.aspx?did=27965&file=2&file_id=574942&type=2"
+          ],
+          "amount": null,
+          "amount_basis": "unknown",
+          "pool_role": "unknown"
+        }
+      ],
+      "history": [],
+      "unconsumed_fields": [
+        "checked_at",
+        "edition_status",
+        "name",
+        "official_url",
+        "team_minimum"
+      ],
+      "review_complete": true,
+      "manual_review": {
+        "checked_on": "2026-10-12",
+        "planner_used": false,
+        "protocol": "Reviewed new-only append. Original worker facts and precise edition qualifiers preserved; no invented edition or amount aggregate.",
+        "coverage": "Review of available source materials, not full current authenticated form verification or applicant eligibility.",
+        "additional_fields_reviewed": [
+          "checked_at",
+          "edition_status",
+          "name",
+          "official_url",
+          "team_minimum"
+        ]
+      }
+    },
+    "tw-hsinchu-city-local-sbir": {
+      "raw_findings": {
+        "id": "tw-hsinchu-city-local-sbir",
+        "name": "Hsinchu City Local SBIR",
+        "official_url": "https://www.hccitysbir.org/",
+        "checked_at": "2026-10-12",
+        "edition_status": "2026 terms verified; intake closed. Next edition unannounced.",
+        "team_minimum": {
+          "people": null,
+          "company_count": 1,
+          "people_maximum": null,
+          "evidence": "Single-company route; no numerical R&D staff minimum identified. Applicant must document formal project staffing; no owner qualification inferred."
+        },
+        "application_fields": [
+          "Company ID/registration/capital/revenue/staff; PI, contact and accountant phone/email; project title/duration, subsidy and self-match, industry, innovation/IP/market.",
+          "Staff CVs, budget and checkpoints; registration/factory if applicable, latest income/VAT, insurance, national no-arrears, self-check and individual consent; conditional incubator/outsourcing/ethics documents.",
+          "Online system and proposal Word file <=25MB. No post-submission project-document supplements; qualification supplements have seven-day post-cutoff window. Public forms embedded in PDF were read; login portal not entered."
+        ],
+        "eligibility": [
+          "Domestic SME registered in Hsinchu City and project execution in the city; Hsinchu County is a different jurisdiction.",
+          "SME capital <=TWD100m OR fewer than 200 staff. No PRC investment or branches, tax arrears, serious violations or duplicate funding. One company or responsible person/year; at most two grants within three years; unfinished city subsidy projects excluded."
+        ],
+        "requirements": "One-company route; joint route needs two companies, not two people. Under-five-employee evidence alternative exists; no numeric minimum of personnel identified. Formal project R&D staffing and new innovation necessary. Mandatory pre-existing MVP/video not identified.",
+        "attendance": "PI must personally present at review; relevant technical partner/adviser attends where applicable. Non-attendance can waive application. Execution reports/inspections and three-year follow-up.",
+        "award": {
+          "kind": "Matched R&D subsidy",
+          "currency": "TWD",
+          "individual_maximum": 1000000,
+          "terms": "Individual <=TWD1,000,000 and <=50% project cost; optional joint TWD2,000,000 / TWD1,000,000 per company. Ten months: 2026-08-01 to 2027-05-31. Normally self-match must be below paid-up capital. Half after contract, remainder against accepted closure. No equity purchase identified.",
+          "equity": "No equity purchase identified in read grant documents.",
+          "fee_status": "unknown"
+        },
+        "expense_rules": "Dedicated account/ledger and expense evidence; return interest and unused subsidy. Personnel generally <=60% of total subsidy under published notes, not a copied total-budget cap. Consumables have 25% total-budget reference unless justified; annual maintenance <=20% original purchase cost. Technology transfer table has a 60% limit; account-level subsidy <=50%. Software use/IP licences can qualify as R&D costs; office equipment and VAT excluded.",
+        "deadlines": {
+          "historical_cycle": 2026,
+          "opens_on": "2026-05-19",
+          "stage": "Application",
+          "deadline": "2026-06-22",
+          "deadline_time": "17:00:00",
+          "timezone": null,
+          "qualification": "Historical closed deadline; published clock only where verified. No timezone inferred."
+        },
+        "unresolved": [
+          "National map displayed May 19 as deadline; actual current city documents establish it as opening date and June 22 as cutoff.",
+          "Fee not explicit; no numeric people maximum verified.",
+          "Clock verified, timezone unstated. No 2027 call verified.",
+          "Personnel-cap wording is inconsistent: explanatory/accounting notes say 60% of total subsidy, while self-check item eleven says 60% of total project cost. Confirm the applicable basis before budgeting."
+        ],
+        "sources": [
+          {
+            "url": "https://www.hccitysbir.org/",
+            "role": "Official programme site; current award announcements establish closed 2026 intake",
+            "checked_at": "2026-10-12",
+            "kind": "official_source_read"
+          },
+          {
+            "url": "https://www.hccitysbir.org/news/865",
+            "role": "Opening announcement with June 22 17:00 cutoff",
+            "checked_at": "2026-10-12",
+            "kind": "official_source_read"
+          },
+          {
+            "url": "https://www.hccitysbir.org/files/filedownload/928/original/35157650976a013abc68286.pdf",
+            "role": "49-page current guidelines, forms and accounting terms",
+            "checked_at": "2026-10-12",
+            "kind": "official_source_read"
+          }
+        ],
+        "note_markdown": "# Hsinchu City Local SBIR\n\n2026 intake closed; next cycle unannounced. This is a matched R&D grant with a TWD 1 million individual ceiling, rather than unrestricted prize money.\n\nKnowledge platforms, innovative services and ICT/digital R&D expressly fit civilian software. Local city entity/execution requirements and matching costs are the practical gates.\n\n**Eligibility and people.** Domestic SME registered in Hsinchu City and project execution in the city; Hsinchu County is a different jurisdiction. SME capital <=TWD100m OR fewer than 200 staff. No PRC investment or branches, tax arrears, serious violations or duplicate funding. One company or responsible person/year; at most two grants within three years; unfinished city subsidy projects excluded. One-company route; joint route needs two companies, not two people. Under-five-employee evidence alternative exists; no numeric minimum of personnel identified. Formal project R&D staffing and new innovation necessary. Mandatory pre-existing MVP/video not identified.\n\n**Application.** Company ID/registration/capital/revenue/staff; PI, contact and accountant phone/email; project title/duration, subsidy and self-match, industry, innovation/IP/market. Staff CVs, budget and checkpoints; registration/factory if applicable, latest income/VAT, insurance, national no-arrears, self-check and individual consent; conditional incubator/outsourcing/ethics documents. Online system and proposal Word file <=25MB. No post-submission project-document supplements; qualification supplements have seven-day post-cutoff window. Public forms embedded in PDF were read; login portal not entered.\n\n**Award and expenses.** Individual <=TWD1,000,000 and <=50% project cost; optional joint TWD2,000,000 / TWD1,000,000 per company. Ten months: 2026-08-01 to 2027-05-31. Normally self-match must be below paid-up capital. Half after contract, remainder against accepted closure. No equity purchase identified. Dedicated account/ledger and expense evidence; return interest and unused subsidy. Personnel generally <=60% of total subsidy under published notes, not a copied total-budget cap. Consumables have 25% total-budget reference unless justified; annual maintenance <=20% original purchase cost. Technology transfer table has a 60% limit; account-level subsidy <=50%. Software use/IP licences can qualify as R&D costs; office equipment and VAT excluded.\n\n**Attendance.** PI must personally present at review; relevant technical partner/adviser attends where applicable. Non-attendance can waive application. Execution reports/inspections and three-year follow-up.\n\n**Historical deadline.** 2026-06-22 at 17:00:00; timezone not verified. \n\n**Remaining questions.** Personnel-cap wording is inconsistent: explanatory/accounting notes say 60% of total subsidy, while self-check item eleven says 60% of total project cost. Confirm the applicable basis before budgeting. National map displayed May 19 as deadline; actual current city documents establish it as opening date and June 22 as cutoff. Fee not explicit; no numeric people maximum verified. Clock verified, timezone unstated. No 2027 call verified.\n\n**Evidence coverage.** Native HTTPS download of the official current 49-page PDF succeeded; earlier web retrieval failed. Handbook downloaded but not used for unsupported extra claims.\n\nSources:\n- [Official programme site; current award announcements establish closed 2026 intake](https://www.hccitysbir.org/)\n- [Opening announcement with June 22 17:00 cutoff](https://www.hccitysbir.org/news/865)\n- [49-page current guidelines, forms and accounting terms](https://www.hccitysbir.org/files/filedownload/928/original/35157650976a013abc68286.pdf)\n"
+      },
+      "award_components": [
+        {
+          "kind": "restricted_cash",
+          "detail": "2026 individual grant: up to TWD 1,000,000; maximum 50% of eligible project cost, with contract and accounting obligations. Future-cycle terms unannounced. Full conditional terms and edition limits are retained in raw findings.",
+          "evidence_state": "assessment",
+          "edition": null,
+          "checked_on": "2026-10-12",
+          "source_urls": [
+            "https://www.hccitysbir.org/",
+            "https://www.hccitysbir.org/news/865",
+            "https://www.hccitysbir.org/files/filedownload/928/original/35157650976a013abc68286.pdf"
+          ],
+          "amount": null,
+          "amount_basis": "unknown",
+          "pool_role": "unknown"
+        }
+      ],
+      "history": [],
+      "unconsumed_fields": [
+        "checked_at",
+        "edition_status",
+        "name",
+        "official_url",
+        "team_minimum"
+      ],
+      "review_complete": true,
+      "manual_review": {
+        "checked_on": "2026-10-12",
+        "planner_used": false,
+        "protocol": "Reviewed new-only append. Original worker facts and precise edition qualifiers preserved; no invented edition or amount aggregate.",
+        "coverage": "Review of available source materials, not full current authenticated form verification or applicant eligibility.",
+        "additional_fields_reviewed": [
+          "checked_at",
+          "edition_status",
+          "name",
+          "official_url",
+          "team_minimum"
+        ]
+      }
+    },
+    "tw-hualien-local-sbir": {
+      "raw_findings": {
+        "id": "tw-hualien-local-sbir",
+        "name": "Hualien County Local SBIR",
+        "official_url": "https://ydc.org.tw/zh-hant/activity/competition/4/",
+        "checked_at": "2026-10-12",
+        "edition_status": "2026 terms verified; intake closed. Next edition unannounced.",
+        "team_minimum": {
+          "people": null,
+          "company_count": 1,
+          "people_maximum": null,
+          "evidence": "Single-company route; no numerical R&D staff minimum identified. Applicant must document formal project staffing; no owner qualification inferred."
+        },
+        "application_fields": [
+          "Stage one concept proposal, application and no-arrears evidence; initial basic registration through published Google form, then paper mail/hand delivery.",
+          "Stage two full technical/budget/staff proposal and review, registration/tax/insurance documents, previous-funding differences, consent/recusal forms and conditional outsourced work/adviser/IP/incubator/ethics evidence.",
+          "Separate DOCX template was not opened; field list is guideline-derived. No account, completed form or submission."
+        ],
+        "eligibility": [
+          "Taiwan domestic SME; funded R&D workplace must be in Hualien. Read rules do not expressly require the company's registered address to be Hualien.",
+          "Domestic SME capital <=TWD100m OR fewer than 200 employees; project execution location in Hualien. Branches/PRC investment, arrears, serious violations, duplicate government R&D and already completed developments excluded. One company/responsible person/year."
+        ],
+        "requirements": "Single-company application; no numeric personnel minimum identified. Formal employee research staffing with under-five-employee evidence alternative. No fixed mandatory MVP/video rule found. Foreign R&D staffing documentation is distinct from unverified founder nationality requirements.",
+        "attendance": "Concept stage followed by technical review and full proposal; reports, inspections and three-year follow-up. Specific in-person dates not verified.",
+        "award": {
+          "kind": "Matched R&D subsidy",
+          "currency": "TWD",
+          "individual_maximum": 1000000,
+          "terms": "Individual cash R&D subsidy <=TWD1,000,000 and <=50% approved costs; self-funding >=subsidy. Half after contract, rest against closure. Ten-month term. Landing page expects 2026-09-01 to 2027-06-30; linked rules expect 2026-08-01 to 2027-05-31. Contract must resolve conflict. No equity purchase identified.",
+          "equity": "No equity purchase identified in read grant documents.",
+          "fee_status": "unknown"
+        },
+        "expense_rules": "Dedicated account, original vouchers, cost audit and interest/unspent return. Payroll 60% total-budget reference, future hires <=30% person-months; technology transfer 30% and outsourcing 60% published caps. No general office equipment/consumables or VAT. Software/equipment use and R&D IP can qualify; adviser travel excluded. Funded R&D results cannot be produced/used outside Taiwan for two years from creation; review can extend this restriction where overseas use would affect domestic competitiveness/research layout.",
+        "deadlines": {
+          "historical_cycle": 2026,
+          "opens_on": null,
+          "stage": "Concept intake only",
+          "deadline": "2026-05-29",
+          "deadline_time": "17:00:00",
+          "timezone": null,
+          "qualification": "Historical closed deadline; published clock only where verified. No timezone inferred.",
+          "qualifications": [
+            "May 29 is the concept stage only. Full proposal follows selection; a second-stage public cutoff was not verified."
+          ]
+        },
+        "unresolved": [
+          "Do not interpret overseas-use clause as an approval exemption; international software distribution needs clarification.",
+          "Direct attachment host returned 403; publisher's own public proxy download succeeded without bypassing authentication.",
+          "Landing-page/rules execution dates conflict.",
+          "Fee not explicit. Timezone unstated; cutoff has postmark alternative. No 2027 call verified."
+        ],
+        "sources": [
+          {
+            "url": "https://ydc.org.tw/zh-hant/activity/competition/4/",
+            "role": "Current county programme call and publisher download links",
+            "checked_at": "2026-10-12",
+            "kind": "official_source_read"
+          },
+          {
+            "url": "https://ydc.org.tw/api/proxy_download/?file_url=https%3A//admin.ydc.org.tw/assets/img/product/origin/9ed85584955c66bcb0ed60ce08b0c7ca.pdf&filename=%E9%99%84%E4%BB%B6-%E6%9C%83%E8%A8%88%E7%A7%91%E7%9B%AE%E5%8F%8A%E7%B7%A8%E5%88%97%E5%8E%9F%E5%89%87.pdf",
+            "role": "Official publisher-linked proxy: five-page accounting annex read locally",
+            "checked_at": "2026-10-12",
+            "kind": "official_source_read"
+          },
+          {
+            "url": "https://ydc.org.tw/api/proxy_download/?file_url=https%3A//admin.ydc.org.tw/assets/img/product/origin/0cfdb4e903f5444a0967c6153cc6cfa9.pdf&filename=115%E5%B9%B4%E5%9C%B0%E6%96%B9%E5%9E%8BSBIR%E8%A8%88%E7%95%AB%E7%94%B3%E8%AB%8B%E9%A0%88%E7%9F%A5.pdf",
+            "role": "Official publisher-linked proxy: 12-page rules PDF read locally",
+            "checked_at": "2026-10-12",
+            "kind": "official_source_read"
+          }
+        ],
+        "note_markdown": "# Hualien County Local SBIR\n\n2026 intake closed; next cycle unannounced. This is a matched R&D grant with a TWD 1 million individual ceiling, rather than unrestricted prize money.\n\nKnowledge/service platforms, software systems and design/digital services expressly qualify. Local workplace and restrictions on overseas use of funded results make it conditional for globally sold software.\n\n**Eligibility and people.** Taiwan domestic SME; funded R&D workplace must be in Hualien. Read rules do not expressly require the company's registered address to be Hualien. Domestic SME capital <=TWD100m OR fewer than 200 employees; project execution location in Hualien. Branches/PRC investment, arrears, serious violations, duplicate government R&D and already completed developments excluded. One company/responsible person/year. Single-company application; no numeric personnel minimum identified. Formal employee research staffing with under-five-employee evidence alternative. No fixed mandatory MVP/video rule found. Foreign R&D staffing documentation is distinct from unverified founder nationality requirements.\n\n**Application.** Stage one concept proposal, application and no-arrears evidence; initial basic registration through published Google form, then paper mail/hand delivery. Stage two full technical/budget/staff proposal and review, registration/tax/insurance documents, previous-funding differences, consent/recusal forms and conditional outsourced work/adviser/IP/incubator/ethics evidence. Separate DOCX template was not opened; field list is guideline-derived. No account, completed form or submission.\n\n**Award and expenses.** Individual cash R&D subsidy <=TWD1,000,000 and <=50% approved costs; self-funding >=subsidy. Half after contract, rest against closure. Ten-month term. Landing page expects 2026-09-01 to 2027-06-30; linked rules expect 2026-08-01 to 2027-05-31. Contract must resolve conflict. No equity purchase identified. Dedicated account, original vouchers, cost audit and interest/unspent return. Payroll 60% total-budget reference, future hires <=30% person-months; technology transfer 30% and outsourcing 60% published caps. No general office equipment/consumables or VAT. Software/equipment use and R&D IP can qualify; adviser travel excluded. Funded R&D results cannot be produced/used outside Taiwan for two years from creation; review can extend this restriction where overseas use would affect domestic competitiveness/research layout.\n\n**Attendance.** Concept stage followed by technical review and full proposal; reports, inspections and three-year follow-up. Specific in-person dates not verified.\n\n**Historical deadline.** 2026-05-29 at 17:00:00; timezone not verified. Stage-one concept intake only; no separately verified stage-two public deadline.\n\n**Remaining questions.** Do not interpret overseas-use clause as an approval exemption; international software distribution needs clarification. Direct attachment host returned 403; publisher's own public proxy download succeeded without bypassing authentication. Landing-page/rules execution dates conflict. Fee not explicit. Timezone unstated; cutoff has postmark alternative. No 2027 call verified.\n\n**Evidence coverage.** Rules and accounting PDFs read locally through exact publicly linked publisher proxy; standalone application DOCX not retrieved. May 29 is stage-one concept intake only; no separate stage-two public application cutoff was verified.\n\nSources:\n- [Current county programme call and publisher download links](https://ydc.org.tw/zh-hant/activity/competition/4/)\n- [Official publisher-linked proxy: five-page accounting annex read locally](https://ydc.org.tw/api/proxy_download/?file_url=https%3A//admin.ydc.org.tw/assets/img/product/origin/9ed85584955c66bcb0ed60ce08b0c7ca.pdf&filename=%E9%99%84%E4%BB%B6-%E6%9C%83%E8%A8%88%E7%A7%91%E7%9B%AE%E5%8F%8A%E7%B7%A8%E5%88%97%E5%8E%9F%E5%89%87.pdf)\n- [Official publisher-linked proxy: 12-page rules PDF read locally](https://ydc.org.tw/api/proxy_download/?file_url=https%3A//admin.ydc.org.tw/assets/img/product/origin/0cfdb4e903f5444a0967c6153cc6cfa9.pdf&filename=115%E5%B9%B4%E5%9C%B0%E6%96%B9%E5%9E%8BSBIR%E8%A8%88%E7%95%AB%E7%94%B3%E8%AB%8B%E9%A0%88%E7%9F%A5.pdf)\n"
+      },
+      "award_components": [
+        {
+          "kind": "restricted_cash",
+          "detail": "2026 individual grant: up to TWD 1,000,000; maximum 50% of eligible project cost, with contract and accounting obligations. Future-cycle terms unannounced. Full conditional terms and edition limits are retained in raw findings.",
+          "evidence_state": "assessment",
+          "edition": null,
+          "checked_on": "2026-10-12",
+          "source_urls": [
+            "https://ydc.org.tw/zh-hant/activity/competition/4/",
+            "https://ydc.org.tw/api/proxy_download/?file_url=https%3A//admin.ydc.org.tw/assets/img/product/origin/9ed85584955c66bcb0ed60ce08b0c7ca.pdf&filename=%E9%99%84%E4%BB%B6-%E6%9C%83%E8%A8%88%E7%A7%91%E7%9B%AE%E5%8F%8A%E7%B7%A8%E5%88%97%E5%8E%9F%E5%89%87.pdf",
+            "https://ydc.org.tw/api/proxy_download/?file_url=https%3A//admin.ydc.org.tw/assets/img/product/origin/0cfdb4e903f5444a0967c6153cc6cfa9.pdf&filename=115%E5%B9%B4%E5%9C%B0%E6%96%B9%E5%9E%8BSBIR%E8%A8%88%E7%95%AB%E7%94%B3%E8%AB%8B%E9%A0%88%E7%9F%A5.pdf"
+          ],
+          "amount": null,
+          "amount_basis": "unknown",
+          "pool_role": "unknown"
+        }
+      ],
+      "history": [],
+      "unconsumed_fields": [
+        "checked_at",
+        "edition_status",
+        "name",
+        "official_url",
+        "team_minimum"
+      ],
+      "review_complete": true,
+      "manual_review": {
+        "checked_on": "2026-10-12",
+        "planner_used": false,
+        "protocol": "Reviewed new-only append. Original worker facts and precise edition qualifiers preserved; no invented edition or amount aggregate.",
+        "coverage": "Review of available source materials, not full current authenticated form verification or applicant eligibility.",
+        "additional_fields_reviewed": [
+          "checked_at",
+          "edition_status",
+          "name",
+          "official_url",
+          "team_minimum"
+        ]
+      }
+    },
+    "tw-miaoli-local-sbir": {
+      "raw_findings": {
+        "id": "tw-miaoli-local-sbir",
+        "name": "Miaoli County Local SBIR",
+        "official_url": "https://www.miaoli.gov.tw/economic_development/News_Content.aspx?n=9707&s=946111",
+        "checked_at": "2026-10-12",
+        "edition_status": "2026 terms verified; intake closed. Next edition unannounced.",
+        "team_minimum": {
+          "people": null,
+          "company_count": 1,
+          "people_maximum": null,
+          "evidence": "Single-company route; no numerical R&D staff minimum identified. Applicant must document formal project staffing; no owner qualification inferred."
+        },
+        "application_fields": [
+          "Company ID/founding date, responsible-person identity/date of birth, capital/revenue/employees and registered/R&D addresses.",
+          "Project title/dates/budget, PI/contact/dedicated accountant phone/email, innovation/advantages/quantified benefits, research staff CVs and budget.",
+          "Official cover letter and stamped paper proposal; registration, national/local no-arrears, company AND responsible-person bank non-dishonour proof, latest income tax or VAT for under-one-year company, insurance/under-five statement and consents. Postmark or official hand-delivery receipt determines timeliness."
+        ],
+        "eligibility": [
+          "Domestic SME registered in Miaoli with funded execution in Miaoli.",
+          "Capital <=TWD100m OR fewer than 200 employees; no PRC investment/branches, arrears, serious violations, financial-crime conviction or duplicate public-funded R&D. One company/responsible person/year; at most two Miaoli programme awards within three years as stated by county rules."
+        ],
+        "requirements": "Single-company route verified; no numeric minimum of people identified. Formal R&D personnel evidence, with small-company alternative. Local SBIR is actual innovation R&D; feasibility-only and >TWD1m requests referred to central programmes. No blanket mandatory MVP/video identified.",
+        "attendance": "Technical review presentation, execution research logs and interim/final technical/accounting reports, inspection and three-year follow-up; annual follow-up report December 1–15. Exact remote/in-person format unspecified.",
+        "award": {
+          "kind": "Matched R&D subsidy",
+          "currency": "TWD",
+          "individual_maximum": 1000000,
+          "terms": "Individual cash grant <=TWD1,000,000 and <=50% eligible costs; normal self-match <=paid capital. Rules allow term <=one year; 2026 proposal template specifies ten months, 2026-09-01 to 2027-06-30. Half after contract, remainder against approved actual closing costs. No equity purchase identified.",
+          "equity": "No equity purchase identified in read grant documents.",
+          "fee_status": "unknown"
+        },
+        "expense_rules": "Applicant finances remainder and reimbursable cash flow. Dedicated account, unused subsidy/interest return, lawful expense vouchers. R&D salaries, materials, equipment use/maintenance and technology/contract research eligible. Separate annex ZIP retrieval failed; finer category caps, CPA expense requirement and overseas IP restrictions not verified and must not be imported from another county.",
+        "deadlines": {
+          "historical_cycle": 2026,
+          "opens_on": "2026-04-08",
+          "stage": "Application",
+          "deadline": "2026-06-10",
+          "deadline_time": null,
+          "timezone": null,
+          "qualification": "Historical closed deadline; published clock only where verified. No timezone inferred."
+        },
+        "unresolved": [
+          "2026 cutoff clock/timezone not stated in read evidence.",
+          "Proposal contains generic multi-company wording; not counted as a separately verified county joint grant route.",
+          "Additional annex ZIP unavailable to web retrieval; fee status and detailed expense ceilings unresolved.",
+          "No 2027 call verified."
+        ],
+        "sources": [
+          {
+            "url": "https://www.miaoli.gov.tw/economic_development/News_Content.aspx?n=9707&s=946111",
+            "role": "2026 county call with linked guidelines and templates",
+            "checked_at": "2026-10-12",
+            "kind": "official_source_read"
+          },
+          {
+            "url": "https://webws.miaoli.gov.tw/Download.ashx?n=MTE15bm05bqm5Zyw5pa555Si5qWt5Ym15paw56CU55m85o6o5YuV6KiI55WrKFNCSVIp55Sz6KuL6aCI55%2BlLnBkZg%3D%3D&u=LzAwMS9VcGxvYWQvNDE3L3JlbGZpbGUvMTQ3MjkvOTQ2MTExL2VlNmFiNTA5LTUzODEtNDlkNC05Mzc3LTEzODI0NjVkYTE0NC5wZGY%3D",
+            "role": "Nine-page guidelines",
+            "checked_at": "2026-10-12",
+            "kind": "official_source_read"
+          },
+          {
+            "url": "https://webws.miaoli.gov.tw/Download.ashx?n=6KiI55Wr5pu4KOagvOW8jykucGRm&u=LzAwMS9VcGxvYWQvNDE3L3JlbGZpbGUvMTQ3MjkvOTQ2MTExL2Q4ZGI0N2JiLTEwM2EtNDhiNi05NDViLTlmYmQ0MGQ5YzEzMS5wZGY%3D",
+            "role": "23-page proposal template; fields read",
+            "checked_at": "2026-10-12",
+            "kind": "official_source_read"
+          }
+        ],
+        "note_markdown": "# Miaoli County Local SBIR\n\n2026 intake closed; next cycle unannounced. This is a matched R&D grant with a TWD 1 million individual ceiling, rather than unrestricted prize money.\n\nInnovative software/knowledge/service systems fit published scope. Local industries are priorities, not a verified hardware-only restriction; civilian AI business R&D may be relevant with a qualifying local SME.\n\n**Eligibility and people.** Domestic SME registered in Miaoli with funded execution in Miaoli. Capital <=TWD100m OR fewer than 200 employees; no PRC investment/branches, arrears, serious violations, financial-crime conviction or duplicate public-funded R&D. One company/responsible person/year; at most two Miaoli programme awards within three years as stated by county rules. Single-company route verified; no numeric minimum of people identified. Formal R&D personnel evidence, with small-company alternative. Local SBIR is actual innovation R&D; feasibility-only and >TWD1m requests referred to central programmes. No blanket mandatory MVP/video identified.\n\n**Application.** Company ID/founding date, responsible-person identity/date of birth, capital/revenue/employees and registered/R&D addresses. Project title/dates/budget, PI/contact/dedicated accountant phone/email, innovation/advantages/quantified benefits, research staff CVs and budget. Official cover letter and stamped paper proposal; registration, national/local no-arrears, company AND responsible-person bank non-dishonour proof, latest income tax or VAT for under-one-year company, insurance/under-five statement and consents. Postmark or official hand-delivery receipt determines timeliness.\n\n**Award and expenses.** Individual cash grant <=TWD1,000,000 and <=50% eligible costs; normal self-match <=paid capital. Rules allow term <=one year; 2026 proposal template specifies ten months, 2026-09-01 to 2027-06-30. Half after contract, remainder against approved actual closing costs. No equity purchase identified. Applicant finances remainder and reimbursable cash flow. Dedicated account, unused subsidy/interest return, lawful expense vouchers. R&D salaries, materials, equipment use/maintenance and technology/contract research eligible. Separate annex ZIP retrieval failed; finer category caps, CPA expense requirement and overseas IP restrictions not verified and must not be imported from another county.\n\n**Attendance.** Technical review presentation, execution research logs and interim/final technical/accounting reports, inspection and three-year follow-up; annual follow-up report December 1–15. Exact remote/in-person format unspecified.\n\n**Historical deadline.** 2026-06-10; timezone not verified. \n\n**Remaining questions.** 2026 cutoff clock/timezone not stated in read evidence. Proposal contains generic multi-company wording; not counted as a separately verified county joint grant route. Additional annex ZIP unavailable to web retrieval; fee status and detailed expense ceilings unresolved. No 2027 call verified.\n\n**Evidence coverage.** Found official Miaoli guideline during mixed-language search, then verified county call with Chinese query and current proposal template. No numerical staff minimum copied from adjacent local SBIRs.\n\nSources:\n- [2026 county call with linked guidelines and templates](https://www.miaoli.gov.tw/economic_development/News_Content.aspx?n=9707&s=946111)\n- [Nine-page guidelines](https://webws.miaoli.gov.tw/Download.ashx?n=MTE15bm05bqm5Zyw5pa555Si5qWt5Ym15paw56CU55m85o6o5YuV6KiI55WrKFNCSVIp55Sz6KuL6aCI55%2BlLnBkZg%3D%3D&u=LzAwMS9VcGxvYWQvNDE3L3JlbGZpbGUvMTQ3MjkvOTQ2MTExL2VlNmFiNTA5LTUzODEtNDlkNC05Mzc3LTEzODI0NjVkYTE0NC5wZGY%3D)\n- [23-page proposal template; fields read](https://webws.miaoli.gov.tw/Download.ashx?n=6KiI55Wr5pu4KOagvOW8jykucGRm&u=LzAwMS9VcGxvYWQvNDE3L3JlbGZpbGUvMTQ3MjkvOTQ2MTExL2Q4ZGI0N2JiLTEwM2EtNDhiNi05NDViLTlmYmQ0MGQ5YzEzMS5wZGY%3D)\n"
+      },
+      "award_components": [
+        {
+          "kind": "restricted_cash",
+          "detail": "2026 individual grant: up to TWD 1,000,000; maximum 50% of eligible project cost, with contract and accounting obligations. Future-cycle terms unannounced. Full conditional terms and edition limits are retained in raw findings.",
+          "evidence_state": "assessment",
+          "edition": null,
+          "checked_on": "2026-10-12",
+          "source_urls": [
+            "https://www.miaoli.gov.tw/economic_development/News_Content.aspx?n=9707&s=946111",
+            "https://webws.miaoli.gov.tw/Download.ashx?n=MTE15bm05bqm5Zyw5pa555Si5qWt5Ym15paw56CU55m85o6o5YuV6KiI55WrKFNCSVIp55Sz6KuL6aCI55%2BlLnBkZg%3D%3D&u=LzAwMS9VcGxvYWQvNDE3L3JlbGZpbGUvMTQ3MjkvOTQ2MTExL2VlNmFiNTA5LTUzODEtNDlkNC05Mzc3LTEzODI0NjVkYTE0NC5wZGY%3D",
+            "https://webws.miaoli.gov.tw/Download.ashx?n=6KiI55Wr5pu4KOagvOW8jykucGRm&u=LzAwMS9VcGxvYWQvNDE3L3JlbGZpbGUvMTQ3MjkvOTQ2MTExL2Q4ZGI0N2JiLTEwM2EtNDhiNi05NDViLTlmYmQ0MGQ5YzEzMS5wZGY%3D"
+          ],
+          "amount": null,
+          "amount_basis": "unknown",
+          "pool_role": "unknown"
+        }
+      ],
+      "history": [],
+      "unconsumed_fields": [
+        "checked_at",
+        "edition_status",
+        "name",
+        "official_url",
+        "team_minimum"
+      ],
+      "review_complete": true,
+      "manual_review": {
+        "checked_on": "2026-10-12",
+        "planner_used": false,
+        "protocol": "Reviewed new-only append. Original worker facts and precise edition qualifiers preserved; no invented edition or amount aggregate.",
+        "coverage": "Review of available source materials, not full current authenticated form verification or applicant eligibility.",
+        "additional_fields_reviewed": [
+          "checked_at",
+          "edition_status",
+          "name",
+          "official_url",
+          "team_minimum"
+        ]
+      }
     }
   }
 }
