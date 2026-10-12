@@ -1,6 +1,7 @@
 /* No deadline horizon. Only an explicit intake filter narrows the catalogue. */
 (function(root){
  function matchesView(event,view='all'){
+  if(view==='records')return true;
   if(view==='excluded')return event.fit==='skip';
   if(event.fit!=='want')return false;
   if(view==='available')return ['open','upcoming','rolling'].includes(event.status);
