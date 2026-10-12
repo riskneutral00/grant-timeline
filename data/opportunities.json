@@ -12608,5 +12608,2947 @@
         ]
       }
     }
+  },
+  {
+    "fit_reason": "business or relocation support: Currently overseas and not already a shareholder or legal representative of a Shenzhen-registered entity. Own the project IP; no disputes. Prior Shenzhen competition prize recipients cannot re-enter. Additional professional qualifications apply to teams with Chinese overseas-study/work members. Individuals expressly allowed; age, gender and student limits not identified. Inclusion is discovery; applicant eligibility unconfirmed.",
+    "team_min": 1,
+    "team_max": null,
+    "prize": "CNY 9.42 million total prize pool. Final first/second/third: CNY 500,000/250,000/150,000 immediate prizes, plus conditional Shenzhen landing subsidies of 1,000,000/500,000/300,000. Preliminary awards: 100,000/50,000/30,000; industry awards: 150,000/100,000/50,000. CNY 5 billion investor pool is potential investment, not a guaranteed grant.",
+    "id": "cn-sz-international-innovation-competition",
+    "name": "China Shenzhen Innovation and Entrepreneurship International Competition",
+    "type": "competition",
+    "country": "CN",
+    "organizer": "Shenzhen Municipal Government; Municipal HRSS and participating districts",
+    "url": "https://cn.itcsz.cn/",
+    "source_url": "https://cn.itcsz.cn/zh/col92/list",
+    "status": "planning",
+    "deadline": null,
+    "deadline_time": null,
+    "deadline_timezone": null,
+    "deadline_source_url": null,
+    "summary": "Overseas entrepreneurial teams or individuals of any nationality seeking Shenzhen market entry. 10th edition 2026, application closed. PDF metadata says seventh, but the actual cover/body identify the tenth edition. Benefits and restrictions are documented in the source audit; no current intake presumed.",
+    "fit": "want",
+    "funding_kind": "mixed",
+    "fee_status": "unknown",
+    "first_seen": "2026-10-12",
+    "last_checked": "2026-10-12",
+    "application_cycle": {
+      "label": "Current next intake unannounced; historical terms qualified",
+      "programme_name": "China Shenzhen Innovation and Entrepreneurship International Competition",
+      "status": "planning",
+      "announcement_status": "unannounced",
+      "opens_on": null,
+      "deadline": null,
+      "deadline_time": null,
+      "timezone": null,
+      "source_url": "https://cn.itcsz.cn/zh/col92/list",
+      "checked_at": "2026-10-12",
+      "history": [
+        {
+          "label": "Historical 2026 intake (closed)",
+          "programme_name": "China Shenzhen Innovation and Entrepreneurship International Competition",
+          "status": "closed",
+          "announcement_status": "announced",
+          "opens_on": null,
+          "deadline": "2026-08-31",
+          "deadline_time": null,
+          "timezone": null,
+          "source_url": "https://cn.itcsz.cn/zh/col92/list",
+          "checked_at": "2026-10-12"
+        }
+      ],
+      "date_evidence_kind": "official_source_read",
+      "research": {
+        "as_of": "2026-10-12",
+        "status": "mixed",
+        "limits": "Actual logged-in registration fields, fees, exact round dates and landing contract unverified.",
+        "evidence": [
+          {
+            "url": "https://cn.itcsz.cn/",
+            "kind": "official_source_read"
+          },
+          {
+            "url": "https://cn.itcsz.cn/zh/col92/list",
+            "kind": "official_source_read"
+          },
+          {
+            "url": "https://qlm2025.oss-cn-shenzhen.aliyuncs.com/2026/06/02/e283badd8b9440cd93c56ad0a7381675%E4%B8%AD%E5%9B%BD%E6%B7%B1%E5%9C%B3%E5%88%9B%E6%96%B0%E5%88%9B%E4%B8%9A%E5%A4%A7%E8%B5%9B%E7%AC%AC%E5%8D%81%E5%B1%8A%E5%9B%BD%E9%99%85%E8%B5%9B%E5%8F%82%E8%B5%9B%E6%89%8B%E5%86%8C.pdf",
+            "kind": "official_source_read"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "fit_reason": "professional tax relief: Foreign nationals expressly eligible in Shenzhen. Recognized high-end/in-demand status, local work or service contract, more than 90 actual Shenzhen days in 2025 and local IIT required. Applicant must still work locally in the qualifying role. Identity changes affect eligible months; simultaneous mainland identity excluded except specified overseas-Chinese categories. No general age/gender/student gate identified. Inclusion is discovery; applicant eligibility unconfirmed.",
+    "team_min": null,
+    "team_max": null,
+    "prize": "Subsidy of IIT already paid above 15% of taxable income, capped at CNY 5 million per taxpayer/year, itself exempt from IIT. 2026 window covers 2025 tax plus 2024 catch-up claims.",
+    "id": "cn-gba-overseas-talent-iit",
+    "name": "Greater Bay Area Overseas Talent Income Tax Subsidy",
+    "type": "grant",
+    "country": "CN",
+    "organizer": "Guangdong provincial authorities and mainland GBA city administrations; Shenzhen2026 guide audited",
+    "url": "https://szfb.sz.gov.cn/xwzx/tzgg/content/post_12581711.html",
+    "source_url": "https://szfb.sz.gov.cn/xwzx/tzgg/content/post_12581711.html",
+    "status": "planning",
+    "deadline": null,
+    "deadline_time": null,
+    "deadline_timezone": null,
+    "deadline_source_url": null,
+    "summary": "Qualified overseas high-end or in-demand foreign-national workers and professionals paying mainland GBA income tax. Current 2026 Shenzhen implementation verified; grouped as one provincial GBA family. Benefits and restrictions are documented in the source audit; no current intake presumed.",
+    "fit": "want",
+    "funding_kind": "cash",
+    "fee_status": "unknown",
+    "first_seen": "2026-10-12",
+    "last_checked": "2026-10-12",
+    "application_cycle": {
+      "label": "Current next intake unannounced; historical terms qualified",
+      "programme_name": "Greater Bay Area Overseas Talent Income Tax Subsidy",
+      "status": "planning",
+      "announcement_status": "unannounced",
+      "opens_on": null,
+      "deadline": null,
+      "deadline_time": null,
+      "timezone": null,
+      "source_url": "https://szfb.sz.gov.cn/xwzx/tzgg/content/post_12581711.html",
+      "checked_at": "2026-10-12",
+      "history": [
+        {
+          "label": "Historical 2026 intake (closed)",
+          "programme_name": "Greater Bay Area Overseas Talent Income Tax Subsidy",
+          "status": "closed",
+          "announcement_status": "announced",
+          "opens_on": "2026-01-01",
+          "deadline": "2026-03-31",
+          "deadline_time": null,
+          "timezone": null,
+          "source_url": "https://szfb.sz.gov.cn/xwzx/tzgg/content/post_12581711.html",
+          "checked_at": "2026-10-12"
+        }
+      ],
+      "date_evidence_kind": "official_source_read",
+      "research": {
+        "as_of": "2026-10-12",
+        "status": "mixed",
+        "limits": "Specific talent-directory qualifications, formquestions and othercity implementations not fullyaudited. Future year policy/window unannounced.",
+        "evidence": [
+          {
+            "url": "https://szfb.sz.gov.cn/xwzx/tzgg/content/post_12581711.html",
+            "kind": "official_source_read"
+          },
+          {
+            "url": "https://www.china-briefing.com/news/2026-gba-iit-subsidy-kickstarted-in-shenzhen/",
+            "kind": "unavailable"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "fit_reason": "research or professional: Independent host entity registered in Guangdong at least two years. Full-time participating project lead may be the foreign expert or a Chinese collaborator. High-end experts need recognized achievement, foreign associate-professor-or-higher experience, or senior corporate/R&D leadership; at least 30 local days. Young track: foreign nationality, overseas PhD, age at most 45 (born January 1, 1981 or later), at least 90 local days. Qualifying work June 1, 2025–May 31, 2026; remote work excluded. Active national foreign-expert projects and specified overseas-master awards excluded. Inclusion is discovery; applicant eligibility unconfirmed.",
+    "team_min": null,
+    "team_max": null,
+    "prize": "One-off retrospective host subsidy: high-end CNY 150,000 per project; young CNY 100,000. The 2027 label does not mean applications happen in 2027.",
+    "id": "cn-guangdong-foreign-expert-project",
+    "name": "Guangdong Foreign Expert Project",
+    "type": "grant",
+    "country": "CN",
+    "organizer": "Guangdong Department of Science and Technology; provincial finance",
+    "url": "https://www.shanwei.gov.cn/swskxjsj/gkmlpt/content/1/1244/post_1244286.html",
+    "source_url": "https://gdstc.gd.gov.cn/attachment/0/612/612044/4889795.pdf",
+    "status": "planning",
+    "deadline": null,
+    "deadline_time": null,
+    "deadline_timezone": null,
+    "deadline_source_url": null,
+    "summary": "Foreign-national high-end experts and young PhD researchers undertaking actual Guangdong work. 2027-labelled project call published April 2026, reimbursing June 2025–May 2026 work. Benefits and restrictions are documented in the source audit; no current intake presumed.",
+    "fit": "want",
+    "funding_kind": "cash",
+    "fee_status": "unknown",
+    "first_seen": "2026-10-12",
+    "last_checked": "2026-10-12",
+    "application_cycle": {
+      "label": "Current next intake unannounced; historical terms qualified",
+      "programme_name": "Guangdong Foreign Expert Project",
+      "status": "planning",
+      "announcement_status": "unannounced",
+      "opens_on": null,
+      "deadline": null,
+      "deadline_time": null,
+      "timezone": null,
+      "source_url": "https://gdstc.gd.gov.cn/attachment/0/612/612044/4889795.pdf",
+      "checked_at": "2026-10-12",
+      "history": [
+        {
+          "label": "Historical 2026 intake (closed)",
+          "programme_name": "Guangdong Foreign Expert Project",
+          "status": "closed",
+          "announcement_status": "announced",
+          "opens_on": "2026-05-06",
+          "deadline": "2026-06-05",
+          "deadline_time": "17:00",
+          "timezone": null,
+          "source_url": "https://gdstc.gd.gov.cn/attachment/0/612/612044/4889795.pdf",
+          "checked_at": "2026-10-12"
+        }
+      ],
+      "date_evidence_kind": "official_source_read",
+      "research": {
+        "as_of": "2026-10-12",
+        "status": "mixed",
+        "limits": "Completeformandexpense/repaymentrulesunread. Exactpriorityattachment/formalreviewattachmentnotfullyread.",
+        "evidence": [
+          {
+            "url": "https://www.shanwei.gov.cn/swskxjsj/gkmlpt/content/1/1244/post_1244286.html",
+            "kind": "official_source_read"
+          },
+          {
+            "url": "https://gdstc.gd.gov.cn/attachment/0/612/612044/4889795.pdf",
+            "kind": "official_source_read"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "fit_reason": "business or relocation support: Explicit foreign-talent support package. Entrepreneurship premises in the Ecological CBD; exact company ownership, classification and licensing rules in the full attachment remain unread. Housing/living benefits require Class A/B status. No verified personnel, age, gender or student minimum. Inclusion is discovery; applicant eligibility unconfirmed.",
+    "team_min": null,
+    "team_max": null,
+    "prize": "First two years: up to 50% rent/property subsidy. After one year: CNY 30,000–100,000 depending on leased area. Employment support CNY 2,000 per employee/year. Class A monthly housing/living: 1,500/1,000; Class B: 1,000/500, up to three years. Free startup space/short apartment and qualifying medical insurance.",
+    "id": "cn-haikou-jiangdong-foreign-support",
+    "name": "Haikou Jiangdong Foreign Talent Entrepreneurship and Settlement Support",
+    "type": "grant",
+    "country": "CN",
+    "organizer": "Haikou Jiangdong New Area Administration",
+    "url": "https://enm.hiipb.com/news/show-28059.html",
+    "source_url": "https://enm.hiipb.com/news/show-28059.html",
+    "status": "planning",
+    "deadline": null,
+    "deadline_time": null,
+    "deadline_timezone": null,
+    "deadline_source_url": null,
+    "summary": "Foreign-national founders and Class A/B foreign talent in Jiangdong New Area, Haikou. Investment bureau announced December 2025; measures effective 2026–2029. Benefits and restrictions are documented in the source audit; no current intake presumed.",
+    "fit": "want",
+    "funding_kind": "mixed",
+    "fee_status": "unknown",
+    "first_seen": "2026-10-12",
+    "last_checked": "2026-10-12",
+    "application_cycle": {
+      "label": "Current next intake unannounced; historical terms qualified",
+      "programme_name": "Haikou Jiangdong Foreign Talent Entrepreneurship and Settlement Support",
+      "status": "planning",
+      "announcement_status": "unannounced",
+      "opens_on": null,
+      "deadline": null,
+      "deadline_time": null,
+      "timezone": null,
+      "source_url": "https://enm.hiipb.com/news/show-28059.html",
+      "checked_at": "2026-10-12",
+      "history": [],
+      "date_evidence_kind": "last_known",
+      "research": {
+        "as_of": "2026-10-12",
+        "status": "mixed",
+        "limits": "Fullbindingattachment/actualformsunread; QRimageonly. Exactdefinitions,applicationavailability,reimbursementcapsandcontractunknown.",
+        "evidence": [
+          {
+            "url": "https://enm.hiipb.com/news/show-28059.html",
+            "kind": "official_source_read"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "fit_reason": "research or professional: PhD (including current students) or researcher/postdoc at a well-known overseas university/research body; generally age at most 40 and no more than three months since mainland entry. Nationality unrestricted. The audited 2026 FAFU host seeks biology/bioinformatics, food/materials and forestry research; not a generic founder incubator. Inclusion is discovery; applicant eligibility unconfirmed.",
+    "team_min": 1,
+    "team_max": null,
+    "prize": "One-off origin-based travel support: Americas CNY 23,000, Europe 20,000, Australia 10,000, Asia 8,000. Monthly work allowance: associate professor+ 18,000; PhD/postdoc 12,000. Source institution/employer location determines origin. HK/Macao/Taiwan routes excluded from this foreign-targeted scope.",
+    "id": "cn-fujian-overseas-young-exchange",
+    "name": "Fujian Overseas Excellent Young Talent Exchange and Cooperation Programme",
+    "type": "grant",
+    "country": "CN",
+    "organizer": "Fujian provincial talent programme; participating Fujian universities and hosts",
+    "url": "https://rsc.fafu.edu.cn/92/7f/c2218a430719/page.htm",
+    "source_url": "https://rsc.fafu.edu.cn/92/7f/c2218a430719/page.htm",
+    "status": "planning",
+    "deadline": null,
+    "deadline_time": null,
+    "deadline_timezone": null,
+    "deadline_source_url": null,
+    "summary": "Overseas PhD students, graduates and researchers, including foreign nationals, visiting Fujian. 2026 host call plus provincial blank template verified; one province family, not one per university. Benefits and restrictions are documented in the source audit; no current intake presumed.",
+    "fit": "want",
+    "funding_kind": "cash",
+    "fee_status": "unknown",
+    "first_seen": "2026-10-12",
+    "last_checked": "2026-10-12",
+    "application_cycle": {
+      "label": "Current next intake unannounced; historical terms qualified",
+      "programme_name": "Fujian Overseas Excellent Young Talent Exchange and Cooperation Programme",
+      "status": "planning",
+      "announcement_status": "unannounced",
+      "opens_on": null,
+      "deadline": null,
+      "deadline_time": null,
+      "timezone": null,
+      "source_url": "https://rsc.fafu.edu.cn/92/7f/c2218a430719/page.htm",
+      "checked_at": "2026-10-12",
+      "history": [],
+      "date_evidence_kind": "last_known",
+      "research": {
+        "as_of": "2026-10-12",
+        "status": "mixed",
+        "limits": "Currentvacancy/selection,fullprovincialpolicyandfundpaymentconditionsunknown. Hostdisciplinelimitsmakecommercialsoftwarefitconditional.",
+        "evidence": [
+          {
+            "url": "https://rsc.fafu.edu.cn/92/7f/c2218a430719/page.htm",
+            "kind": "official_source_read"
+          },
+          {
+            "url": "https://rsc.fafu.edu.cn/_upload/article/files/e2/e3/0a8b3a3d4aa8a30b984ab134f655/c5c07bc6-0e1d-4dd3-a170-de2012fe2dda.docx",
+            "kind": "official_source_read"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "fit_reason": "business or relocation support: A qualifying citizen/resident among core members, plus one alternative: entity registered in a Portuguese/Spanish country; at least three qualifying core members/senior managers; or entity operating at least two years with at least 50% prior-year revenue from those countries. No existing Hengqin entity/substantial activity by cutoff. Startup route: entity registration January 2020–March 2026, revenue at most CNY 10m and equity financing at most 50m; teams need a prototype and operating basis, seed–Pre-A stage. Growth thresholds separate but same family. Prior Hengqin-funded/prize projects excluded. Inclusion is discovery; applicant eligibility unconfirmed.",
+    "team_min": null,
+    "team_max": null,
+    "prize": "Promoted aggregate CNY 200m pool and top support up to CNY 15m, 100 awards. Eligible operating costs may be paid from the prize allocation; landing services and investor matching included. Individual cash-versus-conditional-support schedule not verified; headline amount is not guaranteed unrestricted cash.",
+    "id": "cn-hengqin-portuguese-spanish-scitech",
+    "name": "Hengqin International Sci-Tech Innovation Competition for Portuguese and Spanish-Speaking Countries",
+    "type": "competition",
+    "country": "CN",
+    "organizer": "Executive Committee of the Guangdong-Macao In-Depth Cooperation Zone in Hengqin",
+    "url": "https://www.hisic.net/",
+    "source_url": "https://www.hisic.net/static/js/main.db445097.chunk.js",
+    "status": "planning",
+    "deadline": null,
+    "deadline_time": null,
+    "deadline_timezone": null,
+    "deadline_source_url": null,
+    "summary": "Portuguese/Spanish-country citizens or residents and their startup teams/enterprises entering mainland Hengqin. Macao-only routes excluded from foreign-target count. 2026 official public client rules read; next intake unannounced. Benefits and restrictions are documented in the source audit; no current intake presumed.",
+    "fit": "want",
+    "funding_kind": "mixed",
+    "fee_status": "none",
+    "first_seen": "2026-10-12",
+    "last_checked": "2026-10-12",
+    "application_cycle": {
+      "label": "Current next intake unannounced; historical terms qualified",
+      "programme_name": "Hengqin International Sci-Tech Innovation Competition for Portuguese and Spanish-Speaking Countries",
+      "status": "planning",
+      "announcement_status": "unannounced",
+      "opens_on": null,
+      "deadline": null,
+      "deadline_time": null,
+      "timezone": null,
+      "source_url": "https://www.hisic.net/static/js/main.db445097.chunk.js",
+      "checked_at": "2026-10-12",
+      "history": [
+        {
+          "label": "Historical 2026 intake (closed)",
+          "programme_name": "Hengqin International Sci-Tech Innovation Competition for Portuguese and Spanish-Speaking Countries",
+          "status": "closed",
+          "announcement_status": "announced",
+          "opens_on": null,
+          "deadline": "2026-08-31",
+          "deadline_time": null,
+          "timezone": null,
+          "source_url": "https://www.hisic.net/static/js/main.db445097.chunk.js",
+          "checked_at": "2026-10-12"
+        }
+      ],
+      "date_evidence_kind": "official_source_read",
+      "research": {
+        "as_of": "2026-10-12",
+        "status": "mixed",
+        "limits": "Bindingindividualaward/landingcontractandruntimeformunknown. Chinese/Englishsourcewordingvariesboundaryinclusivity; do notresolvebyguess. Timeline/defaultformdeadlineconflict.",
+        "evidence": [
+          {
+            "url": "https://www.hisic.net/",
+            "kind": "official_source_read"
+          },
+          {
+            "url": "https://www.hisic.net/static/js/main.db445097.chunk.js",
+            "kind": "official_source_read"
+          },
+          {
+            "url": "https://www.usj.edu.mo/zh/event/%E4%B8%AD%E8%91%A1%E8%A5%BF%E5%9C%8B%E9%9A%9B%E7%A7%91%E5%89%B5%E5%A4%A7%E8%B3%BD%E6%BE%B3%E9%96%80%E6%9C%AC%E5%9C%B0%E5%8F%83%E8%B3%BD%E4%BC%81%E6%A5%AD-%E6%8E%A8%E5%BB%A3%E6%9C%83%E6%B4%BB%E5%8B%95/",
+            "kind": "official_source_read"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "fit_reason": "business or relocation support: Explicit international-talent service system; foreign permanent-resident example and international staff/students described. Service-specific immigration and recognition rules apply; no verified universal nationality, entity, gender, age or team minimum. Do not infer a new work-permission entitlement. Inclusion is discovery; applicant eligibility unconfirmed.",
+    "team_min": null,
+    "team_max": null,
+    "prize": "Noncash integrated assistance with work permissions, tax processing, high-level talent recognition, immigration documents and policy seminars. One-stop access described as over500 services. No verified cash award, free housing or investment.",
+    "id": "cn-guangzhou-international-one-stop-service",
+    "name": "Guangzhou Immigration and International Talent One-Stop Support",
+    "type": "startup-benefits",
+    "country": "CN",
+    "organizer": "Guangzhou immigration and talent authorities; city and Nansha branch partners",
+    "url": "https://www.gz.gov.cn/guangzhouinternational/home/citynews/content/post_10357579.html",
+    "source_url": "https://www.gz.gov.cn/guangzhouinternational/home/citynews/content/post_10357579.html",
+    "status": "rolling",
+    "deadline": null,
+    "deadline_time": null,
+    "deadline_timezone": null,
+    "deadline_source_url": null,
+    "summary": "International/foreign professionals living and working in Guangzhou, including foreign founders needing work/tax/talent navigation. Official municipal July2025 service description verified; Nansha branch launched September8,2022. Branches grouped once. Benefits and restrictions are documented in the source audit; no current intake presumed.",
+    "fit": "want",
+    "funding_kind": "noncash",
+    "fee_status": "unknown",
+    "first_seen": "2026-10-12",
+    "last_checked": "2026-10-12",
+    "application_cycle": {
+      "label": "Ongoing service; request availability unverified",
+      "programme_name": "Guangzhou Immigration and International Talent One-Stop Support",
+      "status": "rolling",
+      "announcement_status": "announced",
+      "opens_on": null,
+      "deadline": null,
+      "deadline_time": null,
+      "timezone": null,
+      "source_url": "https://www.gz.gov.cn/guangzhouinternational/home/citynews/content/post_10357579.html",
+      "checked_at": "2026-10-12",
+      "history": [],
+      "date_evidence_kind": "last_known",
+      "research": {
+        "as_of": "2026-10-12",
+        "status": "mixed",
+        "limits": "Actual request fields, service fees and current appointments unverified. Specific founder services and underlying eligibility depend on separate agencies.",
+        "evidence": [
+          {
+            "url": "https://www.gz.gov.cn/guangzhouinternational/home/citynews/content/post_10357579.html",
+            "kind": "official_source_read"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "fit_reason": "business or relocation support: Explicit foreign-talent services; precise residence, work status, nationality, age, entity and personnel conditions not stated. Not assumed to guarantee foreign founder work permission. Inclusion is discovery; applicant eligibility unconfirmed.",
+    "team_min": null,
+    "team_max": null,
+    "prize": "Noncash language/cultural/life support and integrated work/entrepreneurship/health/education guidance. No verified cash, free housing, cloud credits or equity.",
+    "id": "cn-xiamen-foreign-professionals-centre",
+    "name": "Xiamen Service Center for Foreign Professionals",
+    "type": "startup-benefits",
+    "country": "CN",
+    "organizer": "Xiamen municipal foreign-professional service authorities and community partners",
+    "url": "https://www.investxiamen.org.cn/detail_en/4156.html",
+    "source_url": "https://www.investxiamen.org.cn/detail_en/4156.html",
+    "status": "planning",
+    "deadline": null,
+    "deadline_time": null,
+    "deadline_timezone": null,
+    "deadline_source_url": null,
+    "summary": "Foreign professionals working, founding businesses and settling in Xiamen. Historical official investment-promotion description verified; current branch capacity/intake unannounced. Benefits and restrictions are documented in the source audit; no current intake presumed.",
+    "fit": "want",
+    "funding_kind": "noncash",
+    "fee_status": "unknown",
+    "first_seen": "2026-10-12",
+    "last_checked": "2026-10-12",
+    "application_cycle": {
+      "label": "Current next intake unannounced; historical terms qualified",
+      "programme_name": "Xiamen Service Center for Foreign Professionals",
+      "status": "planning",
+      "announcement_status": "unannounced",
+      "opens_on": null,
+      "deadline": null,
+      "deadline_time": null,
+      "timezone": null,
+      "source_url": "https://www.investxiamen.org.cn/detail_en/4156.html",
+      "checked_at": "2026-10-12",
+      "history": [],
+      "date_evidence_kind": "last_known",
+      "research": {
+        "as_of": "2026-10-12",
+        "status": "mixed",
+        "limits": "Undated page body and current branch availability unknown. Request fields, service fees and detailed conditions unavailable.",
+        "evidence": [
+          {
+            "url": "https://www.investxiamen.org.cn/detail_en/4156.html",
+            "kind": "official_source_read"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "fit_reason": "business or relocation support: Foreign nationals explicitly targeted. Exact entity/residency/age/student/team admission conditions for founder courses unknown. Not returnee-only or a new visa category. Inclusion is discovery; applicant eligibility unconfirmed.",
+    "team_min": null,
+    "team_max": null,
+    "prize": "Launch explicitly promises free routine individualized foreign-national services, networking/cooperation and procedural consultations. Historical founder-incubation support; no cash grant, free apartment or investment guaranteed.",
+    "id": "cn-haikou-international-talent-home",
+    "name": "Haikou International Talent Home Foreign-Founder Incubation and Integration Support",
+    "type": "startup-benefits",
+    "country": "CN",
+    "organizer": "Haikou Science, Technology, Industry and Information/Foreign Expert Bureau; Talent Development Bureau; contracted service operator",
+    "url": "https://www.chinanews.com/gn/2021/09-13/9564653.shtml",
+    "source_url": "https://www.chinanews.com/gn/2021/09-13/9564653.shtml",
+    "status": "planning",
+    "deadline": null,
+    "deadline_time": null,
+    "deadline_timezone": null,
+    "deadline_source_url": null,
+    "summary": "Foreign-national professionals and founders living or starting businesses in Haikou. Historical city-authority programme proven by firsthand state-news launch report; laterincubationreport is secondary. Currentgovpage inaccessible. Benefits and restrictions are documented in the source audit; no current intake presumed.",
+    "fit": "want",
+    "funding_kind": "noncash",
+    "fee_status": "unknown",
+    "first_seen": "2026-10-12",
+    "last_checked": "2026-10-12",
+    "application_cycle": {
+      "label": "Current next intake unannounced; historical terms qualified",
+      "programme_name": "Haikou International Talent Home Foreign-Founder Incubation and Integration Support",
+      "status": "planning",
+      "announcement_status": "unannounced",
+      "opens_on": null,
+      "deadline": null,
+      "deadline_time": null,
+      "timezone": null,
+      "source_url": "https://www.chinanews.com/gn/2021/09-13/9564653.shtml",
+      "checked_at": "2026-10-12",
+      "history": [],
+      "date_evidence_kind": "last_known",
+      "research": {
+        "as_of": "2026-10-12",
+        "status": "mixed",
+        "limits": "Current cohort, request form and specialized fee schedule unavailable. Primary launch evidence is state-news authority quote; current citybodyfirewall.",
+        "evidence": [
+          {
+            "url": "https://www.chinanews.com/gn/2021/09-13/9564653.shtml",
+            "kind": "official_source_read"
+          },
+          {
+            "url": "https://www.haiwairencai.com/archives/3899",
+            "kind": "official_shell_only"
+          },
+          {
+            "url": "https://rsj.haikou.gov.cn/xxgk/gsgg/202609/t1548032.shtml",
+            "kind": "official_index"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "fit_reason": "business or relocation support: Overseas master's or higher, overseas innovation/entrepreneurship experience, born after January 1, 1976; return/arrival after January 1, 2022 if already in China. Earlier Hangzhou shareholding, legal-representative roles or social insurance and two previous entries exclude the applicant. No gender-based restriction found in the inspected public rules. Exact nationality, admission/host and age requirements are edition-specific as described above; no owner eligibility inferred. Inclusion is discovery; applicant eligibility unconfirmed.",
+    "team_min": 1,
+    "team_max": null,
+    "prize": "Main-track 2026 cash RMB 200,000/100,000/50,000; main-final RMB 20,000; semifinal/new-sprout RMB 10,000, noncumulative. These amounts are not verified foreign special-track cash awards. Conditional landing grants RMB 200,000–5 million require Hangzhou entity registration and disbursement approval; foreign special-track benefit schedule remains unverified.",
+    "id": "cn-hangzhou-maker-world",
+    "name": "Hangzhou Maker World Overseas Talent Entrepreneurship Competition",
+    "type": "competition",
+    "country": "CN",
+    "organizer": "Hangzhou Municipal Government; Hangzhou HRSS and Science bureaus",
+    "url": "https://rchkt.hrss.hangzhou.gov.cn/page/competition.html",
+    "source_url": "https://rchkt.hrss.hangzhou.gov.cn/page/competition.html",
+    "status": "planning",
+    "deadline": null,
+    "deadline_time": null,
+    "deadline_timezone": null,
+    "deadline_source_url": null,
+    "summary": "Foreign-targeted Hangzhou startup competition with AI software routes, cash prizes and conditional local business grants. Concept products are allowed.",
+    "fit": "want",
+    "funding_kind": "mixed",
+    "fee_status": "none",
+    "first_seen": "2026-10-12",
+    "last_checked": "2026-10-12",
+    "application_cycle": {
+      "label": "2026 rules published; intake deadline not verified",
+      "programme_name": "Hangzhou Maker World Overseas Talent Entrepreneurship Competition",
+      "status": "planning",
+      "announcement_status": "unverified",
+      "opens_on": null,
+      "deadline": null,
+      "deadline_time": null,
+      "timezone": null,
+      "source_url": "https://rchkt.hrss.hangzhou.gov.cn/page/competition.html",
+      "checked_at": "2026-10-12",
+      "history": [],
+      "date_evidence_kind": "official_source_read",
+      "research": {
+        "as_of": "2026-10-12",
+        "status": "mixed",
+        "limits": "Deadline, grant disbursement contract, tax and travel coverage unverified. Foreign special-track award schedule separate; do not reuse main-track prizes as its direct promise.",
+        "evidence": [
+          {
+            "url": "https://rchkt.hrss.hangzhou.gov.cn/page/competition.html",
+            "kind": "official_source_read"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "fit_reason": "research or professional: Foreign talent/team with own IP/core technology or specified senior professional/academic skills; at least seven Changzhou workdays/year. Local host application; individual direct applications not accepted in this university route. Certain national/provincial/city prior awards exclude. No gender-based restriction found in the inspected public rules. Exact nationality, admission/host and age requirements are edition-specific as described above; no owner eligibility inferred. Inclusion is discovery; applicant eligibility unconfirmed.",
+    "team_min": null,
+    "team_max": null,
+    "prize": "2025 grant at most RMB 100,000/project; host self-funding to requested grant at least 3:1.",
+    "id": "cn-changzhou-longcheng-foreign-talent",
+    "name": "Changzhou Longcheng Foreign Talent Special Project",
+    "type": "grant",
+    "country": "CN",
+    "organizer": "Changzhou Talent Office and Science Bureau",
+    "url": "https://kjc.cczu.edu.cn/2025/0928/c17838a400951/page.htm",
+    "source_url": "https://kjc.cczu.edu.cn/2025/0928/c17838a400951/page.htm",
+    "status": "planning",
+    "deadline": null,
+    "deadline_time": null,
+    "deadline_timezone": null,
+    "deadline_source_url": null,
+    "summary": "Changzhou employer-hosted foreign expert/entrepreneur project grant. Historical 2025 call requires at least 3:1 employer funding.",
+    "fit": "want",
+    "funding_kind": "cash",
+    "fee_status": "unknown",
+    "first_seen": "2026-10-12",
+    "last_checked": "2026-10-12",
+    "application_cycle": {
+      "label": "2025 call closed; 2026 special-project terms unverified",
+      "programme_name": "Changzhou Longcheng Foreign Talent Special Project",
+      "status": "planning",
+      "announcement_status": "unverified",
+      "opens_on": null,
+      "deadline": null,
+      "deadline_time": null,
+      "timezone": null,
+      "source_url": "https://kjc.cczu.edu.cn/2025/0928/c17838a400951/page.htm",
+      "checked_at": "2026-10-12",
+      "history": [
+        {
+          "label": "2025 call closed; 2026 special-project terms unverified",
+          "programme_name": "Changzhou Longcheng Foreign Talent Special Project",
+          "status": "closed",
+          "announcement_status": "announced",
+          "opens_on": null,
+          "deadline": "2025-10-10",
+          "deadline_time": "14:00",
+          "timezone": null,
+          "source_url": "https://kjc.cczu.edu.cn/2025/0928/c17838a400951/page.htm",
+          "checked_at": "2026-10-12",
+          "date_evidence_kind": "official_source_read"
+        }
+      ],
+      "date_evidence_kind": "official_source_read",
+      "research": {
+        "as_of": "2026-10-12",
+        "status": "mixed",
+        "limits": "October 10 at 14:00 is Changzhou University nomination deadline, not established city deadline. 2026 broad Longcheng upgrade does not prove this special grant's current terms.",
+        "evidence": [
+          {
+            "url": "https://kjc.cczu.edu.cn/2025/0928/c17838a400951/page.htm",
+            "kind": "official_source_read"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "fit_reason": "education or study: Shanghai Maritime 2026: non-Chinese, healthy; undergraduate under 25/high-school qualification, master's under 35/bachelor's, doctorate under 40/master's. Other simultaneous scholarship support excludes. No gender-based restriction found in the inspected public rules. Exact nationality, admission/host and age requirements are edition-specific as described above; no owner eligibility inferred. Inclusion is discovery; applicant eligibility unconfirmed.",
+    "team_min": 1,
+    "team_max": null,
+    "prize": "2026 host Type A tuition, dormitory, insurance RMB 800/year plus monthly RMB 2,500 undergraduate, 3,000 master's, 3,500 doctorate (12 months). Type B tuition and insurance only.",
+    "id": "cn-shanghai-government-scholarship",
+    "name": "Shanghai Government Scholarship for International Students",
+    "type": "grant",
+    "country": "CN",
+    "organizer": "Shanghai Municipal Government; Education Commission and participating universities",
+    "url": "https://en.shmtu.edu.cn/SGSScholarship/list.htm",
+    "source_url": "https://en.shmtu.edu.cn/SGSScholarship/list.htm",
+    "status": "planning",
+    "deadline": null,
+    "deadline_time": null,
+    "deadline_timezone": null,
+    "deadline_source_url": null,
+    "summary": "Shanghai-funded international degree-study support. One city scholarship family across university hosts; distinct from CSC.",
+    "fit": "want",
+    "funding_kind": "mixed",
+    "fee_status": "unknown",
+    "first_seen": "2026-10-12",
+    "last_checked": "2026-10-12",
+    "application_cycle": {
+      "label": "2026 Shanghai Maritime host intake closed; other hosts differ",
+      "programme_name": "Shanghai Government Scholarship for International Students",
+      "status": "planning",
+      "announcement_status": "unverified",
+      "opens_on": null,
+      "deadline": null,
+      "deadline_time": null,
+      "timezone": null,
+      "source_url": "https://en.shmtu.edu.cn/SGSScholarship/list.htm",
+      "checked_at": "2026-10-12",
+      "history": [
+        {
+          "label": "2026 Shanghai Maritime host intake closed; other hosts differ",
+          "programme_name": "Shanghai Government Scholarship for International Students",
+          "status": "closed",
+          "announcement_status": "announced",
+          "opens_on": "2025-12-01",
+          "deadline": "2026-04-30",
+          "deadline_time": null,
+          "timezone": null,
+          "source_url": "https://en.shmtu.edu.cn/SGSScholarship/list.htm",
+          "checked_at": "2026-10-12",
+          "date_evidence_kind": "official_source_read"
+        }
+      ],
+      "date_evidence_kind": "official_source_read",
+      "research": {
+        "as_of": "2026-10-12",
+        "status": "mixed",
+        "limits": "2027 call and host-specific admission costs/programme eligibility unresolved. City family deadline is not universal; inspected deadline belongs to Shanghai Maritime.",
+        "evidence": [
+          {
+            "url": "https://en.shmtu.edu.cn/SGSScholarship/list.htm",
+            "kind": "official_source_read"
+          },
+          {
+            "url": "https://en.shmtu.edu.cn/_upload/article/files/7a/ff/8064f8b1460fa64e405488125de4/d714f518-00a5-4904-8bcc-d5d28e91edfb.pdf",
+            "kind": "official_source_read"
+          },
+          {
+            "url": "https://english.shanghai.gov.cn/en-ApplyforScholarships/index.html",
+            "kind": "official_source_read"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "fit_reason": "education or study: HZNU master's bachelor's degree, two professor recommendations, under 35; undergraduate high-school equivalent, under 30. Valid foreign passport, Chinese proficiency, excellent performance/conduct; no simultaneous scholarship. No gender-based restriction found in the inspected public rules. Exact nationality, admission/host and age requirements are edition-specific as described above; no owner eligibility inferred. Inclusion is discovery; applicant eligibility unconfirmed.",
+    "team_min": 1,
+    "team_max": null,
+    "prize": "HZNU 2026 standing standards: master's RMB 30,000/year, undergraduate RMB 20,000/year.",
+    "id": "cn-zhejiang-government-scholarship",
+    "name": "Zhejiang Provincial Government Scholarship for International Students",
+    "type": "grant",
+    "country": "CN",
+    "organizer": "Zhejiang Provincial Government and participating universities",
+    "url": "https://gjjyxy.hznu.edu.cn/c/2026-03-04/2960590.shtml",
+    "source_url": "https://gjjyxy.hznu.edu.cn/c/2026-03-04/2960590.shtml",
+    "status": "planning",
+    "deadline": null,
+    "deadline_time": null,
+    "deadline_timezone": null,
+    "deadline_source_url": null,
+    "summary": "Provincial international-student scholarship established in 2009. Grouped as one family across Zhejiang universities.",
+    "fit": "want",
+    "funding_kind": "cash",
+    "fee_status": "unknown",
+    "first_seen": "2026-10-12",
+    "last_checked": "2026-10-12",
+    "application_cycle": {
+      "label": "2026 standing host rules; host-specific calls differ",
+      "programme_name": "Zhejiang Provincial Government Scholarship for International Students",
+      "status": "planning",
+      "announcement_status": "unverified",
+      "opens_on": null,
+      "deadline": null,
+      "deadline_time": null,
+      "timezone": null,
+      "source_url": "https://gjjyxy.hznu.edu.cn/c/2026-03-04/2960590.shtml",
+      "checked_at": "2026-10-12",
+      "history": [],
+      "date_evidence_kind": "official_source_read",
+      "research": {
+        "as_of": "2026-10-12",
+        "status": "mixed",
+        "limits": "HZNU says October annually subject to provincial notice; no exact 2026 deadline inferred. Graduate Zhejiang University host separately ended February 28, 2026.",
+        "evidence": [
+          {
+            "url": "https://gjjyxy.hznu.edu.cn/c/2026-03-04/2960590.shtml",
+            "kind": "official_source_read"
+          },
+          {
+            "url": "https://iczu.zju.edu.cn/admissions/2022/1020/c68876a2649678/page.htm",
+            "kind": "unavailable"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "fit_reason": "education or study: HZNU master's bachelor's degree and two professor references, Chinese says under 35; undergraduate high-school qualification and under 30. Foreign passport, health, Chinese competence, strong grades/conduct and no other scholarship. No gender-based restriction found in the inspected public rules. Exact nationality, admission/host and age requirements are edition-specific as described above; no owner eligibility inferred. Inclusion is discovery; applicant eligibility unconfirmed.",
+    "team_min": 1,
+    "team_max": null,
+    "prize": "Standing host standards: master's RMB 30,000/year, undergraduate RMB 20,000/year, nondegree RMB 3,000/semester.",
+    "id": "cn-hangzhou-government-scholarship",
+    "name": "Hangzhou Municipal Government Scholarship for International Students",
+    "type": "grant",
+    "country": "CN",
+    "organizer": "Hangzhou Municipal Government and participating universities",
+    "url": "https://gjjyxy.hznu.edu.cn/c/2026-03-04/2960592.shtml",
+    "source_url": "https://gjjyxy.hznu.edu.cn/c/2026-03-04/2960592.shtml",
+    "status": "planning",
+    "deadline": null,
+    "deadline_time": null,
+    "deadline_timezone": null,
+    "deadline_source_url": null,
+    "summary": "Separate Hangzhou city-funded foreign-student scholarship; province and university scholarships are alternative families, not duplicate host rounds.",
+    "fit": "want",
+    "funding_kind": "cash",
+    "fee_status": "unknown",
+    "first_seen": "2026-10-12",
+    "last_checked": "2026-10-12",
+    "application_cycle": {
+      "label": "2026 standing host rules; exact intake unverified",
+      "programme_name": "Hangzhou Municipal Government Scholarship for International Students",
+      "status": "planning",
+      "announcement_status": "unverified",
+      "opens_on": null,
+      "deadline": null,
+      "deadline_time": null,
+      "timezone": null,
+      "source_url": "https://gjjyxy.hznu.edu.cn/c/2026-03-04/2960592.shtml",
+      "checked_at": "2026-10-12",
+      "history": [],
+      "date_evidence_kind": "official_source_read",
+      "research": {
+        "as_of": "2026-10-12",
+        "status": "mixed",
+        "limits": "Chinese page says May or October annually subject to city notice; English page still says 2022. No exact current cutoff inferred.",
+        "evidence": [
+          {
+            "url": "https://gjjyxy.hznu.edu.cn/c/2026-03-04/2960592.shtml",
+            "kind": "official_source_read"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "fit_reason": "education or study: 2026 AHPU admission age at least 18, bachelor's, GPA at least 3.0 or average 70; English/HSK proof and no accompanying family. Standing older provincial PDF has under-28 undergraduate, under-40 master's, under-45 doctorate limits; current host applicability needs confirmation. No gender-based restriction found in the inspected public rules. Exact nationality, admission/host and age requirements are edition-specific as described above; no owner eligibility inferred. Inclusion is discovery; applicant eligibility unconfirmed.",
+    "team_min": 1,
+    "team_max": null,
+    "prize": "AHPU 2026 description: provincial RMB 30,000/year for about 10% of later-year students. First-year RMB 20,000 award is university funding, not added to provincial award.",
+    "id": "cn-anhui-government-scholarship",
+    "name": "Anhui Provincial Government Scholarship for International Students",
+    "type": "grant",
+    "country": "CN",
+    "organizer": "Anhui Provincial Government and participating universities",
+    "url": "https://oiec.ahpu.edu.cn/2025/0603/c8100a249277/page.htm",
+    "source_url": "https://oiec.ahpu.edu.cn/2025/0603/c8100a249277/page.htm",
+    "status": "planning",
+    "deadline": null,
+    "deadline_time": null,
+    "deadline_timezone": null,
+    "deadline_source_url": null,
+    "summary": "Anhui province-funded international study awards, with a 2026 AHPU master's route in systems/data/AI-related research.",
+    "fit": "want",
+    "funding_kind": "cash",
+    "fee_status": "required",
+    "first_seen": "2026-10-12",
+    "last_checked": "2026-10-12",
+    "application_cycle": {
+      "label": "2026 AHPU admission closed; provincial award after first study year",
+      "programme_name": "Anhui Provincial Government Scholarship for International Students",
+      "status": "planning",
+      "announcement_status": "unverified",
+      "opens_on": null,
+      "deadline": null,
+      "deadline_time": null,
+      "timezone": null,
+      "source_url": "https://oiec.ahpu.edu.cn/2025/0603/c8100a249277/page.htm",
+      "checked_at": "2026-10-12",
+      "history": [
+        {
+          "label": "2026 AHPU admission closed; provincial award after first study year",
+          "programme_name": "Anhui Provincial Government Scholarship for International Students",
+          "status": "closed",
+          "announcement_status": "announced",
+          "opens_on": null,
+          "deadline": "2026-07-01",
+          "deadline_time": null,
+          "timezone": null,
+          "source_url": "https://oiec.ahpu.edu.cn/2025/0603/c8100a249277/page.htm",
+          "checked_at": "2026-10-12",
+          "date_evidence_kind": "official_source_read"
+        }
+      ],
+      "date_evidence_kind": "official_source_read",
+      "research": {
+        "as_of": "2026-10-12",
+        "status": "mixed",
+        "limits": "Older provincial PDF states RMB 10,000–20,000 and different age caps; do not present those as 2026 universal terms. Exact provincial later-year intake and current province-wide contract unresolved.",
+        "evidence": [
+          {
+            "url": "https://oiec.ahpu.edu.cn/2025/0603/c8100a249277/page.htm",
+            "kind": "official_source_read"
+          },
+          {
+            "url": "https://gjjl.ahtcm.edu.cn/__local/3/4F/73/0E5F535FAB2B4C1DF3865BEFB02_F66CCFA7_13283.pdf?e=.pdf",
+            "kind": "official_source_read"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "fit_reason": "education or study: NJU full-time foreign undergraduate/master's/doctoral students. No concurrent Chinese government or university scholarship. Current undergraduate host GPA >=4.3 humanities or >=3.8 science, no failed subjects; graduate academic/interim-assessment merits. No gender-based restriction found in the inspected public rules. Exact nationality, admission/host and age requirements are edition-specific as described above; no owner eligibility inferred. Inclusion is discovery; applicant eligibility unconfirmed.",
+    "team_min": 1,
+    "team_max": null,
+    "prize": "NJU 2026 undergraduate RMB 10,000; postgraduate RMB 20,000 per academic year; initial quota 20 each, adjustment possible within fixed total.",
+    "id": "cn-nanjing-government-scholarship",
+    "name": "Nanjing Municipal Government Scholarship for International Students",
+    "type": "grant",
+    "country": "CN",
+    "organizer": "Nanjing Municipal Government and participating universities",
+    "url": "https://hwxy.nju.edu.cn/lxnd/zsxx/jxj/njszfjxj/index.html",
+    "source_url": "https://hwxy.nju.edu.cn/lxnd/zsxx/jxj/njszfjxj/index.html",
+    "status": "planning",
+    "deadline": null,
+    "deadline_time": null,
+    "deadline_timezone": null,
+    "deadline_source_url": null,
+    "summary": "Nanjing city foreign-student merit award established in 2013; local budget family distinct from Jiangsu provincial and CSC awards.",
+    "fit": "want",
+    "funding_kind": "cash",
+    "fee_status": "unknown",
+    "first_seen": "2026-10-12",
+    "last_checked": "2026-10-12",
+    "application_cycle": {
+      "label": "2026 Nanjing University host selection closed",
+      "programme_name": "Nanjing Municipal Government Scholarship for International Students",
+      "status": "planning",
+      "announcement_status": "unverified",
+      "opens_on": null,
+      "deadline": null,
+      "deadline_time": null,
+      "timezone": null,
+      "source_url": "https://hwxy.nju.edu.cn/lxnd/zsxx/jxj/njszfjxj/index.html",
+      "checked_at": "2026-10-12",
+      "history": [
+        {
+          "label": "2026 Nanjing University host selection closed",
+          "programme_name": "Nanjing Municipal Government Scholarship for International Students",
+          "status": "closed",
+          "announcement_status": "announced",
+          "opens_on": "2026-08-24",
+          "deadline": "2026-08-28",
+          "deadline_time": null,
+          "timezone": null,
+          "source_url": "https://hwxy.nju.edu.cn/lxnd/zsxx/jxj/njszfjxj/index.html",
+          "checked_at": "2026-10-12",
+          "date_evidence_kind": "official_source_read"
+        }
+      ],
+      "date_evidence_kind": "official_source_read",
+      "research": {
+        "as_of": "2026-10-12",
+        "status": "mixed",
+        "limits": "August 24–28 is NJU host selection, not all-city cutoff. NAU standing page has a different March–July window; do not universalize. 2027 call not announced/read.",
+        "evidence": [
+          {
+            "url": "https://hwxy.nju.edu.cn/lxnd/zsxx/jxj/njszfjxj/index.html",
+            "kind": "official_source_read"
+          },
+          {
+            "url": "https://lxsy.nau.edu.cn/njszfjxj/list.htm",
+            "kind": "official_source_read"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "fit_reason": "education or study: NingboTech self-funded degree international students in years two–four, normal programme duration, no overdue visa or tuition, good legal/conduct record. Grade/attendance >=85% criteria on page specifically describe university outstanding-student award, not automatically municipal award. No gender-based restriction found in the inspected public rules. Exact nationality, admission/host and age requirements are edition-specific as described above; no owner eligibility inferred. Inclusion is discovery; applicant eligibility unconfirmed.",
+    "team_min": 1,
+    "team_max": null,
+    "prize": "Current NingboTech notice does not state amount. Separate NBUFE official 2025 guide: city undergraduate RMB 20,000/year; language RMB 6,000/year. Do not transfer those host amounts to current NingboTech.",
+    "id": "cn-ningbo-government-scholarship",
+    "name": "Ningbo Municipal Government Scholarship for International Students",
+    "type": "grant",
+    "country": "CN",
+    "organizer": "Ningbo Municipal Government and participating universities",
+    "url": "https://wyxy.nbt.edu.cn/gjjy2026/info/1201/2022.htm",
+    "source_url": "https://wyxy.nbt.edu.cn/gjjy2026/info/1201/2022.htm",
+    "status": "open",
+    "deadline": "2026-10-15",
+    "deadline_time": null,
+    "deadline_timezone": null,
+    "deadline_source_url": null,
+    "summary": "City-funded foreign-student award with a current NingboTech October 15 host intake; existing enrolled students, not general founder relocation.",
+    "fit": "want",
+    "funding_kind": "cash",
+    "fee_status": "unknown",
+    "first_seen": "2026-10-12",
+    "last_checked": "2026-10-12",
+    "application_cycle": {
+      "label": "2025–2026 study-year NingboTech host selection open",
+      "programme_name": "Ningbo Municipal Government Scholarship for International Students",
+      "status": "open",
+      "announcement_status": "announced",
+      "opens_on": null,
+      "deadline": "2026-10-15",
+      "deadline_time": "12:00",
+      "timezone": null,
+      "source_url": "https://wyxy.nbt.edu.cn/gjjy2026/info/1201/2022.htm",
+      "checked_at": "2026-10-12",
+      "history": [],
+      "date_evidence_kind": "official_source_read",
+      "research": {
+        "as_of": "2026-10-12",
+        "status": "mixed",
+        "limits": "Deadline 12:00 October 15, 2026; timezone not explicitly stated. Current host award amount, exact age/gender maxima, provincial stacking and IP unresolved.",
+        "evidence": [
+          {
+            "url": "https://wyxy.nbt.edu.cn/gjjy2026/info/1201/2022.htm",
+            "kind": "official_source_read"
+          },
+          {
+            "url": "https://www.nbufe.edu.cn/ied_e/list.htm?typeid=1553&typeid2=1556",
+            "kind": "official_source_read"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "fit_reason": "business or relocation support: International founder not returned/arrived for China work before January 1, 2026. Team at least three core members; project not registered in Wuxi before that date and founder not existing Wuxi executive. Intend Wuxi registration or local technology-development/transfer contract. Core members own dispute-free project IP; certain previous competition winners excluded. No gender-based restriction found in the inspected public rules. Exact nationality, admission/host and age requirements are edition-specific as described above; no owner eligibility inferred. Inclusion is discovery; applicant eligibility unconfirmed.",
+    "team_min": null,
+    "team_max": null,
+    "prize": "2026 final cash RMB 100,000/50,000/10,000 first/second/third. Excellence awards no cash. Conditional landing/Taihu Talent B support in 2027 and eligibility to seek A; loan credit up to RMB 10 million is debt, not prize.",
+    "id": "cn-wuxi-taihu-cup",
+    "name": "Wuxi Taihu Cup International Innovation and Entrepreneurship Competition",
+    "type": "competition",
+    "country": "CN",
+    "organizer": "Wuxi Municipal Talent Office; Science and Technology Bureau",
+    "url": "https://www.wxctiiec.com/notices/56",
+    "source_url": "https://www.wxctiiec.com/notices/56",
+    "status": "planning",
+    "deadline": null,
+    "deadline_time": null,
+    "deadline_timezone": null,
+    "deadline_source_url": null,
+    "summary": "Foreign international-team entry to Wuxi's local competition; civilian AI and next-generation software routes. One family including city/university/overseas rounds.",
+    "fit": "want",
+    "funding_kind": "mixed",
+    "fee_status": "unknown",
+    "first_seen": "2026-10-12",
+    "last_checked": "2026-10-12",
+    "application_cycle": {
+      "label": "2026 main entry closed; final planned November 2026",
+      "programme_name": "Wuxi Taihu Cup International Innovation and Entrepreneurship Competition",
+      "status": "planning",
+      "announcement_status": "unverified",
+      "opens_on": null,
+      "deadline": null,
+      "deadline_time": null,
+      "timezone": null,
+      "source_url": "https://www.wxctiiec.com/notices/56",
+      "checked_at": "2026-10-12",
+      "history": [
+        {
+          "label": "2026 main entry closed; final planned November 2026",
+          "programme_name": "Wuxi Taihu Cup International Innovation and Entrepreneurship Competition",
+          "status": "closed",
+          "announcement_status": "announced",
+          "opens_on": null,
+          "deadline": "2026-06-30",
+          "deadline_time": null,
+          "timezone": null,
+          "source_url": "https://www.wxctiiec.com/notices/56",
+          "checked_at": "2026-10-12",
+          "date_evidence_kind": "official_source_read"
+        }
+      ],
+      "date_evidence_kind": "official_source_read",
+      "research": {
+        "as_of": "2026-10-12",
+        "status": "mixed",
+        "limits": "June 30 24:00 main entry cutoff. International PPT due September 24 at 16:00 Beijing time; September 28 round already held/planned. November final exact day unannounced. No 2027 entry call; full fee/payout/tax/IP-transfer contract and QR attachments unresolved.",
+        "evidence": [
+          {
+            "url": "https://www.wxctiiec.com/notices/56",
+            "kind": "official_source_read"
+          },
+          {
+            "url": "https://www.wxctiiec.com/notices/81",
+            "kind": "official_source_read"
+          },
+          {
+            "url": "https://www.wxctiiec.com/notices/82",
+            "kind": "official_source_read"
+          },
+          {
+            "url": "https://cxw.xmu.edu.cn/cms/0qRRjDIv4uaDz4FcwMRk00/0dmpp3vcnUdU9pcQR8hoau",
+            "kind": "official_source_read"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "fit_reason": "research or professional: Foreign-naturalized overseas-study route confirmed in 2024. Local registered host, under/at published 45-year boundary, recent return/arrival, full-time Shanghai work. Individual route or team of at least three. Startup standing rules bachelor's, one overseas-study year, first-largest shareholder or legal representative with >=30% personal equity. No gender-based restriction found in the inspected public rules. Exact nationality, admission/host and age requirements are edition-specific as described above; no owner eligibility inferred. Inclusion is discovery; applicant eligibility unconfirmed.",
+    "team_min": 1,
+    "team_max": null,
+    "prize": "Verified 2024: A/B RMB 300,000; C RMB 150,000/person; D RMB 150,000 social science, RMB 300,000 natural science/person or RMB 500,000/team. No assumption 2026 foreign scope/amounts unchanged.",
+    "id": "cn-shanghai-pujiang-talent",
+    "name": "Shanghai Magnolia Talent Pujiang Programme",
+    "type": "grant",
+    "country": "CN",
+    "organizer": "Shanghai Science and Technology Commission; Talent/HRSS authorities",
+    "url": "https://www.ssme.sh.gov.cn/public/product!serviceDetail.do?productId=2c9e8824912536a301913126ac824f87",
+    "source_url": "https://www.ssme.sh.gov.cn/public/product!serviceDetail.do?productId=2c9e8824912536a301913126ac824f87",
+    "status": "planning",
+    "deadline": null,
+    "deadline_time": null,
+    "deadline_timezone": null,
+    "deadline_source_url": null,
+    "summary": "Restricted overseas-returnee/foreign-naturalized talent funding for Shanghai research and enterprise innovation/startups. Distinct from Startup in Shanghai competition.",
+    "fit": "want",
+    "funding_kind": "cash",
+    "fee_status": "unknown",
+    "first_seen": "2026-10-12",
+    "last_checked": "2026-10-12",
+    "application_cycle": {
+      "label": "2024 foreign-naturalized eligibility verified; 2026 call indexed only",
+      "programme_name": "Shanghai Magnolia Talent Pujiang Programme",
+      "status": "planning",
+      "announcement_status": "unverified",
+      "opens_on": null,
+      "deadline": null,
+      "deadline_time": null,
+      "timezone": null,
+      "source_url": "https://www.ssme.sh.gov.cn/public/product!serviceDetail.do?productId=2c9e8824912536a301913126ac824f87",
+      "checked_at": "2026-10-12",
+      "history": [
+        {
+          "label": "2024 foreign-naturalized eligibility verified; 2026 call indexed only",
+          "programme_name": "Shanghai Magnolia Talent Pujiang Programme",
+          "status": "closed",
+          "announcement_status": "announced",
+          "opens_on": "2024-08-12",
+          "deadline": "2024-09-15",
+          "deadline_time": null,
+          "timezone": null,
+          "source_url": "https://www.ssme.sh.gov.cn/public/product!serviceDetail.do?productId=2c9e8824912536a301913126ac824f87",
+          "checked_at": "2026-10-12",
+          "date_evidence_kind": "official_source_read"
+        }
+      ],
+      "date_evidence_kind": "official_source_read",
+      "research": {
+        "as_of": "2026-10-12",
+        "status": "mixed",
+        "limits": "2026 official call found in search index but live page shell and native TLS timeout prevented full read. 2024 quota/arrival cutoffs not carried to 2026. Current foreign-naturalized recognition, fees, contract recovery and academic IP unresolved.",
+        "evidence": [
+          {
+            "url": "https://www.ssme.sh.gov.cn/public/product!serviceDetail.do?productId=2c9e8824912536a301913126ac824f87",
+            "kind": "official_source_read"
+          },
+          {
+            "url": "https://wk.sjtu.edu.cn/upload/ueditor/file/20250922/1758513633638963.pdf",
+            "kind": "official_source_read"
+          },
+          {
+            "url": "https://stcsm.sh.gov.cn/zwgk/kyjhxm/xmsb/20260704/d150177f83ef4fc7bd6d6276905939d3.html",
+            "kind": "official_index"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "fit_reason": "research or professional: Recognition≥1year; R&D innovation centre not funded since2024, authorized regional/global research, premises and R&D growth benchmark7.1%. Open platform≥1000m² and10 signed R&D projects. Recognized foreign-funded Beijing R&D centres, not an individual founder grant. Inclusion is discovery; applicant eligibility unconfirmed.",
+    "team_min": null,
+    "team_max": null,
+    "prize": "Conditional R&D incentive; amount not established in2026 call.",
+    "id": "cn-beijing-foreign-rd-incentive",
+    "name": "Beijing Foreign-Funded R&D Centre Incentive",
+    "country": "CN",
+    "type": "grant",
+    "organizer": "Beijing Science and Technology Commission / Zhongguancun / Commerce Bureau",
+    "url": "https://kw.beijing.gov.cn/zwgk/zcwj/202604/t20260421_4600079.html",
+    "source_url": "https://kw.beijing.gov.cn/zwgk/zcwj/202604/t20260421_4600079.html",
+    "summary": "2026 call closed May8 at17:00; next call unannounced. Recognized foreign-funded Beijing R&D centres, not an individual founder grant.",
+    "status": "planning",
+    "deadline": null,
+    "deadline_time": null,
+    "deadline_timezone": null,
+    "deadline_source_url": null,
+    "fit": "want",
+    "funding_kind": "cash",
+    "fee_status": "unknown",
+    "first_seen": "2026-10-12",
+    "last_checked": "2026-10-12",
+    "application_cycle": {
+      "label": "Next intake unannounced or current date unverified",
+      "programme_name": "Beijing Foreign-Funded R&D Centre Incentive",
+      "status": "planning",
+      "announcement_status": "unverified",
+      "opens_on": null,
+      "deadline": null,
+      "deadline_time": null,
+      "timezone": null,
+      "source_url": "https://kw.beijing.gov.cn/zwgk/zcwj/202604/t20260421_4600079.html",
+      "checked_at": "2026-10-12",
+      "history": [
+        {
+          "label": "Verified historical intake",
+          "programme_name": "Beijing Foreign-Funded R&D Centre Incentive",
+          "status": "closed",
+          "announcement_status": "announced",
+          "opens_on": null,
+          "deadline": "2026-05-08",
+          "deadline_time": "17:00:00",
+          "timezone": null,
+          "source_url": "https://kw.beijing.gov.cn/zwgk/zcwj/202604/t20260421_4600079.html",
+          "checked_at": "2026-10-12"
+        }
+      ],
+      "research": {
+        "as_of": "2026-10-12",
+        "status": "mixed",
+        "limits": "2026 call closed May8 at17:00; next call unannounced. Detailed audit retains source, edition, form and eligibility gaps; applicant eligibility is unconfirmed.",
+        "evidence": [
+          {
+            "url": "https://kw.beijing.gov.cn/zwgk/zcwj/202604/t20260421_4600079.html",
+            "kind": "official_source_read"
+          }
+        ]
+      },
+      "date_evidence_kind": "recorded"
+    }
+  },
+  {
+    "fit_reason": "education or study: UIBE: bachelor≤25,master≤35,foundation≤24; prior diploma; HSK3foundation/4degree; grade thresholds80/GPA3.0 B/C,85/GPA3.6 A; no concurrent ongoing scholarships. Non-Chinese admitted international students; educational award. Inclusion is discovery; applicant eligibility unconfirmed.",
+    "team_min": 1,
+    "team_max": 1,
+    "prize": "UIBE2026: A tuition/housing/living/insurance; B omits living; C tuition/insurance. Amounts unverified.",
+    "id": "cn-beijing-international-student-scholarship",
+    "name": "Beijing Government International-Student Scholarship",
+    "country": "CN",
+    "type": "grant",
+    "organizer": "Beijing Municipal Government / participating universities",
+    "url": "https://sie.uibe.edu.cn/zslq2/jxjsq2/bjszfjxj2/index.htm",
+    "source_url": "https://sie.uibe.edu.cn/zslq2/jxjsq2/bjszfjxj2/index.htm",
+    "summary": "UIBE2026 route closed June30; other host deadlines differ;2027 unannounced. Non-Chinese admitted international students; educational award.",
+    "status": "planning",
+    "deadline": null,
+    "deadline_time": null,
+    "deadline_timezone": null,
+    "deadline_source_url": null,
+    "fit": "want",
+    "funding_kind": "mixed",
+    "fee_status": "unknown",
+    "first_seen": "2026-10-12",
+    "last_checked": "2026-10-12",
+    "application_cycle": {
+      "label": "Next intake unannounced or current date unverified",
+      "programme_name": "Beijing Government International-Student Scholarship",
+      "status": "planning",
+      "announcement_status": "unverified",
+      "opens_on": null,
+      "deadline": null,
+      "deadline_time": null,
+      "timezone": null,
+      "source_url": "https://sie.uibe.edu.cn/zslq2/jxjsq2/bjszfjxj2/index.htm",
+      "checked_at": "2026-10-12",
+      "history": [
+        {
+          "label": "Verified historical intake",
+          "programme_name": "Beijing Government International-Student Scholarship",
+          "status": "closed",
+          "announcement_status": "announced",
+          "opens_on": null,
+          "deadline": "2026-06-30",
+          "deadline_time": null,
+          "timezone": null,
+          "source_url": "https://sie.uibe.edu.cn/zslq2/jxjsq2/bjszfjxj2/index.htm",
+          "checked_at": "2026-10-12"
+        }
+      ],
+      "research": {
+        "as_of": "2026-10-12",
+        "status": "mixed",
+        "limits": "UIBE2026 route closed June30; other host deadlines differ;2027 unannounced. Detailed audit retains source, edition, form and eligibility gaps; applicant eligibility is unconfirmed.",
+        "evidence": [
+          {
+            "url": "https://sie.uibe.edu.cn/zslq2/jxjsq2/bjszfjxj2/index.htm",
+            "kind": "official_source_read"
+          }
+        ]
+      },
+      "date_evidence_kind": "recorded"
+    }
+  },
+  {
+    "fit_reason": "education or study: Bachelor≤25/high-school diploma;master≤35/bachelor; ChineseHSK5≥180 or EnglishIELTS6/TOEFL80 (MBAhigher); healthy/good conduct. Non-Chinese students seeking or enrolled in bachelor/master study. Inclusion is discovery; applicant eligibility unconfirmed.",
+    "team_min": 1,
+    "team_max": 1,
+    "prize": "Historical2025 TJU: master tuitionCNY30k; first class adds1700/month×10+800insurance. Bachelor20k; first class1400/month×10+800. One-year award.",
+    "id": "cn-tianjin-government-scholarship",
+    "name": "Tianjin Government International-Student Scholarship",
+    "country": "CN",
+    "type": "grant",
+    "organizer": "Tianjin Municipal Government / Tianjin University route",
+    "url": "https://sie.tju.edu.cn/jxj/tjszfjxj/",
+    "source_url": "https://sie.tju.edu.cn/jxj/tjszfjxj/",
+    "summary": "Official route still publishes2025 intake closed May31;2026/2027 exact call not verified. Non-Chinese students seeking or enrolled in bachelor/master study.",
+    "status": "planning",
+    "deadline": null,
+    "deadline_time": null,
+    "deadline_timezone": null,
+    "deadline_source_url": null,
+    "fit": "want",
+    "funding_kind": "mixed",
+    "fee_status": "unknown",
+    "first_seen": "2026-10-12",
+    "last_checked": "2026-10-12",
+    "application_cycle": {
+      "label": "Next intake unannounced or current date unverified",
+      "programme_name": "Tianjin Government International-Student Scholarship",
+      "status": "planning",
+      "announcement_status": "unverified",
+      "opens_on": null,
+      "deadline": null,
+      "deadline_time": null,
+      "timezone": null,
+      "source_url": "https://sie.tju.edu.cn/jxj/tjszfjxj/",
+      "checked_at": "2026-10-12",
+      "history": [
+        {
+          "label": "Verified historical intake",
+          "programme_name": "Tianjin Government International-Student Scholarship",
+          "status": "closed",
+          "announcement_status": "announced",
+          "opens_on": null,
+          "deadline": "2025-05-31",
+          "deadline_time": null,
+          "timezone": null,
+          "source_url": "https://sie.tju.edu.cn/jxj/tjszfjxj/",
+          "checked_at": "2026-10-12"
+        }
+      ],
+      "research": {
+        "as_of": "2026-10-12",
+        "status": "mixed",
+        "limits": "Official route still publishes2025 intake closed May31;2026/2027 exact call not verified. Detailed audit retains source, edition, form and eligibility gaps; applicant eligibility is unconfirmed.",
+        "evidence": [
+          {
+            "url": "https://sie.tju.edu.cn/jxj/tjszfjxj/",
+            "kind": "official_source_read"
+          }
+        ]
+      },
+      "date_evidence_kind": "recorded"
+    }
+  },
+  {
+    "fit_reason": "education or study: Diploma appropriate todegree; HSK4≥180bachelor,HSK5≥180master;doctoral HSK5≥180 or IELTS6.0; goodhealth/grades/conduct. Non-Chinese bachelor/master/doctoral degree students in Hebei; all fields. Inclusion is discovery; applicant eligibility unconfirmed.",
+    "team_min": 1,
+    "team_max": 1,
+    "prize": "Undated guidance: CNY5k undergraduate/15k master/20k doctoral peryear; actual annual policy controls.",
+    "id": "cn-hebei-government-scholarship",
+    "name": "Hebei Provincial Government International-Student Scholarship",
+    "country": "CN",
+    "type": "grant",
+    "organizer": "Hebei Provincial Government / Hebei Normal University route",
+    "url": "https://cice.hebtu.edu.cn/a/en/SPrograms/HBGScholarship/index.html",
+    "source_url": "https://cice.hebtu.edu.cn/a/en/SPrograms/HBGScholarship/index.html",
+    "summary": "Current undated official guidance; new students usuallyJune30 andexisting studentsOctober1–30, but2026/2027 exact cutoff unverified. Non-Chinese bachelor/master/doctoral degree students in Hebei; all fields.",
+    "status": "planning",
+    "deadline": null,
+    "deadline_time": null,
+    "deadline_timezone": null,
+    "deadline_source_url": null,
+    "fit": "want",
+    "funding_kind": "cash",
+    "fee_status": "unknown",
+    "first_seen": "2026-10-12",
+    "last_checked": "2026-10-12",
+    "application_cycle": {
+      "label": "Next intake unannounced or current date unverified",
+      "programme_name": "Hebei Provincial Government International-Student Scholarship",
+      "status": "planning",
+      "announcement_status": "unverified",
+      "opens_on": null,
+      "deadline": null,
+      "deadline_time": null,
+      "timezone": null,
+      "source_url": "https://cice.hebtu.edu.cn/a/en/SPrograms/HBGScholarship/index.html",
+      "checked_at": "2026-10-12",
+      "history": [],
+      "research": {
+        "as_of": "2026-10-12",
+        "status": "mixed",
+        "limits": "Current undated official guidance; new students usuallyJune30 andexisting studentsOctober1–30, but2026/2027 exact cutoff unverified. Detailed audit retains source, edition, form and eligibility gaps; applicant eligibility is unconfirmed.",
+        "evidence": [
+          {
+            "url": "https://cice.hebtu.edu.cn/a/en/SPrograms/HBGScholarship/index.html",
+            "kind": "official_source_read"
+          }
+        ]
+      },
+      "date_evidence_kind": "recorded"
+    }
+  },
+  {
+    "fit_reason": "education or study: Bachelor<30,master<35,doctorate<40,language<45;appropriate diploma; no otherChinese government scholarship; Chinese/Englishlanguage thresholds perlevel. Non-Chinese students who completed≥1academic year at host; educational/research award. Inclusion is discovery; applicant eligibility unconfirmed.",
+    "team_min": 1,
+    "team_max": 1,
+    "prize": "2023-published guidance: doctorateCNY30k/year,master25k,bachelor20k,language10k; annual evaluation.",
+    "id": "cn-sichuan-government-scholarship",
+    "name": "Sichuan Government International-Student Scholarship",
+    "country": "CN",
+    "type": "grant",
+    "organizer": "Sichuan Provincial Government / Sichuan Agricultural University route",
+    "url": "https://ic.sicau.edu.cn/info/1100/1449.htm",
+    "source_url": "https://ic.sicau.edu.cn/info/1100/1449.htm",
+    "summary": "Official2023 policy remains published;2026/2027 call not verified. June15–30 annually described, not promoted as exact current cutoff. Non-Chinese students who completed≥1academic year at host; educational/research award.",
+    "status": "planning",
+    "deadline": null,
+    "deadline_time": null,
+    "deadline_timezone": null,
+    "deadline_source_url": null,
+    "fit": "want",
+    "funding_kind": "cash",
+    "fee_status": "unknown",
+    "first_seen": "2026-10-12",
+    "last_checked": "2026-10-12",
+    "application_cycle": {
+      "label": "Next intake unannounced or current date unverified",
+      "programme_name": "Sichuan Government International-Student Scholarship",
+      "status": "planning",
+      "announcement_status": "unverified",
+      "opens_on": null,
+      "deadline": null,
+      "deadline_time": null,
+      "timezone": null,
+      "source_url": "https://ic.sicau.edu.cn/info/1100/1449.htm",
+      "checked_at": "2026-10-12",
+      "history": [],
+      "research": {
+        "as_of": "2026-10-12",
+        "status": "mixed",
+        "limits": "Official2023 policy remains published;2026/2027 call not verified. June15–30 annually described, not promoted as exact current cutoff. Detailed audit retains source, edition, form and eligibility gaps; applicant eligibility is unconfirmed.",
+        "evidence": [
+          {
+            "url": "https://ic.sicau.edu.cn/info/1100/1449.htm",
+            "kind": "official_source_read"
+          }
+        ]
+      },
+      "date_evidence_kind": "recorded"
+    }
+  },
+  {
+    "fit_reason": "business or relocation support: Sector: emerging frontier technology, clear IP, good credit/conduct, no IPO or earlier top-three win; Beijing companies founded on/after August 1, 2019, overseas companies no incorporation-age limit. Early teams or companies founded on/after August 1, 2025; one track/sector only; large-funded early companies move to sector track. Overseas-registered companies and early international research-origin teams; AI among 12 sectors. Inclusion is discovery; applicant eligibility unconfirmed.",
+    "team_min": null,
+    "team_max": null,
+    "prize": "Sector final: CNY1m / 500k / 300k and seven 150k prizes. Conditional sector top-three R&D support up to CNY300k. Early camp: 3–5 winners CNY100k each; separate conditional technology-transfer policy up to CNY3m.",
+    "id": "cn-zhongguancun-frontier-tech",
+    "name": "Zhongguancun International Frontier Technology Competition",
+    "country": "CN",
+    "type": "competition",
+    "organizer": "Beijing Science and Technology Commission / Zhongguancun",
+    "url": "https://kw.beijing.gov.cn/zwgk/zcwj/202608/t20260821_4831894.html",
+    "source_url": "https://kw.beijing.gov.cn/zwgk/zcwj/202608/t20260821_4831894.html",
+    "summary": "Tenth edition: sector applications open until October 31, 2026; rounds November 2026–March 2027; early track rolling. Overseas-registered companies and early international research-origin teams; AI among 12 sectors.",
+    "status": "open",
+    "deadline": "2026-10-31",
+    "deadline_time": null,
+    "deadline_timezone": null,
+    "deadline_source_url": null,
+    "fit": "want",
+    "funding_kind": "mixed",
+    "fee_status": "unknown",
+    "first_seen": "2026-10-12",
+    "last_checked": "2026-10-12",
+    "application_cycle": {
+      "label": "Tenth edition sector track",
+      "programme_name": "Zhongguancun International Frontier Technology Competition",
+      "status": "open",
+      "announcement_status": "announced",
+      "opens_on": null,
+      "deadline": "2026-10-31",
+      "deadline_time": null,
+      "timezone": null,
+      "source_url": "https://kw.beijing.gov.cn/zwgk/zcwj/202608/t20260821_4831894.html",
+      "checked_at": "2026-10-12",
+      "history": [],
+      "research": {
+        "as_of": "2026-10-12",
+        "status": "mixed",
+        "limits": "Tenth edition: sector applications open until October 31, 2026; rounds November 2026–March 2027; early track rolling. Detailed audit retains source, edition, form and eligibility gaps; applicant eligibility is unconfirmed.",
+        "evidence": [
+          {
+            "url": "https://kw.beijing.gov.cn/zwgk/zcwj/202608/t20260821_4831894.html",
+            "kind": "official_source_read"
+          }
+        ]
+      },
+      "date_evidence_kind": "recorded"
+    }
+  },
+  {
+    "fit_reason": "education or study: Bachelor: high-school diploma, excellent results, age ≤25. Master: bachelor, age ≤35; good conduct/no criminal record. Chinese table assigns provincial support to bachelor/master, whereas English prose implies doctorate/language: contradiction unresolved; do not assert those additional levels. Non-Chinese degree students; province-funded route only, excluding national CSC and host-funded awards. Inclusion is discovery; applicant eligibility unconfirmed.",
+    "team_min": 1,
+    "team_max": 1,
+    "prize": "2026 guide: tuition support, free single/twin dormitory, monthly stipend and medical insurance; monetary rates not specified.",
+    "id": "cn-guizhou-international-student-scholarship",
+    "name": "Guizhou Provincial International-Student Scholarship",
+    "country": "CN",
+    "type": "grant",
+    "organizer": "Guizhou Provincial Government / Guizhou Normal University route",
+    "url": "https://sie.gznu.edu.cn/info/1747/89255.htm",
+    "source_url": "https://sie.gznu.edu.cn/info/1747/89255.htm",
+    "summary": "2026 guide published November 10, 2025; provincial application date deferred to admission notices; no exact next cutoff verified. Non-Chinese degree students; province-funded route only, excluding national CSC and host-funded awards.",
+    "status": "planning",
+    "deadline": null,
+    "deadline_time": null,
+    "deadline_timezone": null,
+    "deadline_source_url": null,
+    "fit": "want",
+    "funding_kind": "mixed",
+    "fee_status": "unknown",
+    "first_seen": "2026-10-12",
+    "last_checked": "2026-10-12",
+    "application_cycle": {
+      "label": "Next intake unannounced or current date unverified",
+      "programme_name": "Guizhou Provincial International-Student Scholarship",
+      "status": "planning",
+      "announcement_status": "unverified",
+      "opens_on": null,
+      "deadline": null,
+      "deadline_time": null,
+      "timezone": null,
+      "source_url": "https://sie.gznu.edu.cn/info/1747/89255.htm",
+      "checked_at": "2026-10-12",
+      "history": [],
+      "research": {
+        "as_of": "2026-10-12",
+        "status": "mixed",
+        "limits": "2026 guide published November 10, 2025; provincial application date deferred to admission notices; no exact next cutoff verified. Detailed audit retains source, edition, form and eligibility gaps; applicant eligibility is unconfirmed.",
+        "evidence": [
+          {
+            "url": "https://sie.gznu.edu.cn/info/1747/89255.htm",
+            "kind": "official_source_read"
+          }
+        ]
+      },
+      "date_evidence_kind": "recorded"
+    }
+  },
+  {
+    "fit_reason": "education or study: Bachelor high-school diploma and excellent grades, age ≤30; master bachelor, age ≤35. Chinese HSK4 ≥180; English official/native language, prior English medium or IELTS6/TOEFL70/Duolingo100/EF60. Non-Chinese undergraduate/master students at participating Shandong universities. Inclusion is discovery; applicant eligibility unconfirmed.",
+    "team_min": 1,
+    "team_max": 1,
+    "prize": "Jinan route: tuition and campus accommodation waiver; undergraduate CNY1,000/month, master CNY1,200/month; comprehensive medical insurance.",
+    "id": "cn-shandong-government-scholarship",
+    "name": "Shandong Provincial Government International-Student Scholarship",
+    "country": "CN",
+    "type": "grant",
+    "organizer": "Shandong Provincial Government / University of Jinan route",
+    "url": "https://isao.ujn.edu.cn/jxjxm1/sdszfjxj.htm",
+    "source_url": "https://isao.ujn.edu.cn/jxjxm1/sdszfjxj.htm",
+    "summary": "Undated current guidance; Jinan June 10 annual cutoff, QUST April 30; no exact 2026/27 call established. Non-Chinese undergraduate/master students at participating Shandong universities.",
+    "status": "planning",
+    "deadline": null,
+    "deadline_time": null,
+    "deadline_timezone": null,
+    "deadline_source_url": null,
+    "fit": "want",
+    "funding_kind": "mixed",
+    "fee_status": "unknown",
+    "first_seen": "2026-10-12",
+    "last_checked": "2026-10-12",
+    "application_cycle": {
+      "label": "Next intake unannounced or current date unverified",
+      "programme_name": "Shandong Provincial Government International-Student Scholarship",
+      "status": "planning",
+      "announcement_status": "unverified",
+      "opens_on": null,
+      "deadline": null,
+      "deadline_time": null,
+      "timezone": null,
+      "source_url": "https://isao.ujn.edu.cn/jxjxm1/sdszfjxj.htm",
+      "checked_at": "2026-10-12",
+      "history": [],
+      "research": {
+        "as_of": "2026-10-12",
+        "status": "mixed",
+        "limits": "Undated current guidance; Jinan June 10 annual cutoff, QUST April 30; no exact 2026/27 call established. Detailed audit retains source, edition, form and eligibility gaps; applicant eligibility is unconfirmed.",
+        "evidence": [
+          {
+            "url": "https://isao.ujn.edu.cn/jxjxm1/sdszfjxj.htm",
+            "kind": "official_source_read"
+          },
+          {
+            "url": "https://cic.qust.edu.cn/jxj/jxszfjxj.htm",
+            "kind": "official_source_read"
+          }
+        ]
+      },
+      "date_evidence_kind": "recorded"
+    }
+  },
+  {
+    "fit_reason": "education or study: Bachelor degree, age below 35 at application; HSK5 or corresponding Chinese proficiency; health and admission standards. Non-Chinese master students; one provincial family, not separate host awards. Inclusion is discovery; applicant eligibility unconfirmed.",
+    "team_min": 1,
+    "team_max": 1,
+    "prize": "Yanbian: two funded years of tuition/twin-room waiver, CNY1,700/month living support and basic medical insurance; three-year master degree.",
+    "id": "cn-jilin-government-scholarship",
+    "name": "Jilin Provincial Government International-Student Scholarship",
+    "country": "CN",
+    "type": "grant",
+    "organizer": "Jilin Provincial Government / Yanbian University route",
+    "url": "https://liuxue.ybu.edu.cn/jxj/jlszfjxjs.htm",
+    "source_url": "https://liuxue.ybu.edu.cn/jxj/jlszfjxjs.htm",
+    "summary": "Undated current guide: June 15 annually; exact 2026/27 intake unverified. Non-Chinese master students; one provincial family, not separate host awards.",
+    "status": "planning",
+    "deadline": null,
+    "deadline_time": null,
+    "deadline_timezone": null,
+    "deadline_source_url": null,
+    "fit": "want",
+    "funding_kind": "mixed",
+    "fee_status": "none",
+    "first_seen": "2026-10-12",
+    "last_checked": "2026-10-12",
+    "application_cycle": {
+      "label": "Next intake unannounced or current date unverified",
+      "programme_name": "Jilin Provincial Government International-Student Scholarship",
+      "status": "planning",
+      "announcement_status": "unverified",
+      "opens_on": null,
+      "deadline": null,
+      "deadline_time": null,
+      "timezone": null,
+      "source_url": "https://liuxue.ybu.edu.cn/jxj/jlszfjxjs.htm",
+      "checked_at": "2026-10-12",
+      "history": [],
+      "research": {
+        "as_of": "2026-10-12",
+        "status": "mixed",
+        "limits": "Undated current guide: June 15 annually; exact 2026/27 intake unverified. Detailed audit retains source, edition, form and eligibility gaps; applicant eligibility is unconfirmed.",
+        "evidence": [
+          {
+            "url": "https://liuxue.ybu.edu.cn/jxj/jlszfjxjs.htm",
+            "kind": "official_source_read"
+          }
+        ]
+      },
+      "date_evidence_kind": "recorded"
+    }
+  },
+  {
+    "fit_reason": "education or study: Good health/conduct/academic performance; age, diploma and language gates depend on selected degree and host; generally Chinese with some English programmes. Non-Chinese students and scholars in degree/non-degree study in Henan. Inclusion is discovery; applicant eligibility unconfirmed.",
+    "team_min": 1,
+    "team_max": 1,
+    "prize": "2024 guidance: doctoral CNY40k/year up to four years; master30k up to three; bachelor15k up to four (medicine six); associate10k up to three; language5k/semester or10k/year up to one year.",
+    "id": "cn-henan-government-scholarship",
+    "name": "Henan Provincial Government International-Student Scholarship",
+    "country": "CN",
+    "type": "grant",
+    "organizer": "Henan Provincial Government / participating provincial universities",
+    "url": "https://www5.zzu.edu.cn/sie/info/1149/1225.htm",
+    "source_url": "https://www5.zzu.edu.cn/sie/info/1149/1225.htm",
+    "summary": "October 2024 guidance: late January–late April host-specific applications; no exact 2026/27 cutoff verified. Non-Chinese students and scholars in degree/non-degree study in Henan.",
+    "status": "planning",
+    "deadline": null,
+    "deadline_time": null,
+    "deadline_timezone": null,
+    "deadline_source_url": null,
+    "fit": "want",
+    "funding_kind": "cash",
+    "fee_status": "unknown",
+    "first_seen": "2026-10-12",
+    "last_checked": "2026-10-12",
+    "application_cycle": {
+      "label": "Next intake unannounced or current date unverified",
+      "programme_name": "Henan Provincial Government International-Student Scholarship",
+      "status": "planning",
+      "announcement_status": "unverified",
+      "opens_on": null,
+      "deadline": null,
+      "deadline_time": null,
+      "timezone": null,
+      "source_url": "https://www5.zzu.edu.cn/sie/info/1149/1225.htm",
+      "checked_at": "2026-10-12",
+      "history": [],
+      "research": {
+        "as_of": "2026-10-12",
+        "status": "mixed",
+        "limits": "October 2024 guidance: late January–late April host-specific applications; no exact 2026/27 cutoff verified. Detailed audit retains source, edition, form and eligibility gaps; applicant eligibility is unconfirmed.",
+        "evidence": [
+          {
+            "url": "https://www5.zzu.edu.cn/sie/info/1149/1225.htm",
+            "kind": "official_source_read"
+          }
+        ]
+      },
+      "date_evidence_kind": "recorded"
+    }
+  },
+  {
+    "fit_reason": "education or study: Valid foreign passport; ≥one academic year at NWAFU; current-year grades above B; HSK proof; no legal/school violations; no existing scholarship such as CSC. Age/degree-level table unavailable. Non-Chinese registered degree students who have already completed one academic year. Inclusion is discovery; applicant eligibility unconfirmed.",
+    "team_min": 1,
+    "team_max": 1,
+    "prize": "Provincial educational scholarship; amount and age table embedded in inaccessible legacy images, so monetary value unknown.",
+    "id": "cn-shaanxi-sanqin-scholarship",
+    "name": "Shaanxi San Qin International-Student Scholarship",
+    "country": "CN",
+    "type": "grant",
+    "organizer": "Shaanxi Provincial Government / Northwest A&F University route",
+    "url": "https://is.nwsuaf.edu.cn/home/admissions/masterprogram/330575.htm",
+    "source_url": "https://is.nwsuaf.edu.cn/home/admissions/masterprogram/330575.htm",
+    "summary": "Undated legacy guidance: before September 25 annually; exact current September notice not verified. Non-Chinese registered degree students who have already completed one academic year.",
+    "status": "planning",
+    "deadline": null,
+    "deadline_time": null,
+    "deadline_timezone": null,
+    "deadline_source_url": null,
+    "fit": "want",
+    "funding_kind": "cash",
+    "fee_status": "unknown",
+    "first_seen": "2026-10-12",
+    "last_checked": "2026-10-12",
+    "application_cycle": {
+      "label": "Next intake unannounced or current date unverified",
+      "programme_name": "Shaanxi San Qin International-Student Scholarship",
+      "status": "planning",
+      "announcement_status": "unverified",
+      "opens_on": null,
+      "deadline": null,
+      "deadline_time": null,
+      "timezone": null,
+      "source_url": "https://is.nwsuaf.edu.cn/home/admissions/masterprogram/330575.htm",
+      "checked_at": "2026-10-12",
+      "history": [],
+      "research": {
+        "as_of": "2026-10-12",
+        "status": "mixed",
+        "limits": "Undated legacy guidance: before September 25 annually; exact current September notice not verified. Detailed audit retains source, edition, form and eligibility gaps; applicant eligibility is unconfirmed.",
+        "evidence": [
+          {
+            "url": "https://is.nwsuaf.edu.cn/home/admissions/masterprogram/330575.htm",
+            "kind": "official_source_read"
+          },
+          {
+            "url": "https://admission.snnu.edu.cn/Upload/Uploadimage/20151215/20151215215118041804.png",
+            "kind": "unavailable"
+          },
+          {
+            "url": "https://admission.snnu.edu.cn/Upload/Uploadimage/20151215/20151215215191499149.png",
+            "kind": "unavailable"
+          }
+        ]
+      },
+      "date_evidence_kind": "recorded"
+    }
+  },
+  {
+    "fit_reason": "education or study: Bachelor age≥18, high-school grades≥70/B, English subject≥70 for English MBBS or HSK4 for Chinese. Master bachelor and age≤35; doctorate master and age≤40. Good conduct/health; graduate language follows applicable host/MOE policy. Non-Chinese admitted medical students; regional government award, excluding CSC and own university award. Inclusion is discovery; applicant eligibility unconfirmed.",
+    "team_min": 1,
+    "team_max": 1,
+    "prize": "Published guide: normal-degree tuition/campus housing/insurance waiver; master CNY2,500/month, doctoral CNY3,000/month; outstanding self-funded new bachelor students CNY20,000 scholarship.",
+    "id": "cn-ningxia-government-scholarship",
+    "name": "Ningxia Regional Government International-Student Scholarship",
+    "country": "CN",
+    "type": "grant",
+    "organizer": "Ningxia Hui Autonomous Region Government / Ningxia Medical University route",
+    "url": "https://www.nxmu.edu.cn/gjjy/info/1034/1325.htm",
+    "source_url": "https://www.nxmu.edu.cn/gjjy/info/1034/1325.htm",
+    "summary": "Published admission guide without verified 2026/27 funding deadline; amounts historical/undated, not confirmed current offer. Non-Chinese admitted medical students; regional government award, excluding CSC and own university award.",
+    "status": "planning",
+    "deadline": null,
+    "deadline_time": null,
+    "deadline_timezone": null,
+    "deadline_source_url": null,
+    "fit": "want",
+    "funding_kind": "mixed",
+    "fee_status": "required",
+    "first_seen": "2026-10-12",
+    "last_checked": "2026-10-12",
+    "application_cycle": {
+      "label": "Next intake unannounced or current date unverified",
+      "programme_name": "Ningxia Regional Government International-Student Scholarship",
+      "status": "planning",
+      "announcement_status": "unverified",
+      "opens_on": null,
+      "deadline": null,
+      "deadline_time": null,
+      "timezone": null,
+      "source_url": "https://www.nxmu.edu.cn/gjjy/info/1034/1325.htm",
+      "checked_at": "2026-10-12",
+      "history": [],
+      "research": {
+        "as_of": "2026-10-12",
+        "status": "mixed",
+        "limits": "Published admission guide without verified 2026/27 funding deadline; amounts historical/undated, not confirmed current offer. Detailed audit retains source, edition, form and eligibility gaps; applicant eligibility is unconfirmed.",
+        "evidence": [
+          {
+            "url": "https://www.nxmu.edu.cn/gjjy/info/1034/1325.htm",
+            "kind": "official_source_read"
+          }
+        ]
+      },
+      "date_evidence_kind": "recorded"
+    }
+  },
+  {
+    "fit_reason": "education or study: Degree age18–40/non-degree18–60, high-school or higher education, sister-city route and government recommendation. Chinese HSK4≥180; English native/official language, prior English medium or IELTS6/TOEFL70/Duolingo100/EF60. Foreign sister-city students recommended by local government international-affairs office. Inclusion is discovery; applicant eligibility unconfirmed.",
+    "team_min": 1,
+    "team_max": 1,
+    "prize": "Bachelor and one-semester/one-year Chinese-language study: tuition, housing and comprehensive insurance coverage; no living stipend stated.",
+    "id": "cn-jinan-sister-city-scholarship",
+    "name": "Jinan International Sister-City Student Scholarship",
+    "country": "CN",
+    "type": "grant",
+    "organizer": "Jinan Municipal Government / University of Jinan",
+    "url": "https://isao.ujn.edu.cn/jxjxm1/jnsgjycjxj.htm",
+    "source_url": "https://isao.ujn.edu.cn/jxjxm1/jnsgjycjxj.htm",
+    "summary": "Current undated programme guidance; no current intake deadline verified. Foreign sister-city students recommended by local government international-affairs office.",
+    "status": "planning",
+    "deadline": null,
+    "deadline_time": null,
+    "deadline_timezone": null,
+    "deadline_source_url": null,
+    "fit": "want",
+    "funding_kind": "noncash",
+    "fee_status": "unknown",
+    "first_seen": "2026-10-12",
+    "last_checked": "2026-10-12",
+    "application_cycle": {
+      "label": "Next intake unannounced or current date unverified",
+      "programme_name": "Jinan International Sister-City Student Scholarship",
+      "status": "planning",
+      "announcement_status": "unverified",
+      "opens_on": null,
+      "deadline": null,
+      "deadline_time": null,
+      "timezone": null,
+      "source_url": "https://isao.ujn.edu.cn/jxjxm1/jnsgjycjxj.htm",
+      "checked_at": "2026-10-12",
+      "history": [],
+      "research": {
+        "as_of": "2026-10-12",
+        "status": "mixed",
+        "limits": "Current undated programme guidance; no current intake deadline verified. Detailed audit retains source, edition, form and eligibility gaps; applicant eligibility is unconfirmed.",
+        "evidence": [
+          {
+            "url": "https://isao.ujn.edu.cn/jxjxm1/jnsgjycjxj.htm",
+            "kind": "official_source_read"
+          }
+        ]
+      },
+      "date_evidence_kind": "recorded"
+    }
+  },
+  {
+    "fit_reason": "education or study: Bachelor high-school qualification and age<25; master bachelor and age<35; doctorate master and age<40; no other scholarship. Bachelor CSCA plus HSK4≥180; masterHSK5≥180; Chinese doctorateHSK5≥180; English math/biology doctorate IELTS6/TOEFL80 or English-medium proof/exemption. Non-Chinese bachelor/master/doctoral applicants studying in Chongqing. Inclusion is discovery; applicant eligibility unconfirmed.",
+    "team_min": 1,
+    "team_max": 1,
+    "prize": "CQNU2026: bachelor CNY25k/year, master30k, doctoral35k; support cannot exceed normal degree length.",
+    "id": "cn-chongqing-mayor-scholarship",
+    "name": "Chongqing Municipal Mayor International-Student Scholarship",
+    "country": "CN",
+    "type": "grant",
+    "organizer": "Chongqing Municipal Government / Chongqing Normal University route",
+    "url": "https://international.cqnu.edu.cn/info/1331/5219.htm",
+    "source_url": "https://international.cqnu.edu.cn/info/1331/5219.htm",
+    "summary": "2026 CQNU call March 1–May 30 closed; 2027 call unannounced. Non-Chinese bachelor/master/doctoral applicants studying in Chongqing.",
+    "status": "planning",
+    "deadline": null,
+    "deadline_time": null,
+    "deadline_timezone": null,
+    "deadline_source_url": null,
+    "fit": "want",
+    "funding_kind": "cash",
+    "fee_status": "unknown",
+    "first_seen": "2026-10-12",
+    "last_checked": "2026-10-12",
+    "application_cycle": {
+      "label": "Next intake unannounced or current date unverified",
+      "programme_name": "Chongqing Municipal Mayor International-Student Scholarship",
+      "status": "planning",
+      "announcement_status": "unverified",
+      "opens_on": null,
+      "deadline": null,
+      "deadline_time": null,
+      "timezone": null,
+      "source_url": "https://international.cqnu.edu.cn/info/1331/5219.htm",
+      "checked_at": "2026-10-12",
+      "history": [
+        {
+          "label": "Verified historical intake",
+          "programme_name": "Chongqing Municipal Mayor International-Student Scholarship",
+          "status": "closed",
+          "announcement_status": "announced",
+          "opens_on": null,
+          "deadline": "2026-05-30",
+          "deadline_time": null,
+          "timezone": null,
+          "source_url": "https://international.cqnu.edu.cn/info/1331/5219.htm",
+          "checked_at": "2026-10-12"
+        }
+      ],
+      "research": {
+        "as_of": "2026-10-12",
+        "status": "mixed",
+        "limits": "2026 CQNU call March 1–May 30 closed; 2027 call unannounced. Detailed audit retains source, edition, form and eligibility gaps; applicant eligibility is unconfirmed.",
+        "evidence": [
+          {
+            "url": "https://international.cqnu.edu.cn/info/1331/5219.htm",
+            "kind": "official_source_read"
+          }
+        ]
+      },
+      "date_evidence_kind": "recorded"
+    }
+  },
+  {
+    "fit_reason": "education or study: Bachelor high-school and age≤30; master bachelor≤35; doctorate master≤40; language≤45; good academic/conduct/health record; language attendance≥90%; HSK4 bachelor/HSK5 graduate or English IELTS5.5/TOEFL60 bachelor, TOEFL70 graduate. No other government scholarship. Foreign-passport international students from Chengdu sister cities, subject to identity confirmation. Inclusion is discovery; applicant eligibility unconfirmed.",
+    "team_min": 1,
+    "team_max": 1,
+    "prize": "2026 guidance: doctoral CNY30k/year up to three years; master25k up to three; bachelor20k up to four; language1k/month capped10k per academic year.",
+    "id": "cn-chengdu-sister-city-scholarship",
+    "name": "Chengdu Government Sister-City International-Student Scholarship",
+    "country": "CN",
+    "type": "grant",
+    "organizer": "Chengdu Municipal Government / Sichuan Agricultural University route",
+    "url": "https://ghc.sicau.edu.cn/info/1102/3936.htm",
+    "source_url": "https://ghc.sicau.edu.cn/info/1102/3936.htm",
+    "summary": "May 12, 2026 current published guidance; no exact application cutoff stated. Foreign-passport international students from Chengdu sister cities, subject to identity confirmation.",
+    "status": "planning",
+    "deadline": null,
+    "deadline_time": null,
+    "deadline_timezone": null,
+    "deadline_source_url": null,
+    "fit": "want",
+    "funding_kind": "cash",
+    "fee_status": "unknown",
+    "first_seen": "2026-10-12",
+    "last_checked": "2026-10-12",
+    "application_cycle": {
+      "label": "Next intake unannounced or current date unverified",
+      "programme_name": "Chengdu Government Sister-City International-Student Scholarship",
+      "status": "planning",
+      "announcement_status": "unverified",
+      "opens_on": null,
+      "deadline": null,
+      "deadline_time": null,
+      "timezone": null,
+      "source_url": "https://ghc.sicau.edu.cn/info/1102/3936.htm",
+      "checked_at": "2026-10-12",
+      "history": [],
+      "research": {
+        "as_of": "2026-10-12",
+        "status": "mixed",
+        "limits": "May 12, 2026 current published guidance; no exact application cutoff stated. Detailed audit retains source, edition, form and eligibility gaps; applicant eligibility is unconfirmed.",
+        "evidence": [
+          {
+            "url": "https://ghc.sicau.edu.cn/info/1102/3936.htm",
+            "kind": "official_source_read"
+          }
+        ]
+      },
+      "date_evidence_kind": "recorded"
+    }
+  },
+  {
+    "fit_reason": "research or professional: Current host guidance: Chinese formal employee leads introduction; normally born on/after January1,1969; foreign talent must meet 2024 HaiJu measures. Base route only approved/filed expert-introduction bases. No current overall numeric people minimum established: host/foreign roles specified, detailed track guide not publicly retrieved. Sichuan host units introducing foreign experts; foreign-national route only, excluding Hong Kong/Macao/Taiwan alternatives. Inclusion is discovery; applicant eligibility unconfirmed.",
+    "team_min": null,
+    "team_max": null,
+    "prize": "2027 call: base project CNY200k; flexible project CNY200k; long-hire project CNY500k, each upfront support for January–December2027; no remote cooperation.",
+    "id": "cn-sichuan-haiju-foreign-experts",
+    "name": "Sichuan HaiJu Foreign-Expert Project Support",
+    "country": "CN",
+    "type": "grant",
+    "organizer": "Sichuan Science and Technology Department / Foreign Experts Bureau",
+    "url": "https://kjc.njtc.edu.cn/info/1041/37981.htm",
+    "source_url": "https://kjc.njtc.edu.cn/info/1041/37981.htm",
+    "summary": "2027 call issued August2026; NJTC internal cutoff September16, 2026 closed. Province-wide deadline unavailable, not equated to host deadline. Sichuan host units introducing foreign experts; foreign-national route only, excluding Hong Kong/Macao/Taiwan alternatives.",
+    "status": "planning",
+    "deadline": null,
+    "deadline_time": null,
+    "deadline_timezone": null,
+    "deadline_source_url": null,
+    "fit": "want",
+    "funding_kind": "cash",
+    "fee_status": "unknown",
+    "first_seen": "2026-10-12",
+    "last_checked": "2026-10-12",
+    "application_cycle": {
+      "label": "Next intake unannounced or current date unverified",
+      "programme_name": "Sichuan HaiJu Foreign-Expert Project Support",
+      "status": "planning",
+      "announcement_status": "unverified",
+      "opens_on": null,
+      "deadline": null,
+      "deadline_time": null,
+      "timezone": null,
+      "source_url": "https://kjc.njtc.edu.cn/info/1041/37981.htm",
+      "checked_at": "2026-10-12",
+      "history": [],
+      "research": {
+        "as_of": "2026-10-12",
+        "status": "mixed",
+        "limits": "2027 call issued August2026; NJTC internal cutoff September16, 2026 closed. Province-wide deadline unavailable, not equated to host deadline. Detailed audit retains source, edition, form and eligibility gaps; applicant eligibility is unconfirmed.",
+        "evidence": [
+          {
+            "url": "https://kjc.njtc.edu.cn/info/1041/37981.htm",
+            "kind": "official_source_read"
+          },
+          {
+            "url": "https://cib.cas.cn/xwdt/tzgg/xmsb/202608/t20260831_8266712.html",
+            "kind": "official_source_read"
+          },
+          {
+            "url": "https://kjt.sc.gov.cn/kjt/gstz/2026/8/26/775ae3b9e8644f3189ccf1c49a76f73e.shtml",
+            "kind": "unavailable"
+          },
+          {
+            "url": "https://kjc.yibinu.edu.cn/info/1074/5484.htm",
+            "kind": "official_source_read"
+          }
+        ]
+      },
+      "date_evidence_kind": "recorded"
+    }
+  },
+  {
+    "fit_reason": "research or professional: RFIS-I: PhD afterJanuary 1,2020 and research experience; II: PhD afterJanuary 1,2011,associate-professor equivalent and PI experience; III: senior title and distinguished achievements. Mainland NSFC-registered host. Career-stage and prior-award restrictions apply. Inclusion is discovery; applicant eligibility unconfirmed.",
+    "team_min": 1,
+    "team_max": null,
+    "prize": "Historical2026 research direct costs CNY 200k/400k/800k per year by career stage; one or two years.",
+    "id": "cn-nsfc-rfis",
+    "name": "NSFC Research Fund for International Scientists",
+    "country": "CN",
+    "type": "grant",
+    "organizer": "National Natural Science Foundation of China",
+    "url": "https://www.nsfc.gov.cn/english/site_1/international/D5/2026/01-20/502.html",
+    "source_url": "https://www.nsfc.gov.cn/english/site_1/international/D5/2026/01-20/502.html",
+    "summary": "2026 application closed March 20 at16:00 Beijing time. Next call unannounced.",
+    "status": "planning",
+    "deadline": null,
+    "deadline_time": null,
+    "deadline_timezone": null,
+    "deadline_source_url": null,
+    "fit": "want",
+    "funding_kind": "cash",
+    "fee_status": "unknown",
+    "first_seen": "2026-10-12",
+    "last_checked": "2026-10-12",
+    "application_cycle": {
+      "label": "Next intake unannounced",
+      "programme_name": "NSFC Research Fund for International Scientists",
+      "status": "planning",
+      "announcement_status": "unverified",
+      "opens_on": null,
+      "deadline": null,
+      "deadline_time": null,
+      "timezone": null,
+      "source_url": "https://www.nsfc.gov.cn/english/site_1/international/D5/2026/01-20/502.html",
+      "checked_at": "2026-10-12",
+      "history": [
+        {
+          "label": "2026 closed application route",
+          "programme_name": "NSFC Research Fund for International Scientists",
+          "status": "closed",
+          "announcement_status": "announced",
+          "deadline": "2026-03-20",
+          "deadline_time": "16:00:00",
+          "timezone": "Asia/Shanghai",
+          "source_url": "https://www.nsfc.gov.cn/english/site_1/international/D5/2026/01-20/502.html",
+          "checked_at": "2026-10-12",
+          "opens_on": null
+        }
+      ],
+      "research": {
+        "as_of": "2026-10-12",
+        "status": "mixed",
+        "limits": "2026 application closed March 20 at16:00 Beijing time. Next call unannounced. Detailed audit retains source, edition, form and eligibility gaps; applicant eligibility is unconfirmed.",
+        "evidence": [
+          {
+            "url": "https://www.nsfc.gov.cn/english/site_1/international/D5/2026/01-20/502.html",
+            "kind": "official_source_read"
+          },
+          {
+            "url": "https://www.nsfc.gov.cn/p1/3381/2824/100065.html",
+            "kind": "official_source_read"
+          }
+        ]
+      },
+      "date_evidence_kind": "recorded"
+    }
+  },
+  {
+    "fit_reason": "research or professional: Foreign PI with senior title, internationally influential achievements, host agreement; backbone researchers senior title or PhD regardless of nationality. At most four backbone researchers and two participating institutions; these are role/institution limits. RFIS and other simultaneous-award restrictions. Inclusion is discovery; applicant eligibility unconfirmed.",
+    "team_min": null,
+    "team_max": null,
+    "prize": "Historical2026 three-year direct cost CNY 6m plus1.2m indirect; mathematics/management direct4.8m plus1.2m indirect.",
+    "id": "cn-nsfc-icfcrt",
+    "name": "NSFC International Collaboration Fund for Creative Research Teams",
+    "country": "CN",
+    "type": "grant",
+    "organizer": "NSFC",
+    "url": "https://www.nsfc.gov.cn/english/site_1/international/D6/2026/01-20/501.html",
+    "source_url": "https://www.nsfc.gov.cn/english/site_1/international/D6/2026/01-20/501.html",
+    "summary": "2026 application closed March 20 at16:00 Beijing time. Next call unannounced.",
+    "status": "planning",
+    "deadline": null,
+    "deadline_time": null,
+    "deadline_timezone": null,
+    "deadline_source_url": null,
+    "fit": "want",
+    "funding_kind": "cash",
+    "fee_status": "unknown",
+    "first_seen": "2026-10-12",
+    "last_checked": "2026-10-12",
+    "application_cycle": {
+      "label": "Next intake unannounced",
+      "programme_name": "NSFC International Collaboration Fund for Creative Research Teams",
+      "status": "planning",
+      "announcement_status": "unverified",
+      "opens_on": null,
+      "deadline": null,
+      "deadline_time": null,
+      "timezone": null,
+      "source_url": "https://www.nsfc.gov.cn/english/site_1/international/D6/2026/01-20/501.html",
+      "checked_at": "2026-10-12",
+      "history": [
+        {
+          "label": "2026 closed application route",
+          "programme_name": "NSFC International Collaboration Fund for Creative Research Teams",
+          "status": "closed",
+          "announcement_status": "announced",
+          "deadline": "2026-03-20",
+          "deadline_time": "16:00:00",
+          "timezone": "Asia/Shanghai",
+          "source_url": "https://www.nsfc.gov.cn/english/site_1/international/D6/2026/01-20/501.html",
+          "checked_at": "2026-10-12",
+          "opens_on": null
+        }
+      ],
+      "research": {
+        "as_of": "2026-10-12",
+        "status": "mixed",
+        "limits": "2026 application closed March 20 at16:00 Beijing time. Next call unannounced. Detailed audit retains source, edition, form and eligibility gaps; applicant eligibility is unconfirmed.",
+        "evidence": [
+          {
+            "url": "https://www.nsfc.gov.cn/english/site_1/international/D6/2026/01-20/501.html",
+            "kind": "official_source_read"
+          }
+        ]
+      },
+      "date_evidence_kind": "recorded"
+    }
+  },
+  {
+    "fit_reason": "research or professional: Dual China/overseas PI application. Overseas PI associate-professor equivalent with independent laboratory/project leadership; China PI senior title and research experience. Facility staff participate but cannot lead a proposal using their own facility. No unaffiliated individuals, students or postdocs as China PI. Inclusion is discovery; applicant eligibility unconfirmed.",
+    "team_min": null,
+    "team_max": null,
+    "prize": "Historical2026 research direct-cost caps: CNY 2.3m over four years or CNY 600k over three years.",
+    "id": "cn-nsfc-iocbrf",
+    "name": "NSFC International Open Collaborative Basic Research on Major Facilities",
+    "country": "CN",
+    "type": "grant",
+    "organizer": "NSFC",
+    "url": "https://www.nsfc.gov.cn/english/site_1/international/D6/2026/07-31/565.html",
+    "source_url": "https://www.nsfc.gov.cn/english/site_1/international/D6/2026/07-31/565.html",
+    "summary": "Pilot2026 call closed September 11 at16:00 Beijing time. Future call unannounced.",
+    "status": "planning",
+    "deadline": null,
+    "deadline_time": null,
+    "deadline_timezone": null,
+    "deadline_source_url": null,
+    "fit": "want",
+    "funding_kind": "cash",
+    "fee_status": "unknown",
+    "first_seen": "2026-10-12",
+    "last_checked": "2026-10-12",
+    "application_cycle": {
+      "label": "Next intake unannounced",
+      "programme_name": "NSFC International Open Collaborative Basic Research on Major Facilities",
+      "status": "planning",
+      "announcement_status": "unverified",
+      "opens_on": null,
+      "deadline": null,
+      "deadline_time": null,
+      "timezone": null,
+      "source_url": "https://www.nsfc.gov.cn/english/site_1/international/D6/2026/07-31/565.html",
+      "checked_at": "2026-10-12",
+      "history": [
+        {
+          "label": "2026 closed application route",
+          "programme_name": "NSFC International Open Collaborative Basic Research on Major Facilities",
+          "status": "closed",
+          "announcement_status": "announced",
+          "deadline": "2026-09-11",
+          "deadline_time": "16:00:00",
+          "timezone": "Asia/Shanghai",
+          "source_url": "https://www.nsfc.gov.cn/english/site_1/international/D6/2026/07-31/565.html",
+          "checked_at": "2026-10-12",
+          "opens_on": null
+        }
+      ],
+      "research": {
+        "as_of": "2026-10-12",
+        "status": "mixed",
+        "limits": "Pilot2026 call closed September 11 at16:00 Beijing time. Future call unannounced. Detailed audit retains source, edition, form and eligibility gaps; applicant eligibility is unconfirmed.",
+        "evidence": [
+          {
+            "url": "https://www.nsfc.gov.cn/english/site_1/international/D6/2026/07-31/565.html",
+            "kind": "official_source_read"
+          }
+        ]
+      },
+      "date_evidence_kind": "recorded"
+    }
+  },
+  {
+    "fit_reason": "research or professional: BornJanuary 1,1986or later; PhD in natural science/engineering. Generally36consecutive months formal overseas teaching/research afterPhD byJune 15,2026; qualified exceptional overseasPhDs may receive relaxation. Not yet relocated, or relocatedJanuary 1,2025or later. Inclusion is discovery; applicant eligibility unconfirmed.",
+    "team_min": 1,
+    "team_max": null,
+    "prize": "Historical2026 CNY 1m–3m research funding over three years; separate host salary or housing not nationally guaranteed.",
+    "id": "cn-nsfc-excellent-young-overseas",
+    "name": "NSFC Excellent Young Scientists Fund — Overseas",
+    "country": "CN",
+    "type": "grant",
+    "organizer": "NSFC",
+    "url": "https://www.nsfc.gov.cn/p1/3381/2824/121517.html",
+    "source_url": "https://www.nsfc.gov.cn/p1/3381/2824/121517.html",
+    "summary": "Actual2026 NSFC guideline supersedes preliminary host notices: closed June 15; no exact clock published. Next call unannounced.",
+    "status": "planning",
+    "deadline": null,
+    "deadline_time": null,
+    "deadline_timezone": null,
+    "deadline_source_url": null,
+    "fit": "want",
+    "funding_kind": "cash",
+    "fee_status": "unknown",
+    "first_seen": "2026-10-12",
+    "last_checked": "2026-10-12",
+    "application_cycle": {
+      "label": "Next intake unannounced",
+      "programme_name": "NSFC Excellent Young Scientists Fund — Overseas",
+      "status": "planning",
+      "announcement_status": "unverified",
+      "opens_on": null,
+      "deadline": null,
+      "deadline_time": null,
+      "timezone": null,
+      "source_url": "https://www.nsfc.gov.cn/p1/3381/2824/121517.html",
+      "checked_at": "2026-10-12",
+      "history": [
+        {
+          "label": "2026 closed application route",
+          "programme_name": "NSFC Excellent Young Scientists Fund — Overseas",
+          "status": "closed",
+          "announcement_status": "announced",
+          "deadline": "2026-06-15",
+          "deadline_time": null,
+          "timezone": "Asia/Shanghai",
+          "source_url": "https://www.nsfc.gov.cn/p1/3381/2824/121517.html",
+          "checked_at": "2026-10-12",
+          "opens_on": null
+        }
+      ],
+      "research": {
+        "as_of": "2026-10-12",
+        "status": "mixed",
+        "limits": "Actual2026 NSFC guideline supersedes preliminary host notices: closed June 15; no exact clock published. Next call unannounced. Detailed audit retains source, edition, form and eligibility gaps; applicant eligibility is unconfirmed.",
+        "evidence": [
+          {
+            "url": "https://www.nsfc.gov.cn/p1/3381/2824/121517.html",
+            "kind": "official_source_read"
+          },
+          {
+            "url": "https://en.chinacdc.cn/home/202602/t20260225_315199.html",
+            "kind": "official_source_read"
+          }
+        ]
+      },
+      "date_evidence_kind": "recorded"
+    }
+  },
+  {
+    "fit_reason": "research or professional: International scientist categories include distinguished, visiting and postdoctoral researchers. Host scientist recommends the foreign applicant; no direct foreign application. Current detailed career/age criteria unavailable. Inclusion is discovery; applicant eligibility unconfirmed.",
+    "team_min": 1,
+    "team_max": null,
+    "prize": "Scientific exchange/research fellowship support. Current amount unverified; older category rates are not promised.",
+    "id": "cn-cas-pifi",
+    "name": "CAS President’s International Fellowship Initiative — Scientist Routes",
+    "country": "CN",
+    "type": "grant",
+    "organizer": "Chinese Academy of Sciences",
+    "url": "https://pifi.cas.cn/front/mobi/PIFI.html",
+    "source_url": "https://pifi.cas.cn/front/mobi/PIFI.html",
+    "summary": "Live page explicitly says applications temporarily suspended during optimization. Older year-round guidance is superseded; no restart date.",
+    "status": "planning",
+    "deadline": null,
+    "deadline_time": null,
+    "deadline_timezone": null,
+    "deadline_source_url": null,
+    "fit": "want",
+    "funding_kind": "mixed",
+    "fee_status": "unknown",
+    "first_seen": "2026-10-12",
+    "last_checked": "2026-10-12",
+    "application_cycle": {
+      "label": "Temporarily suspended during optimization; restart unannounced",
+      "programme_name": "CAS President’s International Fellowship Initiative — Scientist Routes",
+      "status": "planning",
+      "announcement_status": "announced",
+      "opens_on": null,
+      "deadline": null,
+      "deadline_time": null,
+      "timezone": null,
+      "source_url": "https://pifi.cas.cn/front/mobi/PIFI.html",
+      "checked_at": "2026-10-12",
+      "history": [],
+      "research": {
+        "as_of": "2026-10-12",
+        "status": "mixed",
+        "limits": "Live page explicitly says applications temporarily suspended during optimization. Older year-round guidance is superseded; no restart date. Detailed audit retains source, edition, form and eligibility gaps; applicant eligibility is unconfirmed.",
+        "evidence": [
+          {
+            "url": "https://pifi.cas.cn/front/mobi/PIFI.html",
+            "kind": "official_source_read"
+          },
+          {
+            "url": "https://english.cas.cn/newsroom/news-updates/202607/t20260702_1175332.shtml",
+            "kind": "official_source_read"
+          }
+        ]
+      },
+      "date_evidence_kind": "recorded"
+    }
+  },
+  {
+    "fit_reason": "education or study: UCAS verified route: masters bachelor’s and≤35; doctoral master’s and≤40; English/Chinese, no other sponsorship, no same-level degree already under way in China. Other CSC hosts/routes have own eligibility. Inclusion is discovery; applicant eligibility unconfirmed.",
+    "team_min": 1,
+    "team_max": null,
+    "prize": "Tuition, accommodation, insurance and stipend support. UCAS2026 example: mastersCNY 3,500/month, PhDCNY 5,000/month including host top-ups; not universalCSC rate.",
+    "id": "cn-csc-government-scholarship",
+    "name": "Chinese Government Scholarship — International Students",
+    "country": "CN",
+    "type": "grant",
+    "organizer": "Ministry of Education / China Scholarship Council",
+    "url": "https://english.ucas.ac.cn/index.php/admission/international-students/financial-aid/6656-call-for-2026-chinese-government-scholarship-for-international-students-to-study-at-ucas",
+    "source_url": "https://english.ucas.ac.cn/index.php/admission/international-students/financial-aid/6656-call-for-2026-chinese-government-scholarship-for-international-students-to-study-at-ucas",
+    "summary": "VerifiedUCAS2026 route closed January 31 Beijing time. This is not an all-China deadline; next family-wide route varies.",
+    "status": "planning",
+    "deadline": null,
+    "deadline_time": null,
+    "deadline_timezone": null,
+    "deadline_source_url": null,
+    "fit": "want",
+    "funding_kind": "mixed",
+    "fee_status": "unknown",
+    "first_seen": "2026-10-12",
+    "last_checked": "2026-10-12",
+    "application_cycle": {
+      "label": "Next intake unannounced",
+      "programme_name": "Chinese Government Scholarship — International Students",
+      "status": "planning",
+      "announcement_status": "unverified",
+      "opens_on": null,
+      "deadline": null,
+      "deadline_time": null,
+      "timezone": null,
+      "source_url": "https://english.ucas.ac.cn/index.php/admission/international-students/financial-aid/6656-call-for-2026-chinese-government-scholarship-for-international-students-to-study-at-ucas",
+      "checked_at": "2026-10-12",
+      "history": [
+        {
+          "label": "2026 closed application route",
+          "programme_name": "Chinese Government Scholarship — International Students",
+          "status": "closed",
+          "announcement_status": "announced",
+          "deadline": "2026-01-31",
+          "deadline_time": null,
+          "timezone": "Asia/Shanghai",
+          "source_url": "https://english.ucas.ac.cn/index.php/admission/international-students/financial-aid/6656-call-for-2026-chinese-government-scholarship-for-international-students-to-study-at-ucas",
+          "checked_at": "2026-10-12",
+          "opens_on": null
+        }
+      ],
+      "research": {
+        "as_of": "2026-10-12",
+        "status": "mixed",
+        "limits": "VerifiedUCAS2026 route closed January 31 Beijing time. This is not an all-China deadline; next family-wide route varies. Detailed audit retains source, edition, form and eligibility gaps; applicant eligibility is unconfirmed.",
+        "evidence": [
+          {
+            "url": "https://english.ucas.ac.cn/index.php/admission/international-students/financial-aid/6656-call-for-2026-chinese-government-scholarship-for-international-students-to-study-at-ucas",
+            "kind": "official_source_read"
+          }
+        ]
+      },
+      "date_evidence_kind": "recorded"
+    }
+  },
+  {
+    "fit_reason": "education or study: Masters born January1,1996 or later; PhD January1,1991 or later. English or Chinese admission competence. No other assignments or same-level degree study already under way in China. Cannot apply through both UCAS and USTC. Inclusion is discovery; applicant eligibility unconfirmed.",
+    "team_min": 1,
+    "team_max": null,
+    "prize": "Historical2026 tuition, insurance and application-fee waivers; masters CNY 3,000/month for up to36 months; PhD CNY 6,000–7,000/month for up to48 months; conditional one-way travel and visa allowance.",
+    "id": "cn-cas-anso-scholarship",
+    "name": "CAS-ANSO Scholarship — Degree Programme",
+    "country": "CN",
+    "type": "grant",
+    "organizer": "CAS / ANSO; TWAS-UNESCO subcategory",
+    "url": "https://ihep.cas.cn/edu/zs/interstu/202510/t20251020_7992981.html",
+    "source_url": "https://ihep.cas.cn/edu/zs/interstu/202510/t20251020_7992981.html",
+    "summary": "2026 intake closed January 31 Beijing time. Next call unannounced.",
+    "status": "planning",
+    "deadline": null,
+    "deadline_time": null,
+    "deadline_timezone": null,
+    "deadline_source_url": null,
+    "fit": "want",
+    "funding_kind": "mixed",
+    "fee_status": "none",
+    "first_seen": "2026-10-12",
+    "last_checked": "2026-10-12",
+    "application_cycle": {
+      "label": "Next intake unannounced",
+      "programme_name": "CAS-ANSO Scholarship — Degree Programme",
+      "status": "planning",
+      "announcement_status": "unverified",
+      "opens_on": null,
+      "deadline": null,
+      "deadline_time": null,
+      "timezone": null,
+      "source_url": "https://ihep.cas.cn/edu/zs/interstu/202510/t20251020_7992981.html",
+      "checked_at": "2026-10-12",
+      "history": [
+        {
+          "label": "2026 closed application route",
+          "programme_name": "CAS-ANSO Scholarship — Degree Programme",
+          "status": "closed",
+          "announcement_status": "announced",
+          "deadline": "2026-01-31",
+          "deadline_time": null,
+          "timezone": "Asia/Shanghai",
+          "source_url": "https://ihep.cas.cn/edu/zs/interstu/202510/t20251020_7992981.html",
+          "checked_at": "2026-10-12",
+          "opens_on": null
+        }
+      ],
+      "research": {
+        "as_of": "2026-10-12",
+        "status": "mixed",
+        "limits": "2026 intake closed January 31 Beijing time. Next call unannounced. Detailed audit retains source, edition, form and eligibility gaps; applicant eligibility is unconfirmed.",
+        "evidence": [
+          {
+            "url": "https://ihep.cas.cn/edu/zs/interstu/202510/t20251020_7992981.html",
+            "kind": "official_source_read"
+          }
+        ]
+      },
+      "date_evidence_kind": "recorded"
+    }
+  },
+  {
+    "fit_reason": "education or study: 2026 birth cutoffs: masters1996+, PhD1991+, senior visitor1981+, regular visitor1986+; joint programmes have no age limit. English/Chinese admission. No other assignments or same-level degree study in China; only one supervisor application. Inclusion is discovery; applicant eligibility unconfirmed.",
+    "team_min": 1,
+    "team_max": null,
+    "prize": "Full or partial tuition, application-fee and insurance waivers. Full award total monthly support at least CNY 3,000 for masters or CNY 3,500 for PhD, including assistantship; basic Beijing accommodation.",
+    "id": "cn-ucas-international-scholarship",
+    "name": "UCAS Scholarship for International Students — University Fund",
+    "country": "CN",
+    "type": "grant",
+    "organizer": "University of Chinese Academy of Sciences",
+    "url": "https://english.ucas.ac.cn/index.php/admission/international-students/financial-aid/6658-ucas-scholarship-for-international-students-2026-call-for-applications",
+    "source_url": "https://english.ucas.ac.cn/index.php/admission/international-students/financial-aid/6658-ucas-scholarship-for-international-students-2026-call-for-applications",
+    "summary": "2026 degree route closedJanuary 31; senior/regular visitor guidance has no deadline. Current detailed admission verification still needed.",
+    "status": "planning",
+    "deadline": null,
+    "deadline_time": null,
+    "deadline_timezone": null,
+    "deadline_source_url": null,
+    "fit": "want",
+    "funding_kind": "mixed",
+    "fee_status": "unknown",
+    "first_seen": "2026-10-12",
+    "last_checked": "2026-10-12",
+    "application_cycle": {
+      "label": "Next intake unannounced",
+      "programme_name": "UCAS Scholarship for International Students — University Fund",
+      "status": "planning",
+      "announcement_status": "unverified",
+      "opens_on": null,
+      "deadline": null,
+      "deadline_time": null,
+      "timezone": null,
+      "source_url": "https://english.ucas.ac.cn/index.php/admission/international-students/financial-aid/6658-ucas-scholarship-for-international-students-2026-call-for-applications",
+      "checked_at": "2026-10-12",
+      "history": [
+        {
+          "label": "2026 closed application route",
+          "programme_name": "UCAS Scholarship for International Students — University Fund",
+          "status": "closed",
+          "announcement_status": "announced",
+          "deadline": "2026-01-31",
+          "deadline_time": null,
+          "timezone": "Asia/Shanghai",
+          "source_url": "https://english.ucas.ac.cn/index.php/admission/international-students/financial-aid/6658-ucas-scholarship-for-international-students-2026-call-for-applications",
+          "checked_at": "2026-10-12",
+          "opens_on": null
+        }
+      ],
+      "research": {
+        "as_of": "2026-10-12",
+        "status": "mixed",
+        "limits": "2026 degree route closedJanuary 31; senior/regular visitor guidance has no deadline. Current detailed admission verification still needed. Detailed audit retains source, edition, form and eligibility gaps; applicant eligibility is unconfirmed.",
+        "evidence": [
+          {
+            "url": "https://english.ucas.ac.cn/index.php/admission/international-students/financial-aid/6658-ucas-scholarship-for-international-students-2026-call-for-applications",
+            "kind": "official_source_read"
+          }
+        ]
+      },
+      "date_evidence_kind": "recorded"
+    }
+  },
+  {
+    "fit_reason": "education or study: First submit full-time2026 self-funded graduate admission. International admission requires a non-Chinese passport and nationality assessment. No other scholarship or joint training. Masters support2–3years, PhD4years. Inclusion is discovery; applicant eligibility unconfirmed.",
+    "team_min": 1,
+    "team_max": null,
+    "prize": "Historical2026 full or partial tuition waiver, living stipend and medical insurance; exact stipend amount unverified.",
+    "id": "cn-pku-international-scholarship",
+    "name": "Peking University Scholarship — International Students",
+    "country": "CN",
+    "type": "grant",
+    "organizer": "Peking University",
+    "url": "https://isd.pku.edu.cn/en/detail.php?id=819",
+    "source_url": "https://isd.pku.edu.cn/en/detail.php?id=819",
+    "summary": "2026 PKUS scholarship routeclosedMarch 9 at09:00Beijingtime. Nextcallunannounced.",
+    "status": "planning",
+    "deadline": null,
+    "deadline_time": null,
+    "deadline_timezone": null,
+    "deadline_source_url": null,
+    "fit": "want",
+    "funding_kind": "mixed",
+    "fee_status": "unknown",
+    "first_seen": "2026-10-12",
+    "last_checked": "2026-10-12",
+    "application_cycle": {
+      "label": "Next intake unannounced",
+      "programme_name": "Peking University Scholarship — International Students",
+      "status": "planning",
+      "announcement_status": "unverified",
+      "opens_on": null,
+      "deadline": null,
+      "deadline_time": null,
+      "timezone": null,
+      "source_url": "https://isd.pku.edu.cn/en/detail.php?id=819",
+      "checked_at": "2026-10-12",
+      "history": [
+        {
+          "label": "2026 closed application route",
+          "programme_name": "Peking University Scholarship — International Students",
+          "status": "closed",
+          "announcement_status": "announced",
+          "deadline": "2026-03-09",
+          "deadline_time": "09:00:00",
+          "timezone": "Asia/Shanghai",
+          "source_url": "https://isd.pku.edu.cn/en/detail.php?id=819",
+          "checked_at": "2026-10-12",
+          "opens_on": null
+        }
+      ],
+      "research": {
+        "as_of": "2026-10-12",
+        "status": "mixed",
+        "limits": "2026 PKUS scholarship routeclosedMarch 9 at09:00Beijingtime. Nextcallunannounced. Detailed audit retains source, edition, form and eligibility gaps; applicant eligibility is unconfirmed.",
+        "evidence": [
+          {
+            "url": "https://isd.pku.edu.cn/en/detail.php?id=819",
+            "kind": "official_source_read"
+          },
+          {
+            "url": "https://isd.pku.edu.cn/en/detail.php?id=730",
+            "kind": "official_source_read"
+          }
+        ]
+      },
+      "date_evidence_kind": "recorded"
+    }
+  },
+  {
+    "fit_reason": "education or study: Undergraduate: high-school diploma by July2026, under30 on September1, HSK5 or exemption; foreign naturalization and overseas-residence proof rules apply. Masters: bachelor degree, under35, HSK4 or English proof. Own PhD routes: master degree and under40. No other assignments or incompatible scholarship stacking. Inclusion is discovery; applicant eligibility unconfirmed.",
+    "team_min": 1,
+    "team_max": null,
+    "prize": "2026 university-funded undergraduate A: tuition, insurance, CNY 2,500/month and housing subsidy; B: tuition only. Own masters B and PhD C offer tuition waiver; assistantship requires separate application.",
+    "id": "cn-ustc-university-fellowship",
+    "name": "USTC International Student Fellowship — University-Funded Routes",
+    "country": "CN",
+    "type": "grant",
+    "organizer": "University of Science and Technology of China",
+    "url": "https://ic.ustc.edu.cn/?abroad=339",
+    "source_url": "https://ic.ustc.edu.cn/?abroad=339",
+    "summary": "2026 undergraduateclosedMarch 31;graduateclosedJanuary 31. Nextcallunannounced.",
+    "status": "planning",
+    "deadline": null,
+    "deadline_time": null,
+    "deadline_timezone": null,
+    "deadline_source_url": null,
+    "fit": "want",
+    "funding_kind": "mixed",
+    "fee_status": "unknown",
+    "first_seen": "2026-10-12",
+    "last_checked": "2026-10-12",
+    "application_cycle": {
+      "label": "Next intake unannounced",
+      "programme_name": "USTC International Student Fellowship — University-Funded Routes",
+      "status": "planning",
+      "announcement_status": "unverified",
+      "opens_on": null,
+      "deadline": null,
+      "deadline_time": null,
+      "timezone": null,
+      "source_url": "https://ic.ustc.edu.cn/?abroad=339",
+      "checked_at": "2026-10-12",
+      "history": [
+        {
+          "label": "2026 closed application route",
+          "programme_name": "USTC International Student Fellowship — University-Funded Routes",
+          "status": "closed",
+          "announcement_status": "announced",
+          "deadline": "2026-03-31",
+          "deadline_time": null,
+          "timezone": null,
+          "source_url": "https://ic.ustc.edu.cn/?abroad=339",
+          "checked_at": "2026-10-12",
+          "opens_on": null
+        }
+      ],
+      "research": {
+        "as_of": "2026-10-12",
+        "status": "mixed",
+        "limits": "2026 undergraduateclosedMarch 31;graduateclosedJanuary 31. Nextcallunannounced. Detailed audit retains source, edition, form and eligibility gaps; applicant eligibility is unconfirmed.",
+        "evidence": [
+          {
+            "url": "https://ic.ustc.edu.cn/?abroad=339",
+            "kind": "official_source_read"
+          },
+          {
+            "url": "https://ic.ustc.edu.cn/?abroad=ustc-fellowship-for-masters-programs",
+            "kind": "official_source_read"
+          },
+          {
+            "url": "https://ic.ustc.edu.cn/?abroad=ustc-fellowship-for-doctoral-programs",
+            "kind": "official_source_read"
+          }
+        ]
+      },
+      "date_evidence_kind": "recorded"
+    }
+  },
+  {
+    "fit_reason": "education or study: Bachelor degree by August of entry year, excellent academic/leadership record and English. International applicants need non-Chinese passport. Former Chinese citizens need qualifying nationality documents from before April30,2021 for2027 route. Partner-university students/alumni follow internal preselection. No concurrent degree. Inclusion is discovery; applicant eligibility unconfirmed.",
+    "team_min": 1,
+    "team_max": null,
+    "prize": "Tuition, accommodation, monthly stipend, one round-trip airfare and field-study costs. Exact stipend amount unverified.",
+    "id": "cn-yenching-fellowship",
+    "name": "Yenching Academy Fellowship — International China Studies",
+    "country": "CN",
+    "type": "grant",
+    "organizer": "Yenching Academy / Peking University",
+    "url": "https://yenchingacademy.pku.edu.cn/ADMISSIONS.htm",
+    "source_url": "https://yenchingacademy.pku.edu.cn/ADMISSIONS.htm",
+    "summary": "2027 intake open:September 1–November 30,2026,09:00Beijingtime.",
+    "status": "open",
+    "deadline": "2026-11-30",
+    "deadline_time": "09:00",
+    "deadline_timezone": "Asia/Shanghai",
+    "deadline_source_url": "https://yenchingacademy.pku.edu.cn/ADMISSIONS.htm",
+    "fit": "want",
+    "funding_kind": "mixed",
+    "fee_status": "unknown",
+    "first_seen": "2026-10-12",
+    "last_checked": "2026-10-12",
+    "application_cycle": {
+      "label": "2027 international admission",
+      "programme_name": "Yenching Academy Fellowship — International China Studies",
+      "status": "open",
+      "announcement_status": "announced",
+      "opens_on": "2026-09-01",
+      "deadline": "2026-11-30",
+      "deadline_time": "09:00",
+      "timezone": "Asia/Shanghai",
+      "source_url": "https://yenchingacademy.pku.edu.cn/ADMISSIONS.htm",
+      "checked_at": "2026-10-12",
+      "history": [],
+      "research": {
+        "as_of": "2026-10-12",
+        "status": "mixed",
+        "limits": "2027 intake open:September 1–November 30,2026,09:00Beijingtime. Detailed audit retains source, edition, form and eligibility gaps; applicant eligibility is unconfirmed.",
+        "evidence": [
+          {
+            "url": "https://yenchingacademy.pku.edu.cn/ADMISSIONS.htm",
+            "kind": "official_source_read"
+          }
+        ]
+      },
+      "date_evidence_kind": "recorded"
+    }
+  },
+  {
+    "fit_reason": "education or study: Bachelor degree by August1 of entry, aged18 but not yet29 that day, English competence. Current2028–29 guidance has strict Chinese ancestry/former citizenship documentation; a foreign passport alone does not establish eligibility. Inclusion is discovery; applicant eligibility unconfirmed.",
+    "team_min": 1,
+    "team_max": null,
+    "prize": "Tuition, fees, accommodation/meals, travel, books, laptop, insurance and personal stipend; application and approved interview expenses covered.",
+    "id": "cn-schwarzman-scholars",
+    "name": "Schwarzman Scholars — U.S./Global Applicant Route",
+    "country": "CN",
+    "type": "grant",
+    "organizer": "Schwarzman Scholars / Tsinghua University",
+    "url": "https://www.schwarzmanscholars.org/admissions/application-instructions/",
+    "source_url": "https://www.schwarzmanscholars.org/admissions/application-instructions/",
+    "summary": "2027–28applicationclosedSeptember 9,2026at15:00EDT. NextglobalwindowApril–September 2027forAugust 2028start;exactnextclosingdayunannounced.",
+    "status": "planning",
+    "deadline": null,
+    "deadline_time": null,
+    "deadline_timezone": null,
+    "deadline_source_url": null,
+    "fit": "want",
+    "funding_kind": "mixed",
+    "fee_status": "none",
+    "first_seen": "2026-10-12",
+    "last_checked": "2026-10-12",
+    "application_cycle": {
+      "label": "2028–2029 global route preannounced; exact next cutoff unknown",
+      "programme_name": "Schwarzman Scholars — U.S./Global Applicant Route",
+      "status": "planning",
+      "announcement_status": "announced",
+      "opens_on": null,
+      "deadline": null,
+      "deadline_time": null,
+      "timezone": null,
+      "source_url": "https://www.schwarzmanscholars.org/admissions/application-instructions/",
+      "checked_at": "2026-10-12",
+      "history": [
+        {
+          "label": "2026 closed application route",
+          "programme_name": "Schwarzman Scholars — U.S./Global Applicant Route",
+          "status": "closed",
+          "announcement_status": "announced",
+          "deadline": "2026-09-09",
+          "deadline_time": "15:00:00",
+          "timezone": "America/New_York",
+          "source_url": "https://www.schwarzmanscholars.org/admissions/application-instructions/",
+          "checked_at": "2026-10-12",
+          "opens_on": null
+        }
+      ],
+      "research": {
+        "as_of": "2026-10-12",
+        "status": "mixed",
+        "limits": "2027–28applicationclosedSeptember 9,2026at15:00EDT. NextglobalwindowApril–September 2027forAugust 2028start;exactnextclosingdayunannounced. Detailed audit retains source, edition, form and eligibility gaps; applicant eligibility is unconfirmed.",
+        "evidence": [
+          {
+            "url": "https://www.schwarzmanscholars.org/admissions/application-instructions/",
+            "kind": "official_source_read"
+          },
+          {
+            "url": "https://www.schwarzmanscholars.org/frequently-asked-questions/",
+            "kind": "official_source_read"
+          },
+          {
+            "url": "https://connect.schwarzmanscholars.org/apply/",
+            "kind": "official_source_read"
+          }
+        ]
+      },
+      "date_evidence_kind": "recorded"
+    }
+  },
+  {
+    "fit_reason": "education or study: Interest in Chinese-language education, institutional recommendation, health/conduct and HSK/HSKK criteria by track. General age16–35, in-service teachers up to45; undergraduate usually under25. Under18 requires China-based guardian. Masters needs bachelor degree; PhD relevant master degree. Inclusion is discovery; applicant eligibility unconfirmed.",
+    "team_min": 1,
+    "team_max": null,
+    "prize": "Tuition, accommodation, insurance and living allowance; four-week students receive no living allowance. Exact current stipend rates unverified.",
+    "id": "cn-clec-language-teachers-scholarship",
+    "name": "International Chinese Language Teachers Scholarship",
+    "country": "CN",
+    "type": "grant",
+    "organizer": "Center for Language Education and Cooperation",
+    "url": "https://admission.blcu.edu.cn/en/2026/0303/c1148a3044/page.htm",
+    "source_url": "https://admission.blcu.edu.cn/en/2026/0303/c1148a3044/page.htm",
+    "summary": "March 2027semesterrouteopenuntilOctober 31,2026(Beijingtime,date-only). Other2026cohortcutoffspassed.",
+    "status": "open",
+    "deadline": "2026-10-31",
+    "deadline_time": null,
+    "deadline_timezone": null,
+    "deadline_source_url": null,
+    "fit": "want",
+    "funding_kind": "mixed",
+    "fee_status": "unknown",
+    "first_seen": "2026-10-12",
+    "last_checked": "2026-10-12",
+    "application_cycle": {
+      "label": "March2027 one-semester entry",
+      "programme_name": "International Chinese Language Teachers Scholarship",
+      "status": "open",
+      "announcement_status": "announced",
+      "opens_on": "2026-03-01",
+      "deadline": "2026-10-31",
+      "deadline_time": null,
+      "timezone": "Asia/Shanghai",
+      "source_url": "https://admission.blcu.edu.cn/en/2026/0303/c1148a3044/page.htm",
+      "checked_at": "2026-10-12",
+      "history": [],
+      "research": {
+        "as_of": "2026-10-12",
+        "status": "mixed",
+        "limits": "March 2027semesterrouteopenuntilOctober 31,2026(Beijingtime,date-only). Other2026cohortcutoffspassed. Detailed audit retains source, edition, form and eligibility gaps; applicant eligibility is unconfirmed.",
+        "evidence": [
+          {
+            "url": "https://admission.blcu.edu.cn/en/2026/0303/c1148a3044/page.htm",
+            "kind": "official_source_read"
+          }
+        ]
+      },
+      "date_evidence_kind": "recorded"
+    }
+  },
+  {
+    "fit_reason": "research or professional: Recommendation from authorized home-country/international body. Nationality of a BRI or other developing country, formal research/science-policy job there, PhD or over five years research, age45 or younger and English/Chinese communication. Position must be nonclassified and nondegree; full-time China required. Inclusion is discovery; applicant eligibility unconfirmed.",
+    "team_min": 1,
+    "team_max": null,
+    "prize": "2026 host guidance: CNY 20,000/month before tax for3,6or12 months, covering travel, living, housing and mandatory insurance. Older central guidance gives a different rate.",
+    "id": "cn-most-tysp",
+    "name": "MOST Talented Young Scientist Programme",
+    "country": "CN",
+    "type": "grant",
+    "organizer": "MOST / China Science and Technology Exchange Center",
+    "url": "https://shimmer.ac.cn/join-us/talented-young-scientist-program/",
+    "source_url": "https://shimmer.ac.cn/join-us/talented-young-scientist-program/",
+    "summary": "Verified2026TianfuhostrouteclosedFebruary 27Beijingtime. Nationalportalhas2026positionsbutstale2019batchdeadline;nofamily-wideopenclaim.",
+    "status": "planning",
+    "deadline": null,
+    "deadline_time": null,
+    "deadline_timezone": null,
+    "deadline_source_url": null,
+    "fit": "want",
+    "funding_kind": "cash",
+    "fee_status": "unknown",
+    "first_seen": "2026-10-12",
+    "last_checked": "2026-10-12",
+    "application_cycle": {
+      "label": "Next intake unannounced",
+      "programme_name": "MOST Talented Young Scientist Programme",
+      "status": "planning",
+      "announcement_status": "unverified",
+      "opens_on": null,
+      "deadline": null,
+      "deadline_time": null,
+      "timezone": null,
+      "source_url": "https://shimmer.ac.cn/join-us/talented-young-scientist-program/",
+      "checked_at": "2026-10-12",
+      "history": [
+        {
+          "label": "2026 closed application route",
+          "programme_name": "MOST Talented Young Scientist Programme",
+          "status": "closed",
+          "announcement_status": "announced",
+          "deadline": "2026-02-27",
+          "deadline_time": null,
+          "timezone": "Asia/Shanghai",
+          "source_url": "https://shimmer.ac.cn/join-us/talented-young-scientist-program/",
+          "checked_at": "2026-10-12",
+          "opens_on": null
+        }
+      ],
+      "research": {
+        "as_of": "2026-10-12",
+        "status": "mixed",
+        "limits": "Verified2026TianfuhostrouteclosedFebruary 27Beijingtime. Nationalportalhas2026positionsbutstale2019batchdeadline;nofamily-wideopenclaim. Detailed audit retains source, edition, form and eligibility gaps; applicant eligibility is unconfirmed.",
+        "evidence": [
+          {
+            "url": "https://shimmer.ac.cn/join-us/talented-young-scientist-program/",
+            "kind": "official_source_read"
+          },
+          {
+            "url": "https://tysp.cstec.org.cn/en/about.aspx",
+            "kind": "official_source_read"
+          },
+          {
+            "url": "https://tysp.cstec.org.cn/en/",
+            "kind": "official_source_read"
+          }
+        ]
+      },
+      "date_evidence_kind": "recorded"
+    }
+  },
+  {
+    "fit_reason": "education or study: 2026 Sierra Leone example: senior officials, faculty or executives aged45 or younger, at least three years experience, bachelor/master degree appropriate to entry, GPA at least3.25/4 or4/5, ordinary passport valid at least18months. Recent CSC-award exclusion applies. Other developing countries have their own embassy selection. Inclusion is discovery; applicant eligibility unconfirmed.",
+    "team_min": 1,
+    "team_max": null,
+    "prize": "Foreign-professional postgraduate aid. Historical2023 XMU example: tuition/housing/insurance, CNY 36k masters or42k PhD per year, CNY 3k settlement and conditional airfare. Universal2026 rates unverified.",
+    "id": "cn-mofcom-foreign-aid-scholarship",
+    "name": "MOFCOM Foreign-Aid Academic Scholarship",
+    "country": "CN",
+    "type": "grant",
+    "organizer": "Ministry of Commerce; CSC administration for joint route",
+    "url": "https://sl.china-embassy.gov.cn/eng/xwdt/202604/t20260403_11886183.htm",
+    "source_url": "https://sl.china-embassy.gov.cn/eng/xwdt/202604/t20260403_11886183.htm",
+    "summary": "Verified2026SierraLeonerouteclosedMay 12,date-only. Othercountries’cutoffsnotgeneralized;nextcycleunannounced.",
+    "status": "planning",
+    "deadline": null,
+    "deadline_time": null,
+    "deadline_timezone": null,
+    "deadline_source_url": null,
+    "fit": "want",
+    "funding_kind": "mixed",
+    "fee_status": "unknown",
+    "first_seen": "2026-10-12",
+    "last_checked": "2026-10-12",
+    "application_cycle": {
+      "label": "Next intake unannounced",
+      "programme_name": "MOFCOM Foreign-Aid Academic Scholarship",
+      "status": "planning",
+      "announcement_status": "unverified",
+      "opens_on": null,
+      "deadline": null,
+      "deadline_time": null,
+      "timezone": null,
+      "source_url": "https://sl.china-embassy.gov.cn/eng/xwdt/202604/t20260403_11886183.htm",
+      "checked_at": "2026-10-12",
+      "history": [
+        {
+          "label": "2026 closed application route",
+          "programme_name": "MOFCOM Foreign-Aid Academic Scholarship",
+          "status": "closed",
+          "announcement_status": "announced",
+          "deadline": "2026-05-12",
+          "deadline_time": null,
+          "timezone": null,
+          "source_url": "https://sl.china-embassy.gov.cn/eng/xwdt/202604/t20260403_11886183.htm",
+          "checked_at": "2026-10-12",
+          "opens_on": null
+        }
+      ],
+      "research": {
+        "as_of": "2026-10-12",
+        "status": "mixed",
+        "limits": "Verified2026SierraLeonerouteclosedMay 12,date-only. Othercountries’cutoffsnotgeneralized;nextcycleunannounced. Detailed audit retains source, edition, form and eligibility gaps; applicant eligibility is unconfirmed.",
+        "evidence": [
+          {
+            "url": "https://sl.china-embassy.gov.cn/eng/xwdt/202604/t20260403_11886183.htm",
+            "kind": "official_source_read"
+          },
+          {
+            "url": "https://admissions.xmu.edu.cn/info/1038/1851.htm",
+            "kind": "official_source_read"
+          }
+        ]
+      },
+      "date_evidence_kind": "recorded"
+    }
   }
 ]
