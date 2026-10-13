@@ -1,14 +1,6 @@
 {
-  "directory_resource_count": 1,
-  "event_details_sha256": "42503bbd9e8d79331e21a6f7e3adba88cdce85ac46adb739e37e0b6c9cd61256",
-  "identity_hold_count": 1,
-  "latest_record_review": "2026-10-12",
-  "opportunities_sha256": "628ea0e02666ce0fc05a6a40ae27031276422ce47aa7bc7bc09f04f19e4dc259",
-  "potential_fit_count": 230,
-  "programme_count": 232,
-  "public_revision": "938eb28b7091812856f2596cbfc48ea4728e700f5017c3546e7d08841fbf75c7",
-  "published_at": "2026-10-12T15:42:38.125170+00:00",
-  "record_count": 232,
-  "schema_version": 1,
-  "tracked_programme_count": 230
+  "source": "curated_obsidian_grants",
+  "vault_revision": "1121a84937588ec248cf34bb3529565e8a079b357ca839797d89a6403bfbd42f",
+  "programmes": 323,
+  "public_fingerprint": "d5025f3f8b9064bf40bbeba2d1632852ce35ce6955a76afbb5367909b5650d14"
 }

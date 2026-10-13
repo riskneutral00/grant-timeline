@@ -13,7 +13,7 @@
   document.querySelector('#result-count').textContent=`${visible.size} ${['records','excluded'].includes(view)?(visible.size===1?'record':'records'):(visible.size===1?'programme':'programmes')} · ${tabs.find(t=>t.dataset.view===view).firstChild.textContent.trim()}`;
   if(save){const p=new URLSearchParams();if(view!=='all')p.set('view',view);controls.forEach(c=>{if(c.value)p.set(c.name,c.value);});history.replaceState(null,'',location.pathname+(p.size?'?'+p:'')+location.hash);}
  }
- function restore(){const p=new URLSearchParams(location.search);view=tabs.some(t=>t.dataset.view===p.get('view'))?p.get('view'):'all';controls.forEach(c=>c.value=p.get(c.name)||(c.id==='team'?'under3':''));update(false);}
- function reset(){controls.forEach(c=>c.value=c.id==='team'?'under3':'');view='all';update();}
+ function restore(){const p=new URLSearchParams(location.search);view=tabs.some(t=>t.dataset.view===p.get('view'))?p.get('view'):'all';controls.forEach(c=>c.value=p.get(c.name)||(c.id==='team'?'all':''));update(false);}
+ function reset(){controls.forEach(c=>c.value=c.id==='team'?'all':'');view='all';update();}
  form.addEventListener('submit',e=>e.preventDefault());form.addEventListener('input',()=>update());form.addEventListener('change',()=>update());tabs.forEach(t=>t.addEventListener('click',()=>{view=t.dataset.view;update();}));document.querySelector('#reset').addEventListener('click',reset);document.querySelector('#empty-reset').addEventListener('click',reset);window.addEventListener('popstate',restore);form.hidden=false;document.querySelector('.list-toolbar').hidden=false;restore();
 })();
