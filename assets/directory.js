@@ -3,7 +3,7 @@
  const rows=[...document.querySelectorAll('.program-row')], groups=[...document.querySelectorAll('.deadline-group')], form=document.querySelector('#filters');
  if(!form)return;
  const search=document.getElementById('search'), solo=document.getElementById('solo'), chips=document.getElementById('chips'), times=[...document.querySelectorAll('[data-time]')];
- const sets=['country','type','funding','stage'].filter(name=>form.querySelector(`input[name="${name}"]`));
+ const sets=[...new Set([...form.querySelectorAll('fieldset.menu input[type=checkbox]')].map(i=>i.name))];
  const pad=n=>String(n).padStart(2,'0'), now=new Date(), today=`${now.getFullYear()}-${pad(now.getMonth()+1)}-${pad(now.getDate())}`, month=today.slice(0,7);
  const params=new URLSearchParams(location.search), showAll=params.get('view')==='records';
  let time='all';
@@ -29,7 +29,7 @@
   const ds=r.dataset, terms=search.value.trim().toLocaleLowerCase().split(/\s+/).filter(Boolean);
   if(!showAll&&!GrantCatalogue.matchesView(ds,'all'))return false;
   if(solo.checked&&!GrantCatalogue.matchesTeam(ds,'solo'))return false;
-  for(const name of sets){const values=checked(name);if(values.length&&!values.includes(ds[name]))return false;}
+  for(const name of sets){const values=checked(name);if(values.length&&!(ds[name]||'').split(' ').some(v=>values.includes(v)))return false;}
   return terms.every(t=>ds.search.toLocaleLowerCase().includes(t));
  }
  function chip(text,remove){const b=document.createElement('button');b.type='button';b.className='chip';b.innerHTML='<span aria-hidden="true">×</span>';b.prepend(text+' ');b.setAttribute('aria-label','Remove filter: '+text);b.addEventListener('click',()=>{remove();update();});return b;}
