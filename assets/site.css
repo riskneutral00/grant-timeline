@@ -163,3 +163,4 @@ h2,h3,p{margin-top:0}
 }
 @media(prefers-reduced-motion:reduce){*{transition:none!important;scroll-behavior:auto!important}}
 @media print{.controls,.directory-notes,.site-header,.more{display:none!important}.shell{width:100%}.program-row{break-inside:avoid}.more-panel[hidden]{display:none!important}.detail-layout{display:block}.fact-sheet{position:static}}
+.collection-note{margin:6px 0 0;font-size:13px;line-height:1.5;color:var(--ink);border-left:2px solid var(--line-2);padding-left:10px}
