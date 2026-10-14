@@ -1,6 +1,8 @@
 {
   "source": "curated_obsidian_grants",
-  "vault_revision": "1121a84937588ec248cf34bb3529565e8a079b357ca839797d89a6403bfbd42f",
+  "vault_revision": "7de3012ad0b4e5376e9286bdde69ca26fafd1fdfc1b2569cb75e86527a470ce1",
   "programmes": 323,
-  "public_fingerprint": "d5025f3f8b9064bf40bbeba2d1632852ce35ce6955a76afbb5367909b5650d14"
+  "public_fingerprint": "17f55e11afe9146b64a885fa49f0daba1c54d81fb86393b984fa0bb60a556005",
+  "public_revision": "4d64236c7e971c7af478765ba21c3af02a6adf8affd03937ff03cc65c542e7e3",
+  "published_at": "2026-10-14T01:45:28+00:00"
 }
